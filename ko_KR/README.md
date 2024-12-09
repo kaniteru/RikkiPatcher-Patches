@@ -5,6 +5,17 @@
 
 # Dialogues
 > ### Progress
+> - s11
+> - s15
+> - s17
+> - s24
+> - s46
+> - s50
+> - s64
+> - s68
+> - s70
+> - s72
+> ###
 > - s51 (inspection all dialogues)
 > - s52 (inspection all dialogues)
 > - s60 (inspection all dialogues)
@@ -16,14 +27,14 @@
 > - s58 (no data)
 > - s99 (no data)
 
-> ### Complete
+<!-->> ### Complete
 > - s1 ~ s18
 > - s20 ~ s22
 > - s24 ~ s30
 > - s37 ~ s50
 > - s53 ~ s57
 > - s59 ~ s98
->- s100 ~ s101
+> - s100 ~ s101 -->
 
 ---
 
