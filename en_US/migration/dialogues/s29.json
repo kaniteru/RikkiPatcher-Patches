@@ -3,7 +3,12 @@
     "list": {
         "0": {
             "speaker": "",
-            "dialogue": "解锁CG：Stream of Love"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "解锁CG：Stream of Love"
+                }
+            ]
         }
     }
 }

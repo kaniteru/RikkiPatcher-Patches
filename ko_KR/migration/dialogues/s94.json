@@ -3,455 +3,1020 @@
     "list": {
         "0": {
             "speaker": "",
-            "dialogue": "乐奈的动态只有一张照片，不如说她要是会准备文案才是太阳打西边出来了，虽然她会发动态已经西了一半了。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "乐奈的动态只有一张照片，不如说她要是会准备文案才是太阳打西边出来了，虽然她会发动态已经西了一半了。"
+                }
+            ]
         },
         "1": {
             "speaker": "",
-            "dialogue": "她po出来的照片毫无技术可言，对焦到一旁的电线杆上，背景是一半停车场一半平房。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "她po出来的照片毫无技术可言，对焦到一旁的电线杆上，背景是一半停车场一半平房。"
+                }
+            ]
         },
         "2": {
             "speaker": "",
-            "dialogue": "立希认得这地方，就在她们高中那带，不算常去，但也有些回忆。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "立希认得这地方，就在她们高中那带，不算常去，但也有些回忆。"
+                }
+            ]
         },
         "3": {
             "speaker": "椎名立希",
-            "dialogue": "乐奈这家伙，大早上发这个干嘛…？"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "乐奈这家伙，大早上发这个干嘛…？"
+                }
+            ]
         },
         "4": {
             "speaker": "",
-            "dialogue": "立希在评论框里打了些字，又一口气删掉。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "立希在评论框里打了些字，又一口气删掉。"
+                }
+            ]
         },
         "5": {
             "speaker": "椎名立希",
-            "dialogue": "唉…算了。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "唉…算了。"
+                }
+            ]
         },
         "6": {
             "speaker": "",
-            "dialogue": "第二次刷新下方出现了一条新评论。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "第二次刷新下方出现了一条新评论。"
+                }
+            ]
         },
         "7": {
             "speaker": "椎名立希",
-            "dialogue": "呃。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "呃。"
+                }
+            ]
         },
         "8": {
             "speaker": "",
-            "dialogue": "丝毫不想，真的不好奇，真的纯手贱，立希点进了粉色头像的主页。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "丝毫不想，真的不好奇，真的纯手贱，立希点进了粉色头像的主页。"
+                }
+            ]
         },
         "9": {
             "speaker": "椎名立希",
-            "dialogue": "......"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "......"
+                }
+            ]
         },
         "10": {
             "speaker": "",
-            "dialogue": "无意义地划了几下后，她轻轻地点下了小红心。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "无意义地划了几下后，她轻轻地点下了小红心。"
+                }
+            ]
         },
         "11": {
             "speaker": "",
-            "dialogue": "她想了想。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "她想了想。"
+                }
+            ]
         },
         "12": {
             "speaker": "",
-            "dialogue": "又取消了。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "又取消了。"
+                }
+            ]
         },
         "13": {
             "speaker": "",
-            "dialogue": "她继续向下划。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "她继续向下划。"
+                }
+            ]
         },
         "14": {
             "speaker": "椎名立希",
-            "dialogue": "啊…灯昨天也更新了。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "啊…灯昨天也更新了。"
+                }
+            ]
         },
         "15": {
             "speaker": "",
-            "dialogue": "爱音的主页转发了灯的一条动态。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "爱音的主页转发了灯的一条动态。"
+                }
+            ]
         },
         "16": {
             "speaker": "",
-            "dialogue": "灯的动态通常都是些小动物小石头，也有很多角度新奇的镜头，细致而自然，刷到总是令人心情舒适。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "灯的动态通常都是些小动物小石头，也有很多角度新奇的镜头，细致而自然，刷到总是令人心情舒适。"
+                }
+            ]
         },
         "17": {
             "speaker": "",
-            "dialogue": "灯昨天发了一张窗台盆栽的照片，阳光洒在棕土和枯叶上，枯叶下似乎盖着什么，露出黑色的一角。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "灯昨天发了一张窗台盆栽的照片，阳光洒在棕土和枯叶上，枯叶下似乎盖着什么，露出黑色的一角。"
+                }
+            ]
         },
         "18": {
             "speaker": "椎名立希",
-            "dialogue": "不愧是灯……"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "不愧是灯……"
+                }
+            ]
         },
         "19": {
             "speaker": "",
-            "dialogue": "立希点进灯的主页，她有几天没看SNS了，灯更新的频率也不高，只有两条新动态，一条是刚才的，另一条是拍的山上的松鼠。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "立希点进灯的主页，她有几天没看SNS了，灯更新的频率也不高，只有两条新动态，一条是刚才的，另一条是拍的山上的松鼠。"
+                }
+            ]
         },
         "20": {
             "speaker": "",
-            "dialogue": "应该是与家人出门游玩了，她上次提过。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "应该是与家人出门游玩了，她上次提过。"
+                }
+            ]
         },
         "21": {
             "speaker": "",
-            "dialogue": "再往下翻，就是参加线下活动的一些返图，立希之前去过灯的签售会，但最近的一些活动她也不太清楚了。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "再往下翻，就是参加线下活动的一些返图，立希之前去过灯的签售会，但最近的一些活动她也不太清楚了。"
+                }
+            ]
         },
         "22": {
             "speaker": "椎名立希",
-            "dialogue": "........."
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "........."
+                }
+            ]
         },
         "23": {
             "speaker": "",
-            "dialogue": "立希开始一个个浏览大家的主页，没有什么目的，只是放空大脑，随便看看大家的近况，有些内容她明明看过，却有种第一次看的感觉，陌生而新奇。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "立希开始一个个浏览大家的主页，没有什么目的，只是放空大脑，随便看看大家的近况，有些内容她明明看过，却有种第一次看的感觉，陌生而新奇。"
+                }
+            ]
         },
         "24": {
             "speaker": "",
-            "dialogue": "灯的主页还会发一些她新创作的小诗和绘画，以及粉丝寄给她的每件礼物、和对每封信的回应。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "灯的主页还会发一些她新创作的小诗和绘画，以及粉丝寄给她的每件礼物、和对每封信的回应。"
+                }
+            ]
         },
         "25": {
             "speaker": "",
-            "dialogue": "她点进素世的主页，第一条就是机场登机前的照片，这是出差还是回程？"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "她点进素世的主页，第一条就是机场登机前的照片，这是出差还是回程？"
+                }
+            ]
         },
         "26": {
             "speaker": "",
-            "dialogue": "继续往下翻，是一些异地美食美景，哦，是回程。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "继续往下翻，是一些异地美食美景，哦，是回程。"
+                }
+            ]
         },
         "27": {
             "speaker": "",
-            "dialogue": "几乎每个人的每条下面都有爱音的评论，于是她又控制不住地点了进去。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "几乎每个人的每条下面都有爱音的评论，于是她又控制不住地点了进去。"
+                }
+            ]
         },
         "28": {
             "speaker": "",
-            "dialogue": "首页的转发中有她认识的人，三角初华，和她的乐队。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "首页的转发中有她认识的人，三角初华，和她的乐队。"
+                }
+            ]
         },
         "29": {
             "speaker": "",
-            "dialogue": "于是她顺着又点进了海铃的主页，最新一条是凌晨的live house——在Mujica之外，海铃依然保持着偶尔去其他乐队支援的习惯。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "于是她顺着又点进了海铃的主页，最新一条是凌晨的live house——在Mujica之外，海铃依然保持着偶尔去其他乐队支援的习惯。"
+                }
+            ]
         },
         "30": {
             "speaker": "",
-            "dialogue": "从海铃那里她找了好几个高中关系还算不错的同学，又发现其中一个和自己的大学同学相识已久……"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "从海铃那里她找了好几个高中关系还算不错的同学，又发现其中一个和自己的大学同学相识已久……"
+                }
+            ]
         },
         "31": {
             "speaker": "",
-            "dialogue": "她就这样漫无目的地跳转，惊讶地发现原来自己认识这么多人，这些人又相互交错，形成了一个庞大而错综复杂的交际圈。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "她就这样漫无目的地跳转，惊讶地发现原来自己认识这么多人，这些人又相互交错，形成了一个庞大而错综复杂的交际圈。"
+                }
+            ]
         },
         "32": {
             "speaker": "",
-            "dialogue": "而她之前从来没有注意到过。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "而她之前从来没有注意到过。"
+                }
+            ]
         },
         "33": {
             "speaker": "",
-            "dialogue": "也从来不感兴趣。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "也从来不感兴趣。"
+                }
+            ]
         },
         "34": {
             "speaker": "椎名立希",
-            "dialogue": "......"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "......"
+                }
+            ]
         },
         "35": {
             "speaker": "",
-            "dialogue": "不知不觉已经过了一个上午。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "不知不觉已经过了一个上午。"
+                }
+            ]
         },
         "36": {
             "speaker": "",
-            "dialogue": "要是在平时，躺着刷一上午手机一定会让立希崩溃，但今天的她已经没有任何动力去做事。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "要是在平时，躺着刷一上午手机一定会让立希崩溃，但今天的她已经没有任何动力去做事。"
+                }
+            ]
         },
         "37": {
             "speaker": "",
-            "dialogue": "如果结局早已注定，那之前所做的一切又有什么意义。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "如果结局早已注定，那之前所做的一切又有什么意义。"
+                }
+            ]
         },
         "38": {
             "speaker": "",
-            "dialogue": "她太累了，真正停下来后，从前被自己甩在身后的疲惫全都追了上来，将她朝虚无的沼泽中拖拽。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "她太累了，真正停下来后，从前被自己甩在身后的疲惫全都追了上来，将她朝虚无的沼泽中拖拽。"
+                }
+            ]
         },
         "39": {
             "speaker": "",
-            "dialogue": "但她还是在不停的翻阅着好友们的社交媒体。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "但她还是在不停的翻阅着好友们的社交媒体。"
+                }
+            ]
         },
         "40": {
             "speaker": "",
-            "dialogue": "那些以前从未注意到过的、某种生命的活力总是能吸引将死之人吗？"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "那些以前从未注意到过的、某种生命的活力总是能吸引将死之人吗？"
+                }
+            ]
         },
         "41": {
             "speaker": "",
-            "dialogue": "还是因为自己从未真正细致地去了解过身边人的生活，事到如今才开始后悔？"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "还是因为自己从未真正细致地去了解过身边人的生活，事到如今才开始后悔？"
+                }
+            ]
         },
         "42": {
             "speaker": "",
-            "dialogue": "这些念头只是顺着潜意识的激流匆匆流过，除了机械性的动作和堪堪悬着的好奇心外，她无力深入思考任何事情。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "这些念头只是顺着潜意识的激流匆匆流过，除了机械性的动作和堪堪悬着的好奇心外，她无力深入思考任何事情。"
+                }
+            ]
         },
         "43": {
             "speaker": "",
-            "dialogue": "......"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "......"
+                }
+            ]
         },
         "44": {
             "speaker": "",
-            "dialogue": "“她痛恨命中注定的死亡，所以哪怕知道结局终将注定，她也想用这双眼睛亲自见证另外一种选择……”"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "“她痛恨命中注定的死亡，所以哪怕知道结局终将注定，她也想用这双眼睛亲自见证另外一种选择……”"
+                }
+            ]
         },
         "45": {
             "speaker": "",
-            "dialogue": "不知不觉，又刷到了爱音的录播。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "不知不觉，又刷到了爱音的录播。"
+                }
+            ]
         },
         "46": {
             "speaker": "",
-            "dialogue": "一旁的推荐列表中，都是算法列出的同类解说或是与死亡主题挂钩的学术类视频。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "一旁的推荐列表中，都是算法列出的同类解说或是与死亡主题挂钩的学术类视频。"
+                }
+            ]
         },
         "47": {
             "speaker": "",
-            "dialogue": "有一则视频吸引了立希的注意。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "有一则视频吸引了立希的注意。"
+                }
+            ]
         },
         "48": {
             "speaker": "",
-            "dialogue": "从封面便能看出视频记录的是一次年代久远的访谈，下方的标题陈列着访谈的对象只能活十四周的事实。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "从封面便能看出视频记录的是一次年代久远的访谈，下方的标题陈列着访谈的对象只能活十四周的事实。"
+                }
+            ]
         },
         "49": {
             "speaker": "",
-            "dialogue": "相似的境遇令立希动动手指便脱离了熟人的圈际，点进这场在时间与空间上都与自己相隔甚远的录像。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "相似的境遇令立希动动手指便脱离了熟人的圈际，点进这场在时间与空间上都与自己相隔甚远的录像。"
+                }
+            ]
         },
         "50": {
             "speaker": "",
-            "dialogue": "由于画质模糊，一开始立希并没有分辨出哪位是主持人，哪位是行将就木的病人。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "由于画质模糊，一开始立希并没有分辨出哪位是主持人，哪位是行将就木的病人。"
+                }
+            ]
         },
         "51": {
             "speaker": "",
-            "dialogue": "那位据说是患上了某种不治之症的有名教授身着得体西服，泰然自若地陷在椅子里，与主持人谈论爱、死亡与生活。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "那位据说是患上了某种不治之症的有名教授身着得体西服，泰然自若地陷在椅子里，与主持人谈论爱、死亡与生活。"
+                }
+            ]
         },
         "52": {
             "speaker": "",
-            "dialogue": "视频的音质很差，立希听得似懂非懂。她总觉得他们之间的谈话太过随意而跳脱，好像只是餐后的一次闲聊。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "视频的音质很差，立希听得似懂非懂。她总觉得他们之间的谈话太过随意而跳脱，好像只是餐后的一次闲聊。"
+                }
+            ]
         },
         "53": {
             "speaker": "",
-            "dialogue": "主持人称赞教授气色很好，教授只是笑。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "主持人称赞教授气色很好，教授只是笑。"
+                }
+            ]
         },
         "54": {
             "speaker": "教授",
-            "dialogue": "艾米丽，你知道，每个人都对我这么说…但我清楚我的状态，我甚至需要别人来给我擦屁股。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "艾米丽，你知道，每个人都对我这么说…但我清楚我的状态，我甚至需要别人来给我擦屁股。"
+                }
+            ]
         },
         "55": {
             "speaker": "教授",
-            "dialogue": "但我化妆、穿得漂亮，然后上电视。这样整个纽约都会说：哈，他的气色真好！他是我见过气色最好的将死之人！"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "但我化妆、穿得漂亮，然后上电视。这样整个纽约都会说：哈，他的气色真好！他是我见过气色最好的将死之人！"
+                }
+            ]
         },
         "56": {
             "speaker": "",
-            "dialogue": "观众席传来一阵哄笑。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "观众席传来一阵哄笑。"
+                }
+            ]
         },
         "57": {
             "speaker": "主持人",
-            "dialogue": "非常幽默，教授。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "非常幽默，教授。"
+                }
+            ]
         },
         "58": {
             "speaker": "主持人",
-            "dialogue": "下一个问题可能有点冒犯，是关于您的近况…"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "下一个问题可能有点冒犯，是关于您的近况…"
+                }
+            ]
         },
         "59": {
             "speaker": "教授",
-            "dialogue": "说吧艾米丽，如果我介意的话，最开始就不会来这个演播室了。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "说吧艾米丽，如果我介意的话，最开始就不会来这个演播室了。"
+                }
+            ]
         },
         "60": {
             "speaker": "主持人",
-            "dialogue": "感谢您的理解。我相信世界上有不少境遇相同的人，但恐怕绝大多数人都不会有您脸上的微笑。究竟怎么做才能拥有这样的心态？"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "感谢您的理解。我相信世界上有不少境遇相同的人，但恐怕绝大多数人都不会有您脸上的微笑。究竟怎么做才能拥有这样的心态？"
+                }
+            ]
         },
         "61": {
             "speaker": "教授",
-            "dialogue": "每个人都知道自己要死，可没人愿意真正相信。他们总觉得这事太过遥远，远得不够现实。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "每个人都知道自己要死，可没人愿意真正相信。他们总觉得这事太过遥远，远得不够现实。"
+                }
+            ]
         },
         "62": {
             "speaker": "教授",
-            "dialogue": "我也知道自己要死，只不过被迫相信了——说真的，如果你连威尔康奈尔医学院的小伙子们都不信，那只会被人当做顽固的老东西。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "我也知道自己要死，只不过被迫相信了——说真的，如果你连威尔康奈尔医学院的小伙子们都不信，那只会被人当做顽固的老东西。"
+                }
+            ]
         },
         "63": {
             "speaker": "",
-            "dialogue": "台下又传来细碎的笑。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "台下又传来细碎的笑。"
+                }
+            ]
         },
         "64": {
             "speaker": "教授",
-            "dialogue": "被迫相信的那天，我只有一个念头：我就这样虚度剩下的时光，等着去天堂见我亲爱的索菲娅吗？"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "被迫相信的那天，我只有一个念头：我就这样虚度剩下的时光，等着去天堂见我亲爱的索菲娅吗？"
+                }
+            ]
         },
         "65": {
             "speaker": "教授",
-            "dialogue": "但后来我又想：我口袋底还有个克鲁格的终身成就奖——终身这词，缺两天可就不符合词义了。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "但后来我又想：我口袋底还有个克鲁格的终身成就奖——终身这词，缺两天可就不符合词义了。"
+                }
+            ]
         },
         "66": {
             "speaker": "教授",
-            "dialogue": "既然我是个教授，那我为什么不能把死亡当做最后的一门课呢？所以我开始在家里给学生上课。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "既然我是个教授，那我为什么不能把死亡当做最后的一门课呢？所以我开始在家里给学生上课。"
+                }
+            ]
         },
         "67": {
             "speaker": "教授",
-            "dialogue": "我重新认识了许多以前的学生，我和他们谈论死亡、恐惧、欲望、自怜、原谅、人生……然后发现直到七十岁，我都没学会过如何生活。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "我重新认识了许多以前的学生，我和他们谈论死亡、恐惧、欲望、自怜、原谅、人生……然后发现直到七十岁，我都没学会过如何生活。"
+                }
+            ]
         },
         "68": {
             "speaker": "教授",
-            "dialogue": "但现在我学会了如何去死，我要安详，体面，宁静地直到最后一刻才去死。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "但现在我学会了如何去死，我要安详，体面，宁静地直到最后一刻才去死。"
+                }
+            ]
         },
         "69": {
             "speaker": "教授",
-            "dialogue": "我要给学生上课直到最后一口气，然后把我对死亡的观察留作遗产。我还要设计我的墓志铭，选在葬礼上放的摇滚曲子，给最后一批学生戴上学位帽…"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "我要给学生上课直到最后一口气，然后把我对死亡的观察留作遗产。我还要设计我的墓志铭，选在葬礼上放的摇滚曲子，给最后一批学生戴上学位帽…"
+                }
+            ]
         },
         "70": {
             "speaker": "教授",
-            "dialogue": "你看，一旦学会了怎样去死，你才学会了怎样去活。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "你看，一旦学会了怎样去死，你才学会了怎样去活。"
+                }
+            ]
         },
         "71": {
             "speaker": "教授",
-            "dialogue": "所以，我现在是个大忙人，比退休前还忙，比以前任何时候都要忙。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "所以，我现在是个大忙人，比退休前还忙，比以前任何时候都要忙。"
+                }
+            ]
         },
         "72": {
             "speaker": "教授",
-            "dialogue": "说真的艾米丽，下次再想找我出门的时候，没准你就得打给我的秘书了。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "说真的艾米丽，下次再想找我出门的时候，没准你就得打给我的秘书了。"
+                }
+            ]
         },
         "73": {
             "speaker": "",
-            "dialogue": "主持人和观众都笑了。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "主持人和观众都笑了。"
+                }
+            ]
         },
         "74": {
             "speaker": "",
-            "dialogue": "然而并没有下一次访谈。视频最后的信息表明，这位风趣的老教授在两周后去世了。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "然而并没有下一次访谈。视频最后的信息表明，这位风趣的老教授在两周后去世了。"
+                }
+            ]
         },
         "75": {
             "speaker": "",
-            "dialogue": "回过神来时，立希已经坐在桌前，用电脑疯狂检索着着这位教授的著作和生平。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "回过神来时，立希已经坐在桌前，用电脑疯狂检索着着这位教授的著作和生平。"
+                }
+            ]
         },
         "76": {
             "speaker": "",
-            "dialogue": "但，又有什么用呢，那终究是别人。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "但，又有什么用呢，那终究是别人。"
+                }
+            ]
         },
         "77": {
             "speaker": "",
-            "dialogue": "打开了数十个标签的浏览器不堪重负地崩溃了。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "打开了数十个标签的浏览器不堪重负地崩溃了。"
+                }
+            ]
         },
         "78": {
             "speaker": "",
-            "dialogue": "立希这才怔怔地停下，随后泄气般瘫倒在椅子上。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "立希这才怔怔地停下，随后泄气般瘫倒在椅子上。"
+                }
+            ]
         },
         "79": {
             "speaker": "",
-            "dialogue": "忽然，她意识到自己正以一种熟悉的姿势，在熟悉的工作桌旁，陷入熟悉的情绪中。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "忽然，她意识到自己正以一种熟悉的姿势，在熟悉的工作桌旁，陷入熟悉的情绪中。"
+                }
+            ]
         },
         "80": {
             "speaker": "",
-            "dialogue": "多少个夜晚她都独自一人在这方寸之地间沮丧，而后怀揣着目标，又继续埋头前进。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "多少个夜晚她都独自一人在这方寸之地间沮丧，而后怀揣着目标，又继续埋头前进。"
+                }
+            ]
         },
         "81": {
             "speaker": "",
-            "dialogue": "杂乱的信息在脑海中渐渐沉淀，某个遥远的记忆悄悄浮上水面，在脑海中凝聚成形。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "杂乱的信息在脑海中渐渐沉淀，某个遥远的记忆悄悄浮上水面，在脑海中凝聚成形。"
+                }
+            ]
         },
         "82": {
             "speaker": "？？？",
-            "dialogue": "......你是从什么时候开始学用 DTM 的？"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "......你是从什么时候开始学用 DTM 的？"
+                }
+            ]
         },
         "83": {
             "speaker": "椎名立希",
-            "dialogue": "......"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "......"
+                }
+            ]
         },
         "84": {
             "speaker": "椎名立希",
-            "dialogue": "初中。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "初中。"
+                }
+            ]
         },
         "85": {
             "speaker": "椎名立希",
-            "dialogue": "想着也许哪天会得用上。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "想着也许哪天会得用上。"
+                }
+            ]
         },
         "86": {
             "speaker": "",
-            "dialogue": "也许哪天。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "也许哪天。"
+                }
+            ]
         },
         "87": {
             "speaker": "",
-            "dialogue": "过去的每一天都用上了。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "过去的每一天都用上了。"
+                }
+            ]
         },
         "88": {
             "speaker": "",
-            "dialogue": "今天也是。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "今天也是。"
+                }
+            ]
         },
         "89": {
             "speaker": "",
-            "dialogue": "还有明天。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "还有明天。"
+                }
+            ]
         },
         "90": {
             "speaker": "",
-            "dialogue": "以及明天的明天。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "以及明天的明天。"
+                }
+            ]
         },
         "91": {
             "speaker": "椎名立希",
-            "dialogue": "哈……"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "哈……"
+                }
+            ]
         },
         "92": {
             "speaker": "",
-            "dialogue": "沉重的吐息消融于薄凉的空气里，立希像个刚取回所有感官的人，这才意识到气温随着夜幕降临已经骤降。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "沉重的吐息消融于薄凉的空气里，立希像个刚取回所有感官的人，这才意识到气温随着夜幕降临已经骤降。"
+                }
+            ]
         },
         "93": {
             "speaker": "椎名立希",
-            "dialogue": "（如果说，我还能留下什么遗产的话……）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（如果说，我还能留下什么遗产的话……）"
+                }
+            ]
         },
         "94": {
             "speaker": "",
-            "dialogue": "她坐起身，凑在电脑前，打开作曲软件，新建工程。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "她坐起身，凑在电脑前，打开作曲软件，新建工程。"
+                }
+            ]
         },
         "95": {
             "speaker": "",
-            "dialogue": "这次，她没有歌词，她要从零开始构建只属于自己的曲子。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "这次，她没有歌词，她要从零开始构建只属于自己的曲子。"
+                }
+            ]
         },
         "96": {
             "speaker": "",
-            "dialogue": "然后——"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "然后——"
+                }
+            ]
         },
         "97": {
             "speaker": "椎名立希",
-            "dialogue": "———阿嚏！！！"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "———阿嚏！！！"
+                }
+            ]
         },
         "98": {
             "speaker": "椎名立希",
-            "dialogue": "........."
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "........."
+                }
+            ]
         },
         "99": {
             "speaker": "",
-            "dialogue": "急促的喷嚏打断了立希澎湃的决心。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "急促的喷嚏打断了立希澎湃的决心。"
+                }
+            ]
         },
         "100": {
             "speaker": "椎名立希",
-            "dialogue": "（好冷……原来晚上有这么冷吗……）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（好冷……原来晚上有这么冷吗……）"
+                }
+            ]
         },
         "101": {
             "speaker": "椎名立希",
-            "dialogue": "（好困，昨晚……啧，昨晚确实没睡啊……）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（好困，昨晚……啧，昨晚确实没睡啊……）"
+                }
+            ]
         },
         "102": {
             "speaker": "椎名立希",
-            "dialogue": "（说起来，就算是作新曲，现在也完全没有灵感和素材……）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（说起来，就算是作新曲，现在也完全没有灵感和素材……）"
+                }
+            ]
         },
         "103": {
             "speaker": "椎名立希",
-            "dialogue": "嗯…………"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "嗯…………"
+                }
+            ]
         },
         "104": {
             "speaker": "",
-            "dialogue": "————我要安详，体面，宁静地直到最后一刻才去死。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "————我要安详，体面，宁静地直到最后一刻才去死。"
+                }
+            ]
         },
         "105": {
             "speaker": "",
-            "dialogue": "————学会了怎样去死，你才学会了怎样去活。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "————学会了怎样去死，你才学会了怎样去活。"
+                }
+            ]
         },
         "106": {
             "speaker": "椎名立希",
-            "dialogue": "（……今天，就先到这吧。）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（……今天，就先到这吧。）"
+                }
+            ]
         },
         "107": {
             "speaker": "",
-            "dialogue": "立希给电脑设置了待机，走出了房间。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "立希给电脑设置了待机，走出了房间。"
+                }
+            ]
         },
         "108": {
             "speaker": "",
-            "dialogue": "她平静地吃了些东西，洗了个澡，在半小时后回到卧室躺下。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "她平静地吃了些东西，洗了个澡，在半小时后回到卧室躺下。"
+                }
+            ]
         },
         "109": {
             "speaker": "",
-            "dialogue": "一闭上眼，脑海中便一下涌入无数可以做的事，它们大多都转瞬即逝，但仍有几个选择留了下来。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "一闭上眼，脑海中便一下涌入无数可以做的事，它们大多都转瞬即逝，但仍有几个选择留了下来。"
+                }
+            ]
         },
         "110": {
             "speaker": "",
-            "dialogue": "不过。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "不过。"
+                }
+            ]
         },
         "111": {
             "speaker": "",
-            "dialogue": "为了能在八天之后才死，现在先睡觉吧。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "为了能在八天之后才死，现在先睡觉吧。"
+                }
+            ]
         },
         "112": {
             "speaker": "",
-            "dialogue": "报幕"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "报幕"
+                }
+            ]
         }
     }
 }

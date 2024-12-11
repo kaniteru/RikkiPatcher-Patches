@@ -3,71 +3,156 @@
     "list": {
         "0": {
             "speaker": "",
-            "dialogue": "立希木讷地走上玄关，才想起连门都忘了锁。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "立希木讷地走上玄关，才想起连门都忘了锁。"
+                }
+            ]
         },
         "1": {
             "speaker": "椎名立希",
-            "dialogue": "唉……"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "唉……"
+                }
+            ]
         },
         "2": {
             "speaker": "椎名立希",
-            "dialogue": "海铃……！"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "海铃……！"
+                }
+            ]
         },
         "3": {
             "speaker": "",
-            "dialogue": "海铃伸手抵住门。月光下，她的脸上透着难言的悲伤。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "海铃伸手抵住门。月光下，她的脸上透着难言的悲伤。"
+                }
+            ]
         },
         "4": {
             "speaker": "",
-            "dialogue": "她们从不主动踏入彼此的领地，但这一次，有人犯规了。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "她们从不主动踏入彼此的领地，但这一次，有人犯规了。"
+                }
+            ]
         },
         "5": {
             "speaker": "八幡海铃",
-            "dialogue": "立希，我们还能再见面吗？"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "立希，我们还能再见面吗？"
+                }
+            ]
         },
         "6": {
             "speaker": "椎名立希",
-            "dialogue": "......."
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "......."
+                }
+            ]
         },
         "7": {
             "speaker": "椎名立希",
-            "dialogue": "当然。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "当然。"
+                }
+            ]
         },
         "8": {
             "speaker": "椎名立希",
-            "dialogue": "都这么晚了，海铃也早点回去休息吧。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "都这么晚了，海铃也早点回去休息吧。"
+                }
+            ]
         },
         "9": {
             "speaker": "八幡海铃",
-            "dialogue": "嗯。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "嗯。"
+                }
+            ]
         },
         "10": {
             "speaker": "椎名立希",
-            "dialogue": "多保重，海铃。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "多保重，海铃。"
+                }
+            ]
         },
         "11": {
             "speaker": "椎名立希",
-            "dialogue": "再会。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "再会。"
+                }
+            ]
         },
         "12": {
             "speaker": "",
-            "dialogue": "立希合上门。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "立希合上门。"
+                }
+            ]
         },
         "13": {
             "speaker": "",
-            "dialogue": "她没急着打开灯，就这么背靠着冰冷的门板，静静伫立在玄关前。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "她没急着打开灯，就这么背靠着冰冷的门板，静静伫立在玄关前。"
+                }
+            ]
         },
         "14": {
             "speaker": "",
-            "dialogue": "她知道海铃正靠在门的另一侧，她的心脏距离友人只有十公分，比在摩托车上还近一些。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "她知道海铃正靠在门的另一侧，她的心脏距离友人只有十公分，比在摩托车上还近一些。"
+                }
+            ]
         },
         "15": {
             "speaker": "",
-            "dialogue": "但也足够远到，藏起那个或许早已被看穿的秘密。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "但也足够远到，藏起那个或许早已被看穿的秘密。"
+                }
+            ]
         },
         "16": {
             "speaker": "椎名立希",
-            "dialogue": "（……抱歉，海铃。）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（……抱歉，海铃。）"
+                }
+            ]
         }
     }
 }

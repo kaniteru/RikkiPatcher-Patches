@@ -1,222 +1,497 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": "冬日已逝，早春渐开，树头冒出几朵鲁莽而稀疏的勇士。东京的樱花季近在眼前，生命的又一轮回环。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "冬日已逝，早春渐开，树头冒出几朵鲁莽而稀疏的勇士。东京的樱花季近在眼前，生命的又一轮回环。"
+            }
+        ]
     },
     "1": {
         "speaker": "",
-        "dialogue": "立希把孩子护在身后，自己大步流星上前，先行一步拉开门。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希把孩子护在身后，自己大步流星上前，先行一步拉开门。"
+            }
+        ]
     },
     "2": {
         "speaker": "椎名立希",
-        "dialogue": "嘶……！"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "嘶……！"
+            }
+        ]
     },
     "3": {
         "speaker": "",
-        "dialogue": "不，冬天还没走。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "不，冬天还没走。"
+            }
+        ]
     },
     "4": {
         "speaker": "椎名立希",
-        "dialogue": "Hina，把外套拉链拉上。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "Hina，把外套拉链拉上。"
+            }
+        ]
     },
     "5": {
         "speaker": "",
-        "dialogue": "椎名立希是个有威严的老师，小小的学生忙不迭照做。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "椎名立希是个有威严的老师，小小的学生忙不迭照做。"
+            }
+        ]
     },
     "6": {
         "speaker": "",
-        "dialogue": "只是新出厂的肢体略显笨拙，链牙发出喑哑艰涩的呻吟，昭示这件外套的主人还没有做好自己照顾自己的准备。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "只是新出厂的肢体略显笨拙，链牙发出喑哑艰涩的呻吟，昭示这件外套的主人还没有做好自己照顾自己的准备。"
+            }
+        ]
     },
     "7": {
         "speaker": "",
-        "dialogue": "事实上，就生活技能而言，椎名立希并没有比她的学生高明到哪里去。但大人的特权就是可以死要面子活受罪。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "事实上，就生活技能而言，椎名立希并没有比她的学生高明到哪里去。但大人的特权就是可以死要面子活受罪。"
+            }
+        ]
     },
     "8": {
         "speaker": "",
-        "dialogue": "威严的老师双手插袋，肩膀顶开了门框里镶嵌的厚实玻璃。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "威严的老师双手插袋，肩膀顶开了门框里镶嵌的厚实玻璃。"
+            }
+        ]
     },
     "9": {
         "speaker": "",
-        "dialogue": "街对面亮着暖黄的光。时间已过五点半，连晚霞都已褪去，彩铅似的蓝色浮在立希视野最近的天空，墨似的蓝则远远地坠在后头。该回家了。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "街对面亮着暖黄的光。时间已过五点半，连晚霞都已褪去，彩铅似的蓝色浮在立希视野最近的天空，墨似的蓝则远远地坠在后头。该回家了。"
+            }
+        ]
     },
     "10": {
         "speaker": "椎名立希",
-        "dialogue": "跟老师去麦当劳坐一下吧。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "跟老师去麦当劳坐一下吧。"
+            }
+        ]
     },
     "11": {
         "speaker": "长崎素世",
-        "dialogue": "小立希，好久不见。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "小立希，好久不见。"
+            }
+        ]
     },
     "12": {
         "speaker": "Hina",
-        "dialogue": "素世姐姐！"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "素世姐姐！"
+            }
+        ]
     },
     "13": {
         "speaker": "",
-        "dialogue": "素世自然地牵过孩子的手，视线若有似无地从立希空荡荡的脖颈扫过。威严的大人忽然有一种被老师抓到作业忘写的毛骨悚然。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "素世自然地牵过孩子的手，视线若有似无地从立希空荡荡的脖颈扫过。威严的大人忽然有一种被老师抓到作业忘写的毛骨悚然。"
+            }
+        ]
     },
     "14": {
         "speaker": "长崎素世",
-        "dialogue": "小Hina的妈妈、山田女士是我的同事，她还有工作没结束，拜托我来接一下小Hina……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "小Hina的妈妈、山田女士是我的同事，她还有工作没结束，拜托我来接一下小Hina……"
+            }
+        ]
     },
     "15": {
         "speaker": "椎名立希",
-        "dialogue": "呵——啊嚏！"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "呵——啊嚏！"
+            }
+        ]
     },
     "16": {
         "speaker": "长崎素世",
-        "dialogue": "……没想到小立希正好是这孩子的老师呢。太好了，本来来迟了还有点担心安全呢。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……没想到小立希正好是这孩子的老师呢。太好了，本来来迟了还有点担心安全呢。"
+            }
+        ]
     },
     "17": {
         "speaker": "椎名立希",
-        "dialogue": "呃、嗯。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "呃、嗯。"
+            }
+        ]
     },
     "18": {
         "speaker": "椎名立希",
-        "dialogue": "既然拜托别人来接孩子，山田女士应该跟我发个信息的。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "既然拜托别人来接孩子，山田女士应该跟我发个信息的。"
+            }
+        ]
     },
     "19": {
         "speaker": "椎名立希",
-        "dialogue": "要不是我正好认识你，否则是不可能随便让陌生人单独把孩子带走的。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "要不是我正好认识你，否则是不可能随便让陌生人单独把孩子带走的。"
+            }
+        ]
     },
     "20": {
         "speaker": "",
-        "dialogue": "椎名立希拢了拢领子。春寒料峭，天色已晚，上次失败的排练后多日未见的队友牵着她的学生的手站在她眼前，而她还没有对成员除乐队以外的联系做好准备。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "椎名立希拢了拢领子。春寒料峭，天色已晚，上次失败的排练后多日未见的队友牵着她的学生的手站在她眼前，而她还没有对成员除乐队以外的联系做好准备。"
+            }
+        ]
     },
     "21": {
         "speaker": "",
-        "dialogue": "早春仍然没逃出冬天的魔爪，立希刚拉开培训机构大门，一阵冷风就灌了进来。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "早春仍然没逃出冬天的魔爪，立希刚拉开培训机构大门，一阵冷风就灌了进来。"
+            }
+        ]
     },
     "22": {
         "speaker": "",
-        "dialogue": "她赶紧关上门。风风火火的大人终于想起包里还有早上带出来的围巾，于是赶紧蹲下来给小Hina围上。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "她赶紧关上门。风风火火的大人终于想起包里还有早上带出来的围巾，于是赶紧蹲下来给小Hina围上。"
+            }
+        ]
     },
     "23": {
         "speaker": "",
-        "dialogue": "长年独居的孤狼替别人系围巾的手法极其生疏，厚实的围巾在孩子脖子上打了个难看的结，好在防风。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "长年独居的孤狼替别人系围巾的手法极其生疏，厚实的围巾在孩子脖子上打了个难看的结，好在防风。"
+            }
+        ]
     },
     "24": {
         "speaker": "Hina",
-        "dialogue": "椎名老师围的围巾和我爸爸围的一样难看。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "椎名老师围的围巾和我爸爸围的一样难看。"
+            }
+        ]
     },
     "25": {
         "speaker": "",
-        "dialogue": "审美堪忧、脸皮比墙厚——两项美好特质椎名立希一样都不占，所以只能悻悻地摸摸鼻尖，自知理亏，一声不吭地拉开大门。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "审美堪忧、脸皮比墙厚——两项美好特质椎名立希一样都不占，所以只能悻悻地摸摸鼻尖，自知理亏，一声不吭地拉开大门。"
+            }
+        ]
     },
     "26": {
         "speaker": "",
-        "dialogue": "街对面亮着暖黄的光。时间已过五点半，连晚霞都已褪去，彩铅似的蓝色浮在立希视野最近的天空，墨似的蓝则远远地坠在后头。该回家了。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "街对面亮着暖黄的光。时间已过五点半，连晚霞都已褪去，彩铅似的蓝色浮在立希视野最近的天空，墨似的蓝则远远地坠在后头。该回家了。"
+            }
+        ]
     },
     "27": {
         "speaker": "椎名立希",
-        "dialogue": "跟老师去麦当劳坐一下吧。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "跟老师去麦当劳坐一下吧。"
+            }
+        ]
     },
     "28": {
         "speaker": "长崎素世",
-        "dialogue": "小立希很贴心呢。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "小立希很贴心呢。"
+            }
+        ]
     },
     "29": {
         "speaker": "Hina",
-        "dialogue": "素世姐姐！"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "素世姐姐！"
+            }
+        ]
     },
     "30": {
         "speaker": "",
-        "dialogue": "素世自然地牵过孩子的手，视线若有似无地从小孩缠得乱七八糟的脖颈扫过。立希忽然有一种被老师抓到糟糕手工作业的毛骨悚然。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "素世自然地牵过孩子的手，视线若有似无地从小孩缠得乱七八糟的脖颈扫过。立希忽然有一种被老师抓到糟糕手工作业的毛骨悚然。"
+            }
+        ]
     },
     "31": {
         "speaker": "长崎素世",
-        "dialogue": "小Hina的妈妈、山田女士是我的同事，她还有工作没结束，拜托我来接一下小Hina……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "小Hina的妈妈、山田女士是我的同事，她还有工作没结束，拜托我来接一下小Hina……"
+            }
+        ]
     },
     "32": {
         "speaker": "长崎素世",
-        "dialogue": "没想到小立希正好是这孩子的老师呢。太好了，本来来迟了还有点担心安全呢。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "没想到小立希正好是这孩子的老师呢。太好了，本来来迟了还有点担心安全呢。"
+            }
+        ]
     },
     "33": {
         "speaker": "椎名立希",
-        "dialogue": "既然拜托别人来接孩子，山田女士应该跟我发个信息的。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "既然拜托别人来接孩子，山田女士应该跟我发个信息的。"
+            }
+        ]
     },
     "34": {
         "speaker": "椎名立希",
-        "dialogue": "要不是我正好认识你，否则不可能随便让陌生人单独把孩子带走。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "要不是我正好认识你，否则不可能随便让陌生人单独把孩子带走。"
+            }
+        ]
     },
     "35": {
         "speaker": "",
-        "dialogue": "立希拢了拢领子。春寒料峭，天色已晚，上次失败的排练后多日未见的队友牵着她的学生的手站在她眼前，而她还没有对成员除乐队以外的联系做好准备。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希拢了拢领子。春寒料峭，天色已晚，上次失败的排练后多日未见的队友牵着她的学生的手站在她眼前，而她还没有对成员除乐队以外的联系做好准备。"
+            }
+        ]
     },
     "36": {
         "speaker": "",
-        "dialogue": "简而言之，她无话可说。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "简而言之，她无话可说。"
+            }
+        ]
     },
     "37": {
         "speaker": "",
-        "dialogue": "山田女士现在还留在公司加班，而受人之托的长崎素世也姗姗来迟，可见工作着实忙碌。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "山田女士现在还留在公司加班，而受人之托的长崎素世也姗姗来迟，可见工作着实忙碌。"
+            }
+        ]
     },
     "38": {
         "speaker": "",
-        "dialogue": "疲惫的同伴不应当继续肩负挑起话头的重担，但第三者的插科打诨缺席时，椎名立希和长崎素世一向没有单方面探询身体健康以外的生活话题。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "疲惫的同伴不应当继续肩负挑起话头的重担，但第三者的插科打诨缺席时，椎名立希和长崎素世一向没有单方面探询身体健康以外的生活话题。"
+            }
+        ]
     },
     "39": {
         "speaker": "椎名立希",
-        "dialogue": "既然人已经接到了……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "既然人已经接到了……"
+            }
+        ]
     },
     "40": {
         "speaker": "长崎素世",
-        "dialogue": "椎名老师说的对。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "椎名老师说的对。"
+            }
+        ]
     },
     "41": {
         "speaker": "椎名立希",
-        "dialogue": "……啊？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……啊？"
+            }
+        ]
     },
     "42": {
         "speaker": "",
-        "dialogue": "不远处停着一辆眼熟的丰田世纪，金领牵着孩子走过去，只留给她一个背影。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "不远处停着一辆眼熟的丰田世纪，金领牵着孩子走过去，只留给她一个背影。"
+            }
+        ]
     },
     "43": {
         "speaker": "",
-        "dialogue": "立希忽然发现，自己很少看素世走在前面的样子。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希忽然发现，自己很少看素世走在前面的样子。"
+            }
+        ]
     },
     "44": {
         "speaker": "长崎素世",
-        "dialogue": "椎名老师要让陌生人单独把孩子接走吗？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "椎名老师要让陌生人单独把孩子接走吗？"
+            }
+        ]
     },
     "45": {
         "speaker": "",
-        "dialogue": "上了一下午的课，后座的小Hina早已昏睡过去，连带着大人们的交谈声也低了下来。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "上了一下午的课，后座的小Hina早已昏睡过去，连带着大人们的交谈声也低了下来。"
+            }
+        ]
     },
     "46": {
         "speaker": "",
-        "dialogue": "车内广播放着素世自己导入的歌单，不得不承认，这家伙在绝大多数事情上都保有出不了错的品味，包括音乐。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "车内广播放着素世自己导入的歌单，不得不承认，这家伙在绝大多数事情上都保有出不了错的品味，包括音乐。"
+            }
+        ]
     },
     "47": {
         "speaker": "",
-        "dialogue": "被小小的鼾声打断的话题就像乐声一样滑出了耳朵，没人记得上一句她们在聊什么，这代表内容索然无味。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "被小小的鼾声打断的话题就像乐声一样滑出了耳朵，没人记得上一句她们在聊什么，这代表内容索然无味。"
+            }
+        ]
     },
     "48": {
         "speaker": "",
-        "dialogue": "但同信任的人在一起的时光就是这样度过的。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "但同信任的人在一起的时光就是这样度过的。"
+            }
+        ]
     },
     "49": {
         "speaker": "长崎素世",
-        "dialogue": "……很烂呢。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……很烂呢。"
+            }
+        ]
     },
     "50": {
         "speaker": "长崎素世",
-        "dialogue": "……对吧？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……对吧？"
+            }
+        ]
     },
     "51": {
         "speaker": "",
-        "dialogue": "贝斯手的言辞同她并未携带的乐器一样沉默，话语淹没在合奏里。鼓手听不分明。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "贝斯手的言辞同她并未携带的乐器一样沉默，话语淹没在合奏里。鼓手听不分明。"
+            }
+        ]
     },
     "52": {
         "speaker": "椎名立希",
-        "dialogue": "……什么？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……什么？"
+            }
+        ]
     },
     "53": {
         "speaker": "长崎素世",
-        "dialogue": "小立希系围巾的手艺真的很烂呢。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "小立希系围巾的手艺真的很烂呢。"
+            }
+        ]
     },
     "54": {
         "speaker": "长崎素世",
-        "dialogue": "小立希又要感冒了对吧？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "小立希又要感冒了对吧？"
+            }
+        ]
     }
 }

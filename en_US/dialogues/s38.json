@@ -1,6 +1,11 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": "报幕"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "报幕"
+            }
+        ]
     }
 }

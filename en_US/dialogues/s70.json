@@ -1,518 +1,1163 @@
 {
     "0": {
         "speaker": "丰川祥子",
-        "dialogue": "立希，谢谢你。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希，谢谢你。"
+            }
+        ]
     },
     "1": {
         "speaker": "丰川祥子",
-        "dialogue": "没有想到今天能在这里遇到你。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "没有想到今天能在这里遇到你。"
+            }
+        ]
     },
     "2": {
         "speaker": "椎名立希",
-        "dialogue": "......祥子。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......祥子。"
+            }
+        ]
     },
     "3": {
         "speaker": "椎名立希",
-        "dialogue": "其实我原本以为再也不会和你见面了。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "其实我原本以为再也不会和你见面了。"
+            }
+        ]
     },
     "4": {
         "speaker": "丰川祥子",
-        "dialogue": "一生吗……或许是有这个可能。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "一生吗……或许是有这个可能。"
+            }
+        ]
     },
     "5": {
         "speaker": "丰川祥子",
-        "dialogue": "毕竟已经过去四分之一了。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "毕竟已经过去四分之一了。"
+            }
+        ]
     },
     "6": {
         "speaker": "椎名立希",
-        "dialogue": "（但现在我们却在一起散步，走在我再熟悉不过的街道上。）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（但现在我们却在一起散步，走在我再熟悉不过的街道上。）"
+            }
+        ]
     },
     "7": {
         "speaker": "椎名立希",
-        "dialogue": "（七年前的椎名立希无论如何也不会相信。）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（七年前的椎名立希无论如何也不会相信。）"
+            }
+        ]
     },
     "8": {
         "speaker": "椎名立希",
-        "dialogue": "祥子你，过的好吗？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "祥子你，过的好吗？"
+            }
+        ]
     },
     "9": {
         "speaker": "丰川祥子",
-        "dialogue": "有点老土。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "有点老土。"
+            }
+        ]
     },
     "10": {
         "speaker": "椎名立希",
-        "dialogue": "喂。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "喂。"
+            }
+        ]
     },
     "11": {
         "speaker": "",
-        "dialogue": "凌晨4点，天空中月亮的影子很淡，街上空空荡荡没有行人。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "凌晨4点，天空中月亮的影子很淡，街上空空荡荡没有行人。"
+            }
+        ]
     },
     "12": {
         "speaker": "",
-        "dialogue": "丰川祥子平视着前方，淡金色的眼睛里，思绪已经沉入了回忆。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "丰川祥子平视着前方，淡金色的眼睛里，思绪已经沉入了回忆。"
+            }
+        ]
     },
     "13": {
         "speaker": "丰川祥子",
-        "dialogue": "立希，你过的好吗？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希，你过的好吗？"
+            }
+        ]
     },
     "14": {
         "speaker": "丰川祥子",
-        "dialogue": "给我讲讲你的事吧。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "给我讲讲你的事吧。"
+            }
+        ]
     },
     "15": {
         "speaker": "椎名立希",
-        "dialogue": "我吗……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我吗……"
+            }
+        ]
     },
     "16": {
         "speaker": "椎名立希",
-        "dialogue": "（离开学生时代的象牙塔，离开仿佛第二个家的live house。）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（离开学生时代的象牙塔，离开仿佛第二个家的live house。）"
+            }
+        ]
     },
     "17": {
         "speaker": "椎名立希",
-        "dialogue": "（身边的朋友不多，人们总是来了又去。）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（身边的朋友不多，人们总是来了又去。）"
+            }
+        ]
     },
     "18": {
         "speaker": "椎名立希",
-        "dialogue": "我没有那么多故事可以讲，祥子。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我没有那么多故事可以讲，祥子。"
+            }
+        ]
     },
     "19": {
         "speaker": "椎名立希",
-        "dialogue": "乐队就是我的全部。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "乐队就是我的全部。"
+            }
+        ]
     },
     "20": {
         "speaker": "椎名立希",
-        "dialogue": "生活像一座火炉，我往里面不断添着木柴、锯末、碎布，一切可燃物。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "生活像一座火炉，我往里面不断添着木柴、锯末、碎布，一切可燃物。"
+            }
+        ]
     },
     "21": {
         "speaker": "椎名立希",
-        "dialogue": "……为了不让它熄灭。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……为了不让它熄灭。"
+            }
+        ]
     },
     "22": {
         "speaker": "丰川祥子",
-        "dialogue": "……对不起，立希。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……对不起，立希。"
+            }
+        ]
     },
     "23": {
         "speaker": "丰川祥子",
-        "dialogue": "刚刚在家里，我不该随便评论你的乐队。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "刚刚在家里，我不该随便评论你的乐队。"
+            }
+        ]
     },
     "24": {
         "speaker": "椎名立希",
-        "dialogue": "都说了不用道歉了。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "都说了不用道歉了。"
+            }
+        ]
     },
     "25": {
         "speaker": "椎名立希",
-        "dialogue": "祥子你没有说错。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "祥子你没有说错。"
+            }
+        ]
     },
     "26": {
         "speaker": "丰川祥子",
-        "dialogue": "不……我没有说完。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "不……我没有说完。"
+            }
+        ]
     },
     "27": {
         "speaker": "",
-        "dialogue": "丰川祥子轻轻地叹了一口气。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "丰川祥子轻轻地叹了一口气。"
+            }
+        ]
     },
     "28": {
         "speaker": "丰川祥子",
-        "dialogue": "这些年我去过很多地方。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "这些年我去过很多地方。"
+            }
+        ]
     },
     "29": {
         "speaker": "丰川祥子",
-        "dialogue": "写了很多歌，有的是我的乐队的，有的不是。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "写了很多歌，有的是我的乐队的，有的不是。"
+            }
+        ]
     },
     "30": {
         "speaker": "丰川祥子",
-        "dialogue": "……立希听过吗？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……立希听过吗？"
+            }
+        ]
     },
     "31": {
         "speaker": "椎名立希",
-        "dialogue": "嗯。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "嗯。"
+            }
+        ]
     },
     "32": {
         "speaker": "丰川祥子",
-        "dialogue": "我觉得那些都算不上差，我足够努力、足够用心。对每一张乐谱。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我觉得那些都算不上差，我足够努力、足够用心。对每一张乐谱。"
+            }
+        ]
     },
     "33": {
         "speaker": "丰川祥子",
-        "dialogue": "因为我是，需要负责的那一个。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "因为我是，需要负责的那一个。"
+            }
+        ]
     },
     "34": {
         "speaker": "椎名立希",
-        "dialogue": "我觉得你做得很好，祥子。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我觉得你做得很好，祥子。"
+            }
+        ]
     },
     "35": {
         "speaker": "丰川祥子",
-        "dialogue": "是吗……谢谢。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "是吗……谢谢。"
+            }
+        ]
     },
     "36": {
         "speaker": "椎名立希",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "37": {
         "speaker": "椎名立希",
-        "dialogue": "我开始学习写歌，是在Crychic解散以后。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我开始学习写歌，是在Crychic解散以后。"
+            }
+        ]
     },
     "38": {
         "speaker": "椎名立希",
-        "dialogue": "……很意外吗？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……很意外吗？"
+            }
+        ]
     },
     "39": {
         "speaker": "丰川祥子",
-        "dialogue": "抱歉。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "抱歉。"
+            }
+        ]
     },
     "40": {
         "speaker": "椎名立希",
-        "dialogue": "一个乐队总要有它自己的曲子，祥子。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "一个乐队总要有它自己的曲子，祥子。"
+            }
+        ]
     },
     "41": {
         "speaker": "椎名立希",
-        "dialogue": "我……十分认真地提高自己，期望自己的创作能配得上乐队、配得上灯的歌词。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我……十分认真地提高自己，期望自己的创作能配得上乐队、配得上灯的歌词。"
+            }
+        ]
     },
     "42": {
         "speaker": "椎名立希",
-        "dialogue": "就这样一直到现在。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "就这样一直到现在。"
+            }
+        ]
     },
     "43": {
         "speaker": "椎名立希",
-        "dialogue": "也许这就是我活着的——"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "也许这就是我活着的——"
+            }
+        ]
     },
     "44": {
         "speaker": "丰川祥子",
-        "dialogue": "不，不是这样的。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "不，不是这样的。"
+            }
+        ]
     },
     "45": {
         "speaker": "丰川祥子",
-        "dialogue": "立希，如果你想，你能成为十分优秀的作曲人。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希，如果你想，你能成为十分优秀的作曲人。"
+            }
+        ]
     },
     "46": {
         "speaker": "椎名立希",
-        "dialogue": "……也许吧。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……也许吧。"
+            }
+        ]
     },
     "47": {
         "speaker": "椎名立希",
-        "dialogue": "（姐姐也这么说……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（姐姐也这么说……）"
+            }
+        ]
     },
     "48": {
         "speaker": "丰川祥子",
-        "dialogue": "到那时，人们会追上来问你，“立希，你感受如何？”，“是什么支撑你没有选择放弃？”，“我真为你的经历感到同情 ”…她们就会这样说。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "到那时，人们会追上来问你，“立希，你感受如何？”，“是什么支撑你没有选择放弃？”，“我真为你的经历感到同情 ”…她们就会这样说。"
+            }
+        ]
     },
     "49": {
         "speaker": "丰川祥子",
-        "dialogue": "所有人都爱看骑士牺牲自己保卫公主，英雄战胜苦难的故事，立希。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "所有人都爱看骑士牺牲自己保卫公主，英雄战胜苦难的故事，立希。"
+            }
+        ]
     },
     "50": {
         "speaker": "丰川祥子",
-        "dialogue": "可是，真的是这样吗？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "可是，真的是这样吗？"
+            }
+        ]
     },
     "51": {
         "speaker": "丰川祥子",
-        "dialogue": "在我看来，那些人们所认为的辛酸与内心曲折根本不算什么。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "在我看来，那些人们所认为的辛酸与内心曲折根本不算什么。"
+            }
+        ]
     },
     "52": {
         "speaker": "丰川祥子",
-        "dialogue": "出卖才华，换取食物。矛盾、痛苦，这些根本不会真正令我恐惧退缩。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "出卖才华，换取食物。矛盾、痛苦，这些根本不会真正令我恐惧退缩。"
+            }
+        ]
     },
     "53": {
         "speaker": "椎名立希",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "54": {
         "speaker": "椎名立希",
-        "dialogue": "你说的，我大概能够理解。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "你说的，我大概能够理解。"
+            }
+        ]
     },
     "55": {
         "speaker": "",
-        "dialogue": "低下头笑笑，将左手指尖轻轻放上街边公园的栏杆，祥子弹奏出一段无声的旋律。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "低下头笑笑，将左手指尖轻轻放上街边公园的栏杆，祥子弹奏出一段无声的旋律。"
+            }
+        ]
     },
     "56": {
         "speaker": "",
-        "dialogue": "是她们刚刚完成的“骑士文学赏”的一部分。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "是她们刚刚完成的“骑士文学赏”的一部分。"
+            }
+        ]
     },
     "57": {
         "speaker": "丰川祥子",
-        "dialogue": "你知道吗，立希。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "你知道吗，立希。"
+            }
+        ]
     },
     "58": {
         "speaker": "丰川祥子",
-        "dialogue": "几天以前医生通知我，做好以后再也不能弹琴的心理准备。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "几天以前医生通知我，做好以后再也不能弹琴的心理准备。"
+            }
+        ]
     },
     "59": {
         "speaker": "丰川祥子",
-        "dialogue": "我在想，我的“最后一首曲子”会是什么样？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我在想，我的“最后一首曲子”会是什么样？"
+            }
+        ]
     },
     "60": {
         "speaker": "丰川祥子",
-        "dialogue": "作为商人也作为乐手，我要写出符合所有人期待的“最后一首”。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "作为商人也作为乐手，我要写出符合所有人期待的“最后一首”。"
+            }
+        ]
     },
     "61": {
         "speaker": "丰川祥子",
-        "dialogue": "但是现在……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "但是现在……"
+            }
+        ]
     },
     "62": {
         "speaker": "丰川祥子",
-        "dialogue": "……我从内心底松了一口气。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……我从内心底松了一口气。"
+            }
+        ]
     },
     "63": {
         "speaker": "丰川祥子",
-        "dialogue": "为我不必把满足所有人，包括我自己的期待作为“最后的作品”。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "为我不必把满足所有人，包括我自己的期待作为“最后的作品”。"
+            }
+        ]
     },
     "64": {
         "speaker": "椎名立希",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "65": {
         "speaker": "丰川祥子",
-        "dialogue": "原来我……还想创作更多的音乐。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "原来我……还想创作更多的音乐。"
+            }
+        ]
     },
     "66": {
         "speaker": "丰川祥子",
-        "dialogue": "不是为了任何人，不是为了提前写好的故事，也不是为了乐队。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "不是为了任何人，不是为了提前写好的故事，也不是为了乐队。"
+            }
+        ]
     },
     "67": {
         "speaker": "丰川祥子",
-        "dialogue": "我只是想再一次把手放到琴键上，听到钢琴奏出我的声音。仅此而已。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我只是想再一次把手放到琴键上，听到钢琴奏出我的声音。仅此而已。"
+            }
+        ]
     },
     "68": {
         "speaker": "椎名立希",
-        "dialogue": "祥子……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "祥子……"
+            }
+        ]
     },
     "69": {
         "speaker": "丰川祥子",
-        "dialogue": "我可没有哭。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我可没有哭。"
+            }
+        ]
     },
     "70": {
         "speaker": "椎名立希",
-        "dialogue": "（“仅此而已”吗？）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（“仅此而已”吗？）"
+            }
+        ]
     },
     "71": {
         "speaker": "椎名立希",
-        "dialogue": "（那么我……我应该……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（那么我……我应该……）"
+            }
+        ]
     },
     "72": {
         "speaker": "丰川祥子",
-        "dialogue": "立希，请别苦着脸。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希，请别苦着脸。"
+            }
+        ]
     },
     "73": {
         "speaker": "",
-        "dialogue": "黎明淡蓝色的空气中，丰川祥子的眼神清澈而温柔。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "黎明淡蓝色的空气中，丰川祥子的眼神清澈而温柔。"
+            }
+        ]
     },
     "74": {
         "speaker": "丰川祥子",
-        "dialogue": "如果这是生命的最后一秒，音乐也能带你去任何地方。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "如果这是生命的最后一秒，音乐也能带你去任何地方。"
+            }
+        ]
     },
     "75": {
         "speaker": "丰川祥子",
-        "dialogue": "过去或者将来，总有人会通过旋律读懂你。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "过去或者将来，总有人会通过旋律读懂你。"
+            }
+        ]
     },
     "76": {
         "speaker": "丰川祥子",
-        "dialogue": "你说生活是一座火炉……也许吧。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "你说生活是一座火炉……也许吧。"
+            }
+        ]
     },
     "77": {
         "speaker": "丰川祥子",
-        "dialogue": "但我想那没什么不好。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "但我想那没什么不好。"
+            }
+        ]
     },
     "78": {
         "speaker": "丰川祥子",
-        "dialogue": "因为立希你……会像个傻子一样守护它，即使所有所获只剩下碎片，即使最终燃尽一切。它不会熄灭。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "因为立希你……会像个傻子一样守护它，即使所有所获只剩下碎片，即使最终燃尽一切。它不会熄灭。"
+            }
+        ]
     },
     "79": {
         "speaker": "丰川祥子",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "80": {
         "speaker": "丰川祥子",
-        "dialogue": "立希，你知道吗？玻璃打碎还能再熔铸，至于熊猫……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希，你知道吗？玻璃打碎还能再熔铸，至于熊猫……"
+            }
+        ]
     },
     "81": {
         "speaker": "椎名立希",
-        "dialogue": "……喂。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……喂。"
+            }
+        ]
     },
     "82": {
         "speaker": "丰川祥子",
-        "dialogue": "火柴还给你，立希。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "火柴还给你，立希。"
+            }
+        ]
     },
     "83": {
         "speaker": "丰川祥子",
-        "dialogue": "你可以收藏，我向你保证它日后会很值钱。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "你可以收藏，我向你保证它日后会很值钱。"
+            }
+        ]
     },
     "84": {
         "speaker": "丰川祥子",
-        "dialogue": "你也可以用它点火，还可以用它……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "你也可以用它点火，还可以用它……"
+            }
+        ]
     },
     "85": {
         "speaker": "椎名立希",
-        "dialogue": "我不会许愿的。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我不会许愿的。"
+            }
+        ]
     },
     "86": {
         "speaker": "丰川祥子",
-        "dialogue": "……嗯。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……嗯。"
+            }
+        ]
     },
     "87": {
         "speaker": "椎名立希",
-        "dialogue": "（“我们都清楚只有自己能回应自己的希望、热爱与寄托”，你是想这样说，对吗？）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（“我们都清楚只有自己能回应自己的希望、热爱与寄托”，你是想这样说，对吗？）"
+            }
+        ]
     },
     "88": {
         "speaker": "椎名立希",
-        "dialogue": "（祥子你……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（祥子你……）"
+            }
+        ]
     },
     "89": {
         "speaker": "",
-        "dialogue": "“你经历了些什么？”"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "“你经历了些什么？”"
+            }
+        ]
     },
     "90": {
         "speaker": "",
-        "dialogue": "“你也不再向愚钝的神明许愿。”"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "“你也不再向愚钝的神明许愿。”"
+            }
+        ]
     },
     "91": {
         "speaker": "",
-        "dialogue": "“你长大了许多，即使暴风雨，也不害怕独处了吧？”"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "“你长大了许多，即使暴风雨，也不害怕独处了吧？”"
+            }
+        ]
     },
     "92": {
         "speaker": "",
-        "dialogue": "“你……是如何看待我的？”"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "“你……是如何看待我的？”"
+            }
+        ]
     },
     "93": {
         "speaker": "",
-        "dialogue": "疑问在酸胀的胸口盘旋，立希有一点想笑，也有一点想哭。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "疑问在酸胀的胸口盘旋，立希有一点想笑，也有一点想哭。"
+            }
+        ]
     },
     "94": {
         "speaker": "",
-        "dialogue": "丰川祥子在坡道前方站定转身，等待椎名立希走上来，与她并肩同行。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "丰川祥子在坡道前方站定转身，等待椎名立希走上来，与她并肩同行。"
+            }
+        ]
     },
     "95": {
         "speaker": "",
-        "dialogue": "雨后的街面光点闪闪。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "雨后的街面光点闪闪。"
+            }
+        ]
     },
     "96": {
         "speaker": "椎名立希",
-        "dialogue": "还有一件事，祥子。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "还有一件事，祥子。"
+            }
+        ]
     },
     "97": {
         "speaker": "椎名立希",
-        "dialogue": "你丢在街心公园的是什么？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "你丢在街心公园的是什么？"
+            }
+        ]
     },
     "98": {
         "speaker": "椎名立希",
-        "dialogue": "我答应会帮你找到的。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我答应会帮你找到的。"
+            }
+        ]
     },
     "99": {
         "speaker": "丰川祥子",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "100": {
         "speaker": "丰川祥子",
-        "dialogue": "……只是一副用了很多年的蓝牙耳机。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……只是一副用了很多年的蓝牙耳机。"
+            }
+        ]
     },
     "101": {
         "speaker": "丰川祥子",
-        "dialogue": "上面有一些贴纸。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "上面有一些贴纸。"
+            }
+        ]
     },
     "102": {
         "speaker": "椎名立希",
-        "dialogue": "......你脸红了？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......你脸红了？"
+            }
+        ]
     },
     "103": {
         "speaker": "丰川祥子",
-        "dialogue": "我没有。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我没有。"
+            }
+        ]
     },
     "104": {
         "speaker": "椎名立希",
-        "dialogue": "……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……"
+            }
+        ]
     },
     "105": {
         "speaker": "",
-        "dialogue": "从不离身的耳机充电仓在口袋里捂得有些温热。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "从不离身的耳机充电仓在口袋里捂得有些温热。"
+            }
+        ]
     },
     "106": {
         "speaker": "",
-        "dialogue": "摩挲外壳的贴纸，熟悉的触感和耳边的音乐让人感到安全……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "摩挲外壳的贴纸，熟悉的触感和耳边的音乐让人感到安全……"
+            }
+        ]
     },
     "107": {
         "speaker": "",
-        "dialogue": "“对丰川祥子来说，也是这样吗？”立希在心底想。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "“对丰川祥子来说，也是这样吗？”立希在心底想。"
+            }
+        ]
     },
     "108": {
         "speaker": "",
-        "dialogue": "将旧耳机拿出来，她把它放到祥子手心。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "将旧耳机拿出来，她把它放到祥子手心。"
+            }
+        ]
     },
     "109": {
         "speaker": "椎名立希",
-        "dialogue": "一样有贴纸，一样用了很多年。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "一样有贴纸，一样用了很多年。"
+            }
+        ]
     },
     "110": {
         "speaker": "丰川祥子",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "111": {
         "speaker": "丰川祥子",
-        "dialogue": "那我什么时候还给你？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "那我什么时候还给你？"
+            }
+        ]
     },
     "112": {
         "speaker": "丰川祥子",
-        "dialogue": "……下次我们见面的时候吗？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……下次我们见面的时候吗？"
+            }
+        ]
     },
     "113": {
         "speaker": "椎名立希",
-        "dialogue": "这个啊……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "这个啊……"
+            }
+        ]
     },
     "114": {
         "speaker": "椎名立希",
-        "dialogue": "（你真是提了一个好问题……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（你真是提了一个好问题……）"
+            }
+        ]
     },
     "115": {
         "speaker": "椎名立希",
-        "dialogue": "我不知道，祥子。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我不知道，祥子。"
+            }
+        ]
     },
     "116": {
         "speaker": "椎名立希",
-        "dialogue": "还会有下次吗？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "还会有下次吗？"
+            }
+        ]
     },
     "117": {
         "speaker": "",
-        "dialogue": "立希深深吸了一口气，凌晨的冷意缓缓经过鼻腔、气道，抵达肺部变得温暖。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希深深吸了一口气，凌晨的冷意缓缓经过鼻腔、气道，抵达肺部变得温暖。"
+            }
+        ]
     },
     "118": {
         "speaker": "丰川祥子",
-        "dialogue": "......立希？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......立希？"
+            }
+        ]
     },
     "119": {
         "speaker": "",
-        "dialogue": "一个小心翼翼的提问。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "一个小心翼翼的提问。"
+            }
+        ]
     },
     "120": {
         "speaker": "",
-        "dialogue": "一个轻柔的、极尽克制的拥抱。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "一个轻柔的、极尽克制的拥抱。"
+            }
+        ]
     },
     "121": {
         "speaker": "",
-        "dialogue": "透明的日光洒在她微微颤抖的肩膀。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "透明的日光洒在她微微颤抖的肩膀。"
+            }
+        ]
     },
     "122": {
         "speaker": "",
-        "dialogue": "在这个角度，丰川祥子看不到她的表情，只能听到她的呼吸。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "在这个角度，丰川祥子看不到她的表情，只能听到她的呼吸。"
+            }
+        ]
     },
     "123": {
         "speaker": "",
-        "dialogue": "平稳的，脆弱的；踏实的，不安的。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "平稳的，脆弱的；踏实的，不安的。"
+            }
+        ]
     },
     "124": {
         "speaker": "",
-        "dialogue": "你在……哭吗？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "你在……哭吗？"
+            }
+        ]
     },
     "125": {
         "speaker": "",
-        "dialogue": "想问的有许多。但祥子只是下意识的、习惯性地轻轻接住她。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "想问的有许多。但祥子只是下意识的、习惯性地轻轻接住她。"
+            }
+        ]
     },
     "126": {
         "speaker": "",
-        "dialogue": "——尽管她们从没拥抱过对方。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "——尽管她们从没拥抱过对方。"
+            }
+        ]
     },
     "127": {
         "speaker": "丰川祥子",
-        "dialogue": "……立希，你在说什么傻话。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……立希，你在说什么傻话。"
+            }
+        ]
     },
     "128": {
         "speaker": "丰川祥子",
-        "dialogue": "当然会有。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "当然会有。"
+            }
+        ]
     }
 }

@@ -3,243 +3,543 @@
     "list": {
         "0": {
             "speaker": "椎名立希",
-            "dialogue": "不行，还是不行，依旧很奇怪……"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "不行，还是不行，依旧很奇怪……"
+                }
+            ]
         },
         "1": {
             "speaker": "椎名立希",
-            "dialogue": "我说爱音，你间奏的Riff弹错了！"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "我说爱音，你间奏的Riff弹错了！"
+                }
+            ]
         },
         "2": {
             "speaker": "椎名立希",
-            "dialogue": "还有素世，前奏拖拍尾奏抢拍，根本就没熟悉谱子，不是提前发给你们看了吗？"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "还有素世，前奏拖拍尾奏抢拍，根本就没熟悉谱子，不是提前发给你们看了吗？"
+                }
+            ]
         },
         "3": {
             "speaker": "千早爱音",
-            "dialogue": "是看了……但是……"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "是看了……但是……"
+                }
+            ]
         },
         "4": {
             "speaker": "长崎素世",
-            "dialogue": "提前两天，工作日发谱，周末合练，时间上来讲不是很充裕呢。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "提前两天，工作日发谱，周末合练，时间上来讲不是很充裕呢。"
+                }
+            ]
         },
         "5": {
             "speaker": "椎名立希",
-            "dialogue": "演奏难度我调整过了，已经算相当简单易上手了吧。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "演奏难度我调整过了，已经算相当简单易上手了吧。"
+                }
+            ]
         },
         "6": {
             "speaker": "千早爱音",
-            "dialogue": "那个…Rikki，其实你可以不用调整那么多次的，做完了可以先发给我们看……"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "那个…Rikki，其实你可以不用调整那么多次的，做完了可以先发给我们看……"
+                }
+            ]
         },
         "7": {
             "speaker": "椎名立希",
-            "dialogue": "那种半成品发出来也没意义吧？我现在给你们的才是最好上手的版本。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "那种半成品发出来也没意义吧？我现在给你们的才是最好上手的版本。"
+                }
+            ]
         },
         "8": {
             "speaker": "椎名立希",
-            "dialogue": "连这个都没时间好好练，提前发有什么用。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "连这个都没时间好好练，提前发有什么用。"
+                }
+            ]
         },
         "9": {
             "speaker": "长崎素世",
-            "dialogue": "唉。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "唉。"
+                }
+            ]
         },
         "10": {
             "speaker": "椎名立希",
-            "dialogue": "干嘛？你有什么意见就说。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "干嘛？你有什么意见就说。"
+                }
+            ]
         },
         "11": {
             "speaker": "高松灯",
-            "dialogue": "那个…小立希，小素世……"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "那个…小立希，小素世……"
+                }
+            ]
         },
         "12": {
             "speaker": "千早爱音",
-            "dialogue": "啊哈哈哈！！当然没什么意见啦，对吧Soyorin？反正这才是新曲的第一次排练嘛，之后还有的是机会……"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "啊哈哈哈！！当然没什么意见啦，对吧Soyorin？反正这才是新曲的第一次排练嘛，之后还有的是机会……"
+                }
+            ]
         },
         "13": {
             "speaker": "椎名立希",
-            "dialogue": "之后？那你说之后是哪次？"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "之后？那你说之后是哪次？"
+                }
+            ]
         },
         "14": {
             "speaker": "千早爱音",
-            "dialogue": "呃……时间就像海绵，挤挤总会有的……我、我下周就可以呀！Tomorin呢？"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "呃……时间就像海绵，挤挤总会有的……我、我下周就可以呀！Tomorin呢？"
+                }
+            ]
         },
         "15": {
             "speaker": "高松灯",
-            "dialogue": "我……下周需要参加几场线下读书会，抱歉……小爱，还有小立希。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "我……下周需要参加几场线下读书会，抱歉……小爱，还有小立希。"
+                }
+            ]
         },
         "16": {
             "speaker": "千早爱音",
-            "dialogue": "没事啦没事啦！大家都有自己的事……那，下下周呢？"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "没事啦没事啦！大家都有自己的事……那，下下周呢？"
+                }
+            ]
         },
         "17": {
             "speaker": "长崎素世",
-            "dialogue": "不好意思，那两周我都在北海道出差。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "不好意思，那两周我都在北海道出差。"
+                }
+            ]
         },
         "18": {
             "speaker": "千早爱音",
-            "dialogue": "正常正常，那再之后一周总可以了吧！我看看日历哦。欸还是个节假日，这不正好……"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "正常正常，那再之后一周总可以了吧！我看看日历哦。欸还是个节假日，这不正好……"
+                }
+            ]
         },
         "19": {
             "speaker": "千早爱音",
-            "dialogue": "哎呀！忘了那天是甲方给我定的24小时直播挑战……哈哈。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "哎呀！忘了那天是甲方给我定的24小时直播挑战……哈哈。"
+                }
+            ]
         },
         "20": {
             "speaker": "椎名立希",
-            "dialogue": "……"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "……"
+                }
+            ]
         },
         "21": {
             "speaker": "长崎素世",
-            "dialogue": "既然时间对不上，近期也没有Live安排，大家找时间自己私下练习就好了吧。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "既然时间对不上，近期也没有Live安排，大家找时间自己私下练习就好了吧。"
+                }
+            ]
         },
         "22": {
             "speaker": "椎名立希",
-            "dialogue": "合练都练不好，拿什么去约Live？就现在这种水平怎么上台？怎么给粉丝看？"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "合练都练不好，拿什么去约Live？就现在这种水平怎么上台？怎么给粉丝看？"
+                }
+            ]
         },
         "23": {
             "speaker": "千早爱音",
-            "dialogue": "也许先把Live的时间定了大家才有目标练习嘛……"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "也许先把Live的时间定了大家才有目标练习嘛……"
+                }
+            ]
         },
         "24": {
             "speaker": "椎名立希",
-            "dialogue": "那你说Live时间能定在什么时候？"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "那你说Live时间能定在什么时候？"
+                }
+            ]
         },
         "25": {
             "speaker": "",
-            "dialogue": "一瞬间，所有人都沉默了。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "一瞬间，所有人都沉默了。"
+                }
+            ]
         },
         "26": {
             "speaker": "",
-            "dialogue": "这是一件谁都说不准的事情。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "这是一件谁都说不准的事情。"
+                }
+            ]
         },
         "27": {
             "speaker": "",
-            "dialogue": "谁都不想成为那个立约之后又毁约的人，于是谁都没有提议。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "谁都不想成为那个立约之后又毁约的人，于是谁都没有提议。"
+                }
+            ]
         },
         "28": {
             "speaker": "椎名立希",
-            "dialogue": "不知道的话，就从现在起好好练——"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "不知道的话，就从现在起好好练——"
+                }
+            ]
         },
         "29": {
             "speaker": "",
-            "dialogue": "突然，一阵晕眩感窜上脑海，遏止了立希吐出严厉话语的双唇。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "突然，一阵晕眩感窜上脑海，遏止了立希吐出严厉话语的双唇。"
+                }
+            ]
         },
         "30": {
             "speaker": "",
-            "dialogue": "与之相伴的还有逐渐加快的心跳以及肌肉难以抑制的抽搐。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "与之相伴的还有逐渐加快的心跳以及肌肉难以抑制的抽搐。"
+                }
+            ]
         },
         "31": {
             "speaker": "高松灯",
-            "dialogue": "小立希……你怎么了？"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "小立希……你怎么了？"
+                }
+            ]
         },
         "32": {
             "speaker": "千早爱音",
-            "dialogue": "Rikki脸色好差…我会好好练习的，别生气啦……"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "Rikki脸色好差…我会好好练习的，别生气啦……"
+                }
+            ]
         },
         "33": {
             "speaker": "长崎素世",
-            "dialogue": "你该不会，又熬夜了吧？"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "你该不会，又熬夜了吧？"
+                }
+            ]
         },
         "34": {
             "speaker": "",
-            "dialogue": "意识到自己失态的立希迅速缓过神来。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "意识到自己失态的立希迅速缓过神来。"
+                }
+            ]
         },
         "35": {
             "speaker": "椎名立希",
-            "dialogue": "啊……嗯，抱歉，走神了一下，没什么。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "啊……嗯，抱歉，走神了一下，没什么。"
+                }
+            ]
         },
         "36": {
             "speaker": "长崎素世",
-            "dialogue": "要不今天就到这里吧，小乐奈也不知道什么时候就溜走了，少一个Part总觉得不太适应。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "要不今天就到这里吧，小乐奈也不知道什么时候就溜走了，少一个Part总觉得不太适应。"
+                }
+            ]
         },
         "37": {
             "speaker": "椎名立希",
-            "dialogue": "哈？谁允许你擅自——"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "哈？谁允许你擅自——"
+                }
+            ]
         },
         "38": {
             "speaker": "",
-            "dialogue": "——心脏又一次的绞痛强行中断了立希的抗议。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "——心脏又一次的绞痛强行中断了立希的抗议。"
+                }
+            ]
         },
         "39": {
             "speaker": "",
-            "dialogue": "立希注意到素世看她的眼神担心中透着愠怒，这样的态度令立希更加感到屈辱。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "立希注意到素世看她的眼神担心中透着愠怒，这样的态度令立希更加感到屈辱。"
+                }
+            ]
         },
         "40": {
             "speaker": "长崎素世",
-            "dialogue": "大家时间能合上是最好，合不上也可以再缓缓，毕竟……"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "大家时间能合上是最好，合不上也可以再缓缓，毕竟……"
+                }
+            ]
         },
         "41": {
             "speaker": "",
-            "dialogue": "——毕竟我们只是业余乐队。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "——毕竟我们只是业余乐队。"
+                }
+            ]
         },
         "42": {
             "speaker": "",
-            "dialogue": "虽然她没说出来，但立希觉得自己明白她的意思。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "虽然她没说出来，但立希觉得自己明白她的意思。"
+                }
+            ]
         },
         "43": {
             "speaker": "椎名立希",
-            "dialogue": "然后距离上次合练就拖了几个月？那按这么说，就算是一年一次练习两年一次Live不也可以吗？反正压根就没有一个明确的目标可言。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "然后距离上次合练就拖了几个月？那按这么说，就算是一年一次练习两年一次Live不也可以吗？反正压根就没有一个明确的目标可言。"
+                }
+            ]
         },
         "44": {
             "speaker": "长崎素世",
-            "dialogue": "我不想和你吵架。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "我不想和你吵架。"
+                }
+            ]
         },
         "45": {
             "speaker": "椎名立希",
-            "dialogue": "谁想吵了，我只是——"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "谁想吵了，我只是——"
+                }
+            ]
         },
         "46": {
             "speaker": "长崎素世",
-            "dialogue": "乐队的维系不是只有以你这种状态为代价这一条路的吧？"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "乐队的维系不是只有以你这种状态为代价这一条路的吧？"
+                }
+            ]
         },
         "47": {
             "speaker": "高松灯",
-            "dialogue": "……我同意小素世的话。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "……我同意小素世的话。"
+                }
+            ]
         },
         "48": {
             "speaker": "高松灯",
-            "dialogue": "小立希，我也不希望通过牺牲你来维系MyGO的活动。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "小立希，我也不希望通过牺牲你来维系MyGO的活动。"
+                }
+            ]
         },
         "49": {
             "speaker": "高松灯",
-            "dialogue": "有合练、有Live当然是好的。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "有合练、有Live当然是好的。"
+                }
+            ]
         },
         "50": {
             "speaker": "高松灯",
-            "dialogue": "但如果一时的缘分无法对上的话，暂时存放在心底也不会影响我们之间的牵绊。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "但如果一时的缘分无法对上的话，暂时存放在心底也不会影响我们之间的牵绊。"
+                }
+            ]
         },
         "51": {
             "speaker": "高松灯",
-            "dialogue": "毕竟……毕竟这么多年我们都一起过来了。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "毕竟……毕竟这么多年我们都一起过来了。"
+                }
+            ]
         },
         "52": {
             "speaker": "椎名立希",
-            "dialogue": "………………"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "………………"
+                }
+            ]
         },
         "53": {
             "speaker": "高松灯",
-            "dialogue": "……………"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "……………"
+                }
+            ]
         },
         "54": {
             "speaker": "千早爱音",
-            "dialogue": "对、对嘛！偶尔和大家出来聚一聚就已经很开心啦！"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "对、对嘛！偶尔和大家出来聚一聚就已经很开心啦！"
+                }
+            ]
         },
         "55": {
             "speaker": "千早爱音",
-            "dialogue": "啊啊，说起来附近新开了一家寿喜锅店，大家一会儿要不要跟我去测评一下呀~~"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "啊啊，说起来附近新开了一家寿喜锅店，大家一会儿要不要跟我去测评一下呀~~"
+                }
+            ]
         },
         "56": {
             "speaker": "长崎素世",
-            "dialogue": "我今晚还有饭局，就算了。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "我今晚还有饭局，就算了。"
+                }
+            ]
         },
         "57": {
             "speaker": "高松灯",
-            "dialogue": "今晚父母会来我这……"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "今晚父母会来我这……"
+                }
+            ]
         },
         "58": {
             "speaker": "千早爱音",
-            "dialogue": "没事没事，那Ri……呃，还是下次等小乐奈有精神了大家再一起去吧！"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "没事没事，那Ri……呃，还是下次等小乐奈有精神了大家再一起去吧！"
+                }
+            ]
         },
         "59": {
             "speaker": "椎名立希",
-            "dialogue": "………………"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "………………"
+                }
+            ]
         }
     }
 }

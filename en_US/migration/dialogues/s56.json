@@ -3,51 +3,111 @@
     "list": {
         "0": {
             "speaker": "",
-            "dialogue": "生疏的舞蹈没给鼓手的肌肉留下任何记忆。椎名立希的运动量姑且不是长年伏案的金领能比的。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "生疏的舞蹈没给鼓手的肌肉留下任何记忆。椎名立希的运动量姑且不是长年伏案的金领能比的。"
+                }
+            ]
         },
         "1": {
             "speaker": "椎名立希",
-            "dialogue": "……也太喜欢兜圈子了吧，素世这家伙。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "……也太喜欢兜圈子了吧，素世这家伙。"
+                }
+            ]
         },
         "2": {
             "speaker": "",
-            "dialogue": "如果要求立希给刚刚失去的一日人生写个小结，答案只能是白纸一张。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "如果要求立希给刚刚失去的一日人生写个小结，答案只能是白纸一张。"
+                }
+            ]
         },
         "3": {
             "speaker": "",
-            "dialogue": "但也许无论过去她们清醒的十个小时内做了什么，椎名立希能抓住的东西都是一样的。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "但也许无论过去她们清醒的十个小时内做了什么，椎名立希能抓住的东西都是一样的。"
+                }
+            ]
         },
         "4": {
             "speaker": "",
-            "dialogue": "今早镜子里的数字又少了一个周期，刷牙的人在泡沫里扯起嘴角。也许她今天心情不坏。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "今早镜子里的数字又少了一个周期，刷牙的人在泡沫里扯起嘴角。也许她今天心情不坏。"
+                }
+            ]
         },
         "5": {
             "speaker": "椎名立希",
-            "dialogue": "做我该做的事就好。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "做我该做的事就好。"
+                }
+            ]
         },
         "6": {
             "speaker": "",
-            "dialogue": "几句谈话，几句歌词，这就是她过去清醒的十个小时生命中为数不多值得记住的内容。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "几句谈话，几句歌词，这就是她过去清醒的十个小时生命中为数不多值得记住的内容。"
+                }
+            ]
         },
         "7": {
             "speaker": "椎名立希",
-            "dialogue": "（……话说回来，素世昨天本来想干什么？）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（……话说回来，素世昨天本来想干什么？）"
+                }
+            ]
         },
         "8": {
             "speaker": "",
-            "dialogue": "但也许无论过去她们清醒的十个小时内做了什么，立希能抓住的东西都是一样的。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "但也许无论过去她们清醒的十个小时内做了什么，立希能抓住的东西都是一样的。"
+                }
+            ]
         },
         "9": {
             "speaker": "",
-            "dialogue": "今早镜子里的数字又少了一个周期，刷牙的人在泡沫里扯起嘴角。有些费力，僵硬的肌肉制约着唇角上扬的弧度。但椎名立希会向它证明谁才是这副身体的主人。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "今早镜子里的数字又少了一个周期，刷牙的人在泡沫里扯起嘴角。有些费力，僵硬的肌肉制约着唇角上扬的弧度。但椎名立希会向它证明谁才是这副身体的主人。"
+                }
+            ]
         },
         "10": {
             "speaker": "椎名立希",
-            "dialogue": "......"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "......"
+                }
+            ]
         },
         "11": {
             "speaker": "椎名立希",
-            "dialogue": "去做事吧。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "去做事吧。"
+                }
+            ]
         }
     }
 }

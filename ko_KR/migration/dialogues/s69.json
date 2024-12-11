@@ -3,391 +3,876 @@
     "list": {
         "0": {
             "speaker": "椎名立希",
-            "dialogue": "这家便利店我几乎每天都来。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "这家便利店我几乎每天都来。"
+                }
+            ]
         },
         "1": {
             "speaker": "椎名立希",
-            "dialogue": "别的我请不起，即使是“大艺术家”也只能凑合凑合。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "别的我请不起，即使是“大艺术家”也只能凑合凑合。"
+                }
+            ]
         },
         "2": {
             "speaker": "丰川祥子",
-            "dialogue": "我要每种都来一份的关东煮。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "我要每种都来一份的关东煮。"
+                }
+            ]
         },
         "3": {
             "speaker": "丰川祥子",
-            "dialogue": "怎么了？"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "怎么了？"
+                }
+            ]
         },
         "4": {
             "speaker": "椎名立希",
-            "dialogue": "……没事。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "……没事。"
+                }
+            ]
         },
         "5": {
             "speaker": "椎名立希",
-            "dialogue": "（“大艺术家”不仅爱吃便利店，还不知道客气……）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（“大艺术家”不仅爱吃便利店，还不知道客气……）"
+                }
+            ]
         },
         "6": {
             "speaker": "",
-            "dialogue": "祥子在立希之前走入便利店，停在摆放饭团和三明治的货架前挑选。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "祥子在立希之前走入便利店，停在摆放饭团和三明治的货架前挑选。"
+                }
+            ]
         },
         "7": {
             "speaker": "",
-            "dialogue": "她熟练比对着食物背面标签的价格。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "她熟练比对着食物背面标签的价格。"
+                }
+            ]
         },
         "8": {
             "speaker": "椎名立希",
-            "dialogue": "……祥子，刚刚你说，“商人和乐手没有什么区别”，是什么意思？"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "……祥子，刚刚你说，“商人和乐手没有什么区别”，是什么意思？"
+                }
+            ]
         },
         "9": {
             "speaker": "丰川祥子",
-            "dialogue": "就是字面意思，立希。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "就是字面意思，立希。"
+                }
+            ]
         },
         "10": {
             "speaker": "丰川祥子",
-            "dialogue": "商人出卖货品，乐手出卖才华。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "商人出卖货品，乐手出卖才华。"
+                }
+            ]
         },
         "11": {
             "speaker": "丰川祥子",
-            "dialogue": "不是吗？"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "不是吗？"
+                }
+            ]
         },
         "12": {
             "speaker": "椎名立希",
-            "dialogue": "那么你……"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "那么你……"
+                }
+            ]
         },
         "13": {
             "speaker": "丰川祥子",
-            "dialogue": "我们都是这样。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "我们都是这样。"
+                }
+            ]
         },
         "14": {
             "speaker": "",
-            "dialogue": "丰川祥子抬起眼睛看着立希，向她示意手里的两只饭团。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "丰川祥子抬起眼睛看着立希，向她示意手里的两只饭团。"
+                }
+            ]
         },
         "15": {
             "speaker": "丰川祥子",
-            "dialogue": "更喜欢哪一个？"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "更喜欢哪一个？"
+                }
+            ]
         },
         "16": {
             "speaker": "椎名立希",
-            "dialogue": "......左边的。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "......左边的。"
+                }
+            ]
         },
         "17": {
             "speaker": "丰川祥子",
-            "dialogue": "140円。金枪鱼蛋黄酱。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "140円。金枪鱼蛋黄酱。"
+                }
+            ]
         },
         "18": {
             "speaker": "丰川祥子",
-            "dialogue": "就是这么一回事，立希。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "就是这么一回事，立希。"
+                }
+            ]
         },
         "19": {
             "speaker": "椎名立希",
-            "dialogue": "......"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "......"
+                }
+            ]
         },
         "20": {
             "speaker": "店员",
-            "dialogue": "晚上好，椎名小姐。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "晚上好，椎名小姐。"
+                }
+            ]
         },
         "21": {
             "speaker": "店员",
-            "dialogue": "这位是……"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "这位是……"
+                }
+            ]
         },
         "22": {
             "speaker": "椎名立希",
-            "dialogue": "呃，一个朋友。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "呃，一个朋友。"
+                }
+            ]
         },
         "23": {
             "speaker": "椎名立希",
-            "dialogue": "（算得上朋友吗？）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（算得上朋友吗？）"
+                }
+            ]
         },
         "24": {
             "speaker": "店员",
-            "dialogue": "晚上好，您真漂亮。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "晚上好，您真漂亮。"
+                }
+            ]
         },
         "25": {
             "speaker": "丰川祥子",
-            "dialogue": "啊，并不……"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "啊，并不……"
+                }
+            ]
         },
         "26": {
             "speaker": "丰川祥子",
-            "dialogue": "非常感谢。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "非常感谢。"
+                }
+            ]
         },
         "27": {
             "speaker": "椎名立希",
-            "dialogue": "（“大艺术家”被人夸好看还会脸红。）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（“大艺术家”被人夸好看还会脸红。）"
+                }
+            ]
         },
         "28": {
             "speaker": "店员",
-            "dialogue": "前些天你没有来买便当，我还担心椎名小姐是不是遇到什么事了。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "前些天你没有来买便当，我还担心椎名小姐是不是遇到什么事了。"
+                }
+            ]
         },
         "29": {
             "speaker": "椎名立希",
-            "dialogue": "我没事……多谢关心。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "我没事……多谢关心。"
+                }
+            ]
         },
         "30": {
             "speaker": "椎名立希",
-            "dialogue": "（以防万一，还是早点送祥子回车站吧。）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（以防万一，还是早点送祥子回车站吧。）"
+                }
+            ]
         },
         "31": {
             "speaker": "椎名立希",
-            "dialogue": "我想要每种都来一份的关东煮。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "我想要每种都来一份的关东煮。"
+                }
+            ]
         },
         "32": {
             "speaker": "丰川祥子",
-            "dialogue": "炖萝卜请多来一个。另外，请加热一下饭团，谢谢。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "炖萝卜请多来一个。另外，请加热一下饭团，谢谢。"
+                }
+            ]
         },
         "33": {
             "speaker": "店员",
-            "dialogue": "好的请稍等。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "好的请稍等。"
+                }
+            ]
         },
         "34": {
             "speaker": "丰川祥子",
-            "dialogue": "怎么了，立希？你一直在看我。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "怎么了，立希？你一直在看我。"
+                }
+            ]
         },
         "35": {
             "speaker": "椎名立希",
-            "dialogue": "没事。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "没事。"
+                }
+            ]
         },
         "36": {
             "speaker": "丰川祥子",
-            "dialogue": "……有什么想问的吗？"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "……有什么想问的吗？"
+                }
+            ]
         },
         "37": {
             "speaker": "椎名立希",
-            "dialogue": "（太多了。）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（太多了。）"
+                }
+            ]
         },
         "38": {
             "speaker": "椎名立希",
-            "dialogue": "（要从很久很久之前问起。）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（要从很久很久之前问起。）"
+                }
+            ]
         },
         "39": {
             "speaker": "椎名立希",
-            "dialogue": "不，没什么特别想问的……"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "不，没什么特别想问的……"
+                }
+            ]
         },
         "40": {
             "speaker": "椎名立希",
-            "dialogue": "你会分给我炖萝卜吗？"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "你会分给我炖萝卜吗？"
+                }
+            ]
         },
         "41": {
             "speaker": "丰川祥子",
-            "dialogue": "当然。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "当然。"
+                }
+            ]
         },
         "42": {
             "speaker": "椎名立希",
-            "dialogue": "那太好了，谢谢你，祥子。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "那太好了，谢谢你，祥子。"
+                }
+            ]
         },
         "43": {
             "speaker": "丰川祥子",
-            "dialogue": "傻瓜。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "傻瓜。"
+                }
+            ]
         },
         "44": {
             "speaker": "椎名立希",
-            "dialogue": "什么？"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "什么？"
+                }
+            ]
         },
         "45": {
             "speaker": "丰川祥子",
-            "dialogue": "我什么也没说。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "我什么也没说。"
+                }
+            ]
         },
         "46": {
             "speaker": "",
-            "dialogue": "一碗关东煮在初春寒冷的室外冒着热气，被灰蒙蒙的风吹散。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "一碗关东煮在初春寒冷的室外冒着热气，被灰蒙蒙的风吹散。"
+                }
+            ]
         },
         "47": {
             "speaker": "",
-            "dialogue": "坐在便利店门前的长椅，祥子递给立希方便筷。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "坐在便利店门前的长椅，祥子递给立希方便筷。"
+                }
+            ]
         },
         "48": {
             "speaker": "",
-            "dialogue": "热乎的食物带来温度，耐心咀嚼送入胃袋，熨帖地转换为团团白雾的呼吸。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "热乎的食物带来温度，耐心咀嚼送入胃袋，熨帖地转换为团团白雾的呼吸。"
+                }
+            ]
         },
         "49": {
             "speaker": "丰川祥子",
-            "dialogue": "立希，如果不考虑所有的外在因素和条件，现在的你会在做什么？"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "立希，如果不考虑所有的外在因素和条件，现在的你会在做什么？"
+                }
+            ]
         },
         "50": {
             "speaker": "椎名立希",
-            "dialogue": "这是什么，中学生的性格测试吗？"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "这是什么，中学生的性格测试吗？"
+                }
+            ]
         },
         "51": {
             "speaker": "丰川祥子",
-            "dialogue": "随便问问……嘶，好烫。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "随便问问……嘶，好烫。"
+                }
+            ]
         },
         "52": {
             "speaker": "椎名立希",
-            "dialogue": "......"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "......"
+                }
+            ]
         },
         "53": {
             "speaker": "丰川祥子",
-            "dialogue": "还没想好吗？"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "还没想好吗？"
+                }
+            ]
         },
         "54": {
             "speaker": "椎名立希",
-            "dialogue": "应该，还是在写歌，还有打鼓。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "应该，还是在写歌，还有打鼓。"
+                }
+            ]
         },
         "55": {
             "speaker": "丰川祥子",
-            "dialogue": "就这样？"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "就这样？"
+                }
+            ]
         },
         "56": {
             "speaker": "椎名立希",
-            "dialogue": "也许在不同的地方写歌……"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "也许在不同的地方写歌……"
+                }
+            ]
         },
         "57": {
             "speaker": "椎名立希",
-            "dialogue": "喂，你在笑什么。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "喂，你在笑什么。"
+                }
+            ]
         },
         "58": {
             "speaker": "丰川祥子",
-            "dialogue": "立希猜呢。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "立希猜呢。"
+                }
+            ]
         },
         "59": {
             "speaker": "椎名立希",
-            "dialogue": "我才不要猜。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "我才不要猜。"
+                }
+            ]
         },
         "60": {
             "speaker": "椎名立希",
-            "dialogue": "（反正你从前就是这么个让人摸不着头脑的人。）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（反正你从前就是这么个让人摸不着头脑的人。）"
+                }
+            ]
         },
         "61": {
             "speaker": "丰川祥子",
-            "dialogue": "我想……我也是一样。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "我想……我也是一样。"
+                }
+            ]
         },
         "62": {
             "speaker": "",
-            "dialogue": "相互对视一眼，她们默契地不再继续这个话题。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "相互对视一眼，她们默契地不再继续这个话题。"
+                }
+            ]
         },
         "63": {
             "speaker": "",
-            "dialogue": "丰川祥子分给立希一支细长的卷烟，犹豫了几秒，立希接了下来。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "丰川祥子分给立希一支细长的卷烟，犹豫了几秒，立希接了下来。"
+                }
+            ]
         },
         "64": {
             "speaker": "椎名立希",
-            "dialogue": "我还以为会是更精致的牌子。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "我还以为会是更精致的牌子。"
+                }
+            ]
         },
         "65": {
             "speaker": "丰川祥子",
-            "dialogue": "为什么？"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "为什么？"
+                }
+            ]
         },
         "66": {
             "speaker": "丰川祥子",
-            "dialogue": "提神而已，什么都一样。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "提神而已，什么都一样。"
+                }
+            ]
         },
         "67": {
             "speaker": "椎名立希",
-            "dialogue": "话是这么说没错。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "话是这么说没错。"
+                }
+            ]
         },
         "68": {
             "speaker": "丰川祥子",
-            "dialogue": "立希，你为什么戒烟？"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "立希，你为什么戒烟？"
+                }
+            ]
         },
         "69": {
             "speaker": "丰川祥子",
-            "dialogue": "有人管你了？"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "有人管你了？"
+                }
+            ]
         },
         "70": {
             "speaker": "椎名立希",
-            "dialogue": "......跟你没关系。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "......跟你没关系。"
+                }
+            ]
         },
         "71": {
             "speaker": "",
-            "dialogue": "祥子露出一个若有所悟的笑。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "祥子露出一个若有所悟的笑。"
+                }
+            ]
         },
         "72": {
             "speaker": "",
-            "dialogue": "和几小时以前相比，她的脸色仍然苍白虚弱，但精神似乎好了许多。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "和几小时以前相比，她的脸色仍然苍白虚弱，但精神似乎好了许多。"
+                }
+            ]
         },
         "73": {
             "speaker": "丰川祥子",
-            "dialogue": "糟糕，没有火。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "糟糕，没有火。"
+                }
+            ]
         },
         "74": {
             "speaker": "椎名立希",
-            "dialogue": "怎么会没有火？"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "怎么会没有火？"
+                }
+            ]
         },
         "75": {
             "speaker": "丰川祥子",
-            "dialogue": "......跟你没关系。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "......跟你没关系。"
+                }
+            ]
         },
         "76": {
             "speaker": "椎名立希",
-            "dialogue": "（你这家伙才是真正被勒令戒烟的人吧。）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（你这家伙才是真正被勒令戒烟的人吧。）"
+                }
+            ]
         },
         "77": {
             "speaker": "椎名立希",
-            "dialogue": "我有火柴。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "我有火柴。"
+                }
+            ]
         },
         "78": {
             "speaker": "",
-            "dialogue": "立希从大衣的口袋中取出火柴盒，纸制的四角有些受潮变软、变皱。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "立希从大衣的口袋中取出火柴盒，纸制的四角有些受潮变软、变皱。"
+                }
+            ]
         },
         "79": {
             "speaker": "",
-            "dialogue": "拉开纸盒，好在里面整齐的火柴还干爽无虞。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "拉开纸盒，好在里面整齐的火柴还干爽无虞。"
+                }
+            ]
         },
         "80": {
             "speaker": "椎名立希",
-            "dialogue": "……一个“卖火柴的小女孩”给我的。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "……一个“卖火柴的小女孩”给我的。"
+                }
+            ]
         },
         "81": {
             "speaker": "椎名立希",
-            "dialogue": "也许是你们的歌迷。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "也许是你们的歌迷。"
+                }
+            ]
         },
         "82": {
             "speaker": "丰川祥子",
-            "dialogue": "......"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "......"
+                }
+            ]
         },
         "83": {
             "speaker": "丰川祥子",
-            "dialogue": "那么你许愿了么？"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "那么你许愿了么？"
+                }
+            ]
         },
         "84": {
             "speaker": "椎名立希",
-            "dialogue": "……没有。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "……没有。"
+                }
+            ]
         },
         "85": {
             "speaker": "丰川祥子",
-            "dialogue": "你肯定许了，立希。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "你肯定许了，立希。"
+                }
+            ]
         },
         "86": {
             "speaker": "椎名立希",
-            "dialogue": "......为什么有的人长大以后比以前更讨人厌了？"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "......为什么有的人长大以后比以前更讨人厌了？"
+                }
+            ]
         },
         "87": {
             "speaker": "丰川祥子",
-            "dialogue": "......"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "......"
+                }
+            ]
         },
         "88": {
             "speaker": "椎名立希",
-            "dialogue": "……"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "……"
+                }
+            ]
         },
         "89": {
             "speaker": "椎名立希",
-            "dialogue": "对不起。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "对不起。"
+                }
+            ]
         },
         "90": {
             "speaker": "",
-            "dialogue": "长长的烟灰掉落下来，差一点烫到食指。Crychic仍然是一个不适合联想的话题。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "长长的烟灰掉落下来，差一点烫到食指。Crychic仍然是一个不适合联想的话题。"
+                }
+            ]
         },
         "91": {
             "speaker": "",
-            "dialogue": "即使这并非立希的本意。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "即使这并非立希的本意。"
+                }
+            ]
         },
         "92": {
             "speaker": "椎名立希",
-            "dialogue": "……"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "……"
+                }
+            ]
         },
         "93": {
             "speaker": "椎名立希",
-            "dialogue": "我没有讨厌你，祥子。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "我没有讨厌你，祥子。"
+                }
+            ]
         },
         "94": {
             "speaker": "丰川祥子",
-            "dialogue": "我知道。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "我知道。"
+                }
+            ]
         },
         "95": {
             "speaker": "",
-            "dialogue": "丰川祥子低下头吸了一口手里的烟，轻轻地随呼吸吐出。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "丰川祥子低下头吸了一口手里的烟，轻轻地随呼吸吐出。"
+                }
+            ]
         },
         "96": {
             "speaker": "丰川祥子",
-            "dialogue": "陪我走走，可以吗？"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "陪我走走，可以吗？"
+                }
+            ]
         }
     }
 }

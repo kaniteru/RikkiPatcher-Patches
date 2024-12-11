@@ -1,38 +1,83 @@
 {
     "0": {
         "speaker": "椎名立希",
-        "dialogue": "姐姐要走了吗？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "姐姐要走了吗？"
+            }
+        ]
     },
     "1": {
         "speaker": "椎名真希",
-        "dialogue": "嗯。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "嗯。"
+            }
+        ]
     },
     "2": {
         "speaker": "椎名真希",
-        "dialogue": "安心工作，多保重。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "安心工作，多保重。"
+            }
+        ]
     },
     "3": {
         "speaker": "椎名立希",
-        "dialogue": "我知道了。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我知道了。"
+            }
+        ]
     },
     "4": {
         "speaker": "",
-        "dialogue": "久别之后是最后一次见面，而相聚的时光却这样短暂，立希的心揪作一团。心脏还是不紧不慢地跳动着，唯有胸口的憋闷传达着情绪。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "久别之后是最后一次见面，而相聚的时光却这样短暂，立希的心揪作一团。心脏还是不紧不慢地跳动着，唯有胸口的憋闷传达着情绪。"
+            }
+        ]
     },
     "5": {
         "speaker": "",
-        "dialogue": "面对这个她用了生命的大半时间来追逐的女性，或许她永远算不上成熟。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "面对这个她用了生命的大半时间来追逐的女性，或许她永远算不上成熟。"
+            }
+        ]
     },
     "6": {
         "speaker": "椎名真希",
-        "dialogue": "礼物记得要拆。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "礼物记得要拆。"
+            }
+        ]
     },
     "7": {
         "speaker": "椎名真希",
-        "dialogue": "再见，立希。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "再见，立希。"
+            }
+        ]
     },
     "8": {
         "speaker": "椎名立希",
-        "dialogue": "……再见。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……再见。"
+            }
+        ]
     }
 }

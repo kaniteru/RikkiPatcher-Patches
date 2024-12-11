@@ -3,371 +3,831 @@
     "list": {
         "0": {
             "speaker": "",
-            "dialogue": "橱柜中整齐摆放着四只杯子，立希犹豫了一下，回到房间取来自己的熊猫水杯清洗干净。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "橱柜中整齐摆放着四只杯子，立希犹豫了一下，回到房间取来自己的熊猫水杯清洗干净。"
+                }
+            ]
         },
         "1": {
             "speaker": "",
-            "dialogue": "打开冰箱，啤酒的储备还丰厚，咖啡却寥寥无几，清一色的啤酒和咖啡之间突兀地摆着一盒可能会用来犒劳乐奈的抹茶牛奶，这便是全部能拿来招待姐姐的东西。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "打开冰箱，啤酒的储备还丰厚，咖啡却寥寥无几，清一色的啤酒和咖啡之间突兀地摆着一盒可能会用来犒劳乐奈的抹茶牛奶，这便是全部能拿来招待姐姐的东西。"
+                }
+            ]
         },
         "2": {
             "speaker": "",
-            "dialogue": "检查完冰箱的储备后，立希转到玄关翻开鞋柜，找到一双还未剪去标签的拖鞋。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "检查完冰箱的储备后，立希转到玄关翻开鞋柜，找到一双还未剪去标签的拖鞋。"
+                }
+            ]
         },
         "3": {
             "speaker": "",
-            "dialogue": "时日无多的她想来也不需要留着什么备用拖鞋，立希剪掉了标签，把崭新的拖鞋摆放在鞋柜边。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "时日无多的她想来也不需要留着什么备用拖鞋，立希剪掉了标签，把崭新的拖鞋摆放在鞋柜边。"
+                }
+            ]
         },
         "4": {
             "speaker": "椎名立希",
-            "dialogue": "唉……"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "唉……"
+                }
+            ]
         },
         "5": {
             "speaker": "椎名立希",
-            "dialogue": "（家里的东西还算拿得出手，不用再出门了。）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（家里的东西还算拿得出手，不用再出门了。）"
+                }
+            ]
         },
         "6": {
             "speaker": "椎名立希",
-            "dialogue": "（已经没剩下几天了，留那么多东西干什么呢？）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（已经没剩下几天了，留那么多东西干什么呢？）"
+                }
+            ]
         },
         "7": {
             "speaker": "椎名立希",
-            "dialogue": "（先写一版demo吧，在姐姐到家之前多试试新的思路。）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（先写一版demo吧，在姐姐到家之前多试试新的思路。）"
+                }
+            ]
         },
         "8": {
             "speaker": "椎名立希",
-            "dialogue": "（再听一遍demo吧，在姐姐到家之前试试新的思路。）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（再听一遍demo吧，在姐姐到家之前试试新的思路。）"
+                }
+            ]
         },
         "9": {
             "speaker": "",
-            "dialogue": "门铃声响起时立希吃了一惊，从市区的家到立希租住的房子按理来说是一段不短的距离，而事实上也是如此。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "门铃声响起时立希吃了一惊，从市区的家到立希租住的房子按理来说是一段不短的距离，而事实上也是如此。"
+                }
+            ]
         },
         "10": {
             "speaker": "",
-            "dialogue": "立希打电话时透过窗户看见的还勉强称得上朝阳，而现在闹钟的指针已经指向了下午——但她的编曲还没来得及改动太多。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "立希打电话时透过窗户看见的还勉强称得上朝阳，而现在闹钟的指针已经指向了下午——但她的编曲还没来得及改动太多。"
+                }
+            ]
         },
         "11": {
             "speaker": "椎名真希",
-            "dialogue": "好久不见，立希。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "好久不见，立希。"
+                }
+            ]
         },
         "12": {
             "speaker": "椎名立希",
-            "dialogue": "姐姐，请进。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "姐姐，请进。"
+                }
+            ]
         },
         "13": {
             "speaker": "",
-            "dialogue": "真希将手提袋递给立希，这是她迟到了许久的乔迁礼物。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "真希将手提袋递给立希，这是她迟到了许久的乔迁礼物。"
+                }
+            ]
         },
         "14": {
             "speaker": "椎名立希",
-            "dialogue": "这是……？"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "这是……？"
+                }
+            ]
         },
         "15": {
             "speaker": "椎名真希",
-            "dialogue": "收下吧，我想你可能用得上。这还是我第一次来你的新家。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "收下吧，我想你可能用得上。这还是我第一次来你的新家。"
+                }
+            ]
         },
         "16": {
             "speaker": "椎名立希",
-            "dialogue": "……谢谢姐姐。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "……谢谢姐姐。"
+                }
+            ]
         },
         "17": {
             "speaker": "",
-            "dialogue": "真希换上立希特意为她准备的拖鞋，环顾客厅内的装潢。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "真希换上立希特意为她准备的拖鞋，环顾客厅内的装潢。"
+                }
+            ]
         },
         "18": {
             "speaker": "椎名真希",
-            "dialogue": "位置偏了点，但房子还不错。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "位置偏了点，但房子还不错。"
+                }
+            ]
         },
         "19": {
             "speaker": "椎名立希",
-            "dialogue": "（这么大的房子，只有在这个位置我才能租得起啊……）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（这么大的房子，只有在这个位置我才能租得起啊……）"
+                }
+            ]
         },
         "20": {
             "speaker": "椎名立希",
-            "dialogue": "毕竟我的工作性质不住在市区也没关系，这个房子很合适。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "毕竟我的工作性质不住在市区也没关系，这个房子很合适。"
+                }
+            ]
         },
         "21": {
             "speaker": "椎名立希",
-            "dialogue": "姐姐请坐吧，我去找点喝的。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "姐姐请坐吧，我去找点喝的。"
+                }
+            ]
         },
         "22": {
             "speaker": "",
-            "dialogue": "立希匆匆走进厨房。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "立希匆匆走进厨房。"
+                }
+            ]
         },
         "23": {
             "speaker": "椎名立希",
-            "dialogue": "（好像没有听说过姐姐喜欢甜食？抹茶牛奶她会喜欢吗？）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（好像没有听说过姐姐喜欢甜食？抹茶牛奶她会喜欢吗？）"
+                }
+            ]
         },
         "24": {
             "speaker": "椎名立希",
-            "dialogue": "（……还是罐装咖啡？她能喝得惯这种兑了水一样的口感吗？）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（……还是罐装咖啡？她能喝得惯这种兑了水一样的口感吗？）"
+                }
+            ]
         },
         "25": {
             "speaker": "椎名立希",
-            "dialogue": "（啊……我当时怎么会觉得家里的东西足够用来招待客人的……）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（啊……我当时怎么会觉得家里的东西足够用来招待客人的……）"
+                }
+            ]
         },
         "26": {
             "speaker": "椎名真希",
-            "dialogue": "咖啡就好。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "咖啡就好。"
+                }
+            ]
         },
         "27": {
             "speaker": "椎名立希",
-            "dialogue": "姐姐？！"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "姐姐？！"
+                }
+            ]
         },
         "28": {
             "speaker": "椎名立希",
-            "dialogue": "我知道了……"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "我知道了……"
+                }
+            ]
         },
         "29": {
             "speaker": "椎名真希",
-            "dialogue": "我都不知道你会喜欢抹茶牛奶。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "我都不知道你会喜欢抹茶牛奶。"
+                }
+            ]
         },
         "30": {
             "speaker": "椎名立希",
-            "dialogue": "啊、不是，队友偶尔会来家里。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "啊、不是，队友偶尔会来家里。"
+                }
+            ]
         },
         "31": {
             "speaker": "椎名真希",
-            "dialogue": "……"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "……"
+                }
+            ]
         },
         "32": {
             "speaker": "椎名立希",
-            "dialogue": "（是想听我讲讲队友吗？）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（是想听我讲讲队友吗？）"
+                }
+            ]
         },
         "33": {
             "speaker": "椎名立希",
-            "dialogue": "……我们的主音吉他手，技术在初中的时候就很厉害。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "……我们的主音吉他手，技术在初中的时候就很厉害。"
+                }
+            ]
         },
         "34": {
             "speaker": "椎名立希",
-            "dialogue": "她对抹茶很痴迷。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "她对抹茶很痴迷。"
+                }
+            ]
         },
         "35": {
             "speaker": "椎名真希",
-            "dialogue": "主音吉他手……我有印象，她的技术很华丽。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "主音吉他手……我有印象，她的技术很华丽。"
+                }
+            ]
         },
         "36": {
             "speaker": "椎名真希",
-            "dialogue": "似乎是个很有个性的女孩。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "似乎是个很有个性的女孩。"
+                }
+            ]
         },
         "37": {
             "speaker": "椎名立希",
-            "dialogue": "确实……很有个性。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "确实……很有个性。"
+                }
+            ]
         },
         "38": {
             "speaker": "",
-            "dialogue": "立希从冰箱取出罐装咖啡，在水槽中细致地冲洗过易拉罐的边缘，才单手撬开拉环，将寡淡的咖啡液倒进自己最喜欢的熊猫水杯。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "立希从冰箱取出罐装咖啡，在水槽中细致地冲洗过易拉罐的边缘，才单手撬开拉环，将寡淡的咖啡液倒进自己最喜欢的熊猫水杯。"
+                }
+            ]
         },
         "39": {
             "speaker": "椎名真希",
-            "dialogue": "你喜欢熊猫这点还是没变。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "你喜欢熊猫这点还是没变。"
+                }
+            ]
         },
         "40": {
             "speaker": "椎名立希",
-            "dialogue": "我不……"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "我不……"
+                }
+            ]
         },
         "41": {
             "speaker": "椎名立希",
-            "dialogue": "呃……"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "呃……"
+                }
+            ]
         },
         "42": {
             "speaker": "椎名立希",
-            "dialogue": "熊猫……很可爱。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "熊猫……很可爱。"
+                }
+            ]
         },
         "43": {
             "speaker": "椎名真希",
-            "dialogue": "我能理解。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "我能理解。"
+                }
+            ]
         },
         "44": {
             "speaker": "椎名立希",
-            "dialogue": "（理解……怎么说得好像喜欢熊猫是什么奇怪的事一样。）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（理解……怎么说得好像喜欢熊猫是什么奇怪的事一样。）"
+                }
+            ]
         },
         "45": {
             "speaker": "椎名真希",
-            "dialogue": "我刚刚看见冰箱里有很多啤酒，你平常会喝酒？"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "我刚刚看见冰箱里有很多啤酒，你平常会喝酒？"
+                }
+            ]
         },
         "46": {
             "speaker": "椎名立希",
-            "dialogue": "……写完曲子的时候会喝，偶尔。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "……写完曲子的时候会喝，偶尔。"
+                }
+            ]
         },
         "47": {
             "speaker": "椎名真希",
-            "dialogue": "最近没心情？"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "最近没心情？"
+                }
+            ]
         },
         "48": {
             "speaker": "椎名立希",
-            "dialogue": "不、也不是……演出结束会跟队友去居酒屋的。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "不、也不是……演出结束会跟队友去居酒屋的。"
+                }
+            ]
         },
         "49": {
             "speaker": "椎名立希",
-            "dialogue": "（虽然那家居酒屋最近歇业了，MyGO!!!!!最近也没有Live。）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（虽然那家居酒屋最近歇业了，MyGO!!!!!最近也没有Live。）"
+                }
+            ]
         },
         "50": {
             "speaker": "椎名立希",
-            "dialogue": "啊，其实前几天就和朋友一起去过。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "啊，其实前几天就和朋友一起去过。"
+                }
+            ]
         },
         "51": {
             "speaker": "椎名立希",
-            "dialogue": "（虽然不是常去的那家。）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（虽然不是常去的那家。）"
+                }
+            ]
         },
         "52": {
             "speaker": "椎名真希",
-            "dialogue": "跟乐队的朋友？"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "跟乐队的朋友？"
+                }
+            ]
         },
         "53": {
             "speaker": "椎名立希",
-            "dialogue": "不是MyGO的成员，不过她也有在组乐队，是个贝斯手。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "不是MyGO的成员，不过她也有在组乐队，是个贝斯手。"
+                }
+            ]
         },
         "54": {
             "speaker": "椎名真希",
-            "dialogue": "……"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "……"
+                }
+            ]
         },
         "55": {
             "speaker": "椎名真希",
-            "dialogue": "没想到你会去结交行业内的朋友。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "没想到你会去结交行业内的朋友。"
+                }
+            ]
         },
         "56": {
             "speaker": "椎名立希",
-            "dialogue": "（我在姐姐眼里这么闷吗？）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（我在姐姐眼里这么闷吗？）"
+                }
+            ]
         },
         "57": {
             "speaker": "椎名立希",
-            "dialogue": "嗯……其实她是我的高中同学。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "嗯……其实她是我的高中同学。"
+                }
+            ]
         },
         "58": {
             "speaker": "椎名立希",
-            "dialogue": "现在在Ave Mujica担任贝斯手……就是祥子在的乐队。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "现在在Ave Mujica担任贝斯手……就是祥子在的乐队。"
+                }
+            ]
         },
         "59": {
             "speaker": "椎名真希",
-            "dialogue": "是吗。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "是吗。"
+                }
+            ]
         },
         "60": {
             "speaker": "",
-            "dialogue": "真希端起水杯轻抿一口。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "真希端起水杯轻抿一口。"
+                }
+            ]
         },
         "61": {
             "speaker": "",
-            "dialogue": "若不是因为妹妹，已然成为社会精英的她恐怕很难再接触到这样廉价的饮品了。意识到这一点的立希顿时不知道该向自己的亲姐姐抛出什么样的话题，她们的生活离得太远了。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "若不是因为妹妹，已然成为社会精英的她恐怕很难再接触到这样廉价的饮品了。意识到这一点的立希顿时不知道该向自己的亲姐姐抛出什么样的话题，她们的生活离得太远了。"
+                }
+            ]
         },
         "62": {
             "speaker": "椎名立希",
-            "dialogue": "对、对了，机会难得，带姐姐参观一下吧。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "对、对了，机会难得，带姐姐参观一下吧。"
+                }
+            ]
         },
         "63": {
             "speaker": "椎名真希",
-            "dialogue": "好。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "好。"
+                }
+            ]
         },
         "64": {
             "speaker": "",
-            "dialogue": "空旷的房子生活气息不算浓厚，毕竟立希选择了将工作融入生活，只有练鼓室看得出较多使用痕迹。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "空旷的房子生活气息不算浓厚，毕竟立希选择了将工作融入生活，只有练鼓室看得出较多使用痕迹。"
+                }
+            ]
         },
         "65": {
             "speaker": "椎名真希",
-            "dialogue": "是为了练鼓才搬到这的吗？"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "是为了练鼓才搬到这的吗？"
+                }
+            ]
         },
         "66": {
             "speaker": "椎名立希",
-            "dialogue": "算是吧，毕竟每天租练习室的开销也不是小数目，租房还能省下路费……而且独栋离邻居比较远，做下鼓房隔音就不用担心会扰民了。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "算是吧，毕竟每天租练习室的开销也不是小数目，租房还能省下路费……而且独栋离邻居比较远，做下鼓房隔音就不用担心会扰民了。"
+                }
+            ]
         },
         "67": {
             "speaker": "椎名真希",
-            "dialogue": "真是周到……对了，这几天新闻上报导的暴力事件是发生在附近的街区吧？"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "真是周到……对了，这几天新闻上报导的暴力事件是发生在附近的街区吧？"
+                }
+            ]
         },
         "68": {
             "speaker": "椎名立希",
-            "dialogue": "（姐姐连这都了解到了……）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（姐姐连这都了解到了……）"
+                }
+            ]
         },
         "69": {
             "speaker": "椎名立希",
-            "dialogue": "……对。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "……对。"
+                }
+            ]
         },
         "70": {
             "speaker": "椎名真希",
-            "dialogue": "要注意安全啊。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "要注意安全啊。"
+                }
+            ]
         },
         "71": {
             "speaker": "椎名立希",
-            "dialogue": "嗯，放心吧，姐姐。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "嗯，放心吧，姐姐。"
+                }
+            ]
         },
         "72": {
             "speaker": "椎名立希",
-            "dialogue": "（治安问题对我来说……唉。）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（治安问题对我来说……唉。）"
+                }
+            ]
         },
         "73": {
             "speaker": "椎名立希",
-            "dialogue": "（再过几天，家里人一定是最难过的吧。）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（再过几天，家里人一定是最难过的吧。）"
+                }
+            ]
         },
         "74": {
             "speaker": "椎名立希",
-            "dialogue": "……说起来，总在到处出差的姐姐才是要注意安全。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "……说起来，总在到处出差的姐姐才是要注意安全。"
+                }
+            ]
         },
         "75": {
             "speaker": "椎名真希",
-            "dialogue": "立希……？"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "立希……？"
+                }
+            ]
         },
         "76": {
             "speaker": "椎名立希",
-            "dialogue": "（糟了，是不是被姐姐察觉到什么……）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（糟了，是不是被姐姐察觉到什么……）"
+                }
+            ]
         },
         "77": {
             "speaker": "椎名真希",
-            "dialogue": "看来乐队的朋友们对你影响很大。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "看来乐队的朋友们对你影响很大。"
+                }
+            ]
         },
         "78": {
             "speaker": "椎名立希",
-            "dialogue": "什么啊……"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "什么啊……"
+                }
+            ]
         },
         "79": {
             "speaker": "椎名立希",
-            "dialogue": "（不过姐姐应该是没有发现异样。）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（不过姐姐应该是没有发现异样。）"
+                }
+            ]
         },
         "80": {
             "speaker": "",
-            "dialogue": "立希的右手不着痕迹地试探了下左手缓慢的脉搏，看着真希平静的神色悄悄松了口气。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "立希的右手不着痕迹地试探了下左手缓慢的脉搏，看着真希平静的神色悄悄松了口气。"
+                }
+            ]
         },
         "81": {
             "speaker": "椎名真希",
-            "dialogue": "当初把你推荐给祥子同学是正确的。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "当初把你推荐给祥子同学是正确的。"
+                }
+            ]
         },
         "82": {
             "speaker": "椎名立希",
-            "dialogue": "跟她有什么关系……"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "跟她有什么关系……"
+                }
+            ]
         },
         "83": {
             "speaker": "椎名立希",
-            "dialogue": "（倒是有很久没见过她了，或许也没机会再见了吧。）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（倒是有很久没见过她了，或许也没机会再见了吧。）"
+                }
+            ]
         },
         "84": {
             "speaker": "椎名真希",
-            "dialogue": "说起来，你高中的时候可是叛逆得很，倒可以为了乐队成员来敲我的门。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "说起来，你高中的时候可是叛逆得很，倒可以为了乐队成员来敲我的门。"
+                }
+            ]
         },
         "85": {
             "speaker": "椎名立希",
-            "dialogue": "那都多久之前的事了……"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "那都多久之前的事了……"
+                }
+            ]
         },
         "86": {
             "speaker": "椎名真希",
-            "dialogue": "是月之森的学生对吧？我记得是在弦乐团拉低音提琴。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "是月之森的学生对吧？我记得是在弦乐团拉低音提琴。"
+                }
+            ]
         },
         "87": {
             "speaker": "椎名立希",
-            "dialogue": "现在是我们的贝斯手。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "现在是我们的贝斯手。"
+                }
+            ]
         },
         "88": {
             "speaker": "椎名真希",
-            "dialogue": "贝斯和低音提琴啊……是很相近。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "贝斯和低音提琴啊……是很相近。"
+                }
+            ]
         },
         "89": {
             "speaker": "椎名真希",
-            "dialogue": "比起找我帮忙，你当时肯定想找其他贝斯手替补的吧？"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "比起找我帮忙，你当时肯定想找其他贝斯手替补的吧？"
+                }
+            ]
         },
         "90": {
             "speaker": "椎名立希",
-            "dialogue": "……"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "……"
+                }
+            ]
         },
         "91": {
             "speaker": "椎名真希",
-            "dialogue": "你真去找了啊……"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "你真去找了啊……"
+                }
+            ]
         }
     }
 }

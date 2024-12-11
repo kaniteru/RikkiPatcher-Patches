@@ -1,118 +1,263 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": "黄昏。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "黄昏。"
+            }
+        ]
     },
     "1": {
         "speaker": "",
-        "dialogue": "暮色四合，阴影缓缓爬过街道，逐渐吞没地面上乌鸦交缠的影子。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "暮色四合，阴影缓缓爬过街道，逐渐吞没地面上乌鸦交缠的影子。"
+            }
+        ]
     },
     "2": {
         "speaker": "",
-        "dialogue": "对普通的工作日而言，这个时间段安静得有些反常，白日的人气似乎在此时已经流失殆尽。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "对普通的工作日而言，这个时间段安静得有些反常，白日的人气似乎在此时已经流失殆尽。"
+            }
+        ]
     },
     "3": {
         "speaker": "",
-        "dialogue": "街上唯一的行人，正背对着最后一点残辉，垂头思索，影子在她的脚下拉得很长。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "街上唯一的行人，正背对着最后一点残辉，垂头思索，影子在她的脚下拉得很长。"
+            }
+        ]
     },
     "4": {
         "speaker": "椎名立希",
-        "dialogue": "好累……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "好累……"
+            }
+        ]
     },
     "5": {
         "speaker": "椎名立希",
-        "dialogue": "……鼓棒本来就不是玩具，怎么能拿来打闹啊！"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……鼓棒本来就不是玩具，怎么能拿来打闹啊！"
+            }
+        ]
     },
     "6": {
         "speaker": "椎名立希",
-        "dialogue": "现在的小孩也是，语气稍微严厉一点就哭那么凶，还动不动就告状。唉！到底想不想好好学音乐啊！"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "现在的小孩也是，语气稍微严厉一点就哭那么凶，还动不动就告状。唉！到底想不想好好学音乐啊！"
+            }
+        ]
     },
     "7": {
         "speaker": "椎名立希",
-        "dialogue": "…………"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "…………"
+            }
+        ]
     },
     "8": {
         "speaker": "椎名立希",
-        "dialogue": "……啧，算了，反正肯定也只是随便玩玩而已。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……啧，算了，反正肯定也只是随便玩玩而已。"
+            }
+        ]
     },
     "9": {
         "speaker": "椎名立希",
-        "dialogue": "（都这个点了，干脆直接到常去的居酒屋吃饭吧。）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（都这个点了，干脆直接到常去的居酒屋吃饭吧。）"
+            }
+        ]
     },
     "10": {
         "speaker": "椎名立希",
-        "dialogue": "（……嗯？门居然关着？）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（……嗯？门居然关着？）"
+            }
+        ]
     },
     "11": {
         "speaker": "椎名立希",
-        "dialogue": "“店主染病故歇业几日。”"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "“店主染病故歇业几日。”"
+            }
+        ]
     },
     "12": {
         "speaker": "椎名立希",
-        "dialogue": "（店主大爷平时感冒都没见他得过，那个号称全年无休的工作铁人，居然也……希望他能早日康复吧。)"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（店主大爷平时感冒都没见他得过，那个号称全年无休的工作铁人，居然也……希望他能早日康复吧。)"
+            }
+        ]
     },
     "13": {
         "speaker": "",
-        "dialogue": "绕了点远路，重新踏上回家道路的时候，天色已经近黑，早春的夜温令立希不禁拉紧了衣领。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "绕了点远路，重新踏上回家道路的时候，天色已经近黑，早春的夜温令立希不禁拉紧了衣领。"
+            }
+        ]
     },
     "14": {
         "speaker": "",
-        "dialogue": "路过一条阴暗狭窄的小巷时，侧边传来窸窸窣窣的声响，顺着声源循去，一只毛色亮丽的黑猫正埋头于由垃圾罐头组成的小山里努力翻找。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "路过一条阴暗狭窄的小巷时，侧边传来窸窸窣窣的声响，顺着声源循去，一只毛色亮丽的黑猫正埋头于由垃圾罐头组成的小山里努力翻找。"
+            }
+        ]
     },
     "15": {
         "speaker": "",
-        "dialogue": "仿佛是有心灵感应一般，在立希的目光落到黑猫身上的瞬间，它便扭过头，直勾勾地盯着她——"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "仿佛是有心灵感应一般，在立希的目光落到黑猫身上的瞬间，它便扭过头，直勾勾地盯着她——"
+            }
+        ]
     },
     "16": {
         "speaker": "",
-        "dialogue": "——那是一对锐利的，莫名熟悉的，紫色眸子。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "——那是一对锐利的，莫名熟悉的，紫色眸子。"
+            }
+        ]
     },
     "17": {
         "speaker": "",
-        "dialogue": "立希忽然感到心底发毛。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希忽然感到心底发毛。"
+            }
+        ]
     },
     "18": {
         "speaker": "椎名立希",
-        "dialogue": "流、流浪猫吗？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "流、流浪猫吗？"
+            }
+        ]
     },
     "19": {
         "speaker": "椎名立希",
-        "dialogue": "（不对，毛色这么亮还戴着项圈，难道是家猫？可为什么会……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（不对，毛色这么亮还戴着项圈，难道是家猫？可为什么会……）"
+            }
+        ]
     },
     "20": {
         "speaker": "猫",
-        "dialogue": "喵——————！！"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "喵——————！！"
+            }
+        ]
     },
     "21": {
         "speaker": "",
-        "dialogue": "它的身体低伏，浑身的毛发都炸了起来，瞳孔惊恐地竖起，像是看见了什么极度骇人的东西。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "它的身体低伏，浑身的毛发都炸了起来，瞳孔惊恐地竖起，像是看见了什么极度骇人的东西。"
+            }
+        ]
     },
     "22": {
         "speaker": "椎名立希",
-        "dialogue": "什么？！"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "什么？！"
+            }
+        ]
     },
     "23": {
         "speaker": "",
-        "dialogue": "近乎惨叫的声音吓得立希赶紧转身看向身后，但那空无一物。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "近乎惨叫的声音吓得立希赶紧转身看向身后，但那空无一物。"
+            }
+        ]
     },
     "24": {
         "speaker": "椎名立希",
-        "dialogue": "（……忽然怎么了？）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（……忽然怎么了？）"
+            }
+        ]
     },
     "25": {
         "speaker": "",
-        "dialogue": "立希转回身，黑猫已不见踪影。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希转回身，黑猫已不见踪影。"
+            }
+        ]
     },
     "26": {
         "speaker": "椎名立希",
-        "dialogue": "（真是莫名其妙……今天一整天都莫名其妙……好累……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（真是莫名其妙……今天一整天都莫名其妙……好累……）"
+            }
+        ]
     },
     "27": {
         "speaker": "",
-        "dialogue": "尽管心存疑惑，但在冷汗退潮后，下班后的疲惫猛然席卷全身。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "尽管心存疑惑，但在冷汗退潮后，下班后的疲惫猛然席卷全身。"
+            }
+        ]
     },
     "28": {
         "speaker": "",
-        "dialogue": "今天发生了太多事情，在立希看来却都毫无意义。她拖着步子朝家的方向继续走去。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "今天发生了太多事情，在立希看来却都毫无意义。她拖着步子朝家的方向继续走去。"
+            }
+        ]
     }
 }

@@ -1,158 +1,353 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": "报幕"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "报幕"
+            }
+        ]
     },
     "1": {
         "speaker": "",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "2": {
         "speaker": "",
-        "dialogue": "手机振动声响过三道。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "手机振动声响过三道。"
+            }
+        ]
     },
     "3": {
         "speaker": "",
-        "dialogue": "彻夜未眠的立希靠在床头，盯着面前昏暗的空间，没有摁灭手机的打算。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "彻夜未眠的立希靠在床头，盯着面前昏暗的空间，没有摁灭手机的打算。"
+            }
+        ]
     },
     "4": {
         "speaker": "椎名立希",
-        "dialogue": "……喂？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……喂？"
+            }
+        ]
     },
     "5": {
         "speaker": "未知来电",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "6": {
         "speaker": "",
-        "dialogue": "来电显示未知的号码，听筒里沙沙的白噪音令沉默的气氛更加毛骨悚然。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "来电显示未知的号码，听筒里沙沙的白噪音令沉默的气氛更加毛骨悚然。"
+            }
+        ]
     },
     "7": {
         "speaker": "椎名立希",
-        "dialogue": "……您好？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……您好？"
+            }
+        ]
     },
     "8": {
         "speaker": "椎名立希",
-        "dialogue": "……搞什么。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……搞什么。"
+            }
+        ]
     },
     "9": {
         "speaker": "",
-        "dialogue": "陌生的恶作剧点燃了累积的焦虑。立希闭上眼睛，紧紧握拳。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "陌生的恶作剧点燃了累积的焦虑。立希闭上眼睛，紧紧握拳。"
+            }
+        ]
     },
     "10": {
         "speaker": "",
-        "dialogue": "她想要大喊，想要咒骂，想要尖叫。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "她想要大喊，想要咒骂，想要尖叫。"
+            }
+        ]
     },
     "11": {
         "speaker": "",
-        "dialogue": "但最终她什么也没有做。只是疲惫地睁开眼，看向手机变暗的屏幕。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "但最终她什么也没有做。只是疲惫地睁开眼，看向手机变暗的屏幕。"
+            }
+        ]
     },
     "12": {
         "speaker": "",
-        "dialogue": "7：00"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "7：00"
+            }
+        ]
     },
     "13": {
         "speaker": "椎名立希",
-        "dialogue": "……还剩一个小时吗。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……还剩一个小时吗。"
+            }
+        ]
     },
     "14": {
         "speaker": "椎名立希",
-        "dialogue": "（一个小时能做些什么呢，什么也做不了。）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（一个小时能做些什么呢，什么也做不了。）"
+            }
+        ]
     },
     "15": {
         "speaker": "",
-        "dialogue": "人在远行之前应该做些什么？人在临终之前会做些什么……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "人在远行之前应该做些什么？人在临终之前会做些什么……"
+            }
+        ]
     },
     "16": {
         "speaker": "",
-        "dialogue": "十天的时间，立希还未思考清楚这个问题。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "十天的时间，立希还未思考清楚这个问题。"
+            }
+        ]
     },
     "17": {
         "speaker": "椎名立希",
-        "dialogue": "道别……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "道别……"
+            }
+        ]
     },
     "18": {
         "speaker": "椎名立希",
-        "dialogue": "是道别吧。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "是道别吧。"
+            }
+        ]
     },
     "19": {
         "speaker": "",
-        "dialogue": "闭上眼睛，仿佛看得见春风吹动殡仪场外的柳枝。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "闭上眼睛，仿佛看得见春风吹动殡仪场外的柳枝。"
+            }
+        ]
     },
     "20": {
         "speaker": "",
-        "dialogue": "人们排着队，一一向灵前安躺的躯体献花。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "人们排着队，一一向灵前安躺的躯体献花。"
+            }
+        ]
     },
     "21": {
         "speaker": "",
-        "dialogue": "唱经随升腾的焚香缭绕，亲友守护在旁，往棺木里放入死者生前最喜欢的物件。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "唱经随升腾的焚香缭绕，亲友守护在旁，往棺木里放入死者生前最喜欢的物件。"
+            }
+        ]
     },
     "22": {
         "speaker": "椎名立希",
-        "dialogue": "这叫什么告别……别把鼓棒放棺材里啊。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "这叫什么告别……别把鼓棒放棺材里啊。"
+            }
+        ]
     },
     "23": {
         "speaker": "椎名立希",
-        "dialogue": "我……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我……"
+            }
+        ]
     },
     "24": {
         "speaker": "",
-        "dialogue": "摁亮手机，与他人的最后一次联系停留在几天以前。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "摁亮手机，与他人的最后一次联系停留在几天以前。"
+            }
+        ]
     },
     "25": {
         "speaker": "椎名立希",
-        "dialogue": "（要联系谁……能联系谁？）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（要联系谁……能联系谁？）"
+            }
+        ]
     },
     "26": {
         "speaker": "椎名立希",
-        "dialogue": "（就说……“对不起我要死了”“再见”吗，连聊天叙旧都来不及，凭什么到最后还打给对方，留下苦痛和悔恨的回忆。）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（就说……“对不起我要死了”“再见”吗，连聊天叙旧都来不及，凭什么到最后还打给对方，留下苦痛和悔恨的回忆。）"
+            }
+        ]
     },
     "27": {
         "speaker": "椎名立希",
-        "dialogue": "（为什么到最后才想起来……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（为什么到最后才想起来……）"
+            }
+        ]
     },
     "28": {
         "speaker": "椎名立希",
-        "dialogue": "（曲子也……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（曲子也……）"
+            }
+        ]
     },
     "29": {
         "speaker": "椎名立希",
-        "dialogue": "（我又选错了什么吗……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（我又选错了什么吗……）"
+            }
+        ]
     },
     "30": {
         "speaker": "",
-        "dialogue": "电脑屏幕发着荧光，最后《未完成的作品》中止在无法被完成的位置。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "电脑屏幕发着荧光，最后《未完成的作品》中止在无法被完成的位置。"
+            }
+        ]
     },
     "31": {
         "speaker": "椎名立希",
-        "dialogue": "……哈。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……哈。"
+            }
+        ]
     },
     "32": {
         "speaker": "",
-        "dialogue": "很残酷吧，命运。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "很残酷吧，命运。"
+            }
+        ]
     },
     "33": {
         "speaker": "",
-        "dialogue": "灵感不会降临，奇迹不会发生，期待不会被满足。最后才想要再见的人……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "灵感不会降临，奇迹不会发生，期待不会被满足。最后才想要再见的人……"
+            }
+        ]
     },
     "34": {
         "speaker": "",
-        "dialogue": "也来不及讲出“再见”。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "也来不及讲出“再见”。"
+            }
+        ]
     },
     "35": {
         "speaker": "",
-        "dialogue": "稀薄的日光慢慢照亮空旷的房间。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "稀薄的日光慢慢照亮空旷的房间。"
+            }
+        ]
     },
     "36": {
         "speaker": "",
-        "dialogue": "春风如一阵稍纵即逝的呼吸。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "春风如一阵稍纵即逝的呼吸。"
+            }
+        ]
     },
     "37": {
         "speaker": "",
-        "dialogue": "报幕"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "报幕"
+            }
+        ]
     },
     "38": {
         "speaker": "",
-        "dialogue": "报幕"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "报幕"
+            }
+        ]
     }
 }

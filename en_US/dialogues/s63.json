@@ -1,266 +1,596 @@
 {
     "0": {
         "speaker": "椎名立希",
-        "dialogue": "好累……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "好累……"
+            }
+        ]
     },
     "1": {
         "speaker": "椎名立希",
-        "dialogue": "（房子大的坏处就是卫生死角太多……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（房子大的坏处就是卫生死角太多……）"
+            }
+        ]
     },
     "2": {
         "speaker": "椎名立希",
-        "dialogue": "（平常除了练鼓就是作曲，几乎不会用到别的房间。）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（平常除了练鼓就是作曲，几乎不会用到别的房间。）"
+            }
+        ]
     },
     "3": {
         "speaker": "椎名立希",
-        "dialogue": "（不管怎么说，该继续工作了。）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（不管怎么说，该继续工作了。）"
+            }
+        ]
     },
     "4": {
         "speaker": "",
-        "dialogue": "立希坐到电脑前，监听耳机将窗外的白噪声隔绝。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希坐到电脑前，监听耳机将窗外的白噪声隔绝。"
+            }
+        ]
     },
     "5": {
         "speaker": "椎名立希",
-        "dialogue": "（鼓点还是铺得太满……吉他的和弦有些单调。）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（鼓点还是铺得太满……吉他的和弦有些单调。）"
+            }
+        ]
     },
     "6": {
         "speaker": "椎名立希",
-        "dialogue": "（但是这个bpm她还能弹得下来吗？）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（但是这个bpm她还能弹得下来吗？）"
+            }
+        ]
     },
     "7": {
         "speaker": "",
-        "dialogue": "一旦投入工作中，积攒的疲惫和困意又像是被身体的主人藏匿起来。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "一旦投入工作中，积攒的疲惫和困意又像是被身体的主人藏匿起来。"
+            }
+        ]
     },
     "8": {
         "speaker": "",
-        "dialogue": "雨声连绵不绝，乌云掩盖了月光，时间流动变得模糊。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "雨声连绵不绝，乌云掩盖了月光，时间流动变得模糊。"
+            }
+        ]
     },
     "9": {
         "speaker": "",
-        "dialogue": "立希打了个哈欠，生理性的泪水模糊了视线，她用力眨眨眼。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希打了个哈欠，生理性的泪水模糊了视线，她用力眨眨眼。"
+            }
+        ]
     },
     "10": {
         "speaker": "椎名立希",
-        "dialogue": "啧。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "啧。"
+            }
+        ]
     },
     "11": {
         "speaker": "椎名立希",
-        "dialogue": "（已经“休息”了一个下午，还是不行吗……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（已经“休息”了一个下午，还是不行吗……）"
+            }
+        ]
     },
     "12": {
         "speaker": "椎名立希",
-        "dialogue": "（这样无穷无尽地改下去会来不及的。）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（这样无穷无尽地改下去会来不及的。）"
+            }
+        ]
     },
     "13": {
         "speaker": "椎名真希",
-        "dialogue": "立希。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希。"
+            }
+        ]
     },
     "14": {
         "speaker": "椎名立希",
-        "dialogue": "！"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "！"
+            }
+        ]
     },
     "15": {
         "speaker": "椎名立希",
-        "dialogue": "姐、姐姐？！"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "姐、姐姐？！"
+            }
+        ]
     },
     "16": {
         "speaker": "椎名真希",
-        "dialogue": "我就知道你还在工作。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我就知道你还在工作。"
+            }
+        ]
     },
     "17": {
         "speaker": "椎名立希",
-        "dialogue": "这首歌……我不想拖太久。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "这首歌……我不想拖太久。"
+            }
+        ]
     },
     "18": {
         "speaker": "椎名真希",
-        "dialogue": "给自己定了时限吗？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "给自己定了时限吗？"
+            }
+        ]
     },
     "19": {
         "speaker": "椎名立希",
-        "dialogue": "……算是吧。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……算是吧。"
+            }
+        ]
     },
     "20": {
         "speaker": "椎名立希",
-        "dialogue": "（倒也不是我自己定的。）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（倒也不是我自己定的。）"
+            }
+        ]
     },
     "21": {
         "speaker": "椎名真希",
-        "dialogue": "焦虑都写在脸上了。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "焦虑都写在脸上了。"
+            }
+        ]
     },
     "22": {
         "speaker": "椎名真希",
-        "dialogue": "在这个状态下创作效率会高吗？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "在这个状态下创作效率会高吗？"
+            }
+        ]
     },
     "23": {
         "speaker": "椎名立希",
-        "dialogue": "……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……"
+            }
+        ]
     },
     "24": {
         "speaker": "椎名真希",
-        "dialogue": "就算在自己规定的时间内写完，歌曲发布也还是遥遥无期。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "就算在自己规定的时间内写完，歌曲发布也还是遥遥无期。"
+            }
+        ]
     },
     "25": {
         "speaker": "椎名真希",
-        "dialogue": "MyGO没有商业化的打算不是吗？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "MyGO没有商业化的打算不是吗？"
+            }
+        ]
     },
     "26": {
         "speaker": "椎名立希",
-        "dialogue": "呃，总要给大家留出练习时间……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "呃，总要给大家留出练习时间……"
+            }
+        ]
     },
     "27": {
         "speaker": "椎名立希",
-        "dialogue": "（跟是否能够发布无关，与大家是否选择继续演奏也无关。）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（跟是否能够发布无关，与大家是否选择继续演奏也无关。）"
+            }
+        ]
     },
     "28": {
         "speaker": "椎名立希",
-        "dialogue": "（这是我留下的最后一曲，我必须要完成，仅此而已。）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（这是我留下的最后一曲，我必须要完成，仅此而已。）"
+            }
+        ]
     },
     "29": {
         "speaker": "",
-        "dialogue": "真希叹了口气，展开一副要和妹妹促膝长谈的架势。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "真希叹了口气，展开一副要和妹妹促膝长谈的架势。"
+            }
+        ]
     },
     "30": {
         "speaker": "椎名真希",
-        "dialogue": "你没必要这样勉强自己，立希。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "你没必要这样勉强自己，立希。"
+            }
+        ]
     },
     "31": {
         "speaker": "椎名立希",
-        "dialogue": "勉强吗……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "勉强吗……"
+            }
+        ]
     },
     "32": {
         "speaker": "椎名立希",
-        "dialogue": "（这话由姐姐来说还真是让人不甘心啊……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（这话由姐姐来说还真是让人不甘心啊……）"
+            }
+        ]
     },
     "33": {
         "speaker": "椎名真希",
-        "dialogue": "我相信你的能力，所以不要着急。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我相信你的能力，所以不要着急。"
+            }
+        ]
     },
     "34": {
         "speaker": "椎名真希",
-        "dialogue": "你已经做得很好了。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "你已经做得很好了。"
+            }
+        ]
     },
     "35": {
         "speaker": "椎名立希",
-        "dialogue": "不。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "不。"
+            }
+        ]
     },
     "36": {
         "speaker": "椎名立希",
-        "dialogue": "（我想要的远不是让姐姐“相信”的程度。）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（我想要的远不是让姐姐“相信”的程度。）"
+            }
+        ]
     },
     "37": {
         "speaker": "椎名立希",
-        "dialogue": "（我想让你看见我的能力，想向你证明……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（我想让你看见我的能力，想向你证明……）"
+            }
+        ]
     },
     "38": {
         "speaker": "椎名真希",
-        "dialogue": "立希？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希？"
+            }
+        ]
     },
     "39": {
         "speaker": "椎名立希",
-        "dialogue": "呃，我只是……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "呃，我只是……"
+            }
+        ]
     },
     "40": {
         "speaker": "椎名立希",
-        "dialogue": "我确实有点着急了。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我确实有点着急了。"
+            }
+        ]
     },
     "41": {
         "speaker": "椎名真希",
-        "dialogue": "明明上午还知道没有灵感该去找点其他事做，只是白天没有如愿找到灵感而已就开始焦虑了吗？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "明明上午还知道没有灵感该去找点其他事做，只是白天没有如愿找到灵感而已就开始焦虑了吗？"
+            }
+        ]
     },
     "42": {
         "speaker": "椎名立希",
-        "dialogue": "我……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我……"
+            }
+        ]
     },
     "43": {
         "speaker": "椎名真希",
-        "dialogue": "找不到灵感的话，现在是休息时间。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "找不到灵感的话，现在是休息时间。"
+            }
+        ]
     },
     "44": {
         "speaker": "",
-        "dialogue": "真希坐在床边，向立希招招手。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "真希坐在床边，向立希招招手。"
+            }
+        ]
     },
     "45": {
         "speaker": "椎名真希",
-        "dialogue": "立希，你很要强，很坚定，却好像总是把自己圈起来。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希，你很要强，很坚定，却好像总是把自己圈起来。"
+            }
+        ]
     },
     "46": {
         "speaker": "椎名真希",
-        "dialogue": "……这是艺术家的通病吗？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……这是艺术家的通病吗？"
+            }
+        ]
     },
     "47": {
         "speaker": "椎名立希",
-        "dialogue": "我才不是艺术家。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我才不是艺术家。"
+            }
+        ]
     },
     "48": {
         "speaker": "椎名真希",
-        "dialogue": "你是。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "你是。"
+            }
+        ]
     },
     "49": {
         "speaker": "椎名立希",
-        "dialogue": "哈……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "哈……"
+            }
+        ]
     },
     "50": {
         "speaker": "椎名立希",
-        "dialogue": "（我可不想被姐姐这么说……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（我可不想被姐姐这么说……）"
+            }
+        ]
     },
     "51": {
         "speaker": "椎名真希",
-        "dialogue": "自信一点，你的曲子很优秀。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "自信一点，你的曲子很优秀。"
+            }
+        ]
     },
     "52": {
         "speaker": "椎名真希",
-        "dialogue": "但艺术家也需要睡眠。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "但艺术家也需要睡眠。"
+            }
+        ]
     },
     "53": {
         "speaker": "",
-        "dialogue": "真希揽过立希的肩膀，惊愕的立希没有反应过来。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "真希揽过立希的肩膀，惊愕的立希没有反应过来。"
+            }
+        ]
     },
     "54": {
         "speaker": "椎名立希",
-        "dialogue": "姐姐？！"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "姐姐？！"
+            }
+        ]
     },
     "55": {
         "speaker": "椎名真希",
-        "dialogue": "小时候不是经常这样吗？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "小时候不是经常这样吗？"
+            }
+        ]
     },
     "56": {
         "speaker": "椎名立希",
-        "dialogue": "那、那都多少年前了！我现在已经……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "那、那都多少年前了！我现在已经……"
+            }
+        ]
     },
     "57": {
         "speaker": "椎名真希",
-        "dialogue": "是啊，你从多少年前开始就不肯依靠我，不肯依靠身边的人了？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "是啊，你从多少年前开始就不肯依靠我，不肯依靠身边的人了？"
+            }
+        ]
     },
     "58": {
         "speaker": "椎名立希",
-        "dialogue": "我……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我……"
+            }
+        ]
     },
     "59": {
         "speaker": "",
-        "dialogue": "立希不再挣扎，她想反驳些什么，最终只是抿起嘴唇。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希不再挣扎，她想反驳些什么，最终只是抿起嘴唇。"
+            }
+        ]
     },
     "60": {
         "speaker": "椎名真希",
-        "dialogue": "好了，该休息了。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "好了，该休息了。"
+            }
+        ]
     },
     "61": {
         "speaker": "",
-        "dialogue": "真希一下下轻柔地拍着立希的手臂，就像许多年前哄着妹妹睡觉时那样。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "真希一下下轻柔地拍着立希的手臂，就像许多年前哄着妹妹睡觉时那样。"
+            }
+        ]
     },
     "62": {
         "speaker": "",
-        "dialogue": "也许是被忘却的疲惫终于再度显现，也许是窗外的白噪音效果显著，23岁的椎名立希在姐姐怀中涌上困意。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "也许是被忘却的疲惫终于再度显现，也许是窗外的白噪音效果显著，23岁的椎名立希在姐姐怀中涌上困意。"
+            }
+        ]
     },
     "63": {
         "speaker": "",
-        "dialogue": "感受着妹妹的呼吸趋于平稳，真希摸摸立希的头，拉下了床头灯。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "感受着妹妹的呼吸趋于平稳，真希摸摸立希的头，拉下了床头灯。"
+            }
+        ]
     },
     "64": {
         "speaker": "椎名真希",
-        "dialogue": "我好像……没有想象中那么了解你。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我好像……没有想象中那么了解你。"
+            }
+        ]
     },
     "65": {
         "speaker": "椎名真希",
-        "dialogue": "……晚安，立希。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……晚安，立希。"
+            }
+        ]
     }
 }

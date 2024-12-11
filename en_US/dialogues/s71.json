@@ -1,34 +1,74 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": "和祥子道别，穿过早晨的阳光回到住所。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "和祥子道别，穿过早晨的阳光回到住所。"
+            }
+        ]
     },
     "1": {
         "speaker": "",
-        "dialogue": "电脑屏幕回到立希未完成的作品，工程文件和备份都删除得干干净净。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "电脑屏幕回到立希未完成的作品，工程文件和备份都删除得干干净净。"
+            }
+        ]
     },
     "2": {
         "speaker": "",
-        "dialogue": "好像什么都没有发生过。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "好像什么都没有发生过。"
+            }
+        ]
     },
     "3": {
         "speaker": "椎名立希",
-        "dialogue": "什么都不留下，真是谨慎。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "什么都不留下，真是谨慎。"
+            }
+        ]
     },
     "4": {
         "speaker": "椎名立希",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "5": {
         "speaker": "椎名立希",
-        "dialogue": "（不，也许已经留下了许多。）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（不，也许已经留下了许多。）"
+            }
+        ]
     },
     "6": {
         "speaker": "椎名立希",
-        "dialogue": "（从七年前开始。）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（从七年前开始。）"
+            }
+        ]
     },
     "7": {
         "speaker": "",
-        "dialogue": "立希躬下身，小心地从地面捡起最后一块玻璃碎片。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希躬下身，小心地从地面捡起最后一块玻璃碎片。"
+            }
+        ]
     }
 }

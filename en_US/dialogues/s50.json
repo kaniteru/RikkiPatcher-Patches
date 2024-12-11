@@ -1,318 +1,713 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": "栗色头发的女人牵着孩子上楼了。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "栗色头发的女人牵着孩子上楼了。"
+            }
+        ]
     },
     "1": {
         "speaker": "",
-        "dialogue": "天色越来越暗，居民楼内的灯光却亮得很有限，显然并不是所有人都有现在下班的权利。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "天色越来越暗，居民楼内的灯光却亮得很有限，显然并不是所有人都有现在下班的权利。"
+            }
+        ]
     },
     "2": {
         "speaker": "椎名立希",
-        "dialogue": "（真忙碌啊。）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（真忙碌啊。）"
+            }
+        ]
     },
     "3": {
         "speaker": "",
-        "dialogue": "嘴上这么说着，兢兢业业等在楼下的司机心里却没有太多感触，反而果断地掏出了手机。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "嘴上这么说着，兢兢业业等在楼下的司机心里却没有太多感触，反而果断地掏出了手机。"
+            }
+        ]
     },
     "4": {
         "speaker": "",
-        "dialogue": "对景赋词、伤春悲秋一向不是她的强项，创作能打动她的词句是一种特权。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "对景赋词、伤春悲秋一向不是她的强项，创作能打动她的词句是一种特权。"
+            }
+        ]
     },
     "5": {
         "speaker": "",
-        "dialogue": "屏幕亮起来，她瞥了眼订阅消息，插上耳机，轻车熟路地点开链接。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "屏幕亮起来，她瞥了眼订阅消息，插上耳机，轻车熟路地点开链接。"
+            }
+        ]
     },
     "6": {
         "speaker": "",
-        "dialogue": "片刻后，一道金栗色的身影重现在楼下。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "片刻后，一道金栗色的身影重现在楼下。"
+            }
+        ]
     },
     "7": {
         "speaker": "长崎素世",
-        "dialogue": "车停在哪里了来着……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "车停在哪里了来着……"
+            }
+        ]
     },
     "8": {
         "speaker": "",
-        "dialogue": "丰田世纪配色低调，和兼职的司机一起沉默在暮色中。而金领的视力说不上好。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "丰田世纪配色低调，和兼职的司机一起沉默在暮色中。而金领的视力说不上好。"
+            }
+        ]
     },
     "9": {
         "speaker": "",
-        "dialogue": "所幸，明亮的粉色在没有儿童的空间里太过扎眼。长崎素世眯着眼睛左顾右盼，终于捕捉到那一点突兀的鲜艳，以及一天24小时有20个钟头皱着眉的朋友。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "所幸，明亮的粉色在没有儿童的空间里太过扎眼。长崎素世眯着眼睛左顾右盼，终于捕捉到那一点突兀的鲜艳，以及一天24小时有20个钟头皱着眉的朋友。"
+            }
+        ]
     },
     "10": {
         "speaker": "长崎素世",
-        "dialogue": "……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……"
+            }
+        ]
     },
     "11": {
         "speaker": "长崎素世",
-        "dialogue": "在看什么呢，小立希？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "在看什么呢，小立希？"
+            }
+        ]
     },
     "12": {
         "speaker": "椎名立希",
-        "dialogue": "！！！"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "！！！"
+            }
+        ]
     },
     "13": {
         "speaker": "椎名立希",
-        "dialogue": "哈——呃、没什么。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "哈——呃、没什么。"
+            }
+        ]
     },
     "14": {
         "speaker": "",
-        "dialogue": "想藏起来已来不及。明亮的粉色在没有儿童的空间里实在太过扎眼。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "想藏起来已来不及。明亮的粉色在没有儿童的空间里实在太过扎眼。"
+            }
+        ]
     },
     "15": {
         "speaker": "椎名立希",
-        "dialogue": "为什么总喜欢这样出场。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "为什么总喜欢这样出场。"
+            }
+        ]
     },
     "16": {
         "speaker": "长崎素世",
-        "dialogue": "原来在看小爱音直播呀。那怎么这么严肃呢？她又干什么了？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "原来在看小爱音直播呀。那怎么这么严肃呢？她又干什么了？"
+            }
+        ]
     },
     "17": {
         "speaker": "椎名立希",
-        "dialogue": "（什么叫又干什么了？难道素世有看过这家伙的直播事故大合集吗。）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（什么叫又干什么了？难道素世有看过这家伙的直播事故大合集吗。）"
+            }
+        ]
     },
     "18": {
         "speaker": "",
-        "dialogue": "尽管心里腹诽着，忠实的朋友还是一五一十划拉起腾飞的留言，指给难得好奇的队友看。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "尽管心里腹诽着，忠实的朋友还是一五一十划拉起腾飞的留言，指给难得好奇的队友看。"
+            }
+        ]
     },
     "19": {
         "speaker": "",
-        "dialogue": "鼓手的动作很快，快得仿佛刻意叫人看不清闪过的留言都有些什么。更何况观察者视力并不出众。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "鼓手的动作很快，快得仿佛刻意叫人看不清闪过的留言都有些什么。更何况观察者视力并不出众。"
+            }
+        ]
     },
     "20": {
         "speaker": "",
-        "dialogue": "饶是如此，洞悉某些事情也并不完全依赖眼睛，MyGO!!!!!的贝斯手依然看见了不在少数的、催促Live的声音。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "饶是如此，洞悉某些事情也并不完全依赖眼睛，MyGO!!!!!的贝斯手依然看见了不在少数的、催促Live的声音。"
+            }
+        ]
     },
     "21": {
         "speaker": "",
-        "dialogue": "上班族想起自己昨天刚订好的机票，下周飞往北海道。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "上班族想起自己昨天刚订好的机票，下周飞往北海道。"
+            }
+        ]
     },
     "22": {
         "speaker": "",
-        "dialogue": "在这一点上，椎名立希总是她们之中最无辜的一个。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "在这一点上，椎名立希总是她们之中最无辜的一个。"
+            }
+        ]
     },
     "23": {
         "speaker": "长崎素世",
-        "dialogue": "……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……"
+            }
+        ]
     },
     "24": {
         "speaker": "",
-        "dialogue": "印象里不是这样的。从前千早爱音直播间里提起MyGO!!!!!的人不是没有，但一场能有一两个都算多了。毕竟她们的活动频率马上媲美死火山了。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "印象里不是这样的。从前千早爱音直播间里提起MyGO!!!!!的人不是没有，但一场能有一两个都算多了。毕竟她们的活动频率马上媲美死火山了。"
+            }
+        ]
     },
     "25": {
         "speaker": "",
-        "dialogue": "不过理由也不难猜。和鼓手待在一起才是贝斯手的贝斯手悄悄打量这支摇滚乐队队长的神色，今日她没有化妆，不像双人同框的切片里那样有活力。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "不过理由也不难猜。和鼓手待在一起才是贝斯手的贝斯手悄悄打量这支摇滚乐队队长的神色，今日她没有化妆，不像双人同框的切片里那样有活力。"
+            }
+        ]
     },
     "26": {
         "speaker": "",
-        "dialogue": "……虽说可能是被迫有活力吧。毕竟被那家伙拉来营业。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……虽说可能是被迫有活力吧。毕竟被那家伙拉来营业。"
+            }
+        ]
     },
     "27": {
         "speaker": "椎名立希",
-        "dialogue": "你平时有看她直播吗？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "你平时有看她直播吗？"
+            }
+        ]
     },
     "28": {
         "speaker": "长崎素世",
-        "dialogue": "没有。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "没有。"
+            }
+        ]
     },
     "29": {
         "speaker": "椎名立希",
-        "dialogue": "这个人的称呼，“白痴粉毛”。爱音直播说过她不喜欢被这么叫。哪怕打了钱也很过分。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "这个人的称呼，“白痴粉毛”。爱音直播说过她不喜欢被这么叫。哪怕打了钱也很过分。"
+            }
+        ]
     },
     "30": {
         "speaker": "长崎素世",
-        "dialogue": "确实相当不礼貌……但是小爱音作为主播恐怕很难直说，估计是当作没看见了吧。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "确实相当不礼貌……但是小爱音作为主播恐怕很难直说，估计是当作没看见了吧。"
+            }
+        ]
     },
     "31": {
         "speaker": "椎名立希",
-        "dialogue": "这怎么行？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "这怎么行？"
+            }
+        ]
     },
     "32": {
         "speaker": "",
-        "dialogue": "贝斯手瞥她一眼，掏出手机。多年老友早已对她的义愤熟视无睹——近乎争吵的对话正是她们交流的一部分。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "贝斯手瞥她一眼，掏出手机。多年老友早已对她的义愤熟视无睹——近乎争吵的对话正是她们交流的一部分。"
+            }
+        ]
     },
     "33": {
         "speaker": "长崎素世",
-        "dialogue": "那我打个红色SC盖过去吧。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "那我打个红色SC盖过去吧。"
+            }
+        ]
     },
     "34": {
         "speaker": "",
-        "dialogue": "立希赶忙抓住她的手腕，试图停止这不由分说的土豪行径。虽然还是一紧张就忘了嘴能用来说话，但好歹不会像青春期那样急赤白脸地上来揪领子。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希赶忙抓住她的手腕，试图停止这不由分说的土豪行径。虽然还是一紧张就忘了嘴能用来说话，但好歹不会像青春期那样急赤白脸地上来揪领子。"
+            }
+        ]
     },
     "35": {
         "speaker": "",
-        "dialogue": "长崎素世顺从地放下手机，即使根本没有摁亮。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "长崎素世顺从地放下手机，即使根本没有摁亮。"
+            }
+        ]
     },
     "36": {
         "speaker": "长崎素世",
-        "dialogue": "小立希今天的课上得还顺利吗？学生们会不会很调皮？早上出门会迟到吗？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "小立希今天的课上得还顺利吗？学生们会不会很调皮？早上出门会迟到吗？"
+            }
+        ]
     },
     "37": {
         "speaker": "椎名立希",
-        "dialogue": "……啊？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……啊？"
+            }
+        ]
     },
     "38": {
         "speaker": "椎名立希",
-        "dialogue": "为什么话题突然到这里来了？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "为什么话题突然到这里来了？"
+            }
+        ]
     },
     "39": {
         "speaker": "椎名立希",
-        "dialogue": "都还行吧。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "都还行吧。"
+            }
+        ]
     },
     "40": {
         "speaker": "长崎素世",
-        "dialogue": "是这样呢。小立希果然很厉害，什么工作都能对付得好，也一直都很守时。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "是这样呢。小立希果然很厉害，什么工作都能对付得好，也一直都很守时。"
+            }
+        ]
     },
     "41": {
         "speaker": "长崎素世",
-        "dialogue": "我们公司就经常有新人因为迟到扣奖金哦，还总有人私下抱怨说工资不够花。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我们公司就经常有新人因为迟到扣奖金哦，还总有人私下抱怨说工资不够花。"
+            }
+        ]
     },
     "42": {
         "speaker": "椎名立希",
-        "dialogue": "你到底想说什么？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "你到底想说什么？"
+            }
+        ]
     },
     "43": {
         "speaker": "长崎素世",
-        "dialogue": "所以小立希要出钱摆平吗？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "所以小立希要出钱摆平吗？"
+            }
+        ]
     },
     "44": {
         "speaker": "",
-        "dialogue": "弯弯，绕绕。麻烦的人和她麻烦的说话方式。点满社交技巧的猎手总喜欢请君入瓮。椎名立希总是一而再，再而三地一头撞进陷阱里去。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "弯弯，绕绕。麻烦的人和她麻烦的说话方式。点满社交技巧的猎手总喜欢请君入瓮。椎名立希总是一而再，再而三地一头撞进陷阱里去。"
+            }
+        ]
     },
     "45": {
         "speaker": "",
-        "dialogue": "但很可惜，这一次是引狼入室。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "但很可惜，这一次是引狼入室。"
+            }
+        ]
     },
     "46": {
         "speaker": "",
-        "dialogue": "晕了半晌的椎名立希终于理直气壮了起来。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "晕了半晌的椎名立希终于理直气壮了起来。"
+            }
+        ]
     },
     "47": {
         "speaker": "椎名立希",
-        "dialogue": "我没说过要留言吧，拉黑或者举报就行了。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我没说过要留言吧，拉黑或者举报就行了。"
+            }
+        ]
     },
     "48": {
         "speaker": "椎名立希",
-        "dialogue": "虽然很看不惯，但也没打算总用钱解决。毕竟我又不可能每场直播都盯着。事情没那么严重，爱音能自己处理。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "虽然很看不惯，但也没打算总用钱解决。毕竟我又不可能每场直播都盯着。事情没那么严重，爱音能自己处理。"
+            }
+        ]
     },
     "49": {
         "speaker": "椎名立希",
-        "dialogue": "我们又不是她家长，何必事事插手，不要太宠着她了。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我们又不是她家长，何必事事插手，不要太宠着她了。"
+            }
+        ]
     },
     "50": {
         "speaker": "",
-        "dialogue": "扑空的猎手攥紧袖子。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "扑空的猎手攥紧袖子。"
+            }
+        ]
     },
     "51": {
         "speaker": "长崎素世",
-        "dialogue": "天都黑了，老在人家楼下停着也不好。走吧。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "天都黑了，老在人家楼下停着也不好。走吧。"
+            }
+        ]
     },
     "52": {
         "speaker": "椎名立希",
-        "dialogue": "来的时候天就黑了吧。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "来的时候天就黑了吧。"
+            }
+        ]
     },
     "53": {
         "speaker": "",
-        "dialogue": "好心的鼓手腹诽一句，终于还是没有乘胜追击。对于既敏感又脸皮薄的人，不能堵得太死。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "好心的鼓手腹诽一句，终于还是没有乘胜追击。对于既敏感又脸皮薄的人，不能堵得太死。"
+            }
+        ]
     },
     "54": {
         "speaker": "",
-        "dialogue": "于是司机自然地先拉开了后座的门。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "于是司机自然地先拉开了后座的门。"
+            }
+        ]
     },
     "55": {
         "speaker": "",
-        "dialogue": "车子丝滑地启动，没有她熟悉的隆隆声，也不用坐在原地等发动机预热。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "车子丝滑地启动，没有她熟悉的隆隆声，也不用坐在原地等发动机预热。"
+            }
+        ]
     },
     "56": {
         "speaker": "",
-        "dialogue": "道路宽敞，不需要司机精神紧绷全神贯注，也无需探出头确认墙壁离后视镜还有多远。她只管开就好了。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "道路宽敞，不需要司机精神紧绷全神贯注，也无需探出头确认墙壁离后视镜还有多远。她只管开就好了。"
+            }
+        ]
     },
     "57": {
         "speaker": "",
-        "dialogue": "车载音乐还没响起来，安全驾驶的司机摘下耳机，远离油管主播的电子骚扰，世界安静了。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "车载音乐还没响起来，安全驾驶的司机摘下耳机，远离油管主播的电子骚扰，世界安静了。"
+            }
+        ]
     },
     "58": {
         "speaker": "长崎素世",
-        "dialogue": "小灯也很宠着小爱音吧，你也总惯着小灯。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "小灯也很宠着小爱音吧，你也总惯着小灯。"
+            }
+        ]
     },
     "59": {
         "speaker": "",
-        "dialogue": "司机向暮色中驶去，目不斜视。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "司机向暮色中驶去，目不斜视。"
+            }
+        ]
     },
     "60": {
         "speaker": "",
-        "dialogue": "后座的乘客放完冷枪后再也没有多余的话。车载音响接管了交谈，也填满了沉默的空间。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "后座的乘客放完冷枪后再也没有多余的话。车载音响接管了交谈，也填满了沉默的空间。"
+            }
+        ]
     },
     "61": {
         "speaker": "",
-        "dialogue": "刚驶出小区路口的时候，立希还在思考自己要不要为交流负起责任；然而一旦汇入晚高峰的洪流，她就也分不出这许多心思了。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "刚驶出小区路口的时候，立希还在思考自己要不要为交流负起责任；然而一旦汇入晚高峰的洪流，她就也分不出这许多心思了。"
+            }
+        ]
     },
     "62": {
         "speaker": "",
-        "dialogue": "在长龙似的车队前显得愈发漫长的红色亮起。司机慢慢降下速度，尽力不惊醒后座小憩的女士。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "在长龙似的车队前显得愈发漫长的红色亮起。司机慢慢降下速度，尽力不惊醒后座小憩的女士。"
+            }
+        ]
     },
     "63": {
         "speaker": "长崎素世",
-        "dialogue": "到哪了？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "到哪了？"
+            }
+        ]
     },
     "64": {
         "speaker": "",
-        "dialogue": "无效的努力。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "无效的努力。"
+            }
+        ]
     },
     "65": {
         "speaker": "椎名立希",
-        "dialogue": "醒了？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "醒了？"
+            }
+        ]
     },
     "66": {
         "speaker": "长崎素世",
-        "dialogue": "……没睡。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……没睡。"
+            }
+        ]
     },
     "67": {
         "speaker": "长崎素世",
-        "dialogue": "去哪儿？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "去哪儿？"
+            }
+        ]
     },
     "68": {
         "speaker": "椎名立希",
-        "dialogue": "你家。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "你家。"
+            }
+        ]
     },
     "69": {
         "speaker": "椎名立希",
-        "dialogue": "（你不是还找我有约？当然去你的地盘。）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（你不是还找我有约？当然去你的地盘。）"
+            }
+        ]
     },
     "70": {
         "speaker": "长崎素世",
-        "dialogue": "那你怎么回去？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "那你怎么回去？"
+            }
+        ]
     },
     "71": {
         "speaker": "椎名立希",
-        "dialogue": "（我们也聊不了多久吧？总不可能赶不上电车。我自己回去不就得了。）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（我们也聊不了多久吧？总不可能赶不上电车。我自己回去不就得了。）"
+            }
+        ]
     },
     "72": {
         "speaker": "",
-        "dialogue": "立希实在很希望想什么就说什么，而素世对待她的工作绝对不会是这个态度。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希实在很希望想什么就说什么，而素世对待她的工作绝对不会是这个态度。"
+            }
+        ]
     },
     "73": {
         "speaker": "",
-        "dialogue": "即使是乐队事务，在真的需要素世接管的时候，这个麻烦的老朋友也会边叹气边把日程安排得明明白白。怎么到自己这里就不这样？两个人相处的时候，思考容量是会突然被切出上限吗？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "即使是乐队事务，在真的需要素世接管的时候，这个麻烦的老朋友也会边叹气边把日程安排得明明白白。怎么到自己这里就不这样？两个人相处的时候，思考容量是会突然被切出上限吗？"
+            }
+        ]
     },
     "74": {
         "speaker": "",
-        "dialogue": "但是红灯间隙，司机抬眼瞥了瞥车内后视镜里乘客的脸色，还是选择了读一读空气。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "但是红灯间隙，司机抬眼瞥了瞥车内后视镜里乘客的脸色，还是选择了读一读空气。"
+            }
+        ]
     },
     "75": {
         "speaker": "",
-        "dialogue": "她叹了口气，努力放软语调，使自己将要说的话听着不那么像抱怨，而是一句真心的建议。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "她叹了口气，努力放软语调，使自己将要说的话听着不那么像抱怨，而是一句真心的建议。"
+            }
+        ]
     },
     "76": {
         "speaker": "椎名立希",
-        "dialogue": "如果你有安排的话，现在讲吧。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "如果你有安排的话，现在讲吧。"
+            }
+        ]
     },
     "77": {
         "speaker": "",
-        "dialogue": "靠在后座的人重新闭上眼，避开车内后视镜里包容、熟稔的眼神交流。现在可不是Live台上。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "靠在后座的人重新闭上眼，避开车内后视镜里包容、熟稔的眼神交流。现在可不是Live台上。"
+            }
+        ]
     },
     "78": {
         "speaker": "长崎素世",
-        "dialogue": "下一个路口转弯，可以吗？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "下一个路口转弯，可以吗？"
+            }
+        ]
     }
 }

@@ -3,59 +3,129 @@
     "list": {
         "0": {
             "speaker": "",
-            "dialogue": "今天阳光正好，气温一改冬日的寒冷，阳光直晒得人有些燥热。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "今天阳光正好，气温一改冬日的寒冷，阳光直晒得人有些燥热。"
+                }
+            ]
         },
         "1": {
             "speaker": "",
-            "dialogue": "房间内，高松灯端坐在书桌前，桌上摊开的笔记本挤满了文字，却是涂改居多。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "房间内，高松灯端坐在书桌前，桌上摊开的笔记本挤满了文字，却是涂改居多。"
+                }
+            ]
         },
         "2": {
             "speaker": "",
-            "dialogue": "——啪"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "——啪"
+                }
+            ]
         },
         "3": {
             "speaker": "",
-            "dialogue": "脆弱的笔尖断了。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "脆弱的笔尖断了。"
+                }
+            ]
         },
         "4": {
             "speaker": "",
-            "dialogue": "她伸手去够窗前摆放的笔筒。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "她伸手去够窗前摆放的笔筒。"
+                }
+            ]
         },
         "5": {
             "speaker": "",
-            "dialogue": "忽然，一只摇摇欲坠的蝴蝶从窗外落在她指关节上。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "忽然，一只摇摇欲坠的蝴蝶从窗外落在她指关节上。"
+                }
+            ]
         },
         "6": {
             "speaker": "高松灯",
-            "dialogue": "……？"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "……？"
+                }
+            ]
         },
         "7": {
             "speaker": "",
-            "dialogue": "通体黑色花纹的蝴蝶抖动了两下触角，有气无力地歪倒了。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "通体黑色花纹的蝴蝶抖动了两下触角，有气无力地歪倒了。"
+                }
+            ]
         },
         "8": {
             "speaker": "",
-            "dialogue": "灯赶忙用双手捧起它，可它抽搐了两下翅膀后就不动了。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "灯赶忙用双手捧起它，可它抽搐了两下翅膀后就不动了。"
+                }
+            ]
         },
         "9": {
             "speaker": "高松灯",
-            "dialogue": "………！"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "………！"
+                }
+            ]
         },
         "10": {
             "speaker": "",
-            "dialogue": "也许是因春日将近而突兀上升的气温害死了这脆弱的生命，但动物的死亡终归是自然的一环。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "也许是因春日将近而突兀上升的气温害死了这脆弱的生命，但动物的死亡终归是自然的一环。"
+                }
+            ]
         },
         "11": {
             "speaker": "",
-            "dialogue": "灯用窗前绿植掉落的树叶小心翼翼地将它包起来，打算出门的时候放在窗台前绿植的土壤上。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "灯用窗前绿植掉落的树叶小心翼翼地将它包起来，打算出门的时候放在窗台前绿植的土壤上。"
+                }
+            ]
         },
         "12": {
             "speaker": "",
-            "dialogue": "她盯着桌上被枯叶包裹的生命，没由来地想起另一个人。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "她盯着桌上被枯叶包裹的生命，没由来地想起另一个人。"
+                }
+            ]
         },
         "13": {
             "speaker": "高松灯",
-            "dialogue": "（小立希，好些了吗……）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（小立希，好些了吗……）"
+                }
+            ]
         }
     }
 }

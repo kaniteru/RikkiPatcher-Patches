@@ -3,175 +3,390 @@
     "list": {
         "0": {
             "speaker": "椎名立希",
-            "dialogue": "（这是市外的方向。）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（这是市外的方向。）"
+                }
+            ]
         },
         "1": {
             "speaker": "椎名立希",
-            "dialogue": "不是去喝第二摊吗？"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "不是去喝第二摊吗？"
+                }
+            ]
         },
         "2": {
             "speaker": "椎名立希",
-            "dialogue": "声音在狭小的空间内回荡，听起来闷闷的。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "声音在狭小的空间内回荡，听起来闷闷的。"
+                }
+            ]
         },
         "3": {
             "speaker": "八幡海铃",
-            "dialogue": "不是。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "不是。"
+                }
+            ]
         },
         "4": {
             "speaker": "八幡海铃",
-            "dialogue": "路程会有些远。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "路程会有些远。"
+                }
+            ]
         },
         "5": {
             "speaker": "椎名立希",
-            "dialogue": "......"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "......"
+                }
+            ]
         },
         "6": {
             "speaker": "椎名立希",
-            "dialogue": "（不准备解释去哪吗……）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（不准备解释去哪吗……）"
+                }
+            ]
         },
         "7": {
             "speaker": "椎名立希",
-            "dialogue": "（嘛……也习惯了。）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（嘛……也习惯了。）"
+                }
+            ]
         },
         "8": {
             "speaker": "",
-            "dialogue": "摩托车驶入国道。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "摩托车驶入国道。"
+                }
+            ]
         },
         "9": {
             "speaker": "",
-            "dialogue": "远离繁华的东京，寂静的道路给人一种清爽的孤独感。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "远离繁华的东京，寂静的道路给人一种清爽的孤独感。"
+                }
+            ]
         },
         "10": {
             "speaker": "椎名立希",
-            "dialogue": "（只有我们吗。）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（只有我们吗。）"
+                }
+            ]
         },
         "11": {
             "speaker": "椎名立希",
-            "dialogue": "（感觉不坏。）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（感觉不坏。）"
+                }
+            ]
         },
         "12": {
             "speaker": "椎名立希",
-            "dialogue": "（狂飙中的疾风，全身被风抓住的感觉，一切都变轻了。）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（狂飙中的疾风，全身被风抓住的感觉，一切都变轻了。）"
+                }
+            ]
         },
         "13": {
             "speaker": "椎名立希",
-            "dialogue": "（还有这恰到好处的、冻得手指僵硬的寒冷。）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（还有这恰到好处的、冻得手指僵硬的寒冷。）"
+                }
+            ]
         },
         "14": {
             "speaker": "椎名立希",
-            "dialogue": "（……头盔有点碍事。）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（……头盔有点碍事。）"
+                }
+            ]
         },
         "15": {
             "speaker": "椎名立希",
-            "dialogue": "（果然要是没有这份寒冷，没有侵蚀到身体内的这丝痛苦，是不行的。）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（果然要是没有这份寒冷，没有侵蚀到身体内的这丝痛苦，是不行的。）"
+                }
+            ]
         },
         "16": {
             "speaker": "椎名立希",
-            "dialogue": "（有痛苦和惩罚，才能安心地享乐。）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（有痛苦和惩罚，才能安心地享乐。）"
+                }
+            ]
         },
         "17": {
             "speaker": "椎名立希",
-            "dialogue": "（要是素世知道我有这种想法的话，一定会说“有病”。）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（要是素世知道我有这种想法的话，一定会说“有病”。）"
+                }
+            ]
         },
         "18": {
             "speaker": "椎名立希",
-            "dialogue": "（在冬天这么飙车的海铃……）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（在冬天这么飙车的海铃……）"
+                }
+            ]
         },
         "19": {
             "speaker": "椎名立希",
-            "dialogue": "（我们都病得不轻啊。）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（我们都病得不轻啊。）"
+                }
+            ]
         },
         "20": {
             "speaker": "",
-            "dialogue": "一辆汽车从摩托车旁沉默地驶过，马上消失了。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "一辆汽车从摩托车旁沉默地驶过，马上消失了。"
+                }
+            ]
         },
         "21": {
             "speaker": "",
-            "dialogue": "这个喧嚣又寂静的世界仿佛永远不会改变。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "这个喧嚣又寂静的世界仿佛永远不会改变。"
+                }
+            ]
         },
         "22": {
             "speaker": "",
-            "dialogue": "奔驰的摩托，头发被吹得向身后猎猎舞动的骑车人，天色渐沉却依旧广阔无比的天空，一阵阵携着嘶吼声谱写出一支摇篮曲的孤独的风。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "奔驰的摩托，头发被吹得向身后猎猎舞动的骑车人，天色渐沉却依旧广阔无比的天空，一阵阵携着嘶吼声谱写出一支摇篮曲的孤独的风。"
+                }
+            ]
         },
         "23": {
             "speaker": "",
-            "dialogue": "无需用语言去维系构筑。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "无需用语言去维系构筑。"
+                }
+            ]
         },
         "24": {
             "speaker": "",
-            "dialogue": "这里，只存在世界本身。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "这里，只存在世界本身。"
+                }
+            ]
         },
         "25": {
             "speaker": "椎名立希",
-            "dialogue": "......海铃，现在还不说目的地吗？"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "......海铃，现在还不说目的地吗？"
+                }
+            ]
         },
         "26": {
             "speaker": "八幡海铃",
-            "dialogue": "如果我说，我们一直在目的地上呢。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "如果我说，我们一直在目的地上呢。"
+                }
+            ]
         },
         "27": {
             "speaker": "椎名立希",
-            "dialogue": "……大概猜到了。毕竟真的骑了很久。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "……大概猜到了。毕竟真的骑了很久。"
+                }
+            ]
         },
         "28": {
             "speaker": "椎名立希",
-            "dialogue": "这样吹着风的体验，的确很爽快。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "这样吹着风的体验，的确很爽快。"
+                }
+            ]
         },
         "29": {
             "speaker": "八幡海铃",
-            "dialogue": "我也很钟意这段路程。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "我也很钟意这段路程。"
+                }
+            ]
         },
         "30": {
             "speaker": "八幡海铃",
-            "dialogue": "不过，姑且还是有下一个目标的，我们快到了。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "不过，姑且还是有下一个目标的，我们快到了。"
+                }
+            ]
         },
         "31": {
             "speaker": "椎名立希",
-            "dialogue": "你就不能直接告诉我吗。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "你就不能直接告诉我吗。"
+                }
+            ]
         },
         "32": {
             "speaker": "椎名立希",
-            "dialogue": "（海铃什么时候是会故弄玄虚的人……）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（海铃什么时候是会故弄玄虚的人……）"
+                }
+            ]
         },
         "33": {
             "speaker": "八幡海铃",
-            "dialogue": "直接说出来可能会破坏难得的体验，因为是个很大众的答案。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "直接说出来可能会破坏难得的体验，因为是个很大众的答案。"
+                }
+            ]
         },
         "34": {
             "speaker": "八幡海铃",
-            "dialogue": "如果立希先产生了“这有什么好去的”之类的想法，我会觉得很可惜。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "如果立希先产生了“这有什么好去的”之类的想法，我会觉得很可惜。"
+                }
+            ]
         },
         "35": {
             "speaker": "椎名立希",
-            "dialogue": "……那海铃，你觉得我看到答案会埋怨“这有什么好去的”吗？"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "……那海铃，你觉得我看到答案会埋怨“这有什么好去的”吗？"
+                }
+            ]
         },
         "36": {
             "speaker": "八幡海铃",
-            "dialogue": "现在也许会抱怨“这有什么好隐瞒的”。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "现在也许会抱怨“这有什么好隐瞒的”。"
+                }
+            ]
         },
         "37": {
             "speaker": "八幡海铃",
-            "dialogue": "不过我说过这段骑行也是目的地。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "不过我说过这段骑行也是目的地。"
+                }
+            ]
         },
         "38": {
             "speaker": "八幡海铃",
-            "dialogue": "立希……你现在感觉好些了吗。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "立希……你现在感觉好些了吗。"
+                }
+            ]
         },
         "39": {
             "speaker": "椎名立希",
-            "dialogue": "…………"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "…………"
+                }
+            ]
         },
         "40": {
             "speaker": "椎名立希",
-            "dialogue": "我不是说过了，我觉得很爽快。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "我不是说过了，我觉得很爽快。"
+                }
+            ]
         },
         "41": {
             "speaker": "八幡海铃",
-            "dialogue": "的确。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "的确。"
+                }
+            ]
         },
         "42": {
             "speaker": "八幡海铃",
-            "dialogue": "那真是再好不过。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "那真是再好不过。"
+                }
+            ]
         }
     }
 }

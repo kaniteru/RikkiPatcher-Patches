@@ -1,422 +1,947 @@
 {
     "0": {
         "speaker": "椎名立希",
-        "dialogue": "好大的雾……街上一个人也没有，是因为天气太冷了吗？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "好大的雾……街上一个人也没有，是因为天气太冷了吗？"
+            }
+        ]
     },
     "1": {
         "speaker": "女孩",
-        "dialogue": "晚上好。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "晚上好。"
+            }
+        ]
     },
     "2": {
         "speaker": "椎名立希",
-        "dialogue": "晚上好。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "晚上好。"
+            }
+        ]
     },
     "3": {
         "speaker": "女孩",
-        "dialogue": "您在这里做什么？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "您在这里做什么？"
+            }
+        ]
     },
     "4": {
         "speaker": "女孩",
-        "dialogue": "等人？还是等月亮出来？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "等人？还是等月亮出来？"
+            }
+        ]
     },
     "5": {
         "speaker": "椎名立希",
-        "dialogue": "我？没有……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我？没有……"
+            }
+        ]
     },
     "6": {
         "speaker": "女孩",
-        "dialogue": "月亮还有二十一分零四秒钟出来。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "月亮还有二十一分零四秒钟出来。"
+            }
+        ]
     },
     "7": {
         "speaker": "女孩",
-        "dialogue": "在那儿，您看，电波塔的西侧17度的位置——"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "在那儿，您看，电波塔的西侧17度的位置——"
+            }
+        ]
     },
     "8": {
         "speaker": "女孩",
-        "dialogue": "有一片云。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "有一片云。"
+            }
+        ]
     },
     "9": {
         "speaker": "椎名立希",
-        "dialogue": "……是有一片云。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……是有一片云。"
+            }
+        ]
     },
     "10": {
         "speaker": "",
-        "dialogue": "女孩笑了，停止自说自话，走近到立希身边，递给她一盒火柴。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "女孩笑了，停止自说自话，走近到立希身边，递给她一盒火柴。"
+            }
+        ]
     },
     "11": {
         "speaker": "女孩",
-        "dialogue": "请您拿一支火柴。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "请您拿一支火柴。"
+            }
+        ]
     },
     "12": {
         "speaker": "",
-        "dialogue": "立希从火柴盒里取出一支。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希从火柴盒里取出一支。"
+            }
+        ]
     },
     "13": {
         "speaker": "椎名立希",
-        "dialogue": "要许愿了吗？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "要许愿了吗？"
+            }
+        ]
     },
     "14": {
         "speaker": "椎名立希",
-        "dialogue": "（“小女孩在雪地里烧掉所有火柴……”）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（“小女孩在雪地里烧掉所有火柴……”）"
+            }
+        ]
     },
     "15": {
         "speaker": "椎名立希",
-        "dialogue": "（“愿望实现以后心满意足地死去……”是这样的故事吧？）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（“愿望实现以后心满意足地死去……”是这样的故事吧？）"
+            }
+        ]
     },
     "16": {
         "speaker": "女孩",
-        "dialogue": "现在我们一起擦着它——"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "现在我们一起擦着它——"
+            }
+        ]
     },
     "17": {
         "speaker": "女孩",
-        "dialogue": "您准备好了吗？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "您准备好了吗？"
+            }
+        ]
     },
     "18": {
         "speaker": "椎名立希",
-        "dialogue": "……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……"
+            }
+        ]
     },
     "19": {
         "speaker": "",
-        "dialogue": "立希和小孩一齐点燃了火柴。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希和小孩一齐点燃了火柴。"
+            }
+        ]
     },
     "20": {
         "speaker": "",
-        "dialogue": "暖黄的火焰轻轻摇曳，照亮了她们两人的脸。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "暖黄的火焰轻轻摇曳，照亮了她们两人的脸。"
+            }
+        ]
     },
     "21": {
         "speaker": "",
-        "dialogue": "立希屏住了呼吸，看到微弱的火焰几秒后就熄灭。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希屏住了呼吸，看到微弱的火焰几秒后就熄灭。"
+            }
+        ]
     },
     "22": {
         "speaker": "椎名立希",
-        "dialogue": "你许了什么愿？卖火柴的小女孩？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "你许了什么愿？卖火柴的小女孩？"
+            }
+        ]
     },
     "23": {
         "speaker": "女孩",
-        "dialogue": "我？没有。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我？没有。"
+            }
+        ]
     },
     "24": {
         "speaker": "女孩",
-        "dialogue": "我最讨厌童话故事了。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我最讨厌童话故事了。"
+            }
+        ]
     },
     "25": {
         "speaker": "女孩",
-        "dialogue": "这个送给您。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "这个送给您。"
+            }
+        ]
     },
     "26": {
         "speaker": "",
-        "dialogue": "小孩把火柴盒交给立希，笑了笑，转身跑进浓雾中。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "小孩把火柴盒交给立希，笑了笑，转身跑进浓雾中。"
+            }
+        ]
     },
     "27": {
         "speaker": "椎名立希",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "28": {
         "speaker": "",
-        "dialogue": "立希摊开手，小小的纸盒躺在掌心。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希摊开手，小小的纸盒躺在掌心。"
+            }
+        ]
     },
     "29": {
         "speaker": "",
-        "dialogue": "火柴盒上，印着熟悉的假面金属乐队的标识。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "火柴盒上，印着熟悉的假面金属乐队的标识。"
+            }
+        ]
     },
     "30": {
         "speaker": "",
-        "dialogue": "Ave Mujica"
+        "dialogue": [
+            {
+                "html": "style='color:#881144'",
+                "text": "Ave Mujica"
+            }
+        ]
     },
     "31": {
         "speaker": "椎名立希",
-        "dialogue": "（……也对，除了那个家伙，谁会出这么诡异又意味不明的周边。）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（……也对，除了那个家伙，谁会出这么诡异又意味不明的周边。）"
+            }
+        ]
     },
     "32": {
         "speaker": "椎名立希",
-        "dialogue": "啊，下雨了……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "啊，下雨了……"
+            }
+        ]
     },
     "33": {
         "speaker": "椎名立希",
-        "dialogue": "回去吧。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "回去吧。"
+            }
+        ]
     },
     "34": {
         "speaker": "",
-        "dialogue": "雨不大也不小，刚刚好能散开雾气，淋湿灰色的路面。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "雨不大也不小，刚刚好能散开雾气，淋湿灰色的路面。"
+            }
+        ]
     },
     "35": {
         "speaker": "",
-        "dialogue": "转过熟悉的街角，立希望向电波塔的西侧。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "转过熟悉的街角，立希望向电波塔的西侧。"
+            }
+        ]
     },
     "36": {
         "speaker": "",
-        "dialogue": "月亮没在那里。路灯下站着一个瘦削的影子。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "月亮没在那里。路灯下站着一个瘦削的影子。"
+            }
+        ]
     },
     "37": {
         "speaker": "椎名立希",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "38": {
         "speaker": "丰川祥子",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "39": {
         "speaker": "丰川祥子",
-        "dialogue": "……晚上好。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……晚上好。"
+            }
+        ]
     },
     "40": {
         "speaker": "椎名立希",
-        "dialogue": "晚上好。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "晚上好。"
+            }
+        ]
     },
     "41": {
         "speaker": "丰川祥子",
-        "dialogue": "这么晚了还出门吗？……这附近不大安全。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "这么晚了还出门吗？……这附近不大安全。"
+            }
+        ]
     },
     "42": {
         "speaker": "",
-        "dialogue": "丰川祥子的右手藏在外套下面，隐约能看到绷带的白色。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "丰川祥子的右手藏在外套下面，隐约能看到绷带的白色。"
+            }
+        ]
     },
     "43": {
         "speaker": "椎名立希",
-        "dialogue": "……我住在这里。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……我住在这里。"
+            }
+        ]
     },
     "44": {
         "speaker": "丰川祥子",
-        "dialogue": "……抱歉。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……抱歉。"
+            }
+        ]
     },
     "45": {
         "speaker": "椎名立希",
-        "dialogue": "有什么东西落下了吗？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "有什么东西落下了吗？"
+            }
+        ]
     },
     "46": {
         "speaker": "",
-        "dialogue": "丰川祥子没有回答，把受伤的右手再往外套里藏了藏。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "丰川祥子没有回答，把受伤的右手再往外套里藏了藏。"
+            }
+        ]
     },
     "47": {
         "speaker": "椎名立希",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "48": {
         "speaker": "椎名立希",
-        "dialogue": "抱歉，是我多管闲事了。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "抱歉，是我多管闲事了。"
+            }
+        ]
     },
     "49": {
         "speaker": "椎名立希",
-        "dialogue": "那么我就先告辞——"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "那么我就先告辞——"
+            }
+        ]
     },
     "50": {
         "speaker": "丰川祥子",
-        "dialogue": "……请等一下。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……请等一下。"
+            }
+        ]
     },
     "51": {
         "speaker": "",
-        "dialogue": "祥子紧紧皱着眉头，苍白的脸沁着冷汗。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "祥子紧紧皱着眉头，苍白的脸沁着冷汗。"
+            }
+        ]
     },
     "52": {
         "speaker": "",
-        "dialogue": "顺着她的视线，立希看向面前一团漆黑的绿化带。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "顺着她的视线，立希看向面前一团漆黑的绿化带。"
+            }
+        ]
     },
     "53": {
         "speaker": "椎名立希",
-        "dialogue": "是什么样的东西？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "是什么样的东西？"
+            }
+        ]
     },
     "54": {
         "speaker": "丰川祥子",
-        "dialogue": "一个黑色的匣子，掌心这么大。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "一个黑色的匣子，掌心这么大。"
+            }
+        ]
     },
     "55": {
         "speaker": "椎名立希",
-        "dialogue": "里面是什么？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "里面是什么？"
+            }
+        ]
     },
     "56": {
         "speaker": "丰川祥子",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "57": {
         "speaker": "椎名立希",
-        "dialogue": "好吧，我知道了。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "好吧，我知道了。"
+            }
+        ]
     },
     "58": {
         "speaker": "椎名立希",
-        "dialogue": "商业机密——"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "商业机密——"
+            }
+        ]
     },
     "59": {
         "speaker": "椎名立希",
-        "dialogue": "但我姑且问一下，丰川小姐不是从医院偷溜出来的吧？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "但我姑且问一下，丰川小姐不是从医院偷溜出来的吧？"
+            }
+        ]
     },
     "60": {
         "speaker": "丰川祥子",
-        "dialogue": "我……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我……"
+            }
+        ]
     },
     "61": {
         "speaker": "椎名立希",
-        "dialogue": "……就没人能管管你吗？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……就没人能管管你吗？"
+            }
+        ]
     },
     "62": {
         "speaker": "丰川祥子",
-        "dialogue": "立希不也是一样。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希不也是一样。"
+            }
+        ]
     },
     "63": {
         "speaker": "",
-        "dialogue": "祥子喊了立希的名字。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "祥子喊了立希的名字。"
+            }
+        ]
     },
     "64": {
         "speaker": "椎名立希",
-        "dialogue": "……我跟你可不一样。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……我跟你可不一样。"
+            }
+        ]
     },
     "65": {
         "speaker": "",
-        "dialogue": "…袭击致受害者轻伤。目前警方已加大巡逻力度，望附近居民夜晚谨慎出行…"
+        "dialogue": [
+            {
+                "html": "style='color:#8b8b8b'",
+                "text": "…袭击致受害者轻伤。目前警方已加大巡逻力度，望附近居民夜晚谨慎出行…"
+            }
+        ]
     },
     "66": {
         "speaker": "",
-        "dialogue": "…袭击致受害者轻伤。目前警方已加大巡逻力度，望附近居民夜晚谨慎出行…"
+        "dialogue": [
+            {
+                "html": "style='color:#8b8b8b'",
+                "text": "…袭击致受害者轻伤。目前警方已加大巡逻力度，望附近居民夜晚谨慎出行…"
+            }
+        ]
     },
     "67": {
         "speaker": "椎名立希",
-        "dialogue": "（她为什么会在这里丢东西......）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（她为什么会在这里丢东西......）"
+            }
+        ]
     },
     "68": {
         "speaker": "椎名立希",
-        "dialogue": "等等，祥子。 我来找。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "等等，祥子。 我来找。"
+            }
+        ]
     },
     "69": {
         "speaker": "椎名立希",
-        "dialogue": "你在旁边站着就行，好吗？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "你在旁边站着就行，好吗？"
+            }
+        ]
     },
     "70": {
         "speaker": "丰川祥子",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "71": {
         "speaker": "丰川祥子",
-        "dialogue": "不好。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "不好。"
+            }
+        ]
     },
     "72": {
         "speaker": "椎名立希",
-        "dialogue": "什么？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "什么？"
+            }
+        ]
     },
     "73": {
         "speaker": "丰川祥子",
-        "dialogue": "立希，你真是一点没变。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希，你真是一点没变。"
+            }
+        ]
     },
     "74": {
         "speaker": "",
-        "dialogue": "祥子还想说些什么。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "祥子还想说些什么。"
+            }
+        ]
     },
     "75": {
         "speaker": "",
-        "dialogue": "刺耳的手机铃声打断了她。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "刺耳的手机铃声打断了她。"
+            }
+        ]
     },
     "76": {
         "speaker": "丰川祥子",
-        "dialogue": "您好？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "您好？"
+            }
+        ]
     },
     "77": {
         "speaker": "丰川祥子",
-        "dialogue": "……明早5点15分是吗？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……明早5点15分是吗？"
+            }
+        ]
     },
     "78": {
         "speaker": "丰川祥子",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "79": {
         "speaker": "丰川祥子",
-        "dialogue": "好的，我知道了。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "好的，我知道了。"
+            }
+        ]
     },
     "80": {
         "speaker": "椎名立希",
-        "dialogue": "你的脸色看起来很不好。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "你的脸色看起来很不好。"
+            }
+        ]
     },
     "81": {
         "speaker": "丰川祥子",
-        "dialogue": "我知道。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我知道。"
+            }
+        ]
     },
     "82": {
         "speaker": "椎名立希",
-        "dialogue": "大明星也没有病假吗？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "大明星也没有病假吗？"
+            }
+        ]
     },
     "83": {
         "speaker": "丰川祥子",
-        "dialogue": "不是大明星，也没有病假。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "不是大明星，也没有病假。"
+            }
+        ]
     },
     "84": {
         "speaker": "",
-        "dialogue": "祥子拧紧眉毛沉默着。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "祥子拧紧眉毛沉默着。"
+            }
+        ]
     },
     "85": {
         "speaker": "",
-        "dialogue": "这副神情让立希感到既陌生又熟悉。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "这副神情让立希感到既陌生又熟悉。"
+            }
+        ]
     },
     "86": {
         "speaker": "椎名立希",
-        "dialogue": "现在怎么办？回医院，还是工作室？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "现在怎么办？回医院，还是工作室？"
+            }
+        ]
     },
     "87": {
         "speaker": "丰川祥子",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "88": {
         "speaker": "椎名立希",
-        "dialogue": "祥子，你……伤得严重吗？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "祥子，你……伤得严重吗？"
+            }
+        ]
     },
     "89": {
         "speaker": "丰川祥子",
-        "dialogue": "不是说不管闲事吗？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "不是说不管闲事吗？"
+            }
+        ]
     },
     "90": {
         "speaker": "椎名立希",
-        "dialogue": "是啊，你怎么样跟我有什么关系。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "是啊，你怎么样跟我有什么关系。"
+            }
+        ]
     },
     "91": {
         "speaker": "椎名立希",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "92": {
         "speaker": "椎名立希",
-        "dialogue": "Demo？录音？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "Demo？录音？"
+            }
+        ]
     },
     "93": {
         "speaker": "丰川祥子",
-        "dialogue": "Demo，还有配器。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "Demo，还有配器。"
+            }
+        ]
     },
     "94": {
         "speaker": "椎名立希",
-        "dialogue": "（mujica不会需要曲子的小样……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（mujica不会需要曲子的小样……）"
+            }
+        ]
     },
     "95": {
         "speaker": "椎名立希",
-        "dialogue": "（只能是商单。）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（只能是商单。）"
+            }
+        ]
     },
     "96": {
         "speaker": "椎名立希",
-        "dialogue": "一晚上能打完谱吗？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "一晚上能打完谱吗？"
+            }
+        ]
     },
     "97": {
         "speaker": "丰川祥子",
-        "dialogue": "……加紧一些可以。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……加紧一些可以。"
+            }
+        ]
     },
     "98": {
         "speaker": "椎名立希",
-        "dialogue": "（真是超人。）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（真是超人。）"
+            }
+        ]
     },
     "99": {
         "speaker": "椎名立希",
-        "dialogue": "我家就在附近。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我家就在附近。"
+            }
+        ]
     },
     "100": {
         "speaker": "",
-        "dialogue": "祥子愣怔了一下，困惑地望着立希。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "祥子愣怔了一下，困惑地望着立希。"
+            }
+        ]
     },
     "101": {
         "speaker": "椎名立希",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "102": {
         "speaker": "椎名立希",
-        "dialogue": "赶时间不是吗？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "赶时间不是吗？"
+            }
+        ]
     },
     "103": {
         "speaker": "椎名立希",
-        "dialogue": "祥子丢的东西我也会帮你找到的。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "祥子丢的东西我也会帮你找到的。"
+            }
+        ]
     },
     "104": {
         "speaker": "椎名立希",
-        "dialogue": "别在室外受凉了。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "别在室外受凉了。"
+            }
+        ]
     }
 }

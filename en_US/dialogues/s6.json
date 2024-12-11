@@ -1,46 +1,101 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": "推开门，温差让立希愣了愣。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "推开门，温差让立希愣了愣。"
+            }
+        ]
     },
     "1": {
         "speaker": "",
-        "dialogue": "也许是错觉，又或许确有其事，她总感觉稍早些那股突如其来的不适感又开始酝酿了。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "也许是错觉，又或许确有其事，她总感觉稍早些那股突如其来的不适感又开始酝酿了。"
+            }
+        ]
     },
     "2": {
         "speaker": "",
-        "dialogue": "呼吸变得愈发急促，心跳也在加快，慌得发疼。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "呼吸变得愈发急促，心跳也在加快，慌得发疼。"
+            }
+        ]
     },
     "3": {
         "speaker": "椎名立希",
-        "dialogue": "（难道感冒了……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（难道感冒了……）"
+            }
+        ]
     },
     "4": {
         "speaker": "",
-        "dialogue": "强撑着一步步挪至餐桌前，双手扣在椅子的靠背上，立希整个人已经完全站不直了。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "强撑着一步步挪至餐桌前，双手扣在椅子的靠背上，立希整个人已经完全站不直了。"
+            }
+        ]
     },
     "5": {
         "speaker": "",
-        "dialogue": "她大喘着粗气，一下跌跪在地，前所未有的危机感席卷了她，直觉告诉她绝对不能就这样睡过去。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "她大喘着粗气，一下跌跪在地，前所未有的危机感席卷了她，直觉告诉她绝对不能就这样睡过去。"
+            }
+        ]
     },
     "6": {
         "speaker": "椎名立希",
-        "dialogue": "（糟糕……手、手机……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（糟糕……手、手机……）"
+            }
+        ]
     },
     "7": {
         "speaker": "",
-        "dialogue": "她奋力掏出手机，可双手止不住地颤抖，连屏保都划不开。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "她奋力掏出手机，可双手止不住地颤抖，连屏保都划不开。"
+            }
+        ]
     },
     "8": {
         "speaker": "",
-        "dialogue": "手机一下从掌心滑落，整个人也随之重重扑倒在地。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "手机一下从掌心滑落，整个人也随之重重扑倒在地。"
+            }
+        ]
     },
     "9": {
         "speaker": "椎名立希",
-        "dialogue": "（怎么会……我还……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（怎么会……我还……）"
+            }
+        ]
     },
     "10": {
         "speaker": "",
-        "dialogue": "下垂的眼睑最终盖住了双眸，立希本就模糊的视线彻底消逝，意识在漫无止境的黑暗中不断蔓延。"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "下垂的眼睑最终盖住了双眸，立希本就模糊的视线彻底消逝，意识在漫无止境的黑暗中不断蔓延。"
+            }
+        ]
     }
 }

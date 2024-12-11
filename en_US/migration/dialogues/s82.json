@@ -3,55 +3,120 @@
     "list": {
         "0": {
             "speaker": "高松灯",
-            "dialogue": "小立希……？"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "小立希……？"
+                }
+            ]
         },
         "1": {
             "speaker": "",
-            "dialogue": "就算不需要听清也能明白灯正吐出关心的话语，这让自己即将说出的内容显得更加残酷。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "就算不需要听清也能明白灯正吐出关心的话语，这让自己即将说出的内容显得更加残酷。"
+                }
+            ]
         },
         "2": {
             "speaker": "",
-            "dialogue": "自己自推开门后就没敢看过灯的眼睛，低着头的视野里只能看见两只自己在前进的靴子，它们拖着自己见到了一片绿色——那是灯的裙子。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "自己自推开门后就没敢看过灯的眼睛，低着头的视野里只能看见两只自己在前进的靴子，它们拖着自己见到了一片绿色——那是灯的裙子。"
+                }
+            ]
         },
         "3": {
             "speaker": "",
-            "dialogue": "直到两人的距离近到几乎足尖对着足尖，那截熟悉的绿裙子的主人提出的问题终于完全清晰。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "直到两人的距离近到几乎足尖对着足尖，那截熟悉的绿裙子的主人提出的问题终于完全清晰。"
+                }
+            ]
         },
         "4": {
             "speaker": "高松灯",
-            "dialogue": "你刚刚怎么了？"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "你刚刚怎么了？"
+                }
+            ]
         },
         "5": {
             "speaker": "？？？",
-            "dialogue": "喵~！"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "喵~！"
+                }
+            ]
         },
         "6": {
             "speaker": "",
-            "dialogue": "这个问题在一声猫叫中结束，她猛地抬头，那只这几日在梦境中不断出现的猫正真真切切地出现在灯身后的地板上，尾巴轻柔地护在身前，坐姿娴静而优雅。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "这个问题在一声猫叫中结束，她猛地抬头，那只这几日在梦境中不断出现的猫正真真切切地出现在灯身后的地板上，尾巴轻柔地护在身前，坐姿娴静而优雅。"
+                }
+            ]
         },
         "7": {
             "speaker": "椎名立希",
-            "dialogue": "......"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "......"
+                }
+            ]
         },
         "8": {
             "speaker": "椎名立希",
-            "dialogue": "（为什么这个时候它反而不说话了？）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（为什么这个时候它反而不说话了？）"
+                }
+            ]
         },
         "9": {
             "speaker": "",
-            "dialogue": "猫只是坐在那里，在双方四目相对之后才摇了摇头，仿佛在提示她刚刚做了一个错误的选择。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "猫只是坐在那里，在双方四目相对之后才摇了摇头，仿佛在提示她刚刚做了一个错误的选择。"
+                }
+            ]
         },
         "10": {
             "speaker": "",
-            "dialogue": "然后它站起身来，轻轻顶开虚掩着的卧室门，悄无声息地钻了进去。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "然后它站起身来，轻轻顶开虚掩着的卧室门，悄无声息地钻了进去。"
+                }
+            ]
         },
         "11": {
             "speaker": "椎名立希",
-            "dialogue": "等一下！"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "等一下！"
+                }
+            ]
         },
         "12": {
             "speaker": "高松灯",
-            "dialogue": "小立希！？"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "小立希！？"
+                }
+            ]
         }
     }
 }

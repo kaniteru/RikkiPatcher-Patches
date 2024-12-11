@@ -3,35 +3,75 @@
     "list": {
         "0": {
             "speaker": "椎名立希",
-            "dialogue": "后半段总感觉不够明快。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "后半段总感觉不够明快。"
+                }
+            ]
         },
         "1": {
             "speaker": "椎名立希",
-            "dialogue": "和弦再加三度？换一个更简洁的riff？"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "和弦再加三度？换一个更简洁的riff？"
+                }
+            ]
         },
         "2": {
             "speaker": "",
-            "dialogue": "立希在铃声响起的瞬间关掉了闹钟。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "立希在铃声响起的瞬间关掉了闹钟。"
+                }
+            ]
         },
         "3": {
             "speaker": "椎名立希",
-            "dialogue": "......"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "......"
+                }
+            ]
         },
         "4": {
             "speaker": "椎名立希",
-            "dialogue": "（状态好的时候不知不觉就工作太久。）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（状态好的时候不知不觉就工作太久。）"
+                }
+            ]
         },
         "5": {
             "speaker": "椎名立希",
-            "dialogue": "（也许这就叫做“不良生活习惯”。）"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "（也许这就叫做“不良生活习惯”。）"
+                }
+            ]
         },
         "6": {
             "speaker": "椎名立希",
-            "dialogue": "下楼随便走走吧。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "下楼随便走走吧。"
+                }
+            ]
         },
         "7": {
             "speaker": "",
-            "dialogue": "带上从不离身的AirPods，立希在出门的时候为自己选了一首喜欢的歌。"
+            "dialogue": [
+                {
+                    "html": "style='color:#FfFffF'",
+                    "text": "带上从不离身的AirPods，立希在出门的时候为自己选了一首喜欢的歌。"
+                }
+            ]
         }
     }
 }
