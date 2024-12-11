@@ -1,158 +1,353 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": "장면 설명"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "장면 설명"
+            }
+        ]
     },
     "1": {
         "speaker": "",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "2": {
         "speaker": "",
-        "dialogue": "휴대폰 진동 소리가 세 번 울렸다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "휴대폰 진동 소리가 세 번 울렸다."
+            }
+        ]
     },
     "3": {
         "speaker": "",
-        "dialogue": "하룻밤을 꼬박 새운 타키는 침대 머리에 기대어 어두운 공간을 응시하며 휴대폰을 끌 생각이 없었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "하룻밤을 꼬박 새운 타키는 침대 머리에 기대어 어두운 공간을 응시하며 휴대폰을 끌 생각이 없었다."
+            }
+        ]
     },
     "4": {
         "speaker": "시이나 타키",
-        "dialogue": "……여보세요?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……여보세요?"
+            }
+        ]
     },
     "5": {
         "speaker": "미확인 발신",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "6": {
         "speaker": "",
-        "dialogue": "발신 번호가 표시되지 않고, 수화기 너머로 들려오는 잡음이 침묵을 더욱 오싹하게 만들었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "발신 번호가 표시되지 않고, 수화기 너머로 들려오는 잡음이 침묵을 더욱 오싹하게 만들었다."
+            }
+        ]
     },
     "7": {
         "speaker": "시이나 타키",
-        "dialogue": "……안녕하세요?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……안녕하세요?"
+            }
+        ]
     },
     "8": {
         "speaker": "시이나 타키",
-        "dialogue": "……무슨 일이야."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……무슨 일이야."
+            }
+        ]
     },
     "9": {
         "speaker": "",
-        "dialogue": "낯선 장난 전화가 쌓여 있던 불안감을 자극했다. 타키는 눈을 감고 주먹을 꽉 쥐었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "낯선 장난 전화가 쌓여 있던 불안감을 자극했다. 타키는 눈을 감고 주먹을 꽉 쥐었다."
+            }
+        ]
     },
     "10": {
         "speaker": "",
-        "dialogue": "그녀는 소리치고 싶었고, 욕을 하고 싶었고, 비명을 지르고 싶었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그녀는 소리치고 싶었고, 욕을 하고 싶었고, 비명을 지르고 싶었다."
+            }
+        ]
     },
     "11": {
         "speaker": "",
-        "dialogue": "하지만 결국 그녀는 아무것도 하지 않았다. 그저 지친 눈으로 어두워진 휴대폰 화면을 바라볼 뿐이었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "하지만 결국 그녀는 아무것도 하지 않았다. 그저 지친 눈으로 어두워진 휴대폰 화면을 바라볼 뿐이었다."
+            }
+        ]
     },
     "12": {
         "speaker": "",
-        "dialogue": "7:00"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "7:00"
+            }
+        ]
     },
     "13": {
         "speaker": "시이나 타키",
-        "dialogue": "……한 시간 남았네."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……한 시간 남았네."
+            }
+        ]
     },
     "14": {
         "speaker": "시이나 타키",
-        "dialogue": "（한 시간 동안 뭘 할 수 있을까, 아무것도 못하겠지.）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（한 시간 동안 뭘 할 수 있을까, 아무것도 못하겠지.）"
+            }
+        ]
     },
     "15": {
         "speaker": "",
-        "dialogue": "사람이 먼 길을 떠나기 전에 무엇을 해야 할까? 사람이 임종 직전에 무엇을 할까……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "사람이 먼 길을 떠나기 전에 무엇을 해야 할까? 사람이 임종 직전에 무엇을 할까……"
+            }
+        ]
     },
     "16": {
         "speaker": "",
-        "dialogue": "열흘 동안 타키는 이 문제에 대해 명확히 생각하지 않았다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "열흘 동안 타키는 이 문제에 대해 명확히 생각하지 않았다."
+            }
+        ]
     },
     "17": {
         "speaker": "시이나 타키",
-        "dialogue": "작별……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "작별……"
+            }
+        ]
     },
     "18": {
         "speaker": "시이나 타키",
-        "dialogue": "작별인가."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "작별인가."
+            }
+        ]
     },
     "19": {
         "speaker": "",
-        "dialogue": "눈을 감으면, 장례식장 밖의 버들가지가 봄바람에 흔들리는 모습이 보이는 듯하다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "눈을 감으면, 장례식장 밖의 버들가지가 봄바람에 흔들리는 모습이 보이는 듯하다."
+            }
+        ]
     },
     "20": {
         "speaker": "",
-        "dialogue": "사람들은 줄을 서서 고인의 시신 앞에 꽃을 헌화한다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "사람들은 줄을 서서 고인의 시신 앞에 꽃을 헌화한다."
+            }
+        ]
     },
     "21": {
         "speaker": "",
-        "dialogue": "염불이 타오르는 향과 함께 퍼져 나가고, 가족과 친구들은 곁에서 고인의 생전 좋아했던 물건을 관에 넣는다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "염불이 타오르는 향과 함께 퍼져 나가고, 가족과 친구들은 곁에서 고인의 생전 좋아했던 물건을 관에 넣는다."
+            }
+        ]
     },
     "22": {
         "speaker": "시이나 타키",
-        "dialogue": "이게 무슨 작별이야……드럼 스틱을 관에 넣지 마."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "이게 무슨 작별이야……드럼 스틱을 관에 넣지 마."
+            }
+        ]
     },
     "23": {
         "speaker": "시이나 타키",
-        "dialogue": "나……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "나……"
+            }
+        ]
     },
     "24": {
         "speaker": "",
-        "dialogue": "휴대폰을 켜니 며칠 전 마지막으로 연락한 기록이 남아 있다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "휴대폰을 켜니 며칠 전 마지막으로 연락한 기록이 남아 있다."
+            }
+        ]
     },
     "25": {
         "speaker": "시이나 타키",
-        "dialogue": "（누구에게 연락해야 하지……누구에게 연락할 수 있을까?）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（누구에게 연락해야 하지……누구에게 연락할 수 있을까?）"
+            }
+        ]
     },
     "26": {
         "speaker": "시이나 타키",
-        "dialogue": "（그냥……“미안해, 나 죽을 거야”“안녕”이라고 말하라고? 대화할 시간도 없이, 왜 마지막에 상대방에게 전화를 걸어 슬픔과 후회의 기억을 남기려고 하는 거야.）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（그냥……“미안해, 나 죽을 거야”“안녕”이라고 말하라고? 대화할 시간도 없이, 왜 마지막에 상대방에게 전화를 걸어 슬픔과 후회의 기억을 남기려고 하는 거야.）"
+            }
+        ]
     },
     "27": {
         "speaker": "시이나 타키",
-        "dialogue": "（왜 마지막에야 생각나는 걸까……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（왜 마지막에야 생각나는 걸까……）"
+            }
+        ]
     },
     "28": {
         "speaker": "시이나 타키",
-        "dialogue": "（곡도……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（곡도……）"
+            }
+        ]
     },
     "29": {
         "speaker": "시이나 타키",
-        "dialogue": "（내가 또 뭘 잘못 선택한 걸까……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（내가 또 뭘 잘못 선택한 걸까……）"
+            }
+        ]
     },
     "30": {
         "speaker": "",
-        "dialogue": "컴퓨터 화면이 희미하게 빛나며, 마지막 '미완성 작품'이 완성되지 못한 채 멈춰 있다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "컴퓨터 화면이 희미하게 빛나며, 마지막 '미완성 작품'이 완성되지 못한 채 멈춰 있다."
+            }
+        ]
     },
     "31": {
         "speaker": "시이나 타키",
-        "dialogue": "……하."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……하."
+            }
+        ]
     },
     "32": {
         "speaker": "",
-        "dialogue": "운명이란 잔혹하지."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "운명이란 잔혹하지."
+            }
+        ]
     },
     "33": {
         "speaker": "",
-        "dialogue": "영감은 오지 않고, 기적은 일어나지 않으며, 기대는 충족되지 않는다. 마지막으로 작별 인사를 하고 싶어 하는 사람은……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "영감은 오지 않고, 기적은 일어나지 않으며, 기대는 충족되지 않는다. 마지막으로 작별 인사를 하고 싶어 하는 사람은……"
+            }
+        ]
     },
     "34": {
         "speaker": "",
-        "dialogue": "끝내 '안녕'이라는 말을 하지 못한다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "끝내 '안녕'이라는 말을 하지 못한다."
+            }
+        ]
     },
     "35": {
         "speaker": "",
-        "dialogue": "희미한 햇살이 천천히 텅 빈 방을 밝힌다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "희미한 햇살이 천천히 텅 빈 방을 밝힌다."
+            }
+        ]
     },
     "36": {
         "speaker": "",
-        "dialogue": "봄바람은 한 번의 숨결처럼 지나간다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "봄바람은 한 번의 숨결처럼 지나간다."
+            }
+        ]
     },
     "37": {
         "speaker": "",
-        "dialogue": "장면 설명"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "장면 설명"
+            }
+        ]
     },
     "38": {
         "speaker": "",
-        "dialogue": "장면 설명"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "장면 설명"
+            }
+        ]
     }
 }

@@ -1,82 +1,182 @@
 {
     "0": {
         "speaker": "시이나 타키",
-        "dialogue": "됐어, 멈춰."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "됐어, 멈춰."
+            }
+        ]
     },
     "1": {
         "speaker": "",
-        "dialogue": "마지막 음이 울리면서 드럼 소리가 먼저 멈추고, 다른 악기들도 하나씩 그쳤다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "마지막 음이 울리면서 드럼 소리가 먼저 멈추고, 다른 악기들도 하나씩 그쳤다."
+            }
+        ]
     },
     "2": {
         "speaker": "",
-        "dialogue": "타키는 드럼 스틱을 내려놓으며 깊이 한숨을 내쉬었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 드럼 스틱을 내려놓으며 깊이 한숨을 내쉬었다."
+            }
+        ]
     },
     "3": {
         "speaker": "시이나 타키",
-        "dialogue": "（어떻게 해도 이상해, 악보는 이미 수정했는데, 왜 여전히……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（어떻게 해도 이상해, 악보는 이미 수정했는데, 왜 여전히……）"
+            }
+        ]
     },
     "4": {
         "speaker": "치하야 아논",
-        "dialogue": "…우와, 손이 너무 아파."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "…우와, 손이 너무 아파."
+            }
+        ]
     },
     "5": {
         "speaker": "시이나 타키",
-        "dialogue": "얼마나 연습했다고 벌써 손이 아프니?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "얼마나 연습했다고 벌써 손이 아프니?"
+            }
+        ]
     },
     "6": {
         "speaker": "치하야 아논",
-        "dialogue": "이번에 기타 강도가 좀 높은 것 같아… 라나도 그렇게 느끼지?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "이번에 기타 강도가 좀 높은 것 같아… 라나도 그렇게 느끼지?"
+            }
+        ]
     },
     "7": {
         "speaker": "치하야 아논",
-        "dialogue": "아! 라나가 서서 졸고 있어!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "아! 라나가 서서 졸고 있어!"
+            }
+        ]
     },
     "8": {
         "speaker": "시이나 타키",
-        "dialogue": "뭐? 도대체 무슨 일이야, 우리 이제 한 시간도 안 됐잖아?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "뭐? 도대체 무슨 일이야, 우리 이제 한 시간도 안 됐잖아?"
+            }
+        ]
     },
     "9": {
         "speaker": "타카마츠 토모리",
-        "dialogue": "…아마, 라나가 요즘 논문 때문에 바빴을 거야."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "…아마, 라나가 요즘 논문 때문에 바빴을 거야."
+            }
+        ]
     },
     "10": {
         "speaker": "타카마츠 토모리",
-        "dialogue": "어제 밤에도 나한테 교정과 수정을 부탁했어……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "어제 밤에도 나한테 교정과 수정을 부탁했어……"
+            }
+        ]
     },
     "11": {
         "speaker": "시이나 타키",
-        "dialogue": "그렇구나……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그렇구나……"
+            }
+        ]
     },
     "12": {
         "speaker": "시이나 타키",
-        "dialogue": "미안해, 내가 갑자기 연습하자고 해서."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "미안해, 내가 갑자기 연습하자고 해서."
+            }
+        ]
     },
     "13": {
         "speaker": "타카마츠 토모리",
-        "dialogue": "아니야… 오랜만에 모두 모였는데, 타키가 조직해줘서 고마워."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "아니야… 오랜만에 모두 모였는데, 타키가 조직해줘서 고마워."
+            }
+        ]
     },
     "14": {
         "speaker": "나가사키 소요",
-        "dialogue": "그럼 어떻게 할까, 잠깐 쉴까?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그럼 어떻게 할까, 잠깐 쉴까?"
+            }
+        ]
     },
     "15": {
         "speaker": "시이나 타키",
-        "dialogue": "아니, 라나가 자고 싶으면 잠시 재우고, 우리는 계속하자."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "아니, 라나가 자고 싶으면 잠시 재우고, 우리는 계속하자."
+            }
+        ]
     },
     "16": {
         "speaker": "시이나 타키",
-        "dialogue": "아이네, 주연 파트 너가 할 수 있어?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "아이네, 주연 파트 너가 할 수 있어?"
+            }
+        ]
     },
     "17": {
         "speaker": "치하야 아논",
-        "dialogue": "어… 미안, 리키, 며칠 전에 너가 악보 보냈을 때, 내가 밖에서 활동 중이어서… 그래서…"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "어… 미안, 리키, 며칠 전에 너가 악보 보냈을 때, 내가 밖에서 활동 중이어서… 그래서…"
+            }
+        ]
     },
     "18": {
         "speaker": "치하야 아논",
-        "dialogue": "물론 내 파트는 잘 봤어!!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "물론 내 파트는 잘 봤어!!"
+            }
+        ]
     },
     "19": {
         "speaker": "시이나 타키",
-        "dialogue": "쳇. 그럼 다시 한 번 합주하자."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "쳇. 그럼 다시 한 번 합주하자."
+            }
+        ]
     }
 }

@@ -1,350 +1,789 @@
 {
     "0": {
         "speaker": "치하야 아논",
-        "dialogue": "Rikki야, 너 알아……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "Rikki야, 너 알아……"
+            }
+        ]
     },
     "1": {
         "speaker": "시이나 타키",
-        "dialogue": "응？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "응？"
+            }
+        ]
     },
     "2": {
         "speaker": "치하야 아논",
-        "dialogue": "지난번 우리가 함께한 방송...최고 동시 접속자 수가 Anon Tokyo 채널 기록을 깨버렸어……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "지난번 우리가 함께한 방송...최고 동시 접속자 수가 Anon Tokyo 채널 기록을 깨버렸어……"
+            }
+        ]
     },
     "3": {
         "speaker": "시이나 타키",
-        "dialogue": "그래서?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그래서?"
+            }
+        ]
     },
     "4": {
         "speaker": "치하야 아논",
-        "dialogue": "기뻐해야 할지 말아야 할지 모르겠어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "기뻐해야 할지 말아야 할지 모르겠어."
+            }
+        ]
     },
     "5": {
         "speaker": "시이나 타키",
-        "dialogue": "맘대로 해, 어차피 돈은 네 주머니로 들어갔잖아… 밴드 발전 기금에 일부는 저축해둬."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "맘대로 해, 어차피 돈은 네 주머니로 들어갔잖아… 밴드 발전 기금에 일부는 저축해둬."
+            }
+        ]
     },
     "6": {
         "speaker": "치하야 아논",
-        "dialogue": "그런 건 Rikki가 굳이 말하지 않아도 돼! 그러고 보니, 그렇다면——"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그런 건 Rikki가 굳이 말하지 않아도 돼! 그러고 보니, 그렇다면——"
+            }
+        ]
     },
     "7": {
         "speaker": "치하야 아논",
-        "dialogue": "제발 Rikki! 한 번 더 해줘——"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "제발 Rikki! 한 번 더 해줘——"
+            }
+        ]
     },
     "8": {
         "speaker": "시이나 타키",
-        "dialogue": "뭘?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "뭘?"
+            }
+        ]
     },
     "9": {
         "speaker": "치하야 아논",
-        "dialogue": "방송! 한 번 더 합동 방송하자, 제발! 큰 걸 모으고 싶어, 라이브 막 끝난 열기를 타서 모두를 초대하려고……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "방송! 한 번 더 합동 방송하자, 제발! 큰 걸 모으고 싶어, 라이브 막 끝난 열기를 타서 모두를 초대하려고……"
+            }
+        ]
     },
     "10": {
         "speaker": "시이나 타키",
-        "dialogue": "좋아."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "좋아."
+            }
+        ]
     },
     "11": {
         "speaker": "치하야 아논",
-        "dialogue": "네가 거절할 줄 알았는데 들어봐——"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "네가 거절할 줄 알았는데 들어봐——"
+            }
+        ]
     },
     "12": {
         "speaker": "치하야 아논",
-        "dialogue": "응? 뭐라고 했어?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "응? 뭐라고 했어?"
+            }
+        ]
     },
     "13": {
         "speaker": "시이나 타키",
-        "dialogue": "내가 말했잖아, 좋아."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "내가 말했잖아, 좋아."
+            }
+        ]
     },
     "14": {
         "speaker": "시이나 타키",
-        "dialogue": "왜 계속 이야기하지 않아? 토모리와 길고양이는 괜찮아, 혹시 아직 소요를 설득하지 못했니?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "왜 계속 이야기하지 않아? 토모리와 길고양이는 괜찮아, 혹시 아직 소요를 설득하지 못했니?"
+            }
+        ]
     },
     "15": {
         "speaker": "치하야 아논",
-        "dialogue": "....."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "....."
+            }
+        ]
     },
     "16": {
         "speaker": "치하야 아논",
-        "dialogue": "아아아아아 너 후회하지 말아야 해, 지금 당장 그녀의 사무실에 가서 해결할게——"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "아아아아아 너 후회하지 말아야 해, 지금 당장 그녀의 사무실에 가서 해결할게——"
+            }
+        ]
     },
     "17": {
         "speaker": "시이나 타키",
-        "dialogue": "......역시 그대로네."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......역시 그대로네."
+            }
+        ]
     },
     "18": {
         "speaker": "토가와 사키코",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "19": {
         "speaker": "토가와 사키코",
-        "dialogue": "......아직 안 끝났어?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......아직 안 끝났어?"
+            }
+        ]
     },
     "20": {
         "speaker": "시이나 타키",
-        "dialogue": "...서두르지 마."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "...서두르지 마."
+            }
+        ]
     },
     "21": {
         "speaker": "토가와 사키코",
-        "dialogue": "서두르는 건 너 같은데, 시이나 타키 씨."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "서두르는 건 너 같은데, 시이나 타키 씨."
+            }
+        ]
     },
     "22": {
         "speaker": "토가와 사키코",
-        "dialogue": "상 받으러 가는 거지, 결혼하는 게 아니잖아."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "상 받으러 가는 거지, 결혼하는 게 아니잖아."
+            }
+        ]
     },
     "23": {
         "speaker": "토가와 사키코",
-        "dialogue": "그렇게 긴장해서 넥타이도 못 매겠어?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그렇게 긴장해서 넥타이도 못 매겠어?"
+            }
+        ]
     },
     "24": {
         "speaker": "시이나 타키",
-        "dialogue": "......왜 상까지 주는 거야?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......왜 상까지 주는 거야?"
+            }
+        ]
     },
     "25": {
         "speaker": "토가와 사키코",
-        "dialogue": "나도 알고 싶어……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "나도 알고 싶어……"
+            }
+        ]
     },
     "26": {
         "speaker": "무대 뒤 방송",
-        "dialogue": "다음은 제7회 기사 문학상 주제가 《Un saludo a Don Quijote》 두 공동 작가가 무대에 오르겠습니다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "다음은 제7회 기사 문학상 주제가 《Un saludo a Don Quijote》 두 공동 작가가 무대에 오르겠습니다."
+            }
+        ]
     },
     "27": {
         "speaker": "토가와 사키코",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "28": {
         "speaker": "토가와 사키코",
-        "dialogue": "여기 와! 머리를 숙여."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "여기 와! 머리를 숙여."
+            }
+        ]
     },
     "29": {
         "speaker": "토가와 사키코",
-        "dialogue": "넥타이를 이렇게 매는 거 맞아……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "넥타이를 이렇게 매는 거 맞아……"
+            }
+        ]
     },
     "30": {
         "speaker": "나가사키 소요",
-        "dialogue": "타키, 요즘 부업 생각해본 적 있어?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키, 요즘 부업 생각해본 적 있어?"
+            }
+        ]
     },
     "31": {
         "speaker": "시이나 타키",
-        "dialogue": "......？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......？"
+            }
+        ]
     },
     "32": {
         "speaker": "시이나 타키",
-        "dialogue": "당분간은 아니야, 작곡에 전념하려고 해. 게다가 아직 그 정도로 긴박하지도 않고."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "당분간은 아니야, 작곡에 전념하려고 해. 게다가 아직 그 정도로 긴박하지도 않고."
+            }
+        ]
     },
     "33": {
         "speaker": "시이나 타키",
-        "dialogue": "왜? 누가 너한테 연락했어?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "왜? 누가 너한테 연락했어?"
+            }
+        ]
     },
     "34": {
         "speaker": "나가사키 소요",
-        "dialogue": "어…… 별일 아니야. 그냥 히나가 너를 좀 그리워해서, 야마다 씨가 딸이 새 선생님 수업 중에 정신을 놓고 있다고 몇 번이나 나한테 불평했거든."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "어…… 별일 아니야. 그냥 히나가 너를 좀 그리워해서, 야마다 씨가 딸이 새 선생님 수업 중에 정신을 놓고 있다고 몇 번이나 나한테 불평했거든."
+            }
+        ]
     },
     "35": {
         "speaker": "나가사키 소요",
-        "dialogue": "엄격한 선생님이 여전히 수요가 많구나."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "엄격한 선생님이 여전히 수요가 많구나."
+            }
+        ]
     },
     "36": {
         "speaker": "시이나 타키",
-        "dialogue": "……내가 그렇게 엄격하진 않잖아, 아마도."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……내가 그렇게 엄격하진 않잖아, 아마도."
+            }
+        ]
     },
     "37": {
         "speaker": "시이나 타키",
-        "dialogue": "어쨌든 모든 사람이 음악으로 먹고 사는 건 아니니까, 그건 잘 알고 있어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "어쨌든 모든 사람이 음악으로 먹고 사는 건 아니니까, 그건 잘 알고 있어."
+            }
+        ]
     },
     "38": {
         "speaker": "나가사키 소요",
-        "dialogue": "그래서? 생각해볼래? 히나가 너 아니면 안 될 것 같아, 급여는 잘 얘기해볼 수 있어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그래서? 생각해볼래? 히나가 너 아니면 안 될 것 같아, 급여는 잘 얘기해볼 수 있어."
+            }
+        ]
     },
     "39": {
         "speaker": "시이나 타키",
-        "dialogue": "난 남의 것을 탐하는 걸 좋아하지 않아."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "난 남의 것을 탐하는 걸 좋아하지 않아."
+            }
+        ]
     },
     "40": {
         "speaker": "나가사키 소요",
-        "dialogue": "......！"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......！"
+            }
+        ]
     },
     "41": {
         "speaker": "시이나 타키",
-        "dialogue": "추가 수입은 필요 없지만, 친구와 주말을 보내는 것도 나쁘지 않지. 작은 히나와 친구가 되는 건 괜찮아."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "추가 수입은 필요 없지만, 친구와 주말을 보내는 것도 나쁘지 않지. 작은 히나와 친구가 되는 건 괜찮아."
+            }
+        ]
     },
     "42": {
         "speaker": "나가사키 소요",
-        "dialogue": "타키……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키……"
+            }
+        ]
     },
     "43": {
         "speaker": "시이나 타키",
-        "dialogue": "그래도 고마워, 소요."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그래도 고마워, 소요."
+            }
+        ]
     },
     "44": {
         "speaker": "나가사키 소요",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "45": {
         "speaker": "나가사키 소요",
-        "dialogue": "아, 작은 히나가 네가 처음에 그녀를 친구로 여기지 않았다는 걸 알면 얼마나 슬퍼할까."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "아, 작은 히나가 네가 처음에 그녀를 친구로 여기지 않았다는 걸 알면 얼마나 슬퍼할까."
+            }
+        ]
     },
     "46": {
         "speaker": "시이나 타키",
-        "dialogue": "하?!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "하?!"
+            }
+        ]
     },
     "47": {
         "speaker": "시이나 타키",
-        "dialogue": "“하나미서점”...누구지?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "“하나미서점”...누구지?"
+            }
+        ]
     },
     "48": {
         "speaker": "",
-        "dialogue": "기억에 없는 발신인, 최근에 온라인 쇼핑을 한 적도 없었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "기억에 없는 발신인, 최근에 온라인 쇼핑을 한 적도 없었다."
+            }
+        ]
     },
     "49": {
         "speaker": "시이나 타키",
-        "dialogue": "（책과 관련이 있다면... 토모리일까?）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（책과 관련이 있다면... 토모리일까?）"
+            }
+        ]
     },
     "50": {
         "speaker": "",
-        "dialogue": "그녀는 일반적으로 우체통 옆에서 택배를 급히 뜯는 일이 드물지만, '시험 제작물'이라는 문구가 인쇄된 갈색 종이를 조금 뜯자 그녀의 생각이 맞았다——"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그녀는 일반적으로 우체통 옆에서 택배를 급히 뜯는 일이 드물지만, '시험 제작물'이라는 문구가 인쇄된 갈색 종이를 조금 뜯자 그녀의 생각이 맞았다——"
+            }
+        ]
     },
     "51": {
         "speaker": "",
-        "dialogue": "마른 잎과 귀뚜라미의 뒷다리가 표지 가장자리에 걸쳐 있었는데, 바로 그 동화였다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "마른 잎과 귀뚜라미의 뒷다리가 표지 가장자리에 걸쳐 있었는데, 바로 그 동화였다."
+            }
+        ]
     },
     "52": {
         "speaker": "",
-        "dialogue": "두…두…"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "두…두…"
+            }
+        ]
     },
     "53": {
         "speaker": "시이나 타키",
-        "dialogue": "여보세요? 토모리! 여기 하나미서점에서 택배가 왔어……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "여보세요? 토모리! 여기 하나미서점에서 택배가 왔어……"
+            }
+        ]
     },
     "54": {
         "speaker": "시이나 타키",
-        "dialogue": "샘플 책자는 일반적으로 저자에게만 가는 거잖아, 왜 나한테도 있는 거지?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "샘플 책자는 일반적으로 저자에게만 가는 거잖아, 왜 나한테도 있는 거지?"
+            }
+        ]
     },
     "55": {
         "speaker": "타카마츠 토모리",
-        "dialogue": "타키에게 보여주고 싶은 게 있어서."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키에게 보여주고 싶은 게 있어서."
+            }
+        ]
     },
     "56": {
         "speaker": "타카마츠 토모리",
-        "dialogue": "그때 이야기는 아직 완성되지 않았는데, 지금은 타키가 결말을 알고 싶지 않니?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그때 이야기는 아직 완성되지 않았는데, 지금은 타키가 결말을 알고 싶지 않니?"
+            }
+        ]
     },
     "57": {
         "speaker": "",
-        "dialogue": "토모리의 말이 맞다. 그녀는 고개를 옆으로 돌려 전화기를 목에 끼고, 뒷표지에서 마지막 페이지로 돌아가 내용을 대충 훑어봤다: 눈이 지난 세상에서 새싹이 다시 자라고, 매미가 흙 밖의 봄을 보며, 여름에는 새로운 해의 매미가 흙을 뚫고 나와 그리고……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "토모리의 말이 맞다. 그녀는 고개를 옆으로 돌려 전화기를 목에 끼고, 뒷표지에서 마지막 페이지로 돌아가 내용을 대충 훑어봤다: 눈이 지난 세상에서 새싹이 다시 자라고, 매미가 흙 밖의 봄을 보며, 여름에는 새로운 해의 매미가 흙을 뚫고 나와 그리고……"
+            }
+        ]
     },
     "58": {
         "speaker": "",
-        "dialogue": "그리고 모두가 행복하게 살았다는 결말이다. 그녀는 고개를 끄덕이며 토모리가 그 눈을 어떻게 처리했는지 보려고 앞으로 넘겨봤다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그리고 모두가 행복하게 살았다는 결말이다. 그녀는 고개를 끄덕이며 토모리가 그 눈을 어떻게 처리했는지 보려고 앞으로 넘겨봤다."
+            }
+        ]
     },
     "59": {
         "speaker": "",
-        "dialogue": "“귀뚜라미가 잠결에 매미가 가져온 기념물에 깨어났다.”"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "“귀뚜라미가 잠결에 매미가 가져온 기념물에 깨어났다.”"
+            }
+        ]
     },
     "60": {
         "speaker": "시이나 타키",
-        "dialogue": "뭐야……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "뭐야……"
+            }
+        ]
     },
     "61": {
         "speaker": "",
-        "dialogue": "동화 속에서도 약간 엉뚱한 이유가 그녀를 무의식적으로 웃게 만들었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "동화 속에서도 약간 엉뚱한 이유가 그녀를 무의식적으로 웃게 만들었다."
+            }
+        ]
     },
     "62": {
         "speaker": "시이나 타키",
-        "dialogue": "난 이 결말이 정말 좋아."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "난 이 결말이 정말 좋아."
+            }
+        ]
     },
     "63": {
         "speaker": "타카마츠 토모리",
-        "dialogue": "결말 외에도, 앞쪽에 타키에게 보여주고 싶은 게 있어?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "결말 외에도, 앞쪽에 타키에게 보여주고 싶은 게 있어?"
+            }
+        ]
     },
     "64": {
         "speaker": "",
-        "dialogue": "앞쪽? 그녀는 페이지를 빠르게 넘겼다. 처음에는 그녀가 한 번 들었던 이야기였고, 그다음은 챕터 목록, 출판사 정보가 나왔고, 그 다음은……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "앞쪽? 그녀는 페이지를 빠르게 넘겼다. 처음에는 그녀가 한 번 들었던 이야기였고, 그다음은 챕터 목록, 출판사 정보가 나왔고, 그 다음은……"
+            }
+        ]
     },
     "65": {
         "speaker": "",
-        "dialogue": "표지와 속지 사이에, 거의 빈 페이지가 있었다:"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "표지와 속지 사이에, 거의 빈 페이지가 있었다:"
+            }
+        ]
     },
     "66": {
         "speaker": "",
-        "dialogue": "시이나 타키"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "시이나 타키"
+            },
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "椎名立希"
+            }
+        ]
     },
     "67": {
         "speaker": "시이나 타키",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "68": {
         "speaker": "시이나 타키",
-        "dialogue": "고마워, 토모리, 고마워."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "고마워, 토모리, 고마워."
+            }
+        ]
     },
     "69": {
         "speaker": "",
-        "dialogue": ""
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": ""
+            }
+        ]
     },
     "70": {
         "speaker": "카나메 라나",
-        "dialogue": ""
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": ""
+            }
+        ]
     },
     "71": {
         "speaker": "",
-        "dialogue": ""
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": ""
+            }
+        ]
     },
     "72": {
         "speaker": "시이나 마키",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "73": {
         "speaker": "시이나 타키",
-        "dialogue": "미안 언니, 오래 기다리게 했어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "미안 언니, 오래 기다리게 했어."
+            }
+        ]
     },
     "74": {
         "speaker": "시이나 마키",
-        "dialogue": "트렁크에 있는 것만? 모든 짐 다 챙겼어?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "트렁크에 있는 것만? 모든 짐 다 챙겼어?"
+            }
+        ]
     },
     "75": {
         "speaker": "시이나 타키",
-        "dialogue": "공간을 많이 차지하는 장비랑 드럼은 이미 보냈어, 그래서……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "공간을 많이 차지하는 장비랑 드럼은 이미 보냈어, 그래서……"
+            }
+        ]
     },
     "76": {
         "speaker": "시이나 마키",
-        "dialogue": "너 이사하는 게 집이야 작업실이야?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "너 이사하는 게 집이야 작업실이야?"
+            }
+        ]
     },
     "77": {
         "speaker": "시이나 타키",
-        "dialogue": "어……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "어……"
+            }
+        ]
     },
     "78": {
         "speaker": "시이나 마키",
-        "dialogue": "됐어…… 안전벨트 매."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "됐어…… 안전벨트 매."
+            }
+        ]
     },
     "79": {
         "speaker": "",
-        "dialogue": "차의 엔진이 켜지자, 수상하게 상을 받은 곡이 끝까지 재생되었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "차의 엔진이 켜지자, 수상하게 상을 받은 곡이 끝까지 재생되었다."
+            }
+        ]
     },
     "80": {
         "speaker": "시이나 타키",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "81": {
         "speaker": "시이나 타키",
-        "dialogue": "언니……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "언니……"
+            }
+        ]
     },
     "82": {
         "speaker": "시이나 마키",
-        "dialogue": "！"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "！"
+            }
+        ]
     },
     "83": {
         "speaker": "시이나 마키",
-        "dialogue": "……무, 무슨 일이야?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……무, 무슨 일이야?"
+            }
+        ]
     },
     "84": {
         "speaker": "시이나 타키",
-        "dialogue": "아니야, 아무것도."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "아니야, 아무것도."
+            }
+        ]
     },
     "85": {
         "speaker": "",
-        "dialogue": "마지막 음이 끝나자, 이어지는 다음 곡은 타키를 몇 날 밤을 괴롭힌 멜로디였다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "마지막 음이 끝나자, 이어지는 다음 곡은 타키를 몇 날 밤을 괴롭힌 멜로디였다."
+            }
+        ]
     },
     "86": {
         "speaker": "시이나 타키",
-        "dialogue": "우리 출발하자."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "우리 출발하자."
+            }
+        ]
     }
 }

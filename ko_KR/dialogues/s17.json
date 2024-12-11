@@ -1,284 +1,767 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": "서쪽에 원래 오래된 상업 지구가 있었지만, 사람들의 발길이 점차 줄어들면서 결국 개발업자에 의해 철거 재개발되었고, 지금은 경제적인 이유로 중단되었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "서쪽에 원래 오래된 상업 지구가 있었지만, 사람들의 발길이 점차 줄어들면서 결국 개발업자에 의해 철거 재개발되었고, 지금은 경제적인 이유로 중단되었다."
+            }
+        ]
     },
     "1": {
         "speaker": "",
-        "dialogue": "몇몇 미완성 건물들은 그대로 방치되어 있고, 그곳에 노숙자들이 모여들어 저녁이 되면 행인들이 드물다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "몇몇 미완성 건물들은 그대로 방치되어 있고, 그곳에 노숙자들이 모여들어 저녁이 되면 행인들이 드물다."
+            }
+        ]
     },
     "2": {
         "speaker": "",
-        "dialogue": "가방 속의 맥주가 덜컹거리는 소리를 내며 부딪혔고, 주민들에게 방해될까 봐 타키는 쇼핑백의 균형을 조심해서 잡았다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "가방 속의 맥주가 덜컹거리는 소리를 내며 부딪혔고, 주민들에게 방해될까 봐 타키는 쇼핑백의 균형을 조심해서 잡았다."
+            }
+        ]
     },
     "3": {
         "speaker": "",
-        "dialogue": "하지만 편의점에서 우연히 본 뉴스가 생각나서 그녀는 걸음을 서둘렀다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "하지만 편의점에서 우연히 본 뉴스가 생각나서 그녀는 걸음을 서둘렀다."
+            }
+        ]
     },
     "4": {
         "speaker": "",
-        "dialogue": "집의 윤곽이 시야에 들어오자 타키는 안도의 한숨을 쉬었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "집의 윤곽이 시야에 들어오자 타키는 안도의 한숨을 쉬었다."
+            }
+        ]
     },
     "5": {
         "speaker": "",
-        "dialogue": "그러나 자세히 보니 집 근처에 무언가가 있는 것 같아 의아함을 느꼈다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그러나 자세히 보니 집 근처에 무언가가 있는 것 같아 의아함을 느꼈다."
+            }
+        ]
     },
     "6": {
         "speaker": "시이나 타키",
-        "dialogue": "（……저 쓰레기는 누가 버린 거지?）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（……저 쓰레기는 누가 버린 거지?）"
+            }
+        ]
     },
     "7": {
         "speaker": "시이나 타키",
-        "dialogue": "（아니, 사람인 것 같아? 쭈그리고 앉아있어? 누가 밤에 여기서…… 에??）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（아니, 사람인 것 같아? 쭈그리고 앉아있어? 누가 밤에 여기서…… 에??）"
+            }
+        ]
+    },
+    "8": {
+        "speaker": "",
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "像是听到了脚步声，绿化带中的人抽身而出，这才露出头顶那极具辨识度的白毛。"
+            }
+        ]
     },
     "9": {
         "speaker": "시이나 타키",
-        "dialogue": "야... 라나!? 이런 밤중에 여기서 뭐해!!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "야... 라나!? 이런 밤중에 여기서 뭐해!!"
+            }
+        ]
+    },
+    "10": {
+        "speaker": "",
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "乐奈站起身，回头看了眼小跑过来的立希，稍微抬了抬头以示打招呼。"
+            }
+        ]
+    },
+    "11": {
+        "speaker": "",
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "遂即又指向刚才钻进去的灌木，那里还留着一个被挤开的小洞。"
+            }
+        ]
     },
     "12": {
         "speaker": "카나메 라나",
-        "dialogue": "고양이 한 마리, 아마도."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "고양이 한 마리, 아마도."
+            }
+        ]
     },
     "13": {
         "speaker": "시이나 타키",
-        "dialogue": "하...? 이 근처에는 길고양이가 많긴 하지, 근처 주민들이 키우는 걸지도..."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "하...? 이 근처에는 길고양이가 많긴 하지, 근처 주민들이 키우는 걸지도..."
+            }
+        ]
     },
     "14": {
         "speaker": "시이나 타키",
-        "dialogue": "아니 아니 아니...... 대체 밤 늦게 여기서 뭐하는 거야?? 학교는?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "아니 아니 아니...... 대체 밤 늦게 여기서 뭐하는 거야?? 학교는?"
+            }
+        ]
+    },
+    "15": {
+        "speaker": "",
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "乐奈以前也不是没有过忽然跑到立希家来的情况。"
+            }
+        ]
+    },
+    "16": {
+        "speaker": "",
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "不过她因为毕业的问题忙碌了很久，所以自从立希搬家后这种事还是头一次。"
+            }
+        ]
     },
     "17": {
         "speaker": "카나메 라나",
-        "dialogue": "학교는 학교에 있어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "학교는 학교에 있어."
+            }
+        ]
     },
     "18": {
         "speaker": "시이나 타키",
-        "dialogue": "너 말이야, 학점 안 챙기면 또 연장——"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "너 말이야, 학점 안 챙기면 또 연장——"
+            }
+        ]
     },
     "19": {
         "speaker": "카나메 라나",
-        "dialogue": "편의점? 뭐 샀어? 말차 케이크 줘."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "편의점? 뭐 샀어? 말차 케이크 줘."
+            }
+        ]
     },
     "20": {
         "speaker": "시이나 타키",
-        "dialogue": "야!! 막 뒤지지 마, 먹을 거 없어, 오늘은 말차 안 샀어!! 봉투 찢어지겠어——!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "야!! 막 뒤지지 마, 먹을 거 없어, 오늘은 말차 안 샀어!! 봉투 찢어지겠어——!"
+            }
+        ]
     },
     "21": {
         "speaker": "카나메 라나",
-        "dialogue": "맥주, 맥주, 맥주, 젤리, 젤리, 아, 도시락!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "맥주, 맥주, 맥주, 젤리, 젤리, 아, 도시락!"
+            }
+        ]
+    },
+    "22": {
+        "speaker": "",
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "——关东煮味噌炒饭便当被发现了。"
+            }
+        ]
     },
     "23": {
         "speaker": "카나메 라나",
-        "dialogue": "……(조용히 다시 넣는다)"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……(조용히 다시 넣는다)"
+            }
+        ]
     },
     "24": {
         "speaker": "카나메 라나",
-        "dialogue": "먹을 게 없네."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "먹을 게 없네."
+            }
+        ]
     },
     "25": {
         "speaker": "시이나 타키",
-        "dialogue": "그래서 먹을 게 없다고 했잖아, 왜 혼자 실망하고 그래."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그래서 먹을 게 없다고 했잖아, 왜 혼자 실망하고 그래."
+            }
+        ]
     },
     "26": {
         "speaker": "시이나 타키",
-        "dialogue": "그래, 정말 먹고 싶다면, 젤리라도..."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그래, 정말 먹고 싶다면, 젤리라도..."
+            }
+        ]
     },
     "27": {
         "speaker": "카나메 라나",
-        "dialogue": "싫어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "싫어."
+            }
+        ]
     },
     "28": {
         "speaker": "시이나 타키",
-        "dialogue": "싫으면 말고!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "싫으면 말고!"
+            }
+        ]
     },
     "29": {
         "speaker": "카나메 라나",
-        "dialogue": "맥주, 맥주, 젤리... 사탕 있다!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "맥주, 맥주, 젤리... 사탕 있다!"
+            }
+        ]
+    },
+    "30": {
+        "speaker": "",
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "乐奈从一堆啤酒中翻出一盒香烟糖，在立希无奈的同意下，飞速拆开包装抽出一根放进嘴里——"
+            }
+        ]
+    },
+    "31": {
+        "speaker": "",
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "又立马露出不高兴的苦脸。"
+            }
+        ]
     },
     "32": {
         "speaker": "카나메 라나",
-        "dialogue": "너무 달아. 맛없어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "너무 달아. 맛없어."
+            }
+        ]
     },
     "33": {
         "speaker": "시이나 타키",
-        "dialogue": "내가 알았어... 말차도 아닌데 왜 이렇게 서둘러. 그래, 먹기 싫으면 뱉어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "내가 알았어... 말차도 아닌데 왜 이렇게 서둘러. 그래, 먹기 싫으면 뱉어."
+            }
+        ]
+    },
+    "34": {
+        "speaker": "",
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "乐奈摇了摇头，把糖咬碎咀嚼了两下后皱着眉咽了下去。"
+            }
+        ]
     },
     "35": {
         "speaker": "카나메 라나",
-        "dialogue": "리키가 너무 늦어서 배고파졌어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "리키가 너무 늦어서 배고파졌어."
+            }
+        ]
     },
     "36": {
         "speaker": "시이나 타키",
-        "dialogue": "하... 네가 올 줄 몰랐어, 미리 말해줬으면…… 응, 그만두자, 오늘 나를 왜 찾았어?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "하... 네가 올 줄 몰랐어, 미리 말해줬으면…… 응, 그만두자, 오늘 나를 왜 찾았어?"
+            }
+        ]
+    },
+    "37": {
+        "speaker": "카나메 라나",
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "………"
+            }
+        ]
+    },
+    "38": {
+        "speaker": "",
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "不知怎的，立希居然察觉到乐奈的脸上出现一丝少见的局促。"
+            }
+        ]
     },
     "39": {
         "speaker": "카나메 라나",
-        "dialogue": "리키, 너는 드러머야."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "리키, 너는 드러머야."
+            }
+        ]
     },
     "40": {
         "speaker": "시이나 타키",
-        "dialogue": "아, 어…… 맞아."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "아, 어…… 맞아."
+            }
+        ]
+    },
+    "41": {
+        "speaker": "시이나 타키",
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（这是怎么了支支吾吾的，难道是最近排练太少也让这家伙不安了吗……）"
+            }
+        ]
     },
     "42": {
         "speaker": "카나메 라나",
-        "dialogue": "동급생, 드럼 배우고 있어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "동급생, 드럼 배우고 있어."
+            }
+        ]
     },
     "43": {
         "speaker": "카나메 라나",
-        "dialogue": "MyGO 공연 영상을 보고 아주 좋아해서 드러머 사인 받고 싶어 해."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "MyGO 공연 영상을 보고 아주 좋아해서 드러머 사인 받고 싶어 해."
+            }
+        ]
     },
     "44": {
         "speaker": "시이나 타키",
-        "dialogue": "내 사인…? 줄 수는 있지만, 이런 일로 일부러 올 필요는 없잖아?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "내 사인…? 줄 수는 있지만, 이런 일로 일부러 올 필요는 없잖아?"
+            }
+        ]
     },
     "45": {
         "speaker": "시이나 타키",
-        "dialogue": "다음에 연습할 때 주면 되잖아?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "다음에 연습할 때 주면 되잖아?"
+            }
+        ]
+    },
+    "46": {
+        "speaker": "시이나 타키",
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（不过下次……又是什么时候呢？）"
+            }
+        ]
     },
     "47": {
         "speaker": "카나메 라나",
-        "dialogue": "다음에는 언제일지 몰라. 그러니까 지금 줘."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "다음에는 언제일지 몰라. 그러니까 지금 줘."
+            }
+        ]
+    },
+    "48": {
+        "speaker": "",
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "乐奈朝立希伸出手来。"
+            }
+        ]
     },
     "49": {
         "speaker": "시이나 타키",
-        "dialogue": "…그렇게 말해도, 어디에 사인을 해야 하지? 손에 할 순 없잖아?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "…그렇게 말해도, 어디에 사인을 해야 하지? 손에 할 순 없잖아?"
+            }
+        ]
+    },
+    "50": {
+        "speaker": "카나메 라나",
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "？"
+            }
+        ]
     },
     "51": {
         "speaker": "시이나 타키",
-        "dialogue": "알았어… 잠깐만 기다려, 들어가서 종이랑 펜 가져올게."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "알았어… 잠깐만 기다려, 들어가서 종이랑 펜 가져올게."
+            }
+        ]
     },
     "52": {
         "speaker": "카나메 라나",
-        "dialogue": "지금 하면 안 돼?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "지금 하면 안 돼?"
+            }
+        ]
     },
     "53": {
         "speaker": "시이나 타키",
-        "dialogue": "지금 뭘로 사인을 해? 사인 받으려면 준비를 해야지."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "지금 뭘로 사인을 해? 사인 받으려면 준비를 해야지."
+            }
+        ]
     },
     "54": {
         "speaker": "카나메 라나",
-        "dialogue": "그럼 됐어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그럼 됐어."
+            }
+        ]
     },
     "55": {
         "speaker": "시이나 타키",
-        "dialogue": "......？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......？"
+            }
+        ]
     },
     "56": {
         "speaker": "시이나 타키",
-        "dialogue": "아니, 2분만 기다리면 되잖아. 그냥 간다고?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "아니, 2분만 기다리면 되잖아. 그냥 간다고?"
+            }
+        ]
     },
     "57": {
         "speaker": "시이나 타키",
-        "dialogue": "그럼 네 친구는……야! 잠깐, 이 늦은 시간에 내가 데려다줄게————"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그럼 네 친구는……야! 잠깐, 이 늦은 시간에 내가 데려다줄게————"
+            }
+        ]
     },
     "58": {
         "speaker": "카나메 라나",
-        "dialogue": "다음에."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "다음에."
+            }
+        ]
     },
     "59": {
         "speaker": "",
-        "dialogue": "라나는 뒤돌아보지 않고 역 방향으로 걸어갔다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "라나는 뒤돌아보지 않고 역 방향으로 걸어갔다."
+            }
+        ]
     },
     "60": {
         "speaker": "시이나 타키",
-        "dialogue": "다음은…… 젠장, 집에 도착하면 메시지 보내라! 꼭 보내야 돼!! 들었지!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "다음은…… 젠장, 집에 도착하면 메시지 보내라! 꼭 보내야 돼!! 들었지!"
+            }
+        ]
     },
     "61": {
         "speaker": "",
-        "dialogue": "라나는 앞서서 손을 흔들었고, 금세 거리 모퉁이에서 사라졌다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "라나는 앞서서 손을 흔들었고, 금세 거리 모퉁이에서 사라졌다."
+            }
+        ]
     },
     "62": {
         "speaker": "시이나 타키",
-        "dialogue": "……갔네."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……갔네."
+            }
+        ]
     },
     "63": {
         "speaker": "시이나 타키",
-        "dialogue": "후, 정말, 저 녀석 도대체 왜 온 거야……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "후, 정말, 저 녀석 도대체 왜 온 거야……"
+            }
+        ]
     },
     "64": {
         "speaker": "시이나 타키",
-        "dialogue": "친구 사인 받으러 온 건가…… 예전에 비슷한 얘기 했던 것 같기도 하고? 음… 잘 기억이 안 나."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "친구 사인 받으러 온 건가…… 예전에 비슷한 얘기 했던 것 같기도 하고? 음… 잘 기억이 안 나."
+            }
+        ]
     },
     "65": {
         "speaker": "",
-        "dialogue": "타키는 잠시 동안 친구의 사인을 받으러 온 것이 라나의 핑계였을지도 모른다고 생각했다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 잠시 동안 친구의 사인을 받으러 온 것이 라나의 핑계였을지도 모른다고 생각했다."
+            }
+        ]
     },
     "66": {
         "speaker": "시이나 타키",
-        "dialogue": "라나 그 녀석, 무슨 고민이라도 있는 건가?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "라나 그 녀석, 무슨 고민이라도 있는 건가?"
+            }
+        ]
     },
     "67": {
         "speaker": "카나메 라나",
-        "dialogue": "편의점? 뭐 샀어? 말차 케이크 줘."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "편의점? 뭐 샀어? 말차 케이크 줘."
+            }
+        ]
     },
     "68": {
         "speaker": "시이나 타키",
-        "dialogue": "…길고양이가 무슨 고민이 있을까, 내가 너무 신경 쓴 거겠지."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "…길고양이가 무슨 고민이 있을까, 내가 너무 신경 쓴 거겠지."
+            }
+        ]
     },
     "69": {
         "speaker": "",
-        "dialogue": "타키는 묵직한 비닐봉지를 들어 올리고, 대문 쪽으로 향하려고 했다——"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 묵직한 비닐봉지를 들어 올리고, 대문 쪽으로 향하려고 했다——"
+            }
+        ]
     },
     "70": {
         "speaker": "",
-        "dialogue": "그 순간, 방금 라나가 들어간 덤불 속에서 검은 그림자가 그녀 앞에 튀어나와 깜짝 놀랐고, 손에 들고 있던 비닐봉지가 떨어지면서 맥주 몇 캔이 굴러 나왔다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그 순간, 방금 라나가 들어간 덤불 속에서 검은 그림자가 그녀 앞에 튀어나와 깜짝 놀랐고, 손에 들고 있던 비닐봉지가 떨어지면서 맥주 몇 캔이 굴러 나왔다."
+            }
+        ]
     },
     "71": {
         "speaker": "시이나 타키",
-        "dialogue": "와! 뭐, 뭐야!?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "와! 뭐, 뭐야!?"
+            }
+        ]
     },
     "72": {
         "speaker": "",
-        "dialogue": "——눈앞에 나타난 것은 고양이였다. 새까맣고 눈은 자줏빛이었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "——눈앞에 나타난 것은 고양이였다. 새까맣고 눈은 자줏빛이었다."
+            }
+        ]
     },
     "73": {
         "speaker": "",
-        "dialogue": "그것은 타키가 얼마 전에 봤던 고양이였다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그것은 타키가 얼마 전에 봤던 고양이였다."
+            }
+        ]
     },
     "74": {
         "speaker": "",
-        "dialogue": "검은 고양이는 그 자리에 가만히 서서 그녀를 똑바로 쳐다봤다. 타키는 그 시선에 오싹해졌다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "검은 고양이는 그 자리에 가만히 서서 그녀를 똑바로 쳐다봤다. 타키는 그 시선에 오싹해졌다."
+            }
+        ]
     },
     "75": {
         "speaker": "시이나 타키",
-        "dialogue": "너무 닮았어, 이 눈, 너무 닮았어, 그건 도대체——"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "너무 닮았어, 이 눈, 너무 닮았어, 그건 도대체——"
+            }
+        ]
     },
     "76": {
         "speaker": "",
-        "dialogue": "갑자기, 검은 고양이가 웃었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "갑자기, 검은 고양이가 웃었다."
+            }
+        ]
     },
     "77": {
         "speaker": "",
-        "dialogue": "아마도 위협을 느껴서 이를 드러내거나 하품을 한 것일 것이다. 타키는 이렇게 어두운 밤에 고양이 얼굴에서 표정을 읽을 수 있는 자신이 신기했다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "아마도 위협을 느껴서 이를 드러내거나 하품을 한 것일 것이다. 타키는 이렇게 어두운 밤에 고양이 얼굴에서 표정을 읽을 수 있는 자신이 신기했다."
+            }
+        ]
     },
     "78": {
         "speaker": "",
-        "dialogue": "하지만 그녀는 확신했다. 정말로 이 고양이가 자신을 보고 웃었다는 것을."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "하지만 그녀는 확신했다. 정말로 이 고양이가 자신을 보고 웃었다는 것을."
+            }
+        ]
     },
     "79": {
         "speaker": "시이나 타키",
-        "dialogue": "너……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "너……"
+            }
+        ]
     },
     "80": {
         "speaker": "",
-        "dialogue": "말을 하려고 하는 순간, 코끝에 갑자기 서늘함이 느껴졌다. 타키는 얼굴을 문지르며 서늘한 것이 손바닥과 머리 위에 떨어지기 시작했다……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "말을 하려고 하는 순간, 코끝에 갑자기 서늘함이 느껴졌다. 타키는 얼굴을 문지르며 서늘한 것이 손바닥과 머리 위에 떨어지기 시작했다……"
+            }
+        ]
     },
     "81": {
         "speaker": "",
-        "dialogue": "갑작스러운 비가 내렸다. 타키가 다시 앞을 봤을 때, 검은 고양이는 이미 사라지고 없었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "갑작스러운 비가 내렸다. 타키가 다시 앞을 봤을 때, 검은 고양이는 이미 사라지고 없었다."
+            }
+        ]
     },
     "82": {
         "speaker": "",
-        "dialogue": "비는 강하게 내렸고, 지면에 빠르게 물결을 일으켰다. 초봄의 비는 뼛속까지 시려웠고, 타키는 얼른 맥주를 주워들고 대문으로 달려갔다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "비는 강하게 내렸고, 지면에 빠르게 물결을 일으켰다. 초봄의 비는 뼛속까지 시려웠고, 타키는 얼른 맥주를 주워들고 대문으로 달려갔다."
+            }
+        ]
     },
     "83": {
         "speaker": "",
-        "dialogue": "열쇠를 넣고, 돌리고, 뽑았다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "열쇠를 넣고, 돌리고, 뽑았다."
+            }
+        ]
     },
     "84": {
         "speaker": "",
-        "dialogue": "손잡이를 당기고, 옆으로 몸을 밀어 문 안으로 들어갔다. 주변에 아무도 따라오지 않는 것을 확인한 후에, 타키는 천천히 문을 닫았다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "손잡이를 당기고, 옆으로 몸을 밀어 문 안으로 들어갔다. 주변에 아무도 따라오지 않는 것을 확인한 후에, 타키는 천천히 문을 닫았다."
+            }
+        ]
     }
 }
-
-    

@@ -1,150 +1,335 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": "………"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "………"
+            }
+        ]
     },
     "1": {
         "speaker": "",
-        "dialogue": "……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……"
+            }
+        ]
     },
     "2": {
         "speaker": "시이나 타키",
-        "dialogue": "으… 음……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "으… 음……"
+            }
+        ]
     },
     "3": {
         "speaker": "시이나 타키",
-        "dialogue": "으……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "으……"
+            }
+        ]
     },
     "4": {
         "speaker": "",
-        "dialogue": "몸의 허약함은 여전했고, 몸을 움직이자 끈적한 감촉이 느껴졌다. 땀을 많이 흘린 것 같다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "몸의 허약함은 여전했고, 몸을 움직이자 끈적한 감촉이 느껴졌다. 땀을 많이 흘린 것 같다."
+            }
+        ]
     },
     "5": {
         "speaker": "",
-        "dialogue": "하지만 통증은 정말로 사라졌다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "하지만 통증은 정말로 사라졌다."
+            }
+        ]
     },
     "6": {
         "speaker": "시이나 타키",
-        "dialogue": "……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……"
+            }
+        ]
     },
     "7": {
         "speaker": "시이나 타키",
-        "dialogue": "（얼마나 잤지……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（얼마나 잤지……）"
+            }
+        ]
     },
     "8": {
         "speaker": "",
-        "dialogue": "그녀는 몸을 일으켰고, 모든 관절에서 비명이 들려왔다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그녀는 몸을 일으켰고, 모든 관절에서 비명이 들려왔다."
+            }
+        ]
     },
     "9": {
         "speaker": "",
-        "dialogue": "식탁 위의 전자 시계는 거의 8시를 가리키고 있었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "식탁 위의 전자 시계는 거의 8시를 가리키고 있었다."
+            }
+        ]
     },
     "10": {
         "speaker": "",
-        "dialogue": "——24시간제의 8시."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "——24시간제의 8시."
+            }
+        ]
     },
     "11": {
         "speaker": "시이나 타키",
-        "dialogue": "（거의 하루를 잤다고?!）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（거의 하루를 잤다고?!）"
+            }
+        ]
     },
     "12": {
         "speaker": "",
-        "dialogue": "타키는 휴대폰 화면을 켜고, 날짜의 숫자가 사실을 알렸다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 휴대폰 화면을 켜고, 날짜의 숫자가 사실을 알렸다."
+            }
+        ]
     },
     "13": {
         "speaker": "시이나 타키",
-        "dialogue": "（시간이… 다 낭비됐어……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（시간이… 다 낭비됐어……）"
+            }
+        ]
     },
     "14": {
         "speaker": "",
-        "dialogue": "날씨는 매우 어두웠고, 밖에는 큰 비가 내리고 있는 것 같았지만, 이상하게도 소리가 들리지 않았다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "날씨는 매우 어두웠고, 밖에는 큰 비가 내리고 있는 것 같았지만, 이상하게도 소리가 들리지 않았다."
+            }
+        ]
     },
     "15": {
         "speaker": "",
-        "dialogue": "이 자세를 유지한 채, 타키의 기분은 최악으로 떨어졌다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "이 자세를 유지한 채, 타키의 기분은 최악으로 떨어졌다."
+            }
+        ]
     },
     "16": {
         "speaker": "",
-        "dialogue": "하지만 코 앞의 차가움이 그녀를 오래 우울하게 두지 않았다. 바닥에 몇 개의 둥근 점이 나타났고, 눈에 띄는 붉은색이었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "하지만 코 앞의 차가움이 그녀를 오래 우울하게 두지 않았다. 바닥에 몇 개의 둥근 점이 나타났고, 눈에 띄는 붉은색이었다."
+            }
+        ]
     },
     "17": {
         "speaker": "시이나 타키",
-        "dialogue": "!!!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "!!!"
+            }
+        ]
     },
     "18": {
         "speaker": "",
-        "dialogue": "타키는 당황하며 일어나 코를 막고 욕실로 달려갔다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 당황하며 일어나 코를 막고 욕실로 달려갔다."
+            }
+        ]
     },
     "19": {
         "speaker": "",
-        "dialogue": "수도꼭지를 최대한으로 틀고, 차가운 물이 얼굴에 닿아 그녀의 온도를 가져갔다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "수도꼭지를 최대한으로 틀고, 차가운 물이 얼굴에 닿아 그녀의 온도를 가져갔다."
+            }
+        ]
     },
     "20": {
         "speaker": "",
-        "dialogue": "희석된 피가 물속에서 실크처럼 퍼져나가며, 검은 구멍으로 빨려 들어갔다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "희석된 피가 물속에서 실크처럼 퍼져나가며, 검은 구멍으로 빨려 들어갔다."
+            }
+        ]
     },
     "21": {
         "speaker": "시이나 타키",
-        "dialogue": "......하."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......하."
+            }
+        ]
     },
     "22": {
         "speaker": "",
-        "dialogue": "깊은 무력감이 그녀를 사로잡았다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "깊은 무력감이 그녀를 사로잡았다."
+            }
+        ]
     },
     "23": {
         "speaker": "시이나 타키",
-        "dialogue": "（시간이 없어… 분명히 잠자고 아플 시간이 없었는데……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（시간이 없어… 분명히 잠자고 아플 시간이 없었는데……）"
+            }
+        ]
     },
     "24": {
         "speaker": "시이나 타키",
-        "dialogue": "（……시간이 없어… 왜?）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（……시간이 없어… 왜?）"
+            }
+        ]
     },
     "25": {
         "speaker": "",
-        "dialogue": "왠지 모르게, 그녀는 강한 긴박감에 사로잡혀 있는 것 같았다. 마치 무언가에 쫓기고 있거나, 곧 떨어질 것 같은 가장자리에 있는 것처럼, 극도로 불안하고 초조했다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "왠지 모르게, 그녀는 강한 긴박감에 사로잡혀 있는 것 같았다. 마치 무언가에 쫓기고 있거나, 곧 떨어질 것 같은 가장자리에 있는 것처럼, 극도로 불안하고 초조했다."
+            }
+        ]
     },
     "26": {
         "speaker": "시이나 타키",
-        "dialogue": "（방금 꿈에서 뭔가 본 것 같은데… 뭐였지……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（방금 꿈에서 뭔가 본 것 같은데… 뭐였지……）"
+            }
+        ]
     },
     "27": {
         "speaker": "",
-        "dialogue": "타키는 혼수 상태 동안의 기억을 애써 찾으려 했다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 혼수 상태 동안의 기억을 애써 찾으려 했다."
+            }
+        ]
     },
     "28": {
         "speaker": "시이나 타키",
-        "dialogue": "（조금만 더… 뭐였지… 시간과 관련된……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（조금만 더… 뭐였지… 시간과 관련된……）"
+            }
+        ]
     },
     "29": {
         "speaker": "",
-        "dialogue": "시간이 얼마 남지 않았다."
+        "dialogue": [
+            {
+                "html": "style='color:#ff0000'",
+                "text": "시간이 얼마 남지 않았다."
+            }
+        ]
     },
     "30": {
         "speaker": "",
-        "dialogue": "순간, 그녀는 기억해냈다."
+        "dialogue": [
+            {
+                "html": "style='color:#ffffff'",
+                "text": "순간, 그녀는 기억해냈다."
+            }
+        ]
     },
     "31": {
         "speaker": "",
-        "dialogue": "그녀는 갑자기 고개를 들었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그녀는 갑자기 고개를 들었다."
+            }
+        ]
     },
     "32": {
         "speaker": "",
-        "dialogue": "오랫동안 사용하지 않아 먼지와 물때가 낀 욕실 거울에 무언가가 적혀 있는 것 같았다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "오랫동안 사용하지 않아 먼지와 물때가 낀 욕실 거울에 무언가가 적혀 있는 것 같았다."
+            }
+        ]
     },
     "33": {
         "speaker": "",
-        "dialogue": "그녀는 손으로 물을 떠서 거울에 뿌리고, 대충 두 번 닦았다. 거울에서 날카로운 마찰 소리가 났다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그녀는 손으로 물을 떠서 거울에 뿌리고, 대충 두 번 닦았다. 거울에서 날카로운 마찰 소리가 났다."
+            }
+        ]
     },
     "34": {
         "speaker": "",
-        "dialogue": "그리고 그녀는 보았다——"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그리고 그녀는 보았다——"
+            }
+        ]
     },
     "35": {
         "speaker": "",
-        "dialogue": "타키는 앞으로 몸을 기울이며 토했다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 앞으로 몸을 기울이며 토했다."
+            }
+        ]
     },
     "36": {
         "speaker": "",
-        "dialogue": "소개"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "소개"
+            }
+        ]
     }
 }

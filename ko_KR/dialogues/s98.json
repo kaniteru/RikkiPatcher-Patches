@@ -1,206 +1,461 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": "사키코와 작별 인사를 하고, 아침 햇빛을 가로질러 숙소로 돌아갔다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "사키코와 작별 인사를 하고, 아침 햇빛을 가로질러 숙소로 돌아갔다."
+            }
+        ]
     },
     "1": {
         "speaker": "",
-        "dialogue": "컴퓨터 화면은 타키가 완성하지 못한 작품으로 돌아왔고, 작업 파일과 백업은 모두 깨끗이 삭제되었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "컴퓨터 화면은 타키가 완성하지 못한 작품으로 돌아왔고, 작업 파일과 백업은 모두 깨끗이 삭제되었다."
+            }
+        ]
     },
     "2": {
         "speaker": "",
-        "dialogue": "마치 아무 일도 없었던 것처럼."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "마치 아무 일도 없었던 것처럼."
+            }
+        ]
     },
     "3": {
         "speaker": "시이나 타키",
-        "dialogue": "아무것도 남기지 않다니, 정말 신중하네."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "아무것도 남기지 않다니, 정말 신중하네."
+            }
+        ]
     },
     "4": {
         "speaker": "시이나 타키",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "5": {
         "speaker": "시이나 타키",
-        "dialogue": "（아니, 어쩌면 이미 많은 것을 남겼을지도 몰라.）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（아니, 어쩌면 이미 많은 것을 남겼을지도 몰라.）"
+            }
+        ]
     },
     "6": {
         "speaker": "시이나 타키",
-        "dialogue": "（7년 전부터.）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（7년 전부터.）"
+            }
+        ]
     },
     "7": {
         "speaker": "",
-        "dialogue": "창밖에서 제비의 울음소리가 들려오고, 새로운 하루가 시작되었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "창밖에서 제비의 울음소리가 들려오고, 새로운 하루가 시작되었다."
+            }
+        ]
     },
     "8": {
         "speaker": "",
-        "dialogue": "카펫 위에 남아 있는 마지막 유리 조각이 반짝였다. 타키는 그것을 주워 책상 위에 놓았다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "카펫 위에 남아 있는 마지막 유리 조각이 반짝였다. 타키는 그것을 주워 책상 위에 놓았다."
+            }
+        ]
     },
     "9": {
         "speaker": "시이나 타키",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "10": {
         "speaker": "시이나 타키",
-        "dialogue": "（너는 마치… 이 유리 조각 같아, 부서져도 여전히 반짝이네…？）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（너는 마치… 이 유리 조각 같아, 부서져도 여전히 반짝이네…？）"
+            }
+        ]
     },
     "11": {
         "speaker": "시이나 타키",
-        "dialogue": "（너는 마치 이 유리 조각 같아, 부서져도 더 눈부셔.）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（너는 마치 이 유리 조각 같아, 부서져도 더 눈부셔.）"
+            }
+        ]
     },
     "12": {
         "speaker": "시이나 타키",
-        "dialogue": "（너는 마치……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（너는 마치……）"
+            }
+        ]
     },
     "13": {
         "speaker": "시이나 타키",
-        "dialogue": "잠깐… 곡이 아직 완성되지 않았는데, 왜 벌써 토모리가 넣을 가사를 생각하고 있는 거야."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "잠깐… 곡이 아직 완성되지 않았는데, 왜 벌써 토모리가 넣을 가사를 생각하고 있는 거야."
+            }
+        ]
     },
     "14": {
         "speaker": "시이나 타키",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "15": {
         "speaker": "시이나 타키",
-        "dialogue": "（“난 이 유리 조각 같아.”）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（“난 이 유리 조각 같아.”）"
+            }
+        ]
     },
     "16": {
         "speaker": "",
-        "dialogue": "——얼마나 남았지?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "——얼마나 남았지?"
+            }
+        ]
     },
     "17": {
         "speaker": "",
-        "dialogue": "벽에 걸린 시계, 화면 우하단의 숫자, 태양이 지평선에서 멀어지는 각도."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "벽에 걸린 시계, 화면 우하단의 숫자, 태양이 지평선에서 멀어지는 각도."
+            }
+        ]
     },
     "18": {
         "speaker": "",
-        "dialogue": "사람들은 생각만 하면, 생명은 무수한 방식과 형태로 눈앞에서 사라져 간다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "사람들은 생각만 하면, 생명은 무수한 방식과 형태로 눈앞에서 사라져 간다."
+            }
+        ]
     },
     "19": {
         "speaker": "",
-        "dialogue": "타키는 잠시 생각하다가, 오른손을 가슴에 대었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 잠시 생각하다가, 오른손을 가슴에 대었다."
+            }
+        ]
     },
     "20": {
         "speaker": "",
-        "dialogue": "심장의 고동은 너무 미약해서 느껴지지 않았다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "심장의 고동은 너무 미약해서 느껴지지 않았다."
+            }
+        ]
     },
     "21": {
         "speaker": "시이나 타키",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "22": {
         "speaker": "",
-        "dialogue": "그녀는 창에 비친 자신의 모습을 바라보았다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그녀는 창에 비친 자신의 모습을 바라보았다."
+            }
+        ]
     },
     "23": {
         "speaker": "시이나 타키",
-        "dialogue": "두 시간."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "두 시간."
+            }
+        ]
     },
     "24": {
         "speaker": "시이나 타키",
-        "dialogue": "（만약 카운트다운이 정확하다면, 두 시간 남았어.）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（만약 카운트다운이 정확하다면, 두 시간 남았어.）"
+            }
+        ]
     },
     "25": {
         "speaker": "시이나 타키",
-        "dialogue": "나쁘지 않네, 라이브 한 번 열 시간도 돼."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "나쁘지 않네, 라이브 한 번 열 시간도 돼."
+            }
+        ]
     },
     "26": {
         "speaker": "시이나 타키",
-        "dialogue": "（무대의 조명이 켜지기 전, 토모리는 준비가 되었다고 나에게 신호를 보낼 거야.）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（무대의 조명이 켜지기 전, 토모리는 준비가 되었다고 나에게 신호를 보낼 거야.）"
+            }
+        ]
     },
     "27": {
         "speaker": "시이나 타키",
-        "dialogue": "（내가 한쪽 드럼 스틱을 들어 올리면, 스태프가 첫 번째 스포트라이트를 인트로를 연주하는 길고양이에게 비추겠지.）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（내가 한쪽 드럼 스틱을 들어 올리면, 스태프가 첫 번째 스포트라이트를 인트로를 연주하는 길고양이에게 비추겠지.）"
+            }
+        ]
     },
     "28": {
         "speaker": "시이나 타키",
-        "dialogue": "（토모리가 노래를 시작하면, 아논이 리듬에 맞춰 흔들려……너무 좋아, 그렇게 순조롭게 잘 되고……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（토모리가 노래를 시작하면, 아논이 리듬에 맞춰 흔들려……너무 좋아, 그렇게 순조롭게 잘 되고……）"
+            }
+        ]
     },
     "29": {
         "speaker": "시이나 타키",
-        "dialogue": "（소요는 B 멜로의 시작 부분에서 나를 돌아볼 거야.）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（소요는 B 멜로의 시작 부분에서 나를 돌아볼 거야.）"
+            }
+        ]
     },
     "30": {
         "speaker": "시이나 타키",
-        "dialogue": "（……그러고 보니, 그녀가 나를 제대로 볼 수 있을까? 우미리가 말하길, 드러머가 앉는 자리는 너무 어둡다고 했었는데……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（……그러고 보니, 그녀가 나를 제대로 볼 수 있을까? 우미리가 말하길, 드러머가 앉는 자리는 너무 어둡다고 했었는데……）"
+            }
+        ]
     },
     "31": {
         "speaker": "",
-        "dialogue": "밝은 상상과 회상이 드러머의 머릿속에서 재생된다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "밝은 상상과 회상이 드러머의 머릿속에서 재생된다."
+            }
+        ]
     },
     "32": {
         "speaker": "",
-        "dialogue": "어두운 방에 앉아, 그녀는 무대 위의 냄새, 소리, 강한 빛이 눈앞을 비추고 공중에 떠다니는 먼지를 그리워했다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "어두운 방에 앉아, 그녀는 무대 위의 냄새, 소리, 강한 빛이 눈앞을 비추고 공중에 떠다니는 먼지를 그리워했다."
+            }
+        ]
     },
     "33": {
         "speaker": "",
-        "dialogue": "——미디 키보드에 얹은 손가락 움직임이 점점 빨라졌다가, 점점 느려졌다. 마침내 멈추고 깊은 생각에 잠겼다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "——미디 키보드에 얹은 손가락 움직임이 점점 빨라졌다가, 점점 느려졌다. 마침내 멈추고 깊은 생각에 잠겼다."
+            }
+        ]
     },
     "34": {
         "speaker": "토가와 사키코",
-        "dialogue": "타키, 제발 얼굴 찡그리지 마."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키, 제발 얼굴 찡그리지 마."
+            }
+        ]
     },
     "35": {
         "speaker": "토가와 사키코",
-        "dialogue": "만약 이게 생의 마지막 순간이라면, 음악이 널 어디로든 데려다 줄 수 있어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "만약 이게 생의 마지막 순간이라면, 음악이 널 어디로든 데려다 줄 수 있어."
+            }
+        ]
     },
     "36": {
         "speaker": "시이나 타키",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "37": {
         "speaker": "시이나 타키",
-        "dialogue": "흥, 좋은 말만 하네."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "흥, 좋은 말만 하네."
+            }
+        ]
     },
     "38": {
         "speaker": "",
-        "dialogue": "7：00."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "7：00."
+            }
+        ]
     },
     "39": {
         "speaker": "",
-        "dialogue": "타키는 알람을 껐고, 화면을 바라보았다. 《미완성 작품》이 한 걸음만 더 나아가면 완성될 것 같았다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 알람을 껐고, 화면을 바라보았다. 《미완성 작품》이 한 걸음만 더 나아가면 완성될 것 같았다."
+            }
+        ]
     },
     "40": {
         "speaker": "",
-        "dialogue": "한 시간. 음악이 타키의 머릿속에서 울리고, 변하고 있었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "한 시간. 음악이 타키의 머릿속에서 울리고, 변하고 있었다."
+            }
+        ]
     },
     "41": {
         "speaker": "",
-        "dialogue": "그녀는 20분 만에 마무리를 쓸 수 있고, 25분 동안 하모니와 악기를 배치할 수 있으며, 15분을 더 쓸 수 있다……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그녀는 20분 만에 마무리를 쓸 수 있고, 25분 동안 하모니와 악기를 배치할 수 있으며, 15분을 더 쓸 수 있다……"
+            }
+        ]
     },
     "42": {
         "speaker": "시이나 타키",
-        "dialogue": "（15분, 가장 멀리 가봤자 편의점까지 갈 수 있겠지.）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（15분, 가장 멀리 가봤자 편의점까지 갈 수 있겠지.）"
+            }
+        ]
     },
     "43": {
         "speaker": "시이나 타키",
-        "dialogue": "（하지만 나는 공연 현장에 가고 싶고, 토모리의 신간 발표회에 가고 싶어.）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（하지만 나는 공연 현장에 가고 싶고, 토모리의 신간 발표회에 가고 싶어.）"
+            }
+        ]
     },
     "44": {
         "speaker": "시이나 타키",
-        "dialogue": "（다시 한 번 바다에 가고 싶고, 어떤 사람들에게 스트리머에게 함부로 후원하지 말라고 말하고 싶어……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（다시 한 번 바다에 가고 싶고, 어떤 사람들에게 스트리머에게 함부로 후원하지 말라고 말하고 싶어……）"
+            }
+        ]
     },
     "45": {
         "speaker": "시이나 타키",
-        "dialogue": "（다시 한 번 드럼을 치고 싶어. 이번에는 합주를 더 잘 할 거야.）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（다시 한 번 드럼을 치고 싶어. 이번에는 합주를 더 잘 할 거야.）"
+            }
+        ]
     },
     "46": {
         "speaker": "시이나 타키",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "47": {
         "speaker": "시이나 타키",
-        "dialogue": "（사키코, 나는 미래로 가고 싶어, 음악도 나를 데려갈 수 있을까?）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（사키코, 나는 미래로 가고 싶어, 음악도 나를 데려갈 수 있을까?）"
+            }
+        ]
     },
     "48": {
         "speaker": "",
-        "dialogue": "익숙한 멜로디가 머릿속을 맴돌고, 느린 리듬이 멈춰 있는 가슴을 두드렸다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "익숙한 멜로디가 머릿속을 맴돌고, 느린 리듬이 멈춰 있는 가슴을 두드렸다."
+            }
+        ]
     },
     "49": {
         "speaker": "",
-        "dialogue": "타키는 눈을 감고 조용히 들으며, 시간이 흘러가는 것을 음절로 세기 시작했다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 눈을 감고 조용히 들으며, 시간이 흘러가는 것을 음절로 세기 시작했다."
+            }
+        ]
     },
     "50": {
         "speaker": "",
-        "dialogue": "그녀는 일어나 방 밖으로 나갔다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그녀는 일어나 방 밖으로 나갔다."
+            }
+        ]
     }
 }

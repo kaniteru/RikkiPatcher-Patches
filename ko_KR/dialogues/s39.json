@@ -1,6 +1,11 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": "오프닝 발표"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "오프닝 발표"
+            }
+        ]
     }
 }

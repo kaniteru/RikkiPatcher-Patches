@@ -1,70 +1,155 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": "타키는 현관으로 어슬렁걸어가며 문을 잠그는 것조차 잊었다는 것을 떠올렸다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 현관으로 어슬렁걸어가며 문을 잠그는 것조차 잊었다는 것을 떠올렸다."
+            }
+        ]
     },
     "1": {
         "speaker": "시이나 타키",
-        "dialogue": "하아……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "하아……"
+            }
+        ]
     },
     "2": {
         "speaker": "시이나 타키",
-        "dialogue": "우미리……!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "우미리……!"
+            }
+        ]
     },
     "3": {
         "speaker": "",
-        "dialogue": "우미리는 손으로 문을 막았다. 달빛 아래, 그녀의 얼굴은 말할 수 없는 슬픔으로 가득했다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "우미리는 손으로 문을 막았다. 달빛 아래, 그녀의 얼굴은 말할 수 없는 슬픔으로 가득했다."
+            }
+        ]
     },
     "4": {
         "speaker": "",
-        "dialogue": "그들은 서로의 영역을 침범하지 않았지만 이번에는 누군가가 규칙을 어겼다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그들은 서로의 영역을 침범하지 않았지만 이번에는 누군가가 규칙을 어겼다."
+            }
+        ]
     },
     "5": {
         "speaker": "야하타 우미리",
-        "dialogue": "타키, 우리 다시 만날 수 있을까?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키, 우리 다시 만날 수 있을까?"
+            }
+        ]
     },
     "6": {
         "speaker": "시이나 타키",
-        "dialogue": "......."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......."
+            }
+        ]
     },
     "7": {
         "speaker": "시이나 타키",
-        "dialogue": "물론."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "물론."
+            }
+        ]
     },
     "8": {
         "speaker": "시이나 타키",
-        "dialogue": "이제 너무 늦었으니 우미리도 빨리 들어가 쉬어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "이제 너무 늦었으니 우미리도 빨리 들어가 쉬어."
+            }
+        ]
     },
     "9": {
         "speaker": "야하타 우미리",
-        "dialogue": "응."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "응."
+            }
+        ]
     },
     "10": {
         "speaker": "시이나 타키",
-        "dialogue": "잘 지내, 우미리."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "잘 지내, 우미리."
+            }
+        ]
     },
     "11": {
         "speaker": "시이나 타키",
-        "dialogue": "또 보자."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "또 보자."
+            }
+        ]
     },
     "12": {
         "speaker": "",
-        "dialogue": "타키는 문을 닫았다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 문을 닫았다."
+            }
+        ]
     },
     "13": {
         "speaker": "",
-        "dialogue": "그녀는 불을 켜지 않고 차가운 문에 기대어 현관 앞에 조용히 서 있었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그녀는 불을 켜지 않고 차가운 문에 기대어 현관 앞에 조용히 서 있었다."
+            }
+        ]
     },
     "14": {
         "speaker": "",
-        "dialogue": "그녀는 우미리가 문 너머에 있다는 것을 알고 있었고, 그녀의 심장은 친구와 단 10cm 떨어져 있었지만, 오토바이 위에 있을 때보다 더 가까웠다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그녀는 우미리가 문 너머에 있다는 것을 알고 있었고, 그녀의 심장은 친구와 단 10cm 떨어져 있었지만, 오토바이 위에 있을 때보다 더 가까웠다."
+            }
+        ]
     },
     "15": {
         "speaker": "",
-        "dialogue": "그러나 그것은 비밀을 감추기에는 충분히 먼 거리였다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그러나 그것은 비밀을 감추기에는 충분히 먼 거리였다."
+            }
+        ]
     },
     "16": {
         "speaker": "시이나 타키",
-        "dialogue": "（…미안, 우미리.)"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（…미안, 우미리.)"
+            }
+        ]
     }
 }

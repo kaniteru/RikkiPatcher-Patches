@@ -1,6 +1,11 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": "CG 해제: Stream of Love"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "CG 해제: Stream of Love"
+            }
+        ]
     }
 }

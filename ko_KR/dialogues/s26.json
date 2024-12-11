@@ -1,162 +1,362 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": "타키는 운전할 때 말을 많이 하지 않는다——어떤 차든지 간에."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 운전할 때 말을 많이 하지 않는다——어떤 차든지 간에."
+            }
+        ]
     },
     "1": {
         "speaker": "",
-        "dialogue": "그런데 타키의 이런 평소의 침묵에 비해, 아논도 뒷자리에 앉아 조용히 있었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그런데 타키의 이런 평소의 침묵에 비해, 아논도 뒷자리에 앉아 조용히 있었다."
+            }
+        ]
     },
     "2": {
         "speaker": "",
-        "dialogue": "아마도 오토바이 엔진 소리가 너무 큰 것도 영향이 있을 것이다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "아마도 오토바이 엔진 소리가 너무 큰 것도 영향이 있을 것이다."
+            }
+        ]
     },
     "3": {
         "speaker": "",
-        "dialogue": "이런 상황에서 말을 하는 건 스스로 손해 보는 행동이 될 것이다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "이런 상황에서 말을 하는 건 스스로 손해 보는 행동이 될 것이다."
+            }
+        ]
     },
     "4": {
         "speaker": "",
-        "dialogue": "하지만 빠르게 달리던 차가 갑작스러운 빨간 불에 멈추자, 엔진 소리의 진동이 사라지고, 좌석에 앉아 있는 두 사람은 여전히 어색하고 이상한 침묵을 유지했다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "하지만 빠르게 달리던 차가 갑작스러운 빨간 불에 멈추자, 엔진 소리의 진동이 사라지고, 좌석에 앉아 있는 두 사람은 여전히 어색하고 이상한 침묵을 유지했다."
+            }
+        ]
     },
     "5": {
         "speaker": "시이나 타키",
-        "dialogue": "（왜 이렇게 조용하지?）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（왜 이렇게 조용하지?）"
+            }
+        ]
     },
     "6": {
         "speaker": "시이나 타키",
-        "dialogue": "（내가 운전을 불안하게 해서 그런가? 불편한가?）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（내가 운전을 불안하게 해서 그런가? 불편한가?）"
+            }
+        ]
     },
     "7": {
         "speaker": "시이나 타키",
-        "dialogue": "（아니면 내가 먼저 말을 걸어야 하나?）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（아니면 내가 먼저 말을 걸어야 하나?）"
+            }
+        ]
     },
     "8": {
         "speaker": "시이나 타키",
-        "dialogue": "저기……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "저기……"
+            }
+        ]
     },
     "9": {
         "speaker": "시이나 타키",
-        "dialogue": "!!!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "!!!"
+            }
+        ]
     },
     "10": {
         "speaker": "",
-        "dialogue": "찰칵."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "찰칵."
+            }
+        ]
     },
     "11": {
         "speaker": "",
-        "dialogue": "찰칵 찰칵 찰칵."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "찰칵 찰칵 찰칵."
+            }
+        ]
     },
     "12": {
         "speaker": "",
-        "dialogue": "먼저 들린 것은 큰 셔터 소리였다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "먼저 들린 것은 큰 셔터 소리였다."
+            }
+        ]
     },
     "13": {
         "speaker": "",
-        "dialogue": "곧이어 플래시도 타키의 눈을 깜짝 놀라게 했다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "곧이어 플래시도 타키의 눈을 깜짝 놀라게 했다."
+            }
+        ]
     },
     "14": {
         "speaker": "시이나 타키",
-        "dialogue": "야! 뭐 하는 거야?!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "야! 뭐 하는 거야?!"
+            }
+        ]
     },
     "15": {
         "speaker": "",
-        "dialogue": "모든 것이 너무나도 부드럽고 갑작스럽게 일어났다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "모든 것이 너무나도 부드럽고 갑작스럽게 일어났다."
+            }
+        ]
     },
     "16": {
         "speaker": "",
-        "dialogue": "타키는 갑자기 자기 앞에 나타난 것을 확 잡아챘다——셀카봉이었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 갑자기 자기 앞에 나타난 것을 확 잡아챘다——셀카봉이었다."
+            }
+        ]
     },
     "17": {
         "speaker": "시이나 타키",
-        "dialogue": "치하야 아논——!!!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "치하야 아논——!!!"
+            }
+        ]
     },
     "18": {
         "speaker": "",
-        "dialogue": "다행히도 이 교차로의 빨간 불은 매우 길었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "다행히도 이 교차로의 빨간 불은 매우 길었다."
+            }
+        ]
     },
     "19": {
         "speaker": "",
-        "dialogue": "사실, 아논이 이 벌을 받은 것은 억울하지 않다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "사실, 아논이 이 벌을 받은 것은 억울하지 않다."
+            }
+        ]
     },
     "20": {
         "speaker": "치하야 아논",
-        "dialogue": "근데 나 차가 달리는 중에는 사진 안 찍었어——단지 빨간 불일 때뿐이야!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "근데 나 차가 달리는 중에는 사진 안 찍었어——단지 빨간 불일 때뿐이야!"
+            }
+        ]
     },
     "21": {
         "speaker": "치하야 아논",
-        "dialogue": "그때 차가 잘 멈춰 있었잖아!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그때 차가 잘 멈춰 있었잖아!"
+            }
+        ]
     },
     "22": {
         "speaker": "시이나 타키",
-        "dialogue": "안 된다고 하면 안 되는 거야! 차가 움직이든 말든 네 행동은 위험해!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "안 된다고 하면 안 되는 거야! 차가 움직이든 말든 네 행동은 위험해!"
+            }
+        ]
     },
     "23": {
         "speaker": "시이나 타키",
-        "dialogue": "내가 네 플래시에 놀라서 손이나 다리가 못 받쳐주면 어떻게 할 건데?!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "내가 네 플래시에 놀라서 손이나 다리가 못 받쳐주면 어떻게 할 건데?!"
+            }
+        ]
     },
     "24": {
         "speaker": "시이나 타키",
-        "dialogue": "이 차가 얼마나 무거운지 알아? 만약 차가 넘어지면 우리 둘 다 다리가 깔릴 거야——"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "이 차가 얼마나 무거운지 알아? 만약 차가 넘어지면 우리 둘 다 다리가 깔릴 거야——"
+            }
+        ]
     },
     "25": {
         "speaker": "치하야 아논",
-        "dialogue": "근데…근데…"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "근데…근데…"
+            }
+        ]
     },
     "26": {
         "speaker": "치하야 아논",
-        "dialogue": "이건 내가 처음 리키의 차를 타는 거잖아… 그리고 리키가 나를 처음으로 혼자 데려다 주는 거잖아……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "이건 내가 처음 리키의 차를 타는 거잖아… 그리고 리키가 나를 처음으로 혼자 데려다 주는 거잖아……"
+            }
+        ]
     },
     "27": {
         "speaker": "치하야 아논",
-        "dialogue": "처음 만난 이후로 너는 항상 램과 루나만 데려다 줬어… 그냥 추억을 남기고 싶어서……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "처음 만난 이후로 너는 항상 램과 루나만 데려다 줬어… 그냥 추억을 남기고 싶어서……"
+            }
+        ]
     },
     "28": {
         "speaker": "시이나 타키",
-        "dialogue": "（분명 아논이 잘못했는데……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（분명 아논이 잘못했는데……）"
+            }
+        ]
     },
     "29": {
         "speaker": "시이나 타키",
-        "dialogue": "（왜 내가 죄책감을 느끼지……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（왜 내가 죄책감을 느끼지……）"
+            }
+        ]
     },
     "30": {
         "speaker": "",
-        "dialogue": "타키는 잠시 침묵하더니 갑자기 아논의 셀카봉을 빼앗아 위에 있는 휴대폰을 떼어내서 상대방 가방에 함께 넣었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 잠시 침묵하더니 갑자기 아논의 셀카봉을 빼앗아 위에 있는 휴대폰을 떼어내서 상대방 가방에 함께 넣었다."
+            }
+        ]
     },
     "31": {
         "speaker": "시이나 타키",
-        "dialogue": "다음엔 그러지 마."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "다음엔 그러지 마."
+            }
+        ]
     },
     "32": {
         "speaker": "",
-        "dialogue": "빨간 불 카운트다운이 드디어 마지막 카운트다운에 들어갔다. 타키는 자리에서 뒤로 움직여 아논의 손을 잡았다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "빨간 불 카운트다운이 드디어 마지막 카운트다운에 들어갔다. 타키는 자리에서 뒤로 움직여 아논의 손을 잡았다."
+            }
+        ]
     },
     "33": {
         "speaker": "치하야 아논",
-        "dialogue": "나 아직 화났어! 리키 이걸로는——"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "나 아직 화났어! 리키 이걸로는——"
+            }
+        ]
     },
     "34": {
         "speaker": "치하야 아논",
-        "dialogue": "어, 리——"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "어, 리——"
+            }
+        ]
     },
     "35": {
         "speaker": "",
-        "dialogue": "타키는 아논의 손을 앞으로 당기며 그녀의 팔 전체를 자신의 허리 주위로 감싸게 했다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 아논의 손을 앞으로 당기며 그녀의 팔 전체를 자신의 허리 주위로 감싸게 했다."
+            }
+        ]
     },
     "36": {
         "speaker": "",
-        "dialogue": "타키는 자신의 배에 겹쳐진 두 손을 세게 눌렀다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 자신의 배에 겹쳐진 두 손을 세게 눌렀다."
+            }
+        ]
     },
     "37": {
         "speaker": "시이나 타키",
-        "dialogue": "꼭 잡고, 말하지 마."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "꼭 잡고, 말하지 마."
+            }
+        ]
     },
     "38": {
         "speaker": "시이나 타키",
-        "dialogue": "안전이 우선이야."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "안전이 우선이야."
+            }
+        ]
     },
     "39": {
         "speaker": "치하야 아논",
-        "dialogue": "응."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "응."
+            }
+        ]
     }
 }

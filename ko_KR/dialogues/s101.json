@@ -1,174 +1,397 @@
 {
     "0": {
         "speaker": "시이나 타키",
-        "dialogue": "나……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "나……"
+            }
+        ]
     },
     "1": {
         "speaker": "시이나 타키",
-        "dialogue": "나 죽었어?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "나 죽었어?"
+            }
+        ]
     },
     "2": {
         "speaker": "시이나 타키",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "3": {
         "speaker": "시이나 타키",
-        "dialogue": "이건……누구의 숨소리지."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "이건……누구의 숨소리지."
+            }
+        ]
     },
     "4": {
         "speaker": "",
-        "dialogue": "숨을 들이쉬고, 내쉰다. 숨을 들이쉬고, 내쉰다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "숨을 들이쉬고, 내쉰다. 숨을 들이쉬고, 내쉰다."
+            }
+        ]
     },
     "5": {
         "speaker": "",
-        "dialogue": "지금도 모든 것이 여전히 혼란스러웠다. 그러나 이미 어렴풋이 자신의 리듬을 찾기 시작했다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "지금도 모든 것이 여전히 혼란스러웠다. 그러나 이미 어렴풋이 자신의 리듬을 찾기 시작했다."
+            }
+        ]
     },
     "6": {
         "speaker": "",
-        "dialogue": "사방에 출구가 없어도… 숨 쉬는 것을 잊지 마라, 그렇지 않으면 어둠 속에서 익사할 것이다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "사방에 출구가 없어도… 숨 쉬는 것을 잊지 마라, 그렇지 않으면 어둠 속에서 익사할 것이다."
+            }
+        ]
     },
     "7": {
         "speaker": "......",
-        "dialogue": "타키!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키!"
+            }
+        ]
     },
     "8": {
         "speaker": "시이나 타키",
-        "dialogue": "......누구야?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......누구야?"
+            }
+        ]
     },
     "9": {
         "speaker": "시이나 타키",
-        "dialogue": "……누가…누가 부르는 거야?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……누가…누가 부르는 거야?"
+            }
+        ]
     },
     "10": {
         "speaker": "......",
-        "dialogue": "타키!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키!"
+            }
+        ]
     },
     "11": {
         "speaker": "시이나 타키",
-        "dialogue": "잘 안 들려……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "잘 안 들려……"
+            }
+        ]
     },
     "12": {
         "speaker": "타카마츠 토모리",
-        "dialogue": "타키!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키!"
+            }
+        ]
     },
     "13": {
         "speaker": "시이나 타키",
-        "dialogue": "아……나……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "아……나……"
+            }
+        ]
     },
     "14": {
         "speaker": "시이나 타키",
-        "dialogue": "나 여기……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "나 여기……"
+            }
+        ]
     },
     "15": {
         "speaker": "",
-        "dialogue": "CG 잠금 해제: 메에카게바시 꽃구경"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "CG 잠금 해제: 메에카게바시 꽃구경"
+            }
+        ]
     },
     "16": {
         "speaker": "",
-        "dialogue": "일어서 있는 무릎이 뻣뻣하게 떨렸다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "일어서 있는 무릎이 뻣뻣하게 떨렸다."
+            }
+        ]
     },
     "17": {
         "speaker": "",
-        "dialogue": "자신을 부르는 사람은 바로 옆에서 숨을 헐떡이고 있었다. 그녀는 뛰어온 것일까?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "자신을 부르는 사람은 바로 옆에서 숨을 헐떡이고 있었다. 그녀는 뛰어온 것일까?"
+            }
+        ]
     },
     "18": {
         "speaker": "",
-        "dialogue": "눈앞에 하얀색이 스쳐 지나갔고, 단단히 안겼다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "눈앞에 하얀색이 스쳐 지나갔고, 단단히 안겼다."
+            }
+        ]
     },
     "19": {
         "speaker": "",
-        "dialogue": "드물게 서두르는 라나가 가슴에 묻혔고, 따뜻하지만 가슴이 아플 정도로 단단했다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "드물게 서두르는 라나가 가슴에 묻혔고, 따뜻하지만 가슴이 아플 정도로 단단했다."
+            }
+        ]
     },
     "20": {
         "speaker": "타카마츠 토모리",
-        "dialogue": "타키! 타키! 하, 하……너…너 괜찮아?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키! 타키! 하, 하……너…너 괜찮아?"
+            }
+        ]
     },
     "21": {
         "speaker": "시이나 타키",
-        "dialogue": "토모리……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "토모리……"
+            }
+        ]
     },
     "22": {
         "speaker": "시이나 타키",
-        "dialogue": "라나, 라나 좀 풀어줘, 아파……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "라나, 라나 좀 풀어줘, 아파……"
+            }
+        ]
     },
     "23": {
         "speaker": "나가사키 소요",
-        "dialogue": "후, 무슨 생각을 하고 있었어?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "후, 무슨 생각을 하고 있었어?"
+            }
+        ]
     },
     "24": {
         "speaker": "치하야 아논",
-        "dialogue": "리키!! 너 왜 그래?! 우리가 멀리서 봤을 때 너가 강가에 가만히 서 있었을 때, 우리가 너가…너가……다음부터 그러지 마, 놀라서 내 심장이 뛰는 줄 알았어!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "리키!! 너 왜 그래?! 우리가 멀리서 봤을 때 너가 강가에 가만히 서 있었을 때, 우리가 너가…너가……다음부터 그러지 마, 놀라서 내 심장이 뛰는 줄 알았어!"
+            }
+        ]
     },
     "25": {
         "speaker": "시이나 타키",
-        "dialogue": "나……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "나……"
+            }
+        ]
     },
     "26": {
         "speaker": "야하타 우미리",
-        "dialogue": "내가 증명할게."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "내가 증명할게."
+            }
+        ]
     },
     "27": {
         "speaker": "야하타 우미리",
-        "dialogue": "그리고 저기 저 분도."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그리고 저기 저 분도."
+            }
+        ]
     },
     "28": {
         "speaker": "토가와 사키코",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "29": {
         "speaker": "",
-        "dialogue": "……꿈이었나?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……꿈이었나?"
+            }
+        ]
     },
     "30": {
         "speaker": "",
-        "dialogue": "햇빛이 벚꽃과 함께 내리고, 만나고 싶은 사람들이 모두 곁에 있었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "햇빛이 벚꽃과 함께 내리고, 만나고 싶은 사람들이 모두 곁에 있었다."
+            }
+        ]
     },
     "31": {
         "speaker": "",
-        "dialogue": "타키는 코를 훌쩍이며, 목구멍에 걸린 말이 다시 막혔다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 코를 훌쩍이며, 목구멍에 걸린 말이 다시 막혔다."
+            }
+        ]
     },
     "32": {
         "speaker": "시이나 타키",
-        "dialogue": "……너희가 여기 왜 있어?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……너희가 여기 왜 있어?"
+            }
+        ]
     },
     "33": {
         "speaker": "나가사키 소요 & 야하타 우미리",
-        "dialogue": "퇴근."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "퇴근."
+            },
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "下班。"
+            }
+        ]
     },
     "34": {
         "speaker": "치하야 아논",
-        "dialogue": "날씨가 이렇게 좋고, 벚꽃 구경할 때라 생각했지, 모두 바쁠 줄 알았는데 나 혼자 왔어. 이렇게 우연히 만날 줄 몰랐어! 미리 약속할 걸 그랬네!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "날씨가 이렇게 좋고, 벚꽃 구경할 때라 생각했지, 모두 바쁠 줄 알았는데 나 혼자 왔어. 이렇게 우연히 만날 줄 몰랐어! 미리 약속할 걸 그랬네!"
+            }
+        ]
     },
     "35": {
         "speaker": "카나메 라나 & 타카마츠 토모리",
-        "dialogue": "갑자기 타키 집 앞의 벚꽃이 생각나서, 보고 싶어서 왔어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "갑자기 타키 집 앞의 벚꽃이 생각나서, 보고 싶어서 왔어."
+            },
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "忽然想起立希家外面的樱花，想看，就来了。"
+            }
+        ]
     },
     "36": {
         "speaker": "타카마츠 토모리",
-        "dialogue": "벚꽃……정말 아름다워."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "벚꽃……정말 아름다워."
+            }
+        ]
     },
     "37": {
         "speaker": "시이나 타키",
-        "dialogue": "응……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "응……"
+            }
+        ]
     },
     "38": {
         "speaker": "",
-        "dialogue": "타키, 하고 싶은 말 있어?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키, 하고 싶은 말 있어?"
+            }
+        ]
     },
     "39": {
         "speaker": "",
-        "dialogue": "많이 하고 싶은 말이 있고, 이루고 싶은 소원이 많고, 가고 싶은 곳이 많다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "많이 하고 싶은 말이 있고, 이루고 싶은 소원이 많고, 가고 싶은 곳이 많다."
+            }
+        ]
     },
     "40": {
         "speaker": "",
-        "dialogue": "서두르지 마, 천천히 해. 이 길에는 동료와 음악이 있어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "서두르지 마, 천천히 해. 이 길에는 동료와 음악이 있어."
+            }
+        ]
     },
     "41": {
         "speaker": "",
-        "dialogue": "평생은 아직 길어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "평생은 아직 길어."
+            }
+        ]
     },
     "42": {
         "speaker": "",
-        "dialogue": "END"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "END"
+            }
+        ]
     }
 }

@@ -1,34 +1,74 @@
 {
     "0": {
         "speaker": "시이나 타키",
-        "dialogue": "후반부가 뭔가 시원하지 않아."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "후반부가 뭔가 시원하지 않아."
+            }
+        ]
     },
     "1": {
         "speaker": "시이나 타키",
-        "dialogue": "화음을 삼도 올려? 더 간단한 리프?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "화음을 삼도 올려? 더 간단한 리프?"
+            }
+        ]
     },
     "2": {
         "speaker": "",
-        "dialogue": "타키는 알람이 울리자마자 꺼버렸다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 알람이 울리자마자 꺼버렸다."
+            }
+        ]
     },
     "3": {
         "speaker": "시이나 타키",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "4": {
         "speaker": "시이나 타키",
-        "dialogue": "（상태가 좋을 때는 무의식적으로 너무 오래 일하게 돼.）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（상태가 좋을 때는 무의식적으로 너무 오래 일하게 돼.）"
+            }
+        ]
     },
     "5": {
         "speaker": "시이나 타키",
-        "dialogue": "（이게 바로 '나쁜 생활 습관'이라는 건가.）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（이게 바로 '나쁜 생활 습관'이라는 건가.）"
+            }
+        ]
     },
     "6": {
         "speaker": "시이나 타키",
-        "dialogue": "아래층에 잠시 산책이나 가야겠다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "아래층에 잠시 산책이나 가야겠다."
+            }
+        ]
     },
     "7": {
         "speaker": "",
-        "dialogue": "늘 가지고 다니는 AirPods를 챙겨, 타키는 집을 나서며 좋아하는 노래를 골랐다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "늘 가지고 다니는 AirPods를 챙겨, 타키는 집을 나서며 좋아하는 노래를 골랐다."
+            }
+        ]
     }
 }

@@ -1,42 +1,92 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": "작은 고양이는 언제나 자유롭게 오간다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "작은 고양이는 언제나 자유롭게 오간다."
+            }
+        ]
     },
     "1": {
         "speaker": "",
-        "dialogue": "그러나 가끔은 은혜를 갚기 위해 무언가를 남기기도 한다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그러나 가끔은 은혜를 갚기 위해 무언가를 남기기도 한다."
+            }
+        ]
     },
     "2": {
         "speaker": "시이나 타키",
-        "dialogue": "결국 마지막엔..... 드럼과 동화책을 다 가져왔어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "결국 마지막엔..... 드럼과 동화책을 다 가져왔어."
+            }
+        ]
     },
     "3": {
         "speaker": "",
-        "dialogue": "책상 위에 약속의 증거들이 쌓여 있다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "책상 위에 약속의 증거들이 쌓여 있다."
+            }
+        ]
     },
     "4": {
         "speaker": "",
-        "dialogue": "타키는 하품을 하며 다가가 카혼 드럼을 옆으로 옮기고, 동화책의 표지를 펼쳤다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 하품을 하며 다가가 카혼 드럼을 옆으로 옮기고, 동화책의 표지를 펼쳤다."
+            }
+        ]
     },
     "5": {
         "speaker": "",
-        "dialogue": "그 위에 언제 생겼는지 모를 작은 고양이 발자국이 있었는데, 어쩌면 처음부터 있었을지도 모른다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그 위에 언제 생겼는지 모를 작은 고양이 발자국이 있었는데, 어쩌면 처음부터 있었을지도 모른다."
+            }
+        ]
     },
     "6": {
         "speaker": "",
-        "dialogue": "무슨 일일까?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "무슨 일일까?"
+            }
+        ]
     },
     "7": {
         "speaker": "",
-        "dialogue": "타키는 어제의 멜로디, 작은 고양이의 선물에서 나온 멜로디를 조용히 흥얼거렸다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 어제의 멜로디, 작은 고양이의 선물에서 나온 멜로디를 조용히 흥얼거렸다."
+            }
+        ]
     },
     "8": {
         "speaker": "",
-        "dialogue": "그녀는 발자국에 힘을 주어 눌렀다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그녀는 발자국에 힘을 주어 눌렀다."
+            }
+        ]
     },
     "9": {
         "speaker": "시이나 타키",
-        "dialogue": "도장 확인."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "도장 확인."
+            }
+        ]
     }
 }

@@ -1,6 +1,11 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": "무대 소개"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "무대 소개"
+            }
+        ]
     }
 }

@@ -1,122 +1,272 @@
 {
     "0": {
         "speaker": "시이나 타키",
-        "dialogue": "너무…………"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "너무…………"
+            }
+        ]
     },
     "1": {
         "speaker": "시이나 타키",
-        "dialogue": "너무——귀여워…………"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "너무——귀여워…………"
+            }
+        ]
     },
     "2": {
         "speaker": "시이나 타키",
-        "dialogue": "복슬복슬한 엉덩이…… 둥글둥글한 몸…… 정말 부드러워 보이네… 어렸을 땐 더 귀여웠겠지……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "복슬복슬한 엉덩이…… 둥글둥글한 몸…… 정말 부드러워 보이네… 어렸을 땐 더 귀여웠겠지……"
+            }
+        ]
     },
     "3": {
         "speaker": "시이나 타키",
-        "dialogue": "아, 나나가 판다랑 싸우고 있어……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "아, 나나가 판다랑 싸우고 있어……"
+            }
+        ]
     },
     "4": {
         "speaker": "시이나 타키",
-        "dialogue": "……어떻게 이렇게 귀여울 수가…… 나 천국에 먼저 간 거 아냐…………"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……어떻게 이렇게 귀여울 수가…… 나 천국에 먼저 간 거 아냐…………"
+            }
+        ]
     },
     "5": {
         "speaker": "카나메 라나",
-        "dialogue": "리키, 지금도 잘 살고 있어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "리키, 지금도 잘 살고 있어."
+            }
+        ]
     },
     "6": {
         "speaker": "시이나 타키",
-        "dialogue": "그냥 농담한 건데…… 너까지 왜 그래."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그냥 농담한 건데…… 너까지 왜 그래."
+            }
+        ]
     },
     "7": {
         "speaker": "카나메 라나",
-        "dialogue": "말차 파르페가 걸린 중요한 일이야."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "말차 파르페가 걸린 중요한 일이야."
+            }
+        ]
     },
     "8": {
         "speaker": "",
-        "dialogue": "라나는 타키의 소매를 잡아당기며 먹거리 구역으로 가자고 했다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "라나는 타키의 소매를 잡아당기며 먹거리 구역으로 가자고 했다."
+            }
+        ]
     },
     "9": {
         "speaker": "시이나 타키",
-        "dialogue": "잠깐, 잠깐, 힘들게 왔는데, 좀 더 보고 가자."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "잠깐, 잠깐, 힘들게 왔는데, 좀 더 보고 가자."
+            }
+        ]
     },
     "10": {
         "speaker": "시이나 타키",
-        "dialogue": "（휴, 직접 자라는 걸 보고 싶다……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（휴, 직접 자라는 걸 보고 싶다……）"
+            }
+        ]
     },
     "11": {
         "speaker": "시이나 타키",
-        "dialogue": "（귀여워……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（귀여워……）"
+            }
+        ]
     },
     "12": {
         "speaker": "카나메 라나",
-        "dialogue": "리키."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "리키."
+            }
+        ]
     },
     "13": {
         "speaker": "시이나 타키",
-        "dialogue": "응?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "응?"
+            }
+        ]
     },
     "14": {
         "speaker": "카나메 라나",
-        "dialogue": "동물원에 왜 고양이가 없을까?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "동물원에 왜 고양이가 없을까?"
+            }
+        ]
     },
     "15": {
         "speaker": "시이나 타키",
-        "dialogue": "음…… 표범과 호랑이도 고양이로 볼 수 있지 않을까."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "음…… 표범과 호랑이도 고양이로 볼 수 있지 않을까."
+            }
+        ]
     },
     "16": {
         "speaker": "시이나 타키",
-        "dialogue": "그리고 동물원에는 개도 없잖아, 애완동물과 야생 동물은 다르잖아."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그리고 동물원에는 개도 없잖아, 애완동물과 야생 동물은 다르잖아."
+            }
+        ]
     },
     "17": {
         "speaker": "카나메 라나",
-        "dialogue": "길고양이도 집이 없는데 왜 야생 동물이 아닌 거야?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "길고양이도 집이 없는데 왜 야생 동물이 아닌 거야?"
+            }
+        ]
     },
     "18": {
         "speaker": "시이나 타키",
-        "dialogue": "（왜 내가 이걸 설명해야 하지……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（왜 내가 이걸 설명해야 하지……）"
+            }
+        ]
     },
     "19": {
         "speaker": "시이나 타키",
-        "dialogue": "음…… 길고양이는 원래 집고양이였는데, 여러 가지 이유로 원래 집을 잃은 거겠지."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "음…… 길고양이는 원래 집고양이였는데, 여러 가지 이유로 원래 집을 잃은 거겠지."
+            }
+        ]
     },
     "20": {
         "speaker": "",
-        "dialogue": "타키는 이 말을 하면서 라나를 흘낏 봤지만 아무런 표정도 읽을 수 없었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 이 말을 하면서 라나를 흘낏 봤지만 아무런 표정도 읽을 수 없었다."
+            }
+        ]
     },
     "21": {
         "speaker": "시이나 타키",
-        "dialogue": "하지만 언젠가는…… 그들도 다시 안식처를 찾게 될 거야."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "하지만 언젠가는…… 그들도 다시 안식처를 찾게 될 거야."
+            }
+        ]
     },
     "22": {
         "speaker": "시이나 타키",
-        "dialogue": "누군가가 그 일을 할 거야."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "누군가가 그 일을 할 거야."
+            }
+        ]
     },
     "23": {
         "speaker": "카나메 라나",
-        "dialogue": "그런데, 대구는 나한테 떠돌이 생활이 좋다고 했어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그런데, 대구는 나한테 떠돌이 생활이 좋다고 했어."
+            }
+        ]
     },
     "24": {
         "speaker": "시이나 타키",
-        "dialogue": "대구가 누구야."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "대구가 누구야."
+            }
+        ]
     },
     "25": {
         "speaker": "카나메 라나",
-        "dialogue": "학교의 야생 고양이. 오랫동안 못 봤어. 감자가 누군가가 데려갔다고 했어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "학교의 야생 고양이. 오랫동안 못 봤어. 감자가 누군가가 데려갔다고 했어."
+            }
+        ]
     },
     "26": {
         "speaker": "시이나 타키",
-        "dialogue": "아, 그러면 입양된 걸지도 몰라."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "아, 그러면 입양된 걸지도 몰라."
+            }
+        ]
     },
     "27": {
         "speaker": "시이나 타키",
-        "dialogue": "얼마 전에 유기 동물 보호 협회에서 전단지를 받았는데, 그들의 입양 절차가 이미 잘 되어 있어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "얼마 전에 유기 동물 보호 협회에서 전단지를 받았는데, 그들의 입양 절차가 이미 잘 되어 있어."
+            }
+        ]
     },
     "28": {
         "speaker": "카나메 라나",
-        "dialogue": "그래서 리키, 역시 고양이 키우는 거야."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그래서 리키, 역시 고양이 키우는 거야."
+            }
+        ]
     },
     "29": {
         "speaker": "시이나 타키",
-        "dialogue": "아니야!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "아니야!"
+            }
+        ]
     }
 }

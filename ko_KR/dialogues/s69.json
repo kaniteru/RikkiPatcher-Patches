@@ -1,390 +1,875 @@
 {
     "0": {
         "speaker": "시이나 타키",
-        "dialogue": "이 편의점에 거의 매일 와."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "이 편의점에 거의 매일 와."
+            }
+        ]
     },
     "1": {
         "speaker": "시이나 타키",
-        "dialogue": "다른 건 사줄 돈이 없어서, '대 예술가'도 이 정도는 감수해야 해."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "다른 건 사줄 돈이 없어서, '대 예술가'도 이 정도는 감수해야 해."
+            }
+        ]
     },
     "2": {
         "speaker": "토가와 사키코",
-        "dialogue": "어묵 나베 전부 다 주세요."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "어묵 나베 전부 다 주세요."
+            }
+        ]
     },
     "3": {
         "speaker": "토가와 사키코",
-        "dialogue": "왜 그래?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "왜 그래?"
+            }
+        ]
     },
     "4": {
         "speaker": "시이나 타키",
-        "dialogue": "……아무것도 아니야."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……아무것도 아니야."
+            }
+        ]
     },
     "5": {
         "speaker": "시이나 타키",
-        "dialogue": "('대 예술가'가 편의점을 좋아할 줄이야, 예의도 모르고……)"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "('대 예술가'가 편의점을 좋아할 줄이야, 예의도 모르고……)"
+            }
+        ]
     },
     "6": {
         "speaker": "",
-        "dialogue": "사키코는 타키보다 먼저 편의점에 들어가서, 주먹밥과 샌드위치가 놓인 선반 앞에서 선택했다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "사키코는 타키보다 먼저 편의점에 들어가서, 주먹밥과 샌드위치가 놓인 선반 앞에서 선택했다."
+            }
+        ]
     },
     "7": {
         "speaker": "",
-        "dialogue": "그녀는 음식 뒤의 라벨 가격을 능숙하게 비교했다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그녀는 음식 뒤의 라벨 가격을 능숙하게 비교했다."
+            }
+        ]
     },
     "8": {
         "speaker": "시이나 타키",
-        "dialogue": "……사키코, 아까 '상인과 음악가는 다를 게 없다'는 말은 무슨 의미야?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……사키코, 아까 '상인과 음악가는 다를 게 없다'는 말은 무슨 의미야?"
+            }
+        ]
     },
     "9": {
         "speaker": "토가와 사키코",
-        "dialogue": "말 그대로야, 타키."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "말 그대로야, 타키."
+            }
+        ]
     },
     "10": {
         "speaker": "토가와 사키코",
-        "dialogue": "상인은 물건을 팔고, 음악가는 재능을 파는 거지."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "상인은 물건을 팔고, 음악가는 재능을 파는 거지."
+            }
+        ]
     },
     "11": {
         "speaker": "토가와 사키코",
-        "dialogue": "그렇지 않아?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그렇지 않아?"
+            }
+        ]
     },
     "12": {
         "speaker": "시이나 타키",
-        "dialogue": "그렇다면 너는……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그렇다면 너는……"
+            }
+        ]
     },
     "13": {
         "speaker": "토가와 사키코",
-        "dialogue": "우리는 모두 그렇게 살아."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "우리는 모두 그렇게 살아."
+            }
+        ]
     },
     "14": {
         "speaker": "",
-        "dialogue": "토가와 사키코는 눈을 들어 타키를 보며, 손에 들고 있는 두 개의 주먹밥을 가리켰다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "토가와 사키코는 눈을 들어 타키를 보며, 손에 들고 있는 두 개의 주먹밥을 가리켰다."
+            }
+        ]
     },
     "15": {
         "speaker": "토가와 사키코",
-        "dialogue": "어느 쪽이 더 좋아?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "어느 쪽이 더 좋아?"
+            }
+        ]
     },
     "16": {
         "speaker": "시이나 타키",
-        "dialogue": "......왼쪽."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......왼쪽."
+            }
+        ]
     },
     "17": {
         "speaker": "토가와 사키코",
-        "dialogue": "140엔, 참치 마요네즈."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "140엔, 참치 마요네즈."
+            }
+        ]
     },
     "18": {
         "speaker": "토가와 사키코",
-        "dialogue": "이게 다야, 타키."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "이게 다야, 타키."
+            }
+        ]
     },
     "19": {
         "speaker": "시이나 타키",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "20": {
         "speaker": "점원",
-        "dialogue": "좋은 저녁입니다, 시이나 씨."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "좋은 저녁입니다, 시이나 씨."
+            }
+        ]
     },
     "21": {
         "speaker": "점원",
-        "dialogue": "이 분은……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "이 분은……"
+            }
+        ]
     },
     "22": {
         "speaker": "시이나 타키",
-        "dialogue": "어, 친구야."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "어, 친구야."
+            }
+        ]
     },
     "23": {
         "speaker": "시이나 타키",
-        "dialogue": "(친구라고 할 수 있을까?)"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "(친구라고 할 수 있을까?)"
+            }
+        ]
     },
     "24": {
         "speaker": "점원",
-        "dialogue": "좋은 저녁입니다, 정말 아름다우십니다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "좋은 저녁입니다, 정말 아름다우십니다."
+            }
+        ]
     },
     "25": {
         "speaker": "토가와 사키코",
-        "dialogue": "아, 그렇지 않아요……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "아, 그렇지 않아요……"
+            }
+        ]
     },
     "26": {
         "speaker": "토가와 사키코",
-        "dialogue": "정말 감사합니다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "정말 감사합니다."
+            }
+        ]
     },
     "27": {
         "speaker": "시이나 타키",
-        "dialogue": "(‘대 예술가’가 외모 칭찬받고 얼굴이 빨개질 줄이야.)"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "(‘대 예술가’가 외모 칭찬받고 얼굴이 빨개질 줄이야.)"
+            }
+        ]
     },
     "28": {
         "speaker": "점원",
-        "dialogue": "며칠 전에 도시락을 안 사가셔서, 시이나 씨 무슨 일 있으신 줄 알았어요."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "며칠 전에 도시락을 안 사가셔서, 시이나 씨 무슨 일 있으신 줄 알았어요."
+            }
+        ]
     },
     "29": {
         "speaker": "시이나 타키",
-        "dialogue": "전 괜찮아요…… 걱정해주셔서 고마워요."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "전 괜찮아요…… 걱정해주셔서 고마워요."
+            }
+        ]
     },
     "30": {
         "speaker": "시이나 타키",
-        "dialogue": "(만일을 대비해, 사키코를 일찍 역으로 데려가야겠어.)"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "(만일을 대비해, 사키코를 일찍 역으로 데려가야겠어.)"
+            }
+        ]
     },
     "31": {
         "speaker": "시이나 타키",
-        "dialogue": "어묵 나베 전부 다 주세요."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "어묵 나베 전부 다 주세요."
+            }
+        ]
     },
     "32": {
         "speaker": "토가와 사키코",
-        "dialogue": "무 조림 하나 더 주세요. 그리고 주먹밥 데워주세요, 감사합니다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "무 조림 하나 더 주세요. 그리고 주먹밥 데워주세요, 감사합니다."
+            }
+        ]
     },
     "33": {
         "speaker": "점원",
-        "dialogue": "네, 잠시만 기다려 주세요."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "네, 잠시만 기다려 주세요."
+            }
+        ]
     },
     "34": {
         "speaker": "토가와 사키코",
-        "dialogue": "무슨 일이야, 타키? 계속 날 보고 있어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "무슨 일이야, 타키? 계속 날 보고 있어."
+            }
+        ]
     },
     "35": {
         "speaker": "시이나 타키",
-        "dialogue": "아무것도 아니야."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "아무것도 아니야."
+            }
+        ]
     },
     "36": {
         "speaker": "토가와 사키코",
-        "dialogue": "……물어보고 싶은 거 있어?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……물어보고 싶은 거 있어?"
+            }
+        ]
     },
     "37": {
         "speaker": "시이나 타키",
-        "dialogue": "(너무 많아.)"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "(너무 많아.)"
+            }
+        ]
     },
     "38": {
         "speaker": "시이나 타키",
-        "dialogue": "(아주 오래 전부터 물어보고 싶었어.)"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "(아주 오래 전부터 물어보고 싶었어.)"
+            }
+        ]
     },
     "39": {
         "speaker": "시이나 타키",
-        "dialogue": "아니, 특별히 물어보고 싶은 건 없어……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "아니, 특별히 물어보고 싶은 건 없어……"
+            }
+        ]
     },
     "40": {
         "speaker": "시이나 타키",
-        "dialogue": "어묵 나베 좀 나눠 줄래?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "어묵 나베 좀 나눠 줄래?"
+            }
+        ]
     },
     "41": {
         "speaker": "토가와 사키코",
-        "dialogue": "당연히."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "당연히."
+            }
+        ]
     },
     "42": {
         "speaker": "시이나 타키",
-        "dialogue": "그럼 너무 좋아, 고마워, 사키코."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그럼 너무 좋아, 고마워, 사키코."
+            }
+        ]
     },
     "43": {
         "speaker": "토가와 사키코",
-        "dialogue": "바보."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "바보."
+            }
+        ]
     },
     "44": {
         "speaker": "시이나 타키",
-        "dialogue": "뭐?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "뭐?"
+            }
+        ]
     },
     "45": {
         "speaker": "토가와 사키코",
-        "dialogue": "아무것도 안 했어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "아무것도 안 했어."
+            }
+        ]
     },
     "46": {
         "speaker": "",
-        "dialogue": "초봄의 추운 바깥에서 어묵 나베 한 그릇이 김을 내며, 흐릿한 바람에 그 열기가 퍼졌다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "초봄의 추운 바깥에서 어묵 나베 한 그릇이 김을 내며, 흐릿한 바람에 그 열기가 퍼졌다."
+            }
+        ]
     },
     "47": {
         "speaker": "",
-        "dialogue": "편의점 앞 벤치에 앉아, 사키코는 타키에게 일회용 젓가락을 건넸다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "편의점 앞 벤치에 앉아, 사키코는 타키에게 일회용 젓가락을 건넸다."
+            }
+        ]
     },
     "48": {
         "speaker": "",
-        "dialogue": "따뜻한 음식이 온기를 가져오고, 천천히 씹어 위에 보내며 따스한 숨결로 변해갔다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "따뜻한 음식이 온기를 가져오고, 천천히 씹어 위에 보내며 따스한 숨결로 변해갔다."
+            }
+        ]
     },
     "49": {
         "speaker": "토가와 사키코",
-        "dialogue": "타키, 모든 외부 요소와 조건을 고려하지 않는다면, 지금 넌 무엇을 하고 있을까?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키, 모든 외부 요소와 조건을 고려하지 않는다면, 지금 넌 무엇을 하고 있을까?"
+            }
+        ]
     },
     "50": {
         "speaker": "시이나 타키",
-        "dialogue": "이게 뭐야, 중학생 성격 테스트야?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "이게 뭐야, 중학생 성격 테스트야?"
+            }
+        ]
     },
     "51": {
         "speaker": "토가와 사키코",
-        "dialogue": "그냥 물어본 거야…… 아, 뜨거워."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그냥 물어본 거야…… 아, 뜨거워."
+            }
+        ]
     },
     "52": {
         "speaker": "시이나 타키",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "53": {
         "speaker": "토가와 사키코",
-        "dialogue": "아직 생각 못 했어?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "아직 생각 못 했어?"
+            }
+        ]
     },
     "54": {
         "speaker": "시이나 타키",
-        "dialogue": "아마도, 여전히 곡을 쓰고, 드럼을 치고 있을 거야."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "아마도, 여전히 곡을 쓰고, 드럼을 치고 있을 거야."
+            }
+        ]
     },
     "55": {
         "speaker": "토가와 사키코",
-        "dialogue": "그것뿐이야?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그것뿐이야?"
+            }
+        ]
     },
     "56": {
         "speaker": "시이나 타키",
-        "dialogue": "아마도 다른 곳에서 곡을 쓰고 있을 거야……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "아마도 다른 곳에서 곡을 쓰고 있을 거야……"
+            }
+        ]
     },
     "57": {
         "speaker": "시이나 타키",
-        "dialogue": "왜, 왜 웃는 거야."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "왜, 왜 웃는 거야."
+            }
+        ]
     },
     "58": {
         "speaker": "토가와 사키코",
-        "dialogue": "타키, 추측해봐."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키, 추측해봐."
+            }
+        ]
     },
     "59": {
         "speaker": "시이나 타키",
-        "dialogue": "난 추측 안 해."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "난 추측 안 해."
+            }
+        ]
     },
     "60": {
         "speaker": "시이나 타키",
-        "dialogue": "（어차피 넌 항상 이해하기 어려운 사람이었잖아.）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（어차피 넌 항상 이해하기 어려운 사람이었잖아.）"
+            }
+        ]
     },
     "61": {
         "speaker": "토가와 사키코",
-        "dialogue": "나도…… 같은 생각이야."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "나도…… 같은 생각이야."
+            }
+        ]
     },
     "62": {
         "speaker": "",
-        "dialogue": "서로를 잠시 바라본 후, 그녀들은 더 이상 이 주제를 이어가지 않았다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "서로를 잠시 바라본 후, 그녀들은 더 이상 이 주제를 이어가지 않았다."
+            }
+        ]
     },
     "63": {
         "speaker": "",
-        "dialogue": "토가와 사키코는 타키에게 가느다란 담배를 하나 건넸고, 몇 초간 망설이다가 타키는 그것을 받아들였다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "토가와 사키코는 타키에게 가느다란 담배를 하나 건넸고, 몇 초간 망설이다가 타키는 그것을 받아들였다."
+            }
+        ]
     },
     "64": {
         "speaker": "시이나 타키",
-        "dialogue": "난 더 고급스러운 브랜드일 줄 알았어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "난 더 고급스러운 브랜드일 줄 알았어."
+            }
+        ]
     },
     "65": {
         "speaker": "토가와 사키코",
-        "dialogue": "왜?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "왜?"
+            }
+        ]
     },
     "66": {
         "speaker": "토가와 사키코",
-        "dialogue": "그냥 기운을 내기 위한 거야, 뭐든 다 똑같아."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그냥 기운을 내기 위한 거야, 뭐든 다 똑같아."
+            }
+        ]
     },
     "67": {
         "speaker": "시이나 타키",
-        "dialogue": "말이 그렇긴 하지."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "말이 그렇긴 하지."
+            }
+        ]
     },
     "68": {
         "speaker": "토가와 사키코",
-        "dialogue": "타키, 넌 왜 담배를 끊었어?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키, 넌 왜 담배를 끊었어?"
+            }
+        ]
     },
     "69": {
         "speaker": "토가와 사키코",
-        "dialogue": "누군가가 널 관리하나?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "누군가가 널 관리하나?"
+            }
+        ]
     },
     "70": {
         "speaker": "시이나 타키",
-        "dialogue": "......상관없어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......상관없어."
+            }
+        ]
     },
     "71": {
         "speaker": "",
-        "dialogue": "사키코는 뭔가 깨달은 듯 미소를 지었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "사키코는 뭔가 깨달은 듯 미소를 지었다."
+            }
+        ]
     },
     "72": {
         "speaker": "",
-        "dialogue": "몇 시간 전과 비교해서, 그녀의 얼굴은 여전히 창백하고 약했지만, 정신은 훨씬 나아진 것 같았다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "몇 시간 전과 비교해서, 그녀의 얼굴은 여전히 창백하고 약했지만, 정신은 훨씬 나아진 것 같았다."
+            }
+        ]
     },
     "73": {
         "speaker": "토가와 사키코",
-        "dialogue": "큰일이야, 불이 없어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "큰일이야, 불이 없어."
+            }
+        ]
     },
     "74": {
         "speaker": "시이나 타키",
-        "dialogue": "불이 없다고?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "불이 없다고?"
+            }
+        ]
     },
     "75": {
         "speaker": "토가와 사키코",
-        "dialogue": "......상관없어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......상관없어."
+            }
+        ]
     },
     "76": {
         "speaker": "시이나 타키",
-        "dialogue": "（넌 진짜로 담배를 끊으라는 명령을 받은 거지.）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（넌 진짜로 담배를 끊으라는 명령을 받은 거지.）"
+            }
+        ]
     },
     "77": {
         "speaker": "시이나 타키",
-        "dialogue": "내가 성냥을 가지고 있어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "내가 성냥을 가지고 있어."
+            }
+        ]
     },
     "78": {
         "speaker": "",
-        "dialogue": "타키는 코트 주머니에서 성냥 상자를 꺼냈고, 종이 상자의 모서리가 약간 습기로 인해 부드러워지고 주름졌다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 코트 주머니에서 성냥 상자를 꺼냈고, 종이 상자의 모서리가 약간 습기로 인해 부드러워지고 주름졌다."
+            }
+        ]
     },
     "79": {
         "speaker": "",
-        "dialogue": "종이 상자를 열었을 때, 다행히도 안의 성냥들은 여전히 건조하고 문제가 없었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "종이 상자를 열었을 때, 다행히도 안의 성냥들은 여전히 건조하고 문제가 없었다."
+            }
+        ]
     },
     "80": {
         "speaker": "시이나 타키",
-        "dialogue": "……'성냥팔이 소녀'가 나에게 준 거야."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……'성냥팔이 소녀'가 나에게 준 거야."
+            }
+        ]
     },
     "81": {
         "speaker": "시이나 타키",
-        "dialogue": "아마도 너희 팬이겠지."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "아마도 너희 팬이겠지."
+            }
+        ]
     },
     "82": {
         "speaker": "토가와 사키코",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "83": {
         "speaker": "토가와 사키코",
-        "dialogue": "그럼 소원 빌었어?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그럼 소원 빌었어?"
+            }
+        ]
     },
     "84": {
         "speaker": "시이나 타키",
-        "dialogue": "……아니."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……아니."
+            }
+        ]
     },
     "85": {
         "speaker": "토가와 사키코",
-        "dialogue": "넌 빌었어, 타키."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "넌 빌었어, 타키."
+            }
+        ]
     },
     "86": {
         "speaker": "시이나 타키",
-        "dialogue": "......왜 어른이 되면 더 얄미워지는 걸까?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......왜 어른이 되면 더 얄미워지는 걸까?"
+            }
+        ]
     },
     "87": {
         "speaker": "토가와 사키코",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "88": {
         "speaker": "시이나 타키",
-        "dialogue": "……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……"
+            }
+        ]
     },
     "89": {
         "speaker": "시이나 타키",
-        "dialogue": "미안해."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "미안해."
+            }
+        ]
     },
     "90": {
         "speaker": "",
-        "dialogue": "긴 담배 재가 떨어져서 거의 집게손가락을 태울 뻔했다. Crychic는 여전히 연상하기 힘든 주제였다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "긴 담배 재가 떨어져서 거의 집게손가락을 태울 뻔했다. Crychic는 여전히 연상하기 힘든 주제였다."
+            }
+        ]
     },
     "91": {
         "speaker": "",
-        "dialogue": "이것이 타키의 본의가 아니었다 할지라도."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "이것이 타키의 본의가 아니었다 할지라도."
+            }
+        ]
     },
     "92": {
         "speaker": "시이나 타키",
-        "dialogue": "……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……"
+            }
+        ]
     },
     "93": {
         "speaker": "시이나 타키",
-        "dialogue": "널 미워하지 않아, 사키코."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "널 미워하지 않아, 사키코."
+            }
+        ]
     },
     "94": {
         "speaker": "토가와 사키코",
-        "dialogue": "알아."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "알아."
+            }
+        ]
     },
     "95": {
         "speaker": "",
-        "dialogue": "토가와 사키코는 고개를 숙여 손에 든 담배를 한 모금 빨고 가볍게 내뱉었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "토가와 사키코는 고개를 숙여 손에 든 담배를 한 모금 빨고 가볍게 내뱉었다."
+            }
+        ]
     },
     "96": {
         "speaker": "토가와 사키코",
-        "dialogue": "나랑 같이 걸을래?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "나랑 같이 걸을래?"
+            }
+        ]
     }
 }

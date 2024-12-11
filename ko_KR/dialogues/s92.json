@@ -1,974 +1,2189 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": "어두운 빛이 떠다니는 미세먼지를 비추고, 타키는 눈을 가늘게 뜨고 방을 둘러보았다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "어두운 빛이 떠다니는 미세먼지를 비추고, 타키는 눈을 가늘게 뜨고 방을 둘러보았다."
+            }
+        ]
     },
     "1": {
         "speaker": "",
-        "dialogue": "아주 전형적인 휴게실 배치였고, 벽 가까이에 여전히 일부 악기가 남아 있었다. 비록 먼지가 쌓인 검은색 벨벳 커버로 덮여 있었지만, 모양을 통해 악기의 종류를 추측할 수 있었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "아주 전형적인 휴게실 배치였고, 벽 가까이에 여전히 일부 악기가 남아 있었다. 비록 먼지가 쌓인 검은색 벨벳 커버로 덮여 있었지만, 모양을 통해 악기의 종류를 추측할 수 있었다."
+            }
+        ]
     },
     "2": {
         "speaker": "카나메 라나",
-        "dialogue": "어때, 리키?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "어때, 리키?"
+            }
+        ]
     },
     "3": {
         "speaker": "시이나 타키",
-        "dialogue": "괜찮네——여기가 이렇게 잘 보존되어 있을 줄은 몰랐어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "괜찮네——여기가 이렇게 잘 보존되어 있을 줄은 몰랐어."
+            }
+        ]
     },
     "4": {
         "speaker": "카나메 라나",
-        "dialogue": "흠흠."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "흠흠."
+            }
+        ]
     },
     "5": {
         "speaker": "시이나 타키",
-        "dialogue": "왜 그렇게 자랑스러운 얼굴을 하고 있어, 청소한 것도 아니면서……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "왜 그렇게 자랑스러운 얼굴을 하고 있어, 청소한 것도 아니면서……"
+            }
+        ]
     },
     "6": {
         "speaker": "",
-        "dialogue": "눈이 방 안의 밝기에 어느 정도 적응하자, 타키는 라나 쪽으로 걸어가려 했지만, 그 순간 매끄럽게 지나가는 길고 검은 그림자가 그녀를 혼란스럽게 만들었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "눈이 방 안의 밝기에 어느 정도 적응하자, 타키는 라나 쪽으로 걸어가려 했지만, 그 순간 매끄럽게 지나가는 길고 검은 그림자가 그녀를 혼란스럽게 만들었다."
+            }
+        ]
     },
     "7": {
         "speaker": "",
-        "dialogue": "무의식적으로 뒤로 넘어지며 몇 걸음 비틀거렸지만, 다행히 긴급한 순간에 무언가를 잡아 허리를 지탱하여 사고를 피할 수 있었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "무의식적으로 뒤로 넘어지며 몇 걸음 비틀거렸지만, 다행히 긴급한 순간에 무언가를 잡아 허리를 지탱하여 사고를 피할 수 있었다."
+            }
+        ]
     },
     "8": {
         "speaker": "",
-        "dialogue": "그러나 타키가 균형을 잡은 다음 순간, 그녀를 구한 '건축물'이 무너져 내리며 어두운 방 안에 더 많은 먼지가 일었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그러나 타키가 균형을 잡은 다음 순간, 그녀를 구한 '건축물'이 무너져 내리며 어두운 방 안에 더 많은 먼지가 일었다."
+            }
+        ]
     },
     "9": {
         "speaker": "카나메 라나",
-        "dialogue": "무슨 일이야, 리키?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "무슨 일이야, 리키?"
+            }
+        ]
     },
     "10": {
         "speaker": "",
-        "dialogue": "야행성 생물을 좋아하는 소녀는 동료의 반응을 보고 나서야 불을 켰다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "야행성 생물을 좋아하는 소녀는 동료의 반응을 보고 나서야 불을 켰다."
+            }
+        ]
     },
     "11": {
         "speaker": "",
-        "dialogue": "눈이 찌르듯 아파서 타키는 멍하니 뒤를 돌아보았다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "눈이 찌르듯 아파서 타키는 멍하니 뒤를 돌아보았다."
+            }
+        ]
     },
     "12": {
         "speaker": "시이나 타키",
-        "dialogue": "（환각인가...... 내가 본 그 그림자는 뭐였지?）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（환각인가...... 내가 본 그 그림자는 뭐였지?）"
+            }
+        ]
     },
     "13": {
         "speaker": "카나메 라나",
-        "dialogue": "리키? 괜찮아?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "리키? 괜찮아?"
+            }
+        ]
     },
     "14": {
         "speaker": "시이나 타키",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "15": {
         "speaker": "",
-        "dialogue": "다시 걱정스러워진 생각을 접고, 타키는 손에 묻은 먼지를 털어냈다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "다시 걱정스러워진 생각을 접고, 타키는 손에 묻은 먼지를 털어냈다."
+            }
+        ]
     },
     "16": {
         "speaker": "시이나 타키",
-        "dialogue": "너 말이야... 방에 불이 문제 없다면 처음부터 켜지 그랬어?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "너 말이야... 방에 불이 문제 없다면 처음부터 켜지 그랬어?"
+            }
+        ]
     },
     "17": {
         "speaker": "카나메 라나",
-        "dialogue": "리키가 어둠 속에서 걷는 모습이 더 재미있으니까."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "리키가 어둠 속에서 걷는 모습이 더 재미있으니까."
+            }
+        ]
     },
     "18": {
         "speaker": "",
-        "dialogue": "타키는 한껏 순진한 표정으로 서 있는 소녀를 위아래로 훑어보았다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 한껏 순진한 표정으로 서 있는 소녀를 위아래로 훑어보았다."
+            }
+        ]
     },
     "19": {
         "speaker": "",
-        "dialogue": "그리고 고개를 숙이며 한숨을 쉬었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그리고 고개를 숙이며 한숨을 쉬었다."
+            }
+        ]
     },
     "20": {
         "speaker": "시이나 타키",
-        "dialogue": "휴... 내가 죽기 전에, 너한테 정말 아무 수가 없다는 거야?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "휴... 내가 죽기 전에, 너한테 정말 아무 수가 없다는 거야?"
+            }
+        ]
     },
     "21": {
         "speaker": "카나메 라나",
-        "dialogue": "리키, 책이 쓰러졌어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "리키, 책이 쓰러졌어."
+            }
+        ]
     },
     "22": {
         "speaker": "",
-        "dialogue": "엉뚱한 대답을 하며, 라나는 타키 뒤에 흩어져 있는 책 더미를 가리켰다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "엉뚱한 대답을 하며, 라나는 타키 뒤에 흩어져 있는 책 더미를 가리켰다."
+            }
+        ]
     },
     "23": {
         "speaker": "",
-        "dialogue": "타키는 관자놀이를 문지르며, 어쩔 수 없이 몸을 돌려 웅크렸다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 관자놀이를 문지르며, 어쩔 수 없이 몸을 돌려 웅크렸다."
+            }
+        ]
     },
     "24": {
         "speaker": "",
-        "dialogue": "이 몇 년 동안 그녀가 얻은 몇 안 되는 성과는 아마도 라나가 항상 끝까지 말하지 않는 말을 이해할 수 있게 된 것이다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "이 몇 년 동안 그녀가 얻은 몇 안 되는 성과는 아마도 라나가 항상 끝까지 말하지 않는 말을 이해할 수 있게 된 것이다."
+            }
+        ]
     },
     "25": {
         "speaker": "시이나 타키",
-        "dialogue": "그게 안 쓰러졌으면 내가 쓰러졌겠지, 알아?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그게 안 쓰러졌으면 내가 쓰러졌겠지, 알아?"
+            }
+        ]
     },
     "26": {
         "speaker": "시이나 타키",
-        "dialogue": "커흠, 이 먼지는 너무 많아…… 이건 뭐야, 악보, 록 기념일 상, 재즈 모음집, 악보, 악보, 백일 만에 기타 마스터 되기, 악보, 그림책……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "커흠, 이 먼지는 너무 많아…… 이건 뭐야, 악보, 록 기념일 상, 재즈 모음집, 악보, 악보, 백일 만에 기타 마스터 되기, 악보, 그림책……"
+            }
+        ]
     },
     "27": {
         "speaker": "시이나 타키",
-        "dialogue": "응? 그림책?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "응? 그림책?"
+            }
+        ]
     },
     "28": {
         "speaker": "",
-        "dialogue": "얇은 책 한 권이, 이 음악적 세균이 가득한 종이 더미 속에서 튀어나왔다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "얇은 책 한 권이, 이 음악적 세균이 가득한 종이 더미 속에서 튀어나왔다."
+            }
+        ]
     },
     "29": {
         "speaker": "",
-        "dialogue": "타키는 그것을 따로 빼내어 흔들고, 외투 소매로 표지를 닦았다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 그것을 따로 빼내어 흔들고, 외투 소매로 표지를 닦았다."
+            }
+        ]
     },
     "30": {
         "speaker": "시이나 타키",
-        "dialogue": "죽은…… 백만 번의 고양이?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "죽은…… 백만 번의 고양이?"
+            }
+        ]
     },
     "31": {
         "speaker": "",
-        "dialogue": "《죽은 백만 번의 고양이》"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "《죽은 백만 번의 고양이》"
+            }
+        ]
     },
     "32": {
         "speaker": "",
-        "dialogue": "국민적인 계몽 작품으로, 거의 모든 아이들이 잘 알고 있는 줄거리."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "국민적인 계몽 작품으로, 거의 모든 아이들이 잘 알고 있는 줄거리."
+            }
+        ]
     },
     "33": {
         "speaker": "",
-        "dialogue": "세월의 세례 속에서 무심코 잊혀졌던 어떤 장면들이 갑자기 돌아왔고, 타키는 표지의 제목을 멍하니 들여다보며 오랫동안 그곳에 있었다. 그녀는 옆에 있는 사람이 조용히 다가오는 것을 전혀 눈치채지 못했다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "세월의 세례 속에서 무심코 잊혀졌던 어떤 장면들이 갑자기 돌아왔고, 타키는 표지의 제목을 멍하니 들여다보며 오랫동안 그곳에 있었다. 그녀는 옆에 있는 사람이 조용히 다가오는 것을 전혀 눈치채지 못했다."
+            }
+        ]
     },
     "34": {
         "speaker": "시이나 타키",
-        "dialogue": "아——"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "아——"
+            }
+        ]
     },
     "35": {
         "speaker": "",
-        "dialogue": "예기치 않은 낮은 목소리와 함께, 한 쪽 무릎이 나무 바닥에 세게 부딪히며 '쿵' 소리를 냈다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "예기치 않은 낮은 목소리와 함께, 한 쪽 무릎이 나무 바닥에 세게 부딪히며 '쿵' 소리를 냈다."
+            }
+        ]
     },
     "36": {
         "speaker": "",
-        "dialogue": "청소년기를 무사히 넘기고 나서는 예전처럼 마르지 않게 된 소녀는, 팔을 단단히 사무직의 목에 걸고, 몸의 대부분의 무게를 상대방의 등에 실었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "청소년기를 무사히 넘기고 나서는 예전처럼 마르지 않게 된 소녀는, 팔을 단단히 사무직의 목에 걸고, 몸의 대부분의 무게를 상대방의 등에 실었다."
+            }
+        ]
     },
     "37": {
         "speaker": "",
-        "dialogue": "무릎이 아프게 아팠지만, 타키는 무의식적으로 손을 뒤로 뻗어 먼저 자신에게 매달린 사람을 보호하고, 중심이 여전히 안정적인지 확인하고 나서야, 고등학교 졸업 이후 몇 년 동안 불러본 적이 없는 별명을 이를 악물고 외쳤다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "무릎이 아프게 아팠지만, 타키는 무의식적으로 손을 뒤로 뻗어 먼저 자신에게 매달린 사람을 보호하고, 중심이 여전히 안정적인지 확인하고 나서야, 고등학교 졸업 이후 몇 년 동안 불러본 적이 없는 별명을 이를 악물고 외쳤다."
+            }
+        ]
     },
     "38": {
         "speaker": "시이나 타키",
-        "dialogue": "야생 고양이——!!!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "야생 고양이——!!!"
+            }
+        ]
     },
     "39": {
         "speaker": "카나메 라나",
-        "dialogue": "...리키 체력이 약해졌어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "...리키 체력이 약해졌어."
+            }
+        ]
     },
     "40": {
         "speaker": "시이나 타키",
-        "dialogue": "......먼저 내 등에서 내려와."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......먼저 내 등에서 내려와."
+            }
+        ]
     },
     "41": {
         "speaker": "카나메 라나",
-        "dialogue": "리키, 이거 읽어줄래?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "리키, 이거 읽어줄래?"
+            }
+        ]
     },
     "42": {
         "speaker": "시이나 타키",
-        "dialogue": "너 몇 살이야, 진짜."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "너 몇 살이야, 진짜."
+            }
+        ]
     },
     "43": {
         "speaker": "",
-        "dialogue": "가늘고 하얀 손가락이 타키의 어깨 너머로 책의 여전히 먼지투성이인 표지를 가리켜, 타키의 시선을 되돌렸다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "가늘고 하얀 손가락이 타키의 어깨 너머로 책의 여전히 먼지투성이인 표지를 가리켜, 타키의 시선을 되돌렸다."
+            }
+        ]
     },
     "44": {
         "speaker": "카나메 라나",
-        "dialogue": "죽은 백만 번의... 고양이."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "죽은 백만 번의... 고양이."
+            }
+        ]
     },
     "45": {
         "speaker": "시이나 타키",
-        "dialogue": "이게 네 그림책이야?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "이게 네 그림책이야?"
+            }
+        ]
     },
     "46": {
         "speaker": "카나메 라나",
-        "dialogue": "예전에, SPACE가 문 닫기 전, 할머니가 자주 읽어주셨어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "예전에, SPACE가 문 닫기 전, 할머니가 자주 읽어주셨어."
+            }
+        ]
     },
     "47": {
         "speaker": "카나메 라나",
-        "dialogue": "……그래서 리키, 이거 읽어줄래?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……그래서 리키, 이거 읽어줄래?"
+            }
+        ]
     },
     "48": {
         "speaker": "",
-        "dialogue": "라이브 하우스 앞에서의 선택과는 달리, 타키는 이번에는 바로 대답하지 않았다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "라이브 하우스 앞에서의 선택과는 달리, 타키는 이번에는 바로 대답하지 않았다."
+            }
+        ]
     },
     "49": {
         "speaker": "",
-        "dialogue": "잠시의 정적, 드러머는 먼지가 떠오르는 것을 보고, 기타리스트의 조용한 숨소리를 들었다. 축축한 따뜻함이 어깨와 목을 때리고, 무릎의 통증은 사라졌고, 심장 박동은 여전히 자기 할 일을 했다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "잠시의 정적, 드러머는 먼지가 떠오르는 것을 보고, 기타리스트의 조용한 숨소리를 들었다. 축축한 따뜻함이 어깨와 목을 때리고, 무릎의 통증은 사라졌고, 심장 박동은 여전히 자기 할 일을 했다."
+            }
+        ]
     },
     "50": {
         "speaker": "",
-        "dialogue": "그다지 크지 않지만 충분히 밀폐된 방에서, 타키는 낮은 소리로 한숨을 쉬었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그다지 크지 않지만 충분히 밀폐된 방에서, 타키는 낮은 소리로 한숨을 쉬었다."
+            }
+        ]
     },
     "51": {
         "speaker": "시이나 타키",
-        "dialogue": "먼저 내 등에서 내려와."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "먼저 내 등에서 내려와."
+            }
+        ]
     },
     "52": {
         "speaker": "",
-        "dialogue": "위에 있던 사람이 몸을 비틀며 거부했다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "위에 있던 사람이 몸을 비틀며 거부했다."
+            }
+        ]
     },
     "53": {
         "speaker": "시이나 타키",
-        "dialogue": "……내려와서, 빛 좋은 곳으로 가자."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……내려와서, 빛 좋은 곳으로 가자."
+            }
+        ]
     },
     "54": {
         "speaker": "",
-        "dialogue": "빛 좋은 곳이 가까이에 있을 줄 누가 알았겠는가."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "빛 좋은 곳이 가까이에 있을 줄 누가 알았겠는가."
+            }
+        ]
     },
     "55": {
         "speaker": "시이나 타키",
-        "dialogue": "여기는……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "여기는……"
+            }
+        ]
     },
     "56": {
         "speaker": "",
-        "dialogue": "——SPACE의 로비였다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "——SPACE의 로비였다."
+            }
+        ]
     },
     "57": {
         "speaker": "",
-        "dialogue": "타키는 전에 여러 번 자동 주차장 간판에 가려진 큰 창과 공고가 붙은 유리문을 통해 멀리서 바라본 적이 있었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 전에 여러 번 자동 주차장 간판에 가려진 큰 창과 공고가 붙은 유리문을 통해 멀리서 바라본 적이 있었다."
+            }
+        ]
     },
     "58": {
         "speaker": "",
-        "dialogue": "그리고 지금 그녀와 라나는 여기 서서, 내부에서 외부를 바라보며, 저녁 햇살 아래의 주차장을 보고 있었다. 그 관경은 많이 달랐다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그리고 지금 그녀와 라나는 여기 서서, 내부에서 외부를 바라보며, 저녁 햇살 아래의 주차장을 보고 있었다. 그 관경은 많이 달랐다."
+            }
+        ]
     },
     "59": {
         "speaker": "",
-        "dialogue": "같은 금빛이 주차장의 콘크리트 바닥을 덮고 있었고, 타키와 라나의 발 아래도 똑같이 흩어졌다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "같은 금빛이 주차장의 콘크리트 바닥을 덮고 있었고, 타키와 라나의 발 아래도 똑같이 흩어졌다."
+            }
+        ]
     },
     "60": {
         "speaker": "",
-        "dialogue": "십 년의 틈을 넘어, 현재의 햇살이 먼 과거에 그대로 떨어졌다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "십 년의 틈을 넘어, 현재의 햇살이 먼 과거에 그대로 떨어졌다."
+            }
+        ]
     },
     "61": {
         "speaker": "시이나 타키",
-        "dialogue": "안에서 밖을 보니 이런 느낌이구나."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "안에서 밖을 보니 이런 느낌이구나."
+            }
+        ]
     },
     "62": {
         "speaker": "카나메 라나",
-        "dialogue": "흠흠~~~ 이쪽이야."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "흠흠~~~ 이쪽이야."
+            }
+        ]
     },
     "63": {
         "speaker": "",
-        "dialogue": "타키가 대답하기도 전에, 라나는 타키의 어깨를 밀어 대문 옆의 접수대로 밀어붙이며 방향을 바꾸었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키가 대답하기도 전에, 라나는 타키의 어깨를 밀어 대문 옆의 접수대로 밀어붙이며 방향을 바꾸었다."
+            }
+        ]
     },
     "64": {
         "speaker": "시이나 타키",
-        "dialogue": "아......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "아......"
+            }
+        ]
     },
     "65": {
         "speaker": "",
-        "dialogue": "타키는 결국 그 라이브실의 정문을 보게 되었다. 티켓 부스의 돌출된 벽이 대부분의 햇빛을 가리고, 어두운 복도 모퉁이에 숨겨져 있었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 결국 그 라이브실의 정문을 보게 되었다. 티켓 부스의 돌출된 벽이 대부분의 햇빛을 가리고, 어두운 복도 모퉁이에 숨겨져 있었다."
+            }
+        ]
     },
     "66": {
         "speaker": "",
-        "dialogue": "타키의 머릿속에 무언가가 스쳤다. 그녀는 날카롭게 그것을 붙잡고, 약간 놀란 표정으로 옆 사람을 바라보았다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키의 머릿속에 무언가가 스쳤다. 그녀는 날카롭게 그것을 붙잡고, 약간 놀란 표정으로 옆 사람을 바라보았다."
+            }
+        ]
     },
     "67": {
         "speaker": "시이나 타키",
-        "dialogue": "여기 자주 있었어? 라이브실 문 앞에?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "여기 자주 있었어? 라이브실 문 앞에?"
+            }
+        ]
     },
     "68": {
         "speaker": "카나메 라나",
-        "dialogue": "할머니, 엄격해."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "할머니, 엄격해."
+            }
+        ]
     },
     "69": {
         "speaker": "카나메 라나",
-        "dialogue": "라이브는 매일 있는 게 아니었어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "라이브는 매일 있는 게 아니었어."
+            }
+        ]
     },
     "70": {
         "speaker": "카나메 라나",
-        "dialogue": "여기서 기다리면, 할머니가 그림책을 읽어주셨어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "여기서 기다리면, 할머니가 그림책을 읽어주셨어."
+            }
+        ]
     },
     "71": {
         "speaker": "",
-        "dialogue": "타키는 여전히 활기찬, 때때로 다른 라이브 하우스에서 찡그린 얼굴로 공연을 보는 오래된 매니저를 떠올렸다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 여전히 활기찬, 때때로 다른 라이브 하우스에서 찡그린 얼굴로 공연을 보는 오래된 매니저를 떠올렸다."
+            }
+        ]
     },
     "72": {
         "speaker": "",
-        "dialogue": "심지어 린린코 씨조차 몰래 '이 세상에서 타키보다 더 엄격하게 생긴 사람은 오너밖에 없을 거야.'라고 말했었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "심지어 린린코 씨조차 몰래 '이 세상에서 타키보다 더 엄격하게 생긴 사람은 오너밖에 없을 거야.'라고 말했었다."
+            }
+        ]
     },
     "73": {
         "speaker": "",
-        "dialogue": "사실 타키가 그와 몇 번 만난 적이 있지만, 부드러운 표정을 본 적이 거의 없다. 라나 앞에서도, 그는 여전히 밴드 대선배로서의 권위가 친밀함을 훨씬 초과했다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "사실 타키가 그와 몇 번 만난 적이 있지만, 부드러운 표정을 본 적이 거의 없다. 라나 앞에서도, 그는 여전히 밴드 대선배로서의 권위가 친밀함을 훨씬 초과했다."
+            }
+        ]
     },
     "74": {
         "speaker": "",
-        "dialogue": "가끔 타키는 라나의 삼무 속성도 어렸을 때부터 이렇게 키워진 친척 때문인가 의심하기도 했다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "가끔 타키는 라나의 삼무 속성도 어렸을 때부터 이렇게 키워진 친척 때문인가 의심하기도 했다."
+            }
+        ]
     },
     "75": {
         "speaker": "",
-        "dialogue": "그래서 지금, 라나가 다소 평범하게 보이는 얼굴로, 부드러운 감정이 담긴 추억을 이야기하는 것을 보는 것은 타키에게는 매우 놀라운 일이었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그래서 지금, 라나가 다소 평범하게 보이는 얼굴로, 부드러운 감정이 담긴 추억을 이야기하는 것을 보는 것은 타키에게는 매우 놀라운 일이었다."
+            }
+        ]
     },
     "76": {
         "speaker": "",
-        "dialogue": "하지만, 자신이 겪고 있는 일에 비하면, 츠즈키 씨가 라나에게 어린이 음악 입문서 대신 동화책을 읽어준 것은 너무 평범해 보였다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "하지만, 자신이 겪고 있는 일에 비하면, 츠즈키 씨가 라나에게 어린이 음악 입문서 대신 동화책을 읽어준 것은 너무 평범해 보였다."
+            }
+        ]
     },
     "77": {
         "speaker": "",
-        "dialogue": "라나는 다시 창가의 먼지가 쌓인 가죽 소파를 가리켰다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "라나는 다시 창가의 먼지가 쌓인 가죽 소파를 가리켰다."
+            }
+        ]
     },
     "78": {
         "speaker": "카나메 라나",
-        "dialogue": "전에는 여기 있었어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "전에는 여기 있었어."
+            }
+        ]
     },
     "79": {
         "speaker": "",
-        "dialogue": "타키는 다가가서, 손가락으로 먼지를 살짝 털어내 보았다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 다가가서, 손가락으로 먼지를 살짝 털어내 보았다."
+            }
+        ]
     },
     "80": {
         "speaker": "",
-        "dialogue": "옆에 있던 기타리스트가 참을성을 잃고, 전체 몸무게를 그녀에게 기대어, 균형을 잡지 못한 드러머는 결국 부드러운 소파에 떨어졌다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "옆에 있던 기타리스트가 참을성을 잃고, 전체 몸무게를 그녀에게 기대어, 균형을 잡지 못한 드러머는 결국 부드러운 소파에 떨어졌다."
+            }
+        ]
     },
     "81": {
         "speaker": "시이나 타키",
-        "dialogue": "야——!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "야——!"
+            }
+        ]
     },
     "82": {
         "speaker": "시이나 타키",
-        "dialogue": "너무 무거워! 빨리 일어나! 이걸 어떻게 읽어!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "너무 무거워! 빨리 일어나! 이걸 어떻게 읽어!"
+            }
+        ]
     },
     "83": {
         "speaker": "",
-        "dialogue": "타키는 자기 위에 자리 잡으려는 고양이를 급히 끌어올려 옆으로 밀어냈지만, 부드러운 소파는 중간이 꺼지면서 중력으로 인해 두 사람의 몸이 가까워져서 비좁게 느껴졌다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 자기 위에 자리 잡으려는 고양이를 급히 끌어올려 옆으로 밀어냈지만, 부드러운 소파는 중간이 꺼지면서 중력으로 인해 두 사람의 몸이 가까워져서 비좁게 느껴졌다."
+            }
+        ]
     },
     "84": {
         "speaker": "카나메 라나",
-        "dialogue": "충분히 깨끗해. 빨리 읽어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "충분히 깨끗해. 빨리 읽어."
+            }
+        ]
     },
     "85": {
         "speaker": "시이나 타키",
-        "dialogue": "이 녀석……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "이 녀석……"
+            }
+        ]
     },
     "86": {
         "speaker": "",
-        "dialogue": "타키는 아직 후배들에게 이야기를 들려줄 나이는 아니었다. 오랫동안 망설이다가, 기억 속 먼 과거를 모방하기로 했다——어릴 적, 언니가 책을 읽어주던 말투를."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 아직 후배들에게 이야기를 들려줄 나이는 아니었다. 오랫동안 망설이다가, 기억 속 먼 과거를 모방하기로 했다——어릴 적, 언니가 책을 읽어주던 말투를."
+            }
+        ]
     },
     "87": {
         "speaker": "시이나 타키",
-        "dialogue": "《죽은 백만 번의 고양이》."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "《죽은 백만 번의 고양이》."
+            }
+        ]
     },
     "88": {
         "speaker": "시이나 타키",
-        "dialogue": "백만 번 산 고양이가 있었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "백만 번 산 고양이가 있었다."
+            }
+        ]
     },
     "89": {
         "speaker": "",
-        "dialogue": "스스로 들으니 어설프고 어색하기만 했다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "스스로 들으니 어설프고 어색하기만 했다."
+            }
+        ]
     },
     "90": {
         "speaker": "",
-        "dialogue": "타키는 어쩔 수 없이 계속 읽어 내려갔다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 어쩔 수 없이 계속 읽어 내려갔다."
+            }
+        ]
     },
     "91": {
         "speaker": "시이나 타키&카나메 라나",
-        "dialogue": "그 고양이는 백만 번 살았고, 백만 번 죽었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그 고양이는 백만 번 살았고, 백만 번 죽었다."
+            }
+        ]
     },
     "92": {
         "speaker": "시이나 타키",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "93": {
         "speaker": "시이나 타키",
-        "dialogue": "이 고양이는——"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "이 고양이는——"
+            }
+        ]
     },
     "94": {
         "speaker": "카나메 라나",
-        "dialogue": "——예쁜 검은 고양이였다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "——예쁜 검은 고양이였다."
+            }
+        ]
     },
     "95": {
         "speaker": "",
-        "dialogue": "타키는 책을 큰 소리로 넘기고, 두어 번 흔들며 기침을 해 옆의 청중에게 누가 책을 읽어주고 있는지 상기시키려 했다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 책을 큰 소리로 넘기고, 두어 번 흔들며 기침을 해 옆의 청중에게 누가 책을 읽어주고 있는지 상기시키려 했다."
+            }
+        ]
     },
     "96": {
         "speaker": "시이나 타키",
-        "dialogue": "있——"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "있——"
+            }
+        ]
     },
     "97": {
         "speaker": "",
-        "dialogue": "이번에는 더 심했다. 타키가 음절 하나를 말하자마자, 옆의 머리가 완전한 문장을 빠르게 외웠다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "이번에는 더 심했다. 타키가 음절 하나를 말하자마자, 옆의 머리가 완전한 문장을 빠르게 외웠다."
+            }
+        ]
     },
     "98": {
         "speaker": "시이나 타키",
-        "dialogue": "내 말이, 이미 이렇게 다 외우고 있는데 우리가 읽을 필요가 뭐가 있어?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "내 말이, 이미 이렇게 다 외우고 있는데 우리가 읽을 필요가 뭐가 있어?"
+            }
+        ]
     },
     "99": {
         "speaker": "카나메 라나",
-        "dialogue": "리키가 읽는 게 재미없어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "리키가 읽는 게 재미없어."
+            }
+        ]
     },
     "100": {
         "speaker": "시이나 타키",
-        "dialogue": "제발......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "제발......"
+            }
+        ]
     },
     "101": {
         "speaker": "시이나 타키",
-        "dialogue": "어렸을 때부터 귀에 못이 박히도록 들은 이야기를 어떻게 하면 재미있게 읽을 수 있겠어? 즉흥 음악을 추가해?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "어렸을 때부터 귀에 못이 박히도록 들은 이야기를 어떻게 하면 재미있게 읽을 수 있겠어? 즉흥 음악을 추가해?"
+            }
+        ]
     },
     "102": {
         "speaker": "카나메 라나",
-        "dialogue": "즉흥 음악, 재미있겠다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "즉흥 음악, 재미있겠다."
+            }
+        ]
     },
     "103": {
         "speaker": "시이나 타키",
-        "dialogue": "야!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "야!"
+            }
+        ]
     },
     "104": {
         "speaker": "카나메 라나",
-        "dialogue": "그러면 리키, 다른 이야기 해줘."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그러면 리키, 다른 이야기 해줘."
+            }
+        ]
     },
     "105": {
         "speaker": "시이나 타키",
-        "dialogue": "너 왜 이렇게 끝도 없이 요구하는 거야."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "너 왜 이렇게 끝도 없이 요구하는 거야."
+            }
+        ]
     },
     "106": {
         "speaker": "카나메 라나",
-        "dialogue": "리키, 재미없는 여자."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "리키, 재미없는 여자."
+            }
+        ]
     },
     "107": {
         "speaker": "시이나 타키",
-        "dialogue": "뭐라고?!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "뭐라고?!"
+            }
+        ]
     },
     "108": {
         "speaker": "시이나 타키",
-        "dialogue": "해줄게——무시하지 마, 며칠 전에 토모리가 새 그림책 이야기를 쓸 때, 나도 도와줬어!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "해줄게——무시하지 마, 며칠 전에 토모리가 새 그림책 이야기를 쓸 때, 나도 도와줬어!"
+            }
+        ]
     },
     "109": {
         "speaker": "시이나 타키",
-        "dialogue": "해줄게——이야기 하는 것쯤이야!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "해줄게——이야기 하는 것쯤이야!"
+            }
+        ]
     },
     "110": {
         "speaker": "카나메 라나",
-        "dialogue": "흠흠~~~"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "흠흠~~~"
+            }
+        ]
     },
     "111": {
         "speaker": "",
-        "dialogue": "큰소리치는 건 쉽지만, 이야기를 하는 것은 생각보다 어려웠다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "큰소리치는 건 쉽지만, 이야기를 하는 것은 생각보다 어려웠다."
+            }
+        ]
     },
     "112": {
         "speaker": "",
-        "dialogue": "타키는 그림책의 페이지를 응시하며, 한참 동안 생각이 비었다. 책의 글자가 겹쳐 보이기 시작할 때까지, 그녀는 며칠 동안 자신의 주위에서 계속 나타났던 그 검은 고양이를 떠올렸다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 그림책의 페이지를 응시하며, 한참 동안 생각이 비었다. 책의 글자가 겹쳐 보이기 시작할 때까지, 그녀는 며칠 동안 자신의 주위에서 계속 나타났던 그 검은 고양이를 떠올렸다."
+            }
+        ]
     },
     "113": {
         "speaker": "",
-        "dialogue": "점점 더, 책 페이지의 겹치는 글자들이 각각 다른 자세를 취하고, 타키 앞에서 꿈틀거리는 검은 고양이들처럼 보이기 시작했다. 낮게 들리는 '야옹' 소리가 그녀의 귀에 들려왔다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "점점 더, 책 페이지의 겹치는 글자들이 각각 다른 자세를 취하고, 타키 앞에서 꿈틀거리는 검은 고양이들처럼 보이기 시작했다. 낮게 들리는 '야옹' 소리가 그녀의 귀에 들려왔다."
+            }
+        ]
     },
     "114": {
         "speaker": "",
-        "dialogue": "타키는 움직이는 글자들을, 그리고 움직이는 검은 고양이들을 뚫어져라 바라보았다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 움직이는 글자들을, 그리고 움직이는 검은 고양이들을 뚫어져라 바라보았다."
+            }
+        ]
     },
     "115": {
         "speaker": "",
-        "dialogue": "검은 고양이들도 보라색 눈동자로 타키를 뚫어져라 쳐다보고 있었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "검은 고양이들도 보라색 눈동자로 타키를 뚫어져라 쳐다보고 있었다."
+            }
+        ]
     },
     "116": {
         "speaker": "",
-        "dialogue": "타키는 갑자기 입을 열었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 갑자기 입을 열었다."
+            }
+        ]
     },
     "117": {
         "speaker": "시이나 타키",
-        "dialogue": "——고양이는 백만 번 죽었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "——고양이는 백만 번 죽었다."
+            }
+        ]
     },
     "118": {
         "speaker": "시이나 타키",
-        "dialogue": "매번, 삶의 의미를 찾지 못한 채 죽었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "매번, 삶의 의미를 찾지 못한 채 죽었다."
+            }
+        ]
     },
     "119": {
         "speaker": "",
-        "dialogue": "그 고양이는 세상에서 가장 형편없는 고양이였다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그 고양이는 세상에서 가장 형편없는 고양이였다."
+            }
+        ]
     },
     "120": {
         "speaker": "",
-        "dialogue": "많은 줄거리를 건너뛰고, 타키는 맥락 없이 두 문장을 읽었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "많은 줄거리를 건너뛰고, 타키는 맥락 없이 두 문장을 읽었다."
+            }
+        ]
     },
     "121": {
         "speaker": "",
-        "dialogue": "라나는 의아한 듯 고개를 들고 타키를 보았다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "라나는 의아한 듯 고개를 들고 타키를 보았다."
+            }
+        ]
     },
     "122": {
         "speaker": "카나메 라나",
-        "dialogue": "？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "？"
+            }
+        ]
     },
     "123": {
         "speaker": "시이나 타키",
-        "dialogue": "어느 날, 고양이는 또 죽음을 보았어—그것이 죽음이라는 것을 확신했어, 왜냐하면 이미 백만 번 죽었거든."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "어느 날, 고양이는 또 죽음을 보았어—그것이 죽음이라는 것을 확신했어, 왜냐하면 이미 백만 번 죽었거든."
+            }
+        ]
     },
     "124": {
         "speaker": "카나메 라나",
-        "dialogue": "고양이의 죽음......도 고양이야?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "고양이의 죽음......도 고양이야?"
+            }
+        ]
     },
     "125": {
         "speaker": "시이나 타키",
-        "dialogue": "응, 죽음의 고양이야."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "응, 죽음의 고양이야."
+            }
+        ]
     },
     "126": {
         "speaker": "시이나 타키",
-        "dialogue": "죽음의 고양이는 낫도 들고 있지 않고, 망토도 입고 있지 않았어. 털이 반짝이는 것만 빼면, 전 세계의 평범한 검은 고양이와 다를 바 없었어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "죽음의 고양이는 낫도 들고 있지 않고, 망토도 입고 있지 않았어. 털이 반짝이는 것만 빼면, 전 세계의 평범한 검은 고양이와 다를 바 없었어."
+            }
+        ]
     },
     "127": {
         "speaker": "시이나 타키",
-        "dialogue": "물론, 백만 번 죽었던 검은 고양이와도 다를 바 없었어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "물론, 백만 번 죽었던 검은 고양이와도 다를 바 없었어."
+            }
+        ]
     },
     "128": {
         "speaker": "시이나 타키",
-        "dialogue": "죽음의 고양이는 백만 번 죽었던 고양이에게 말했어, 열흘 후에 너는 죽을 거야."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "죽음의 고양이는 백만 번 죽었던 고양이에게 말했어, 열흘 후에 너는 죽을 거야."
+            }
+        ]
     },
     "129": {
         "speaker": "시이나 타키",
-        "dialogue": "그건 별일 아니야, 백만 번 죽었던 고양이가 말했어, 난 이미 백만 번 죽었어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그건 별일 아니야, 백만 번 죽었던 고양이가 말했어, 난 이미 백만 번 죽었어."
+            }
+        ]
     },
     "130": {
         "speaker": "시이나 타키",
-        "dialogue": "그래, 죽음의 고양이가 대답했어, 너는 이미 백만 번 죽었어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그래, 죽음의 고양이가 대답했어, 너는 이미 백만 번 죽었어."
+            }
+        ]
     },
     "131": {
         "speaker": "시이나 타키",
-        "dialogue": "그래서 이번에 죽으면, 다시는 살아나지 못할 거야."
+        "dialogue": [
+            {
+                "html": "style='color:#ff0000'",
+                "text": "그래서 이번에 죽으면, 다시는 살아나지 못할 거야."
+            }
+        ]
     },
     "132": {
         "speaker": "",
-        "dialogue": "타키는 팔이 갑자기 잡히는 것을 느꼈다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 팔이 갑자기 잡히는 것을 느꼈다."
+            }
+        ]
     },
     "133": {
         "speaker": "카나메 라나",
-        "dialogue": "그리고?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그리고?"
+            }
+        ]
     },
     "134": {
         "speaker": "",
-        "dialogue": "타키는 살짝 미소를 지었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 살짝 미소를 지었다."
+            }
+        ]
     },
     "135": {
         "speaker": "시이나 타키",
-        "dialogue": "백만 번 죽었던 고양이는 생각했어, 열흘 후에 나는 죽을 거야."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "백만 번 죽었던 고양이는 생각했어, 열흘 후에 나는 죽을 거야."
+            }
+        ]
     },
     "136": {
         "speaker": "시이나 타키",
-        "dialogue": "고양이는 고민했어, 아직 해야 할 일이 많고, 이루지 못한 목표도 많아—삶의 의미를 찾지 못했어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "고양이는 고민했어, 아직 해야 할 일이 많고, 이루지 못한 목표도 많아—삶의 의미를 찾지 못했어."
+            }
+        ]
     },
     "137": {
         "speaker": "시이나 타키",
-        "dialogue": "그리고 이제, 그녀는 죽을 시간이 다가왔어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그리고 이제, 그녀는 죽을 시간이 다가왔어."
+            }
+        ]
     },
     "138": {
         "speaker": "시이나 타키",
-        "dialogue": "그리고 영원히 죽을 거야."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그리고 영원히 죽을 거야."
+            }
+        ]
     },
     "139": {
         "speaker": "카나메 라나",
-        "dialogue": "그녀는 혼자 죽을까?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그녀는 혼자 죽을까?"
+            }
+        ]
     },
     "140": {
         "speaker": "시이나 타키",
-        "dialogue": "……나도 몰라."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……나도 몰라."
+            }
+        ]
     },
     "141": {
         "speaker": "시이나 타키",
-        "dialogue": "하지만 그녀는 혼자 죽고 싶지 않을 거야."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "하지만 그녀는 혼자 죽고 싶지 않을 거야."
+            }
+        ]
     },
     "142": {
         "speaker": "시이나 타키",
-        "dialogue": "그래서, 그녀는 자신을 더 이상 괴롭히지 않고, 다시 주변 세계로 눈을 돌렸어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그래서, 그녀는 자신을 더 이상 괴롭히지 않고, 다시 주변 세계로 눈을 돌렸어."
+            }
+        ]
     },
     "143": {
         "speaker": "시이나 타키",
-        "dialogue": "그녀는 둥지를 떠나기로 결심했어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그녀는 둥지를 떠나기로 결심했어."
+            }
+        ]
     },
     "144": {
         "speaker": "시이나 타키",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "145": {
         "speaker": "",
-        "dialogue": "그리고 나서 어떻게 될까?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그리고 나서 어떻게 될까?"
+            }
+        ]
     },
     "146": {
         "speaker": "",
-        "dialogue": "이야기꾼은 당장 알 수 없다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "이야기꾼은 당장 알 수 없다."
+            }
+        ]
     },
     "147": {
         "speaker": "",
-        "dialogue": "약간 막막한 타키가 옆에 있는 사람을 봤지만, 그 사람은 이미 이야기에 완전히 빠져 손을 놓지 않고, 눈이 빛났고, 그 기대는 마치 그녀를 꿰뚫을 것 같았다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "약간 막막한 타키가 옆에 있는 사람을 봤지만, 그 사람은 이미 이야기에 완전히 빠져 손을 놓지 않고, 눈이 빛났고, 그 기대는 마치 그녀를 꿰뚫을 것 같았다."
+            }
+        ]
     },
     "148": {
         "speaker": "",
-        "dialogue": "그녀는 갑자기 이 이야기의 후속편을 생각해냈다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그녀는 갑자기 이 이야기의 후속편을 생각해냈다."
+            }
+        ]
     },
     "149": {
         "speaker": "시이나 타키",
-        "dialogue": "나중에…… 그녀는 다른 고양이를 만났어. 흰색의 작은 고양이."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "나중에…… 그녀는 다른 고양이를 만났어. 흰색의 작은 고양이."
+            }
+        ]
     },
     "150": {
         "speaker": "시이나 타키",
-        "dialogue": "흰 고양이는 주차장에 살았고, 매일 할 일이 없어서 하품하며 햇볕을 쬐었어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "흰 고양이는 주차장에 살았고, 매일 할 일이 없어서 하품하며 햇볕을 쬐었어."
+            }
+        ]
     },
     "151": {
         "speaker": "시이나 타키",
-        "dialogue": "흰 고양이는 수염과 귀를 늘어뜨린 검은 고양이를 보고 주차장의 절반을 나누어 주었어. 그들은 함께 따뜻한 햇살을 쬐었어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "흰 고양이는 수염과 귀를 늘어뜨린 검은 고양이를 보고 주차장의 절반을 나누어 주었어. 그들은 함께 따뜻한 햇살을 쬐었어."
+            }
+        ]
     },
     "152": {
         "speaker": "카나메 라나",
-        "dialogue": "지금의 햇살도 따뜻해."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "지금의 햇살도 따뜻해."
+            }
+        ]
     },
     "153": {
         "speaker": "시이나 타키",
-        "dialogue": "그래, 지금의 햇살도 따뜻해."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그래, 지금의 햇살도 따뜻해."
+            }
+        ]
     },
     "154": {
         "speaker": "",
-        "dialogue": "타키는 고개를 들고 유리를 통해 밖을 내다보며 이미 주황색으로 완전히 물든 하늘을 바라보았다. 태양은 반숙된 계란 노른자처럼 부드러웠고, 도착할 때보다 더 서쪽으로 기울어 있었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 고개를 들고 유리를 통해 밖을 내다보며 이미 주황색으로 완전히 물든 하늘을 바라보았다. 태양은 반숙된 계란 노른자처럼 부드러웠고, 도착할 때보다 더 서쪽으로 기울어 있었다."
+            }
+        ]
     },
     "155": {
         "speaker": "",
-        "dialogue": "그녀는 라나가 이 위치를 선택한 이유를 갑자기 이해했다——이미 로비의 대부분이 어둠에 잠겼지만, 이곳은 여전히 석양의 영역이었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그녀는 라나가 이 위치를 선택한 이유를 갑자기 이해했다——이미 로비의 대부분이 어둠에 잠겼지만, 이곳은 여전히 석양의 영역이었다."
+            }
+        ]
     },
     "156": {
         "speaker": "",
-        "dialogue": "라나는 타키에게 더 가까이 다가갔다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "라나는 타키에게 더 가까이 다가갔다."
+            }
+        ]
     },
     "157": {
         "speaker": "시이나 타키",
-        "dialogue": "백만 번 죽었던 검은 고양이와 비슷한 점은, 흰 고양이는 백만 번 떠돌았어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "백만 번 죽었던 검은 고양이와 비슷한 점은, 흰 고양이는 백만 번 떠돌았어."
+            }
+        ]
     },
     "158": {
         "speaker": "카나메 라나",
-        "dialogue": "왜?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "왜?"
+            }
+        ]
     },
     "159": {
         "speaker": "시이나 타키",
-        "dialogue": "음, 예전 집이 허물어졌기 때문?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "음, 예전 집이 허물어졌기 때문?"
+            }
+        ]
     },
     "160": {
         "speaker": "카나메 라나",
-        "dialogue": "지금은?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "지금은?"
+            }
+        ]
     },
     "161": {
         "speaker": "시이나 타키",
-        "dialogue": "음…… 지금은 주차장이 흰 고양이의 집이야."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "음…… 지금은 주차장이 흰 고양이의 집이야."
+            }
+        ]
     },
     "162": {
         "speaker": "카나메 라나",
-        "dialogue": "？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "？"
+            }
+        ]
     },
     "163": {
         "speaker": "시이나 타키",
-        "dialogue": "검은 고양이도 이상하게 생각했어, 주차장이 집이 될 수 있을까?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "검은 고양이도 이상하게 생각했어, 주차장이 집이 될 수 있을까?"
+            }
+        ]
     },
     "164": {
         "speaker": "시이나 타키",
-        "dialogue": "하지만 흰 고양이가 말했어, 여기에는 개도 있고, 여우도 있고, 매일 와서 노래하는 소녀도 있어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "하지만 흰 고양이가 말했어, 여기에는 개도 있고, 여우도 있고, 매일 와서 노래하는 소녀도 있어."
+            }
+        ]
     },
     "165": {
         "speaker": "시이나 타키",
-        "dialogue": "주변의 모든 이들이 매일 같은 일을 하고 있어, 이게 집이 아니야?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "주변의 모든 이들이 매일 같은 일을 하고 있어, 이게 집이 아니야?"
+            }
+        ]
     },
     "166": {
         "speaker": "시이나 타키",
-        "dialogue": "검은 고양이는 생각했어, 이렇게 보니, 오히려 자신이 집이 없는 것 같았어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "검은 고양이는 생각했어, 이렇게 보니, 오히려 자신이 집이 없는 것 같았어."
+            }
+        ]
     },
     "167": {
         "speaker": "시이나 타키",
-        "dialogue": "검은 고양이는 주차장에 머물기로 했어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "검은 고양이는 주차장에 머물기로 했어."
+            }
+        ]
     },
     "168": {
         "speaker": "시이나 타키",
-        "dialogue": "그것도 여기를 집으로 만들어 보기로 했고, 심지어 더 좋은 집으로 만들기로 했어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그것도 여기를 집으로 만들어 보기로 했고, 심지어 더 좋은 집으로 만들기로 했어."
+            }
+        ]
     },
     "169": {
         "speaker": "시이나 타키",
-        "dialogue": "검은 고양이는 행복했어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "검은 고양이는 행복했어."
+            }
+        ]
     },
     "170": {
         "speaker": "시이나 타키",
-        "dialogue": "검은 고양이는 생각했어, 아마 집이 삶의 의미일지도 몰라, 어쩌면——이렇게 죽는 것도 나쁘지 않아."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "검은 고양이는 생각했어, 아마 집이 삶의 의미일지도 몰라, 어쩌면——이렇게 죽는 것도 나쁘지 않아."
+            }
+        ]
     },
     "171": {
         "speaker": "카나메 라나",
-        "dialogue": "그리고?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그리고?"
+            }
+        ]
     },
     "172": {
         "speaker": "시이나 타키",
-        "dialogue": "그리고……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그리고……"
+            }
+        ]
     },
     "173": {
         "speaker": "시이나 타키",
-        "dialogue": "죽음의 고양이가 다시 찾아왔어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "죽음의 고양이가 다시 찾아왔어."
+            }
+        ]
     },
     "174": {
         "speaker": "시이나 타키",
-        "dialogue": "죽음의 고양이는 검은 고양이에게 말했어, 곧 너의 생명을 거둘 거야. 동시에 죽음의 고양이가 가져온 불운은 주차장이 철거될 상황도 만들었어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "죽음의 고양이는 검은 고양이에게 말했어, 곧 너의 생명을 거둘 거야. 동시에 죽음의 고양이가 가져온 불운은 주차장이 철거될 상황도 만들었어."
+            }
+        ]
     },
     "175": {
         "speaker": "시이나 타키",
-        "dialogue": "검은 고양이는 모두가 자신 때문에 걱정하는 것을 원하지 않았어, 그래서 모두가 떠난 뒤 몰래 죽기로 결심했어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "검은 고양이는 모두가 자신 때문에 걱정하는 것을 원하지 않았어, 그래서 모두가 떠난 뒤 몰래 죽기로 결심했어."
+            }
+        ]
     },
     "176": {
         "speaker": "시이나 타키",
-        "dialogue": "강아지, 여우, 소녀들은 점점 일찍 나가고 늦게 돌아왔어, 모두가 새로운 피난처를 찾기 위해 애쓰고 있었어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "강아지, 여우, 소녀들은 점점 일찍 나가고 늦게 돌아왔어, 모두가 새로운 피난처를 찾기 위해 애쓰고 있었어."
+            }
+        ]
     },
     "177": {
         "speaker": "시이나 타키",
-        "dialogue": "오직 흰 고양이만 주차장을 떠나지 않았어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "오직 흰 고양이만 주차장을 떠나지 않았어."
+            }
+        ]
     },
     "178": {
         "speaker": "시이나 타키",
-        "dialogue": "너무 오래 떠돌다가 힘들게 집을 찾았기 때문에, 다시 떠돌고 싶지 않았어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "너무 오래 떠돌다가 힘들게 집을 찾았기 때문에, 다시 떠돌고 싶지 않았어."
+            }
+        ]
     },
     "179": {
         "speaker": "시이나 타키",
-        "dialogue": "그래서 흰 고양이는 방해하기 시작했어, 장난으로 일꾼들을 겁주고, 아픈 척하며 행인의 동정을 샀어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그래서 흰 고양이는 방해하기 시작했어, 장난으로 일꾼들을 겁주고, 아픈 척하며 행인의 동정을 샀어."
+            }
+        ]
     },
     "180": {
         "speaker": "시이나 타키",
-        "dialogue": "하지만 그것은 결국 소용없었어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "하지만 그것은 결국 소용없었어."
+            }
+        ]
     },
     "181": {
         "speaker": "카나메 라나",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "182": {
         "speaker": "시이나 타키",
-        "dialogue": "나중에 사람들은 이 흰 고양이를 발견했어, 아주 영리하고 똑똑했어, 동물 보호 협회는 돕기로 했고, 많은 사람들이 입양하려고 기다리고 있었어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "나중에 사람들은 이 흰 고양이를 발견했어, 아주 영리하고 똑똑했어, 동물 보호 협회는 돕기로 했고, 많은 사람들이 입양하려고 기다리고 있었어."
+            }
+        ]
     },
     "183": {
         "speaker": "시이나 타키",
-        "dialogue": "검은 고양이가 말했어, 가, 너는 새로운 집을 가질 수 있어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "검은 고양이가 말했어, 가, 너는 새로운 집을 가질 수 있어."
+            }
+        ]
     },
     "184": {
         "speaker": "시이나 타키",
-        "dialogue": "하지만 흰 고양이는 떠나고 싶지 않았어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "하지만 흰 고양이는 떠나고 싶지 않았어."
+            }
+        ]
     },
     "185": {
         "speaker": "카나메 라나",
-        "dialogue": "왜?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "왜?"
+            }
+        ]
     },
     "186": {
         "speaker": "시이나 타키",
-        "dialogue": "왜일까."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "왜일까."
+            }
+        ]
     },
     "187": {
         "speaker": "",
-        "dialogue": "타키는 고개를 돌려 라나의 눈을 마주쳤다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 고개를 돌려 라나의 눈을 마주쳤다."
+            }
+        ]
     },
     "188": {
         "speaker": "",
-        "dialogue": "다른 색의 눈동자가 이제 똑같이 촉촉해졌다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "다른 색의 눈동자가 이제 똑같이 촉촉해졌다."
+            }
+        ]
     },
     "189": {
         "speaker": "시이나 타키",
-        "dialogue": "아마도…… 아마도 변화를 두려워해서."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "아마도…… 아마도 변화를 두려워해서."
+            }
+        ]
     },
     "190": {
         "speaker": "시이나 타키",
-        "dialogue": "너무 오랫동안 떠돌았기 때문에, 변하지 않는 집을 원했을 거야."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "너무 오랫동안 떠돌았기 때문에, 변하지 않는 집을 원했을 거야."
+            }
+        ]
     },
     "191": {
         "speaker": "",
-        "dialogue": "라나는 고개를 저었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "라나는 고개를 저었다."
+            }
+        ]
     },
     "192": {
         "speaker": "카나메 라나",
-        "dialogue": "그냥 여기가 좋아서..."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그냥 여기가 좋아서..."
+            }
+        ]
     },
     "193": {
         "speaker": "카나메 라나",
-        "dialogue": "모든 것이 검은 고양이 탓이야."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "모든 것이 검은 고양이 탓이야."
+            }
+        ]
     },
     "194": {
         "speaker": "시이나 타키",
-        "dialogue": ".........."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": ".........."
+            }
+        ]
     },
     "195": {
         "speaker": "시이나 타키",
-        "dialogue": "라나, 너 정말 논문하고 작곡 과제를 못 쓰겠어?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "라나, 너 정말 논문하고 작곡 과제를 못 쓰겠어?"
+            }
+        ]
     },
     "196": {
         "speaker": "카나메 라나",
-        "dialogue": "........."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "........."
+            }
+        ]
     },
     "197": {
         "speaker": "",
-        "dialogue": "너무 의도적인 주제 전환이었고, 고양이도 위화감을 느꼈다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "너무 의도적인 주제 전환이었고, 고양이도 위화감을 느꼈다."
+            }
+        ]
     },
     "198": {
         "speaker": "",
-        "dialogue": "하지만 라나는 말하지 않았다——그녀는 직접 행동으로 대답했다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "하지만 라나는 말하지 않았다——그녀는 직접 행동으로 대답했다."
+            }
+        ]
     },
     "199": {
         "speaker": "",
-        "dialogue": "막 의지하던 사람이 갑자기 접수대 밑으로 뛰어들어, 몸의 절반을 찬장에 밀어 넣고 무언가를 찾고 있었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "막 의지하던 사람이 갑자기 접수대 밑으로 뛰어들어, 몸의 절반을 찬장에 밀어 넣고 무언가를 찾고 있었다."
+            }
+        ]
     },
     "200": {
         "speaker": "",
-        "dialogue": "타키는 동화를 소파에 놓고 일어나서 그녀의 밴드 리더 기타리스트를 재미있게 바라보았다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 동화를 소파에 놓고 일어나서 그녀의 밴드 리더 기타리스트를 재미있게 바라보았다."
+            }
+        ]
     },
     "201": {
         "speaker": "",
-        "dialogue": "몇 년 동안 야생 고양이라고 불리던 녀석이 진짜 고양이처럼 몸을 굽혀 자신의 보물을 파헤치고 있다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "몇 년 동안 야생 고양이라고 불리던 녀석이 진짜 고양이처럼 몸을 굽혀 자신의 보물을 파헤치고 있다."
+            }
+        ]
     },
     "202": {
         "speaker": "",
-        "dialogue": "한 뭉치의 기타 악보, SPACE 마크가 인쇄된 같은 피크를 주로 사용했던 라나의 피크 상자, 크리스마스 트리 모형—장식용 종이 완전히 색이 바래서 타키는 라나가 이걸 계속 갖고 있는 이유가 단순히 그 색깔 때문이라고 의심했다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "한 뭉치의 기타 악보, SPACE 마크가 인쇄된 같은 피크를 주로 사용했던 라나의 피크 상자, 크리스마스 트리 모형—장식용 종이 완전히 색이 바래서 타키는 라나가 이걸 계속 갖고 있는 이유가 단순히 그 색깔 때문이라고 의심했다."
+            }
+        ]
     },
     "203": {
         "speaker": "",
-        "dialogue": "그리고 또 한 무더기의 다양한 악기 부품들, 그 중 대부분은 녹이 슬었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그리고 또 한 무더기의 다양한 악기 부품들, 그 중 대부분은 녹이 슬었다."
+            }
+        ]
     },
     "204": {
         "speaker": "",
-        "dialogue": "하지만 가장 가치 있는 것은 아마도 티켓과 포스터일 것이다. 타키는 거기서 현재 업계의 중심에 있는 밴드 멤버들의 싸인을 여러 개 발견했다. 아마 그녀들도 여기서 꽤 많은 수의 작은 라이브를 열었던 것 같다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "하지만 가장 가치 있는 것은 아마도 티켓과 포스터일 것이다. 타키는 거기서 현재 업계의 중심에 있는 밴드 멤버들의 싸인을 여러 개 발견했다. 아마 그녀들도 여기서 꽤 많은 수의 작은 라이브를 열었던 것 같다."
+            }
+        ]
     },
     "205": {
         "speaker": "",
-        "dialogue": "하지만 이 물건들은 소유자가 현재 가장 신경 쓰지 않는 것 같다. 그것들은 큰 파일 안에 보관되어 있었고, 그냥 '쉭' 하고 한번에 내던져졌다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "하지만 이 물건들은 소유자가 현재 가장 신경 쓰지 않는 것 같다. 그것들은 큰 파일 안에 보관되어 있었고, 그냥 '쉭' 하고 한번에 내던져졌다."
+            }
+        ]
     },
     "206": {
         "speaker": "",
-        "dialogue": "타키는 '고양이의 보물'을 다시 평가하면서 손가락 관절로 책상을 두드렸다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 '고양이의 보물'을 다시 평가하면서 손가락 관절로 책상을 두드렸다."
+            }
+        ]
     },
     "207": {
         "speaker": "",
-        "dialogue": "잠시 후, 라나는 원하는 것을 찾았다. 그녀는 자신에게 약간 큰 자루를 리셉션 구역에서 끌어내어, 검표구역 근처 벽 모퉁이의 햇빛이 드는 곳에 두고 바로 자루를 열기 시작했다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "잠시 후, 라나는 원하는 것을 찾았다. 그녀는 자신에게 약간 큰 자루를 리셉션 구역에서 끌어내어, 검표구역 근처 벽 모퉁이의 햇빛이 드는 곳에 두고 바로 자루를 열기 시작했다."
+            }
+        ]
     },
     "208": {
         "speaker": "",
-        "dialogue": "타키는 호기심이 생겨 다가갔다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 호기심이 생겨 다가갔다."
+            }
+        ]
     },
     "209": {
         "speaker": "시이나 타키",
-        "dialogue": "음... 이게 다 뭐야? 이 캐비닛이 바닥 없는 구멍이라도 되는 거야?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "음... 이게 다 뭐야? 이 캐비닛이 바닥 없는 구멍이라도 되는 거야?"
+            }
+        ]
     },
     "210": {
         "speaker": "시이나 타키",
-        "dialogue": "도대체 뭘 찾고 있는 거야? 도와줘야 해—"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "도대체 뭘 찾고 있는 거야? 도와줘야 해—"
+            }
+        ]
     },
     "211": {
         "speaker": "카나메 라나",
-        "dialogue": "찾았다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "찾았다."
+            }
+        ]
     },
     "212": {
         "speaker": "",
-        "dialogue": "크지 않은 상자가 라나에 의해 뒤로 밀려나면서 타키의 발 앞에 도착했다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "크지 않은 상자가 라나에 의해 뒤로 밀려나면서 타키의 발 앞에 도착했다."
+            }
+        ]
     },
     "213": {
         "speaker": "시이나 타키",
-        "dialogue": "막 던지지 마... 잠깐——"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "막 던지지 마... 잠깐——"
+            }
+        ]
     },
     "214": {
         "speaker": "시이나 타키",
-        "dialogue": "이건 카혼 드럼이잖아?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "이건 카혼 드럼이잖아?"
+            }
+        ]
     },
     "215": {
         "speaker": "",
-        "dialogue": "정말로 휴대용 카혼 드럼이었다. 게다가 꽤 비싼 브랜드의 제품이었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "정말로 휴대용 카혼 드럼이었다. 게다가 꽤 비싼 브랜드의 제품이었다."
+            }
+        ]
     },
     "216": {
         "speaker": "",
-        "dialogue": "더 이상 라나에게 반박할 마음이 없는 타키는 피자 상자 같은 작은 상자를 뒤집어 이미 쌓인 '보물'에서 응원 타월을 하나 꺼내, 이 나이 든 악기를 열심히 청소하고 점검하기 시작했다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "더 이상 라나에게 반박할 마음이 없는 타키는 피자 상자 같은 작은 상자를 뒤집어 이미 쌓인 '보물'에서 응원 타월을 하나 꺼내, 이 나이 든 악기를 열심히 청소하고 점검하기 시작했다."
+            }
+        ]
     },
     "217": {
         "speaker": "시이나 타키",
-        "dialogue": "나무판이 곰팡이가 피지 않았고, 드럼 박스는 여전히 단단하고, 드럼 줄도 멀쩡해... 외부 도색도 아주 예쁘고, 단지 상단과 네 모서리에 약간의 마모만 있어—"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "나무판이 곰팡이가 피지 않았고, 드럼 박스는 여전히 단단하고, 드럼 줄도 멀쩡해... 외부 도색도 아주 예쁘고, 단지 상단과 네 모서리에 약간의 마모만 있어—"
+            }
+        ]
     },
     "218": {
         "speaker": "시이나 타키",
-        "dialogue": "음, 내는 소리도 괜찮아, 음을 조정하면 다시 사용할 수 있을 거야."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "음, 내는 소리도 괜찮아, 음을 조정하면 다시 사용할 수 있을 거야."
+            }
+        ]
     },
     "219": {
         "speaker": "시이나 타키",
-        "dialogue": "내가 말하는데, 라나, 여기에 꽤 괜찮은 것들이 있잖아."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "내가 말하는데, 라나, 여기에 꽤 괜찮은 것들이 있잖아."
+            }
+        ]
     },
     "220": {
         "speaker": "카나메 라나",
-        "dialogue": "할머니가 SPACE를 닫기로 결정한 이후, 여기 맡겨진 악기 중 많은 게 주인이 나타나지 않았어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "할머니가 SPACE를 닫기로 결정한 이후, 여기 맡겨진 악기 중 많은 게 주인이 나타나지 않았어."
+            }
+        ]
     },
     "221": {
         "speaker": "카나메 라나",
-        "dialogue": "연주자에게 악기는 가장 중요한 거야. 밴드를 가진 연주자에게 라이브도 가장 중요한 거야."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "연주자에게 악기는 가장 중요한 거야. 밴드를 가진 연주자에게 라이브도 가장 중요한 거야."
+            }
+        ]
     },
     "222": {
         "speaker": "카나메 라나",
-        "dialogue": "할머니가 말씀하시길, SPACE는 출발점이어야지 도착점이 아니래."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "할머니가 말씀하시길, SPACE는 출발점이어야지 도착점이 아니래."
+            }
+        ]
     },
     "223": {
         "speaker": "카나메 라나",
-        "dialogue": "그래서 이 악기의 주인들도 아마 SPACE를 최종 목적지로 여겼던 사람들이 아닐까 생각했어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그래서 이 악기의 주인들도 아마 SPACE를 최종 목적지로 여겼던 사람들이 아닐까 생각했어."
+            }
+        ]
     },
     "224": {
         "speaker": "",
-        "dialogue": "타키는 카혼 드럼을 조정하던 중 고개를 들어 라나의 말을 진지하게 들었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 카혼 드럼을 조정하던 중 고개를 들어 라나의 말을 진지하게 들었다."
+            }
+        ]
     },
     "225": {
         "speaker": "",
-        "dialogue": "타키는 SPACE가 가장 번성하던 시기를 놓쳤지만, 여기에 관한 전설은 밴드에 참여하거나 밴드를 결성하려는 사람이라면 누구나 들었을 거야."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 SPACE가 가장 번성하던 시기를 놓쳤지만, 여기에 관한 전설은 밴드에 참여하거나 밴드를 결성하려는 사람이라면 누구나 들었을 거야."
+            }
+        ]
     },
     "226": {
         "speaker": "",
-        "dialogue": "하지만 이 이야기에 비해, 타키는 라나에 대해 더 잘 알고 있었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "하지만 이 이야기에 비해, 타키는 라나에 대해 더 잘 알고 있었다."
+            }
+        ]
     },
     "227": {
         "speaker": "시이나 타키",
-        "dialogue": "......라나."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......라나."
+            }
+        ]
     },
     "228": {
         "speaker": "카나메 라나",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "229": {
         "speaker": "시이나 타키",
-        "dialogue": "논문 쓸 때도 이렇게 많이 써서 걱정할 필요가 없었을 텐데."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "논문 쓸 때도 이렇게 많이 써서 걱정할 필요가 없었을 텐데."
+            }
+        ]
     },
     "230": {
         "speaker": "",
-        "dialogue": "갑작스럽고 부적절한 말."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "갑작스럽고 부적절한 말."
+            }
+        ]
     },
     "231": {
         "speaker": "",
-        "dialogue": "장소가 갑자기 침묵에 빠졌다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "장소가 갑자기 침묵에 빠졌다."
+            }
+        ]
     },
     "232": {
         "speaker": "",
-        "dialogue": "타키는 자신이 무언가 부적절한 말을 했는지 걱정하기 시작했다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 자신이 무언가 부적절한 말을 했는지 걱정하기 시작했다."
+            }
+        ]
     },
     "233": {
         "speaker": "",
-        "dialogue": "잠시 후, 라나는 일어나 두 걸음으로 타키에게 다가와 외투를 잡아당겼다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "잠시 후, 라나는 일어나 두 걸음으로 타키에게 다가와 외투를 잡아당겼다."
+            }
+        ]
     },
     "234": {
         "speaker": "시이나 타키",
-        "dialogue": "어, 화났어?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "어, 화났어?"
+            }
+        ]
     },
     "235": {
         "speaker": "카나메 라나",
-        "dialogue": "가자."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "가자."
+            }
+        ]
     },
     "236": {
         "speaker": "카나메 라나",
-        "dialogue": "기타 가져와, 주차장으로 가."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "기타 가져와, 주차장으로 가."
+            }
+        ]
     },
     "237": {
         "speaker": "시이나 타키",
-        "dialogue": "뭐?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "뭐?"
+            }
+        ]
     },
     "238": {
         "speaker": "카나메 라나",
-        "dialogue": "주차장."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "주차장."
+            }
+        ]
     },
     "239": {
         "speaker": "시이나 타키",
-        "dialogue": "어어어——잠깐만, 라나, 당기지 마——"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "어어어——잠깐만, 라나, 당기지 마——"
+            }
+        ]
     },
     "240": {
         "speaker": "시이나 타키",
-        "dialogue": "라나, 우리는 뒷문으로 돌아가야 해, 서두르지 않아도——"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "라나, 우리는 뒷문으로 돌아가야 해, 서두르지 않아도——"
+            }
+        ]
     },
     "241": {
         "speaker": "",
-        "dialogue": "서두르지 않아도 소용없다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "서두르지 않아도 소용없다."
+            }
+        ]
     },
     "242": {
         "speaker": "",
-        "dialogue": "타키는 원래 이렇게 말하고 싶었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 원래 이렇게 말하고 싶었다."
+            }
+        ]
     }
 }

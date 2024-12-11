@@ -1,262 +1,595 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": "달이 점차 구름 뒤에서 얼굴을 내밀었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "달이 점차 구름 뒤에서 얼굴을 내밀었다."
+            }
+        ]
     },
     "1": {
         "speaker": "",
-        "dialogue": "검은 구름층이 지면에 가까워지면서, 주변에 흙냄새가 퍼졌다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "검은 구름층이 지면에 가까워지면서, 주변에 흙냄새가 퍼졌다."
+            }
+        ]
     },
     "2": {
         "speaker": "",
-        "dialogue": "타키는 저도 모르게 발걸음을 재촉했다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 저도 모르게 발걸음을 재촉했다."
+            }
+        ]
     },
     "3": {
         "speaker": "",
-        "dialogue": "긴 상업 거리가 드디어 끝나가는데, 비가 망설임 없이 쏟아졌다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "긴 상업 거리가 드디어 끝나가는데, 비가 망설임 없이 쏟아졌다."
+            }
+        ]
     },
     "4": {
         "speaker": "",
-        "dialogue": "비가 세차게 내리면서 지면에 빠르게 물결이 일었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "비가 세차게 내리면서 지면에 빠르게 물결이 일었다."
+            }
+        ]
     },
     "5": {
         "speaker": "",
-        "dialogue": "상업 거리를 벗어나도 집까지 거리가 꽤 되어, 한 번에 비를 뚫고 달려가기는 현실적이지 않았다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "상업 거리를 벗어나도 집까지 거리가 꽤 되어, 한 번에 비를 뚫고 달려가기는 현실적이지 않았다."
+            }
+        ]
     },
     "6": {
         "speaker": "",
-        "dialogue": "어쩔 수 없이, 타키는 재빨리 길가의 찻집으로 들어갔다——"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "어쩔 수 없이, 타키는 재빨리 길가의 찻집으로 들어갔다——"
+            }
+        ]
     },
     "7": {
         "speaker": "시이나 타키 & 행인",
-        "dialogue": "어이구——"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "어이구——"
+            }
+        ]
     },
     "8": {
         "speaker": "",
-        "dialogue": "타키는 찻집에서 나오는 사람과 부딪혀 둘 다 바닥에 주저앉았다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 찻집에서 나오는 사람과 부딪혀 둘 다 바닥에 주저앉았다."
+            }
+        ]
     },
     "9": {
         "speaker": "시이나 타키",
-        "dialogue": "쳇, 이렇게 큰 자동문에서 나올 때 눈을 안 떠?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "쳇, 이렇게 큰 자동문에서 나올 때 눈을 안 떠?"
+            }
+        ]
     },
     "10": {
         "speaker": "행인",
-        "dialogue": "네가 정신없이 안으로 들어온 거잖아?! 아, 내 소중한 예쁜 코가… 아파 죽겠네!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "네가 정신없이 안으로 들어온 거잖아?! 아, 내 소중한 예쁜 코가… 아파 죽겠네!"
+            }
+        ]
     },
     "11": {
         "speaker": "시이나 타키",
-        "dialogue": "（이 짜증나는 목소리… 왜 이렇게 익숙하지.）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（이 짜증나는 목소리… 왜 이렇게 익숙하지.）"
+            }
+        ]
     },
     "12": {
         "speaker": "",
-        "dialogue": "빗소리가 너무 시끄러워 타키도 확신하지 못했다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "빗소리가 너무 시끄러워 타키도 확신하지 못했다."
+            }
+        ]
     },
     "13": {
         "speaker": "",
-        "dialogue": "그 사람은 작게 불평하면서 몸을 숙여 가방에서 떨어진 물건들을 주웠다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그 사람은 작게 불평하면서 몸을 숙여 가방에서 떨어진 물건들을 주웠다."
+            }
+        ]
     },
     "14": {
         "speaker": "",
-        "dialogue": "어쨌든 자신도 일부 책임이 있어서, 타키는 허리를 잡고 몸을 일으켜 상대방의 물건을 함께 주웠다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "어쨌든 자신도 일부 책임이 있어서, 타키는 허리를 잡고 몸을 일으켜 상대방의 물건을 함께 주웠다."
+            }
+        ]
     },
     "15": {
         "speaker": "행인",
-        "dialogue": "열쇠, 립스틱, 셀카봉, 회원 카드… 가짜 속눈썹도 하나 떨어졌네——아야——!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "열쇠, 립스틱, 셀카봉, 회원 카드… 가짜 속눈썹도 하나 떨어졌네——아야——!"
+            }
+        ]
     },
     "16": {
         "speaker": "",
-        "dialogue": "얼굴에 선글라스를 쓰고 있어서 상대방은 뒤에 있는 광고판을 보지 못했고, 반쯤 몸을 숙인 채로 움직이다가 허리가 광고판에 세게 부딪쳐서 다시 바닥에 주저앉았다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "얼굴에 선글라스를 쓰고 있어서 상대방은 뒤에 있는 광고판을 보지 못했고, 반쯤 몸을 숙인 채로 움직이다가 허리가 광고판에 세게 부딪쳐서 다시 바닥에 주저앉았다."
+            }
+        ]
     },
     "17": {
         "speaker": "시이나 타키",
-        "dialogue": "야, 괜찮아?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "야, 괜찮아?"
+            }
+        ]
     },
     "18": {
         "speaker": "",
-        "dialogue": "타키는 빨리 다가가 그녀에게 손을 내밀었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 빨리 다가가 그녀에게 손을 내밀었다."
+            }
+        ]
     },
     "19": {
         "speaker": "",
-        "dialogue": "그제야 처음으로 상대방을 제대로 봤다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그제야 처음으로 상대방을 제대로 봤다."
+            }
+        ]
     },
     "20": {
         "speaker": "",
-        "dialogue": "그러고 나서 그녀는 발견했다——"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그러고 나서 그녀는 발견했다——"
+            }
+        ]
     },
     "21": {
         "speaker": "",
-        "dialogue": "——모자 아래, 눈에 띄는 분홍색 긴 머리가 있었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "——모자 아래, 눈에 띄는 분홍색 긴 머리가 있었다."
+            }
+        ]
     },
     "22": {
         "speaker": "시이나 타키",
-        "dialogue": "헉?!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "헉?!"
+            }
+        ]
     },
     "23": {
         "speaker": "시이나 타키",
-        "dialogue": "치하야 아논?!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "치하야 아논?!"
+            }
+        ]
     },
     "24": {
         "speaker": "",
-        "dialogue": "손에 힘을 주어 그녀를 일으켜 세웠다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "손에 힘을 주어 그녀를 일으켜 세웠다."
+            }
+        ]
     },
     "25": {
         "speaker": "",
-        "dialogue": "일으켜 세우고 나서 더 확신이 들었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "일으켜 세우고 나서 더 확신이 들었다."
+            }
+        ]
     },
     "26": {
         "speaker": "",
-        "dialogue": "상대방은 갑자기 눈앞에 나타난 익숙한 얼굴을 보고, 선글라스 뒤에서 반쪽짜리 속눈썹이 망설이듯 두 번 흔들렸다가——"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "상대방은 갑자기 눈앞에 나타난 익숙한 얼굴을 보고, 선글라스 뒤에서 반쪽짜리 속눈썹이 망설이듯 두 번 흔들렸다가——"
+            }
+        ]
     },
     "27": {
         "speaker": "치하야 아논",
-        "dialogue": "————아아아아아아아아아아아!!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "————아아아아아아아아아아아!!"
+            }
+        ]
     },
     "28": {
         "speaker": "",
-        "dialogue": "아논은 꼬리를 밟힌 강아지처럼 갑자기 뒤로 물러났다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "아논은 꼬리를 밟힌 강아지처럼 갑자기 뒤로 물러났다."
+            }
+        ]
     },
     "29": {
         "speaker": "시이나 타키",
-        "dialogue": "시끄러워! 야, 조심해!!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "시끄러워! 야, 조심해!!"
+            }
+        ]
     },
     "30": {
         "speaker": "",
-        "dialogue": "타키는 재빠르게 상대방의 허리를 받쳐 세 번째로 넘어지지 않게 했다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 재빠르게 상대방의 허리를 받쳐 세 번째로 넘어지지 않게 했다."
+            }
+        ]
     },
     "31": {
         "speaker": "시이나 타키",
-        "dialogue": "잘 좀 봐봐, 내가 누군지."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "잘 좀 봐봐, 내가 누군지."
+            }
+        ]
     },
     "32": {
         "speaker": "치하야 아논",
-        "dialogue": "아아아아아——!!!!!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "아아아아아——!!!!!"
+            }
+        ]
     },
     "33": {
         "speaker": "치하야 아논",
-        "dialogue": "리키다아아아아아——!!!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "리키다아아아아아——!!!"
+            }
+        ]
     },
     "34": {
         "speaker": "시이나 타키",
-        "dialogue": "시끄러워!!!!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "시끄러워!!!!"
+            }
+        ]
     },
     "35": {
         "speaker": "",
-        "dialogue": "식당 처마 밑에서 비를 피하던 사람들이 당황스러운 눈길을 보냈다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "식당 처마 밑에서 비를 피하던 사람들이 당황스러운 눈길을 보냈다."
+            }
+        ]
     },
     "36": {
         "speaker": "",
-        "dialogue": "당황한 타키는 주변 사람들에게 작게 사과하면서 아논를 가게 안으로 끌고 들어갔다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "당황한 타키는 주변 사람들에게 작게 사과하면서 아논를 가게 안으로 끌고 들어갔다."
+            }
+        ]
     },
     "37": {
         "speaker": "치하야 아논",
-        "dialogue": "아야야, 리키, 살살해."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "아야야, 리키, 살살해."
+            }
+        ]
     },
     "38": {
         "speaker": "치하야 아논",
-        "dialogue": "옷이 다 구겨졌잖아."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "옷이 다 구겨졌잖아."
+            }
+        ]
     },
     "39": {
         "speaker": "시이나 타키",
-        "dialogue": "조용히 하라니까."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "조용히 하라니까."
+            }
+        ]
     },
     "40": {
         "speaker": "시이나 타키",
-        "dialogue": "갑자기 왜 그래!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "갑자기 왜 그래!"
+            }
+        ]
     },
     "41": {
         "speaker": "치하야 아논",
-        "dialogue": "한밤중에 아무런 준비도 안 된 상태에서 리키를 만나면—이 공포는 도쿄의 10대 괴담에 버금가… 아니, 학교 밖에서 담임 선생님을 만나는 것보다 더 무섭다니까——"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "한밤중에 아무런 준비도 안 된 상태에서 리키를 만나면—이 공포는 도쿄의 10대 괴담에 버금가… 아니, 학교 밖에서 담임 선생님을 만나는 것보다 더 무섭다니까——"
+            }
+        ]
     },
     "42": {
         "speaker": "시이나 타키",
-        "dialogue": "불만 있으면 그냥 말해."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "불만 있으면 그냥 말해."
+            }
+        ]
     },
     "43": {
         "speaker": "시이나 타키",
-        "dialogue": "하… 그래서 밤늦게 여기서 뭐하고 있었어? 곧 너의 라이브가——"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "하… 그래서 밤늦게 여기서 뭐하고 있었어? 곧 너의 라이브가——"
+            }
+        ]
     },
     "44": {
         "speaker": "시이나 타키",
-        "dialogue": "어, 꽤 늦었네."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "어, 꽤 늦었네."
+            }
+        ]
     },
     "45": {
         "speaker": "치하야 아논",
-        "dialogue": "이 찻집은 최근에 새로 연 게 아니야. 전에 런던에서 먹었던 기억이 있어서, 라이브 방송하면서 영국 추억을 되새기고 싶었어~~"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "이 찻집은 최근에 새로 연 게 아니야. 전에 런던에서 먹었던 기억이 있어서, 라이브 방송하면서 영국 추억을 되새기고 싶었어~~"
+            }
+        ]
     },
     "46": {
         "speaker": "시이나 타키",
-        "dialogue": "그럼 주제를 반복하는 거 아니야."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그럼 주제를 반복하는 거 아니야."
+            }
+        ]
     },
     "47": {
         "speaker": "치하야 아논",
-        "dialogue": "그러네… 잠깐! 라이브 방송! 지금 몇 시야, 리키?? 내 폰이 아까 떨어져서 꺼진 것 같아——"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그러네… 잠깐! 라이브 방송! 지금 몇 시야, 리키?? 내 폰이 아까 떨어져서 꺼진 것 같아——"
+            }
+        ]
     },
     "48": {
         "speaker": "",
-        "dialogue": "타키는 다시 핸드폰 화면을 켜서 치하야 아논에게 시간을 보여주었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 다시 핸드폰 화면을 켜서 치하야 아논에게 시간을 보여주었다."
+            }
+        ]
     },
     "49": {
         "speaker": "치하야 아논",
-        "dialogue": "아아——!!!!!!!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "아아——!!!!!!!"
+            }
+        ]
     },
     "50": {
         "speaker": "",
-        "dialogue": "타키는 무의식적으로 자신의 귀를 막았다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 무의식적으로 자신의 귀를 막았다."
+            }
+        ]
     },
     "51": {
         "speaker": "치하야 아논",
-        "dialogue": "시간 없어, 리키!! 다음에 다시 얘기하자!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "시간 없어, 리키!! 다음에 다시 얘기하자!"
+            }
+        ]
     },
     "52": {
         "speaker": "치하야 아논",
-        "dialogue": "지금 바로 쉬지 않고 달려가면——그래, 아직 시간 있어——"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "지금 바로 쉬지 않고 달려가면——그래, 아직 시간 있어——"
+            }
+        ]
     },
     "53": {
         "speaker": "",
-        "dialogue": "타키가 더 말할 틈도 없이, 바람처럼 나타난 분홍 머리가 비 내린 거리에서 바람처럼 사라졌고, 방금 전의 모든 소음과 소란을 가져갔다. 저녁 바람 속에 몇 마디의 말만 남겼다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키가 더 말할 틈도 없이, 바람처럼 나타난 분홍 머리가 비 내린 거리에서 바람처럼 사라졌고, 방금 전의 모든 소음과 소란을 가져갔다. 저녁 바람 속에 몇 마디의 말만 남겼다."
+            }
+        ]
     },
     "54": {
         "speaker": "치하야 아논",
-        "dialogue": "다음 연습 때 보자——리키——"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "다음 연습 때 보자——리키——"
+            }
+        ]
     },
     "55": {
         "speaker": "",
-        "dialogue": "타키는 돌아서서 아논이 사라진 방향을 바라보며, 다시 흐릿한 색채로 변한 야경을 응시했다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 돌아서서 아논이 사라진 방향을 바라보며, 다시 흐릿한 색채로 변한 야경을 응시했다."
+            }
+        ]
     },
     "56": {
         "speaker": "시이나 타키",
-        "dialogue": "（다음은… 또 언제일까）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（다음은… 또 언제일까）"
+            }
+        ]
     },
     "57": {
         "speaker": "",
-        "dialogue": "비가 거의 그쳤지만, 타키는 여전히 추위를 느꼈다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "비가 거의 그쳤지만, 타키는 여전히 추위를 느꼈다."
+            }
+        ]
     },
     "58": {
         "speaker": "",
-        "dialogue": "의식이 흐려지고, 타키는 혼란 속에서 경계를 찾을 수 없었다. 그녀가 몽롱한 상태에 빠져 있을 때, 오랫동안 꺼져 있던 핸드폰 화면이 갑자기 켜지면서 진동과 함께 특수 알람 소리가 울렸다. 주인을 어둠에서 잠시 깨웠다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "의식이 흐려지고, 타키는 혼란 속에서 경계를 찾을 수 없었다. 그녀가 몽롱한 상태에 빠져 있을 때, 오랫동안 꺼져 있던 핸드폰 화면이 갑자기 켜지면서 진동과 함께 특수 알람 소리가 울렸다. 주인을 어둠에서 잠시 깨웠다."
+            }
+        ]
     },
     "59": {
         "speaker": "",
-        "dialogue": "타키는 핸드폰을 들어 올렸고, 화면에는 동영상 사이트에서 온 알림 페이지가 떠 있었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 핸드폰을 들어 올렸고, 화면에는 동영상 사이트에서 온 알림 페이지가 떠 있었다."
+            }
+        ]
     },
     "60": {
         "speaker": "시청 TIP",
-        "dialogue": "「예약하신 방송입니다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "「예약하신 방송입니다."
+            },
+            {
+                "html": "style='color:#ff8899'",
+                "text": "Anon Tokyo"
+            },
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "的直播即将在三十分钟后开始，请提前做好观看准备。」"
+            }
+        ]
     },
     "61": {
         "speaker": "",
-        "dialogue": "타키는 뒤돌아 가게를 바라보았다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 뒤돌아 가게를 바라보았다."
+            }
+        ]
     },
     "62": {
         "speaker": "",
-        "dialogue": "방금 전까지 사람이 많았던 가게는 이제 몇 개의 빈자리가 있었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "방금 전까지 사람이 많았던 가게는 이제 몇 개의 빈자리가 있었다."
+            }
+        ]
     },
     "63": {
         "speaker": "",
-        "dialogue": "사람들은 점차 임시 피난처를 떠나 집으로 돌아갔다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "사람들은 점차 임시 피난처를 떠나 집으로 돌아갔다."
+            }
+        ]
     },
     "64": {
         "speaker": "시이나 타키",
-        "dialogue": "집에 가자."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "집에 가자."
+            }
+        ]
     }
 }

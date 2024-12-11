@@ -1,226 +1,506 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": "또 새로운 아침이 찾아왔다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "또 새로운 아침이 찾아왔다."
+            }
+        ]
     },
     "1": {
         "speaker": "시이나 타키",
-        "dialogue": "아침이네…"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "아침이네…"
+            }
+        ]
     },
     "2": {
         "speaker": "시이나 타키",
-        "dialogue": "날씨가 정말 좋다……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "날씨가 정말 좋다……"
+            }
+        ]
     },
     "3": {
         "speaker": "시이나 타키",
-        "dialogue": "아, 이 장면에 질릴 것 같아."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "아, 이 장면에 질릴 것 같아."
+            }
+        ]
     },
     "4": {
         "speaker": "",
-        "dialogue": "어젯밤 오랜만에 푹 잤다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "어젯밤 오랜만에 푹 잤다."
+            }
+        ]
     },
     "5": {
         "speaker": "",
-        "dialogue": "타키의 정신이 많이 회복되어, 남은 시간을 효율적으로 분배할 수 있게 되었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키의 정신이 많이 회복되어, 남은 시간을 효율적으로 분배할 수 있게 되었다."
+            }
+        ]
     },
     "6": {
         "speaker": "",
-        "dialogue": "희미한 희망을 안고 욕실로 들어갔지만, 시간은 여전히 정확하게 줄어들고 있었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "희미한 희망을 안고 욕실로 들어갔지만, 시간은 여전히 정확하게 줄어들고 있었다."
+            }
+        ]
     },
     "7": {
         "speaker": "",
-        "dialogue": "만약 신이 인간의 소원을 들어주지 않는다면, 시간은 가장 무정한 신일 것이다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "만약 신이 인간의 소원을 들어주지 않는다면, 시간은 가장 무정한 신일 것이다."
+            }
+        ]
     },
     "8": {
         "speaker": "시이나 타키",
-        "dialogue": "（됐어……원래 이 모든 것이 꿈이라고 생각한 적은 없어.）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（됐어……원래 이 모든 것이 꿈이라고 생각한 적은 없어.）"
+            }
+        ]
     },
     "9": {
         "speaker": "",
-        "dialogue": "세수를 마치고, 그녀는 다음 행동을 고민하기 시작했다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "세수를 마치고, 그녀는 다음 행동을 고민하기 시작했다."
+            }
+        ]
     },
     "10": {
         "speaker": "시이나 타키",
-        "dialogue": "（곡……아직은 아이디어가 없어서, 집에만 박혀 있는 것도 해결책이 아니야……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（곡……아직은 아이디어가 없어서, 집에만 박혀 있는 것도 해결책이 아니야……）"
+            }
+        ]
     },
     "11": {
         "speaker": "시이나 타키",
-        "dialogue": "（어젯밤에 하고 싶은 일을 몇 가지 생각해냈어…… 중요한 일은 아니지만, 그래도……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（어젯밤에 하고 싶은 일을 몇 가지 생각해냈어…… 중요한 일은 아니지만, 그래도……）"
+            }
+        ]
     },
     "12": {
         "speaker": "",
-        "dialogue": "타키는 가슴에 손을 얹었다. 거의 1초에 한 번씩 규칙적으로 뛰는 심장 박동이 느껴졌다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 가슴에 손을 얹었다. 거의 1초에 한 번씩 규칙적으로 뛰는 심장 박동이 느껴졌다."
+            }
+        ]
     },
     "13": {
         "speaker": "",
-        "dialogue": "심장은 이제 자신의 것이 아니라, 머리 위의 숫자와 같은 입장에 있는 또 다른 카운트다운에 불과했다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "심장은 이제 자신의 것이 아니라, 머리 위의 숫자와 같은 입장에 있는 또 다른 카운트다운에 불과했다."
+            }
+        ]
     },
     "14": {
         "speaker": "시이나 타키",
-        "dialogue": "（이 규칙대로라면 심박수가 50회 이하일 때, 사지에 혈액을 공급하기도 힘들어… 그러면 죽은 거나 다름없잖아?）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（이 규칙대로라면 심박수가 50회 이하일 때, 사지에 혈액을 공급하기도 힘들어… 그러면 죽은 거나 다름없잖아?）"
+            }
+        ]
     },
     "15": {
         "speaker": "",
-        "dialogue": "갑자기 핸드폰이 진동했다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "갑자기 핸드폰이 진동했다."
+            }
+        ]
     },
     "16": {
         "speaker": "시이나 타키",
-        "dialogue": "!!!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "!!!"
+            }
+        ]
     },
     "17": {
         "speaker": "",
-        "dialogue": "화면에 오랜만에 보는 발신자의 이름이 표시되었다——"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "화면에 오랜만에 보는 발신자의 이름이 표시되었다——"
+            }
+        ]
     },
     "18": {
         "speaker": "",
-        "dialogue": "시이나 마키."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "시이나 마키."
+            }
+        ]
     },
     "19": {
         "speaker": "시이나 타키",
-        "dialogue": "언니? 왜 이 시간에……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "언니? 왜 이 시간에……"
+            }
+        ]
     },
     "20": {
         "speaker": "",
-        "dialogue": "이 특별한 시간에 언니의 전화를 받은 타키는 마음속 깊은 곳에 말로 표현할 수 없는 신맛을 느꼈다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "이 특별한 시간에 언니의 전화를 받은 타키는 마음속 깊은 곳에 말로 표현할 수 없는 신맛을 느꼈다."
+            }
+        ]
     },
     "21": {
         "speaker": "",
-        "dialogue": "욕실의 반향이 너무 시끄러울까 봐, 그녀는 급히 침실로 뛰어갔다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "욕실의 반향이 너무 시끄러울까 봐, 그녀는 급히 침실로 뛰어갔다."
+            }
+        ]
     },
     "22": {
         "speaker": "",
-        "dialogue": "타키는 몇 번이나 깊게 숨을 들이쉬며, 목소리가 최대한 평온하게 들리도록 신중하게 전화를 받았다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 몇 번이나 깊게 숨을 들이쉬며, 목소리가 최대한 평온하게 들리도록 신중하게 전화를 받았다."
+            }
+        ]
     },
     "23": {
         "speaker": "시이나 타키",
-        "dialogue": "……여보세요? 언니?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……여보세요? 언니?"
+            }
+        ]
     },
     "24": {
         "speaker": "시이나 마키",
-        "dialogue": "타키?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키?"
+            }
+        ]
     },
     "25": {
         "speaker": "시이나 마키",
-        "dialogue": "목소리가 왜 이렇게 낮아, 아픈 거야?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "목소리가 왜 이렇게 낮아, 아픈 거야?"
+            }
+        ]
     },
     "26": {
         "speaker": "시이나 타키",
-        "dialogue": "아니, 아니야, 감기 좀 걸렸어, 이제…괜찮아."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "아니, 아니야, 감기 좀 걸렸어, 이제…괜찮아."
+            }
+        ]
     },
     "27": {
         "speaker": "시이나 타키",
-        "dialogue": "언니……무슨 일 있어?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "언니……무슨 일 있어?"
+            }
+        ]
     },
     "28": {
         "speaker": "시이나 마키",
-        "dialogue": "응, 나 도쿄로 돌아왔어, 지금 막 공항에서 나왔어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "응, 나 도쿄로 돌아왔어, 지금 막 공항에서 나왔어."
+            }
+        ]
     },
     "29": {
         "speaker": "시이나 타키",
-        "dialogue": "지금?? 이렇게 갑자기……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "지금?? 이렇게 갑자기……"
+            }
+        ]
     },
     "30": {
         "speaker": "시이나 마키",
-        "dialogue": "긴급 업무 공지였어, 며칠간 여기 있을 거야, 나중에 부모님께도 말할게."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "긴급 업무 공지였어, 며칠간 여기 있을 거야, 나중에 부모님께도 말할게."
+            }
+        ]
     },
     "31": {
         "speaker": "시이나 타키",
-        "dialogue": "미안해……너를 데리러 가야 했는데."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "미안해……너를 데리러 가야 했는데."
+            }
+        ]
     },
     "32": {
         "speaker": "시이나 마키",
-        "dialogue": "사과할 일 아니야, 이미 긴급 공지라고 했잖아, 게다가 방금 도착하자마자 가야 해."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "사과할 일 아니야, 이미 긴급 공지라고 했잖아, 게다가 방금 도착하자마자 가야 해."
+            }
+        ]
     },
     "33": {
         "speaker": "시이나 타키",
-        "dialogue": "아…고생했어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "아…고생했어."
+            }
+        ]
     },
     "34": {
         "speaker": "시이나 마키",
-        "dialogue": "그러고 보니, 부모님이 너 이사 갔다고 하던데, 적응했어?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그러고 보니, 부모님이 너 이사 갔다고 하던데, 적응했어?"
+            }
+        ]
     },
     "35": {
         "speaker": "시이나 타키",
-        "dialogue": "응……괜찮아."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "응……괜찮아."
+            }
+        ]
     },
     "36": {
         "speaker": "시이나 마키",
-        "dialogue": "언제 시간 돼? 오늘 일 빨리 끝날 것 같은데, 타키가 혼자 사는 곳도 보고 싶어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "언제 시간 돼? 오늘 일 빨리 끝날 것 같은데, 타키가 혼자 사는 곳도 보고 싶어."
+            }
+        ]
     },
     "37": {
         "speaker": "시이나 타키",
-        "dialogue": "나…………"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "나…………"
+            }
+        ]
     },
     "38": {
         "speaker": "시이나 마키",
-        "dialogue": "왜 그래? 불편해?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "왜 그래? 불편해?"
+            }
+        ]
     },
     "39": {
         "speaker": "시이나 타키",
-        "dialogue": "아니……아무것도 아니야, 그냥……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "아니……아무것도 아니야, 그냥……"
+            }
+        ]
     },
     "40": {
         "speaker": "시이나 마키",
-        "dialogue": "응……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "응……"
+            }
+        ]
     },
     "41": {
         "speaker": "시이나 마키",
-        "dialogue": "그럼 이렇게 하자, 시간 될 때 내게 전화해, 맞춰서 만나자."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그럼 이렇게 하자, 시간 될 때 내게 전화해, 맞춰서 만나자."
+            }
+        ]
     },
     "42": {
         "speaker": "시이나 마키",
-        "dialogue": "안 맞아도 괜찮아, 내년 정월에 집에 갈 것 같아."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "안 맞아도 괜찮아, 내년 정월에 집에 갈 것 같아."
+            }
+        ]
     },
     "43": {
         "speaker": "시이나 타키",
-        "dialogue": "……알겠어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……알겠어."
+            }
+        ]
     },
     "44": {
         "speaker": "시이나 마키",
-        "dialogue": "그럼 이만 끊을게."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그럼 이만 끊을게."
+            }
+        ]
     },
     "45": {
         "speaker": "시이나 마키",
-        "dialogue": "나중에 봐."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "나중에 봐."
+            }
+        ]
     },
     "46": {
         "speaker": "시이나 타키",
-        "dialogue": "...응, 안녕."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "...응, 안녕."
+            }
+        ]
     },
     "47": {
         "speaker": "시이나 타키",
-        "dialogue": "........."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "........."
+            }
+        ]
     },
     "48": {
         "speaker": "시이나 타키",
-        "dialogue": "하………………"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "하………………"
+            }
+        ]
     },
     "49": {
         "speaker": "",
-        "dialogue": "오랜만에 언니와 통화해서, 타키는 긴장한 나머지 손바닥에 땀이 났다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "오랜만에 언니와 통화해서, 타키는 긴장한 나머지 손바닥에 땀이 났다."
+            }
+        ]
     },
     "50": {
         "speaker": "",
-        "dialogue": "그러나 이전의 혼란과 불안은 마치 비현실적인 과거가 된 것 같았다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그러나 이전의 혼란과 불안은 마치 비현실적인 과거가 된 것 같았다."
+            }
+        ]
     },
     "51": {
         "speaker": "",
-        "dialogue": "현실에 존재하는, 자신과 혈연관계에 있는 가족과의 짧은 대화가 초현실적인 현상을 몰아내는 마법 같은 힘이 있는 것 같았다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "현실에 존재하는, 자신과 혈연관계에 있는 가족과의 짧은 대화가 초현실적인 현상을 몰아내는 마법 같은 힘이 있는 것 같았다."
+            }
+        ]
     },
     "52": {
         "speaker": "",
-        "dialogue": "어떤 모호한 영감이 다시 머릿속에 떠올랐다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "어떤 모호한 영감이 다시 머릿속에 떠올랐다."
+            }
+        ]
     },
     "53": {
         "speaker": "시이나 타키",
-        "dialogue": "...안 돼, 역시 이렇게 시간을 낭비할 순 없어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "...안 돼, 역시 이렇게 시간을 낭비할 순 없어."
+            }
+        ]
     },
     "54": {
         "speaker": "",
-        "dialogue": "지금의 그녀에게 있어서, 무엇을 할지 고민하는 것도 시간 낭비였다면——"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "지금의 그녀에게 있어서, 무엇을 할지 고민하는 것도 시간 낭비였다면——"
+            }
+        ]
     },
     "55": {
         "speaker": "",
-        "dialogue": "그렇다면 생각나는 대로 바로 행동하는 것이 나을 것이다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그렇다면 생각나는 대로 바로 행동하는 것이 나을 것이다."
+            }
+        ]
     }
 }

@@ -1,154 +1,344 @@
 {
     "0": {
         "speaker": "토가와 사키코",
-        "dialogue": "타키, 너 항상 이렇게 착한 사람이었어?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키, 너 항상 이렇게 착한 사람이었어?"
+            }
+        ]
     },
     "1": {
         "speaker": "시이나 타키",
-        "dialogue": "뭐라고?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "뭐라고?"
+            }
+        ]
     },
     "2": {
         "speaker": "토가와 사키코",
-        "dialogue": "모든 사람한테 그렇게 해?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "모든 사람한테 그렇게 해?"
+            }
+        ]
     },
     "3": {
         "speaker": "",
-        "dialogue": "사키코는 현관 앞에 서 있었고, 타키는 신발을 갈아신고 그녀의 신발끈을 풀어주었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "사키코는 현관 앞에 서 있었고, 타키는 신발을 갈아신고 그녀의 신발끈을 풀어주었다."
+            }
+        ]
     },
     "4": {
         "speaker": "시이나 타키",
-        "dialogue": "토가와 씨, 당신 말 정말 잘하네요?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "토가와 씨, 당신 말 정말 잘하네요?"
+            }
+        ]
     },
     "5": {
         "speaker": "토가와 사키코",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "6": {
         "speaker": "토가와 사키코",
-        "dialogue": "......고마워."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......고마워."
+            }
+        ]
     },
     "7": {
         "speaker": "",
-        "dialogue": "집에 언니가 신었던 슬리퍼 한 켤레밖에 없었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "집에 언니가 신었던 슬리퍼 한 켤레밖에 없었다."
+            }
+        ]
     },
     "8": {
         "speaker": "",
-        "dialogue": "타키는 그것을 사키코 발 앞에 놓고 그녀가 자신의 어깨를 잡고 들어오게 했다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 그것을 사키코 발 앞에 놓고 그녀가 자신의 어깨를 잡고 들어오게 했다."
+            }
+        ]
     },
     "9": {
         "speaker": "",
-        "dialogue": "사키코의 손바닥이 뜨거웠다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "사키코의 손바닥이 뜨거웠다."
+            }
+        ]
     },
     "10": {
         "speaker": "시이나 타키",
-        "dialogue": "……사키코, 너 계속 식은땀 흘리고 있어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……사키코, 너 계속 식은땀 흘리고 있어."
+            }
+        ]
     },
     "11": {
         "speaker": "토가와 사키코",
-        "dialogue": "죽을 때가 가까웠어?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "죽을 때가 가까웠어?"
+            }
+        ]
     },
     "12": {
         "speaker": "시이나 타키",
-        "dialogue": "야, 그런 농담 하지 마."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "야, 그런 농담 하지 마."
+            }
+        ]
     },
     "13": {
         "speaker": "토가와 사키코",
-        "dialogue": "오늘 우리 둘 다 이상해."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "오늘 우리 둘 다 이상해."
+            }
+        ]
     },
     "14": {
         "speaker": "",
-        "dialogue": "사키코는 똑바로 허리를 펴고 현관에서 거실로 걸어갔다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "사키코는 똑바로 허리를 펴고 현관에서 거실로 걸어갔다."
+            }
+        ]
     },
     "15": {
         "speaker": "",
-        "dialogue": "…손이 다쳤을 뿐이야. 하지만 연주하는 직업이라면, 그리 다행이라고도 할 수 없지… 인생은 예측할 수 없어…"
+        "dialogue": [
+            {
+                "html": "style='color:#8b8b8b'",
+                "text": "…손이 다쳤을 뿐이야. 하지만 연주하는 직업이라면, 그리 다행이라고도 할 수 없지… 인생은 예측할 수 없어…"
+            }
+        ]
     },
     "16": {
         "speaker": "시이나 타키",
-        "dialogue": "（그녀는 전혀 신경 쓰지 않는 것 같아。）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（그녀는 전혀 신경 쓰지 않는 것 같아。）"
+            }
+        ]
     },
     "17": {
         "speaker": "시이나 타키",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "18": {
         "speaker": "시이나 타키",
-        "dialogue": "（그녀는 키가 커졌고, 말랐다.）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（그녀는 키가 커졌고, 말랐다.）"
+            }
+        ]
     },
     "19": {
         "speaker": "시이나 타키",
-        "dialogue": "（마지막으로 만난 게 언제였지……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（마지막으로 만난 게 언제였지……）"
+            }
+        ]
     },
     "20": {
         "speaker": "토가와 사키코",
-        "dialogue": "왜 그래?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "왜 그래?"
+            }
+        ]
     },
     "21": {
         "speaker": "토가와 사키코",
-        "dialogue": "아, 여기 악보 있네……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "아, 여기 악보 있네……"
+            }
+        ]
     },
     "22": {
         "speaker": "토가와 사키코",
-        "dialogue": "무슨 문제든 나한테 말해도 돼."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "무슨 문제든 나한테 말해도 돼."
+            }
+        ]
     },
     "23": {
         "speaker": "토가와 사키코",
-        "dialogue": "이 노래를 쓴 사람으로서 내 책임이야."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "이 노래를 쓴 사람으로서 내 책임이야."
+            }
+        ]
     },
     "24": {
         "speaker": "야하타 우미리",
-        "dialogue": "찾지 마, 안 왔어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "찾지 마, 안 왔어."
+            }
+        ]
     },
     "25": {
         "speaker": "시이나 타키",
-        "dialogue": "뭐라고?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "뭐라고?"
+            }
+        ]
     },
     "26": {
         "speaker": "야하타 우미리",
-        "dialogue": "항상 참여하지 않는, 축하연."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "항상 참여하지 않는, 축하연."
+            }
+        ]
     },
     "27": {
         "speaker": "야하타 우미리",
-        "dialogue": "다른 일정을 마치고 와서 계산해."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "다른 일정을 마치고 와서 계산해."
+            }
+        ]
     },
     "28": {
         "speaker": "시이나 타키",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "29": {
         "speaker": "야하타 우미리",
-        "dialogue": "아, 내가 오해했나?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "아, 내가 오해했나?"
+            }
+        ]
     },
     "30": {
         "speaker": "시이나 타키",
-        "dialogue": "네가 오해했어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "네가 오해했어."
+            }
+        ]
     },
     "31": {
         "speaker": "시이나 타키",
-        "dialogue": "（생각하지 않을 때 오히려 만나게 되나?）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（생각하지 않을 때 오히려 만나게 되나?）"
+            }
+        ]
     },
     "32": {
         "speaker": "시이나 타키",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "33": {
         "speaker": "시이나 타키",
-        "dialogue": "사키코, 뭐 마실래?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "사키코, 뭐 마실래?"
+            }
+        ]
     },
     "34": {
         "speaker": "시이나 타키",
-        "dialogue": "커피? 아니면 차?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "커피? 아니면 차?"
+            }
+        ]
     },
     "35": {
         "speaker": "",
-        "dialogue": "토가와 사키코의 대답은 방 안 깊숙이서 들렸다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "토가와 사키코의 대답은 방 안 깊숙이서 들렸다."
+            }
+        ]
     },
     "36": {
         "speaker": "",
-        "dialogue": "부엌 앞의 전신 거울을 지나며, 타키는 거울 속의 자신을 보았다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "부엌 앞의 전신 거울을 지나며, 타키는 거울 속의 자신을 보았다."
+            }
+        ]
     },
     "37": {
         "speaker": "",
-        "dialogue": "차가운 카운트다운이 반짝이고 있었다."
+        "dialogue": [
+            {
+                "html": "style='color:#ffffff'",
+                "text": "차가운 카운트다운이 반짝이고 있었다."
+            }
+        ]
     }
 }

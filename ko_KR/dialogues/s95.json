@@ -1,130 +1,290 @@
 {
     "0": {
         "speaker": "시이나 타키",
-        "dialogue": "하, 하……하……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "하, 하……하……"
+            }
+        ]
     },
     "1": {
         "speaker": "",
-        "dialogue": "두드림, 두드림, 두드림."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "두드림, 두드림, 두드림."
+            }
+        ]
     },
     "2": {
         "speaker": "",
-        "dialogue": "광란의 드럼 소리가 방 안을 휘몰아쳤다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "광란의 드럼 소리가 방 안을 휘몰아쳤다."
+            }
+        ]
     },
     "3": {
         "speaker": "",
-        "dialogue": "심벌즈, 톰톰, 스네어 드럼, 베이스 드럼, 원래 질서 있는 파트들이 모두 무질서하게 튀어나와, 곧바로 주변의 방음판에 의해 포착되어 흡수되었다. 마치 강력한 펀치가 부드럽고 뼈 없는 것에 맞는 것처럼, 모든 분노와 폭력은 결국 헛된 것이었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "심벌즈, 톰톰, 스네어 드럼, 베이스 드럼, 원래 질서 있는 파트들이 모두 무질서하게 튀어나와, 곧바로 주변의 방음판에 의해 포착되어 흡수되었다. 마치 강력한 펀치가 부드럽고 뼈 없는 것에 맞는 것처럼, 모든 분노와 폭력은 결국 헛된 것이었다."
+            }
+        ]
     },
     "4": {
         "speaker": "",
-        "dialogue": "——드럼 스틱은 손목과 팔뚝의 힘으로 제어해야 한다. 어떤 음악 학원의 드럼 선생님이 학생들에게 이렇게 가르쳤다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "——드럼 스틱은 손목과 팔뚝의 힘으로 제어해야 한다. 어떤 음악 학원의 드럼 선생님이 학생들에게 이렇게 가르쳤다."
+            }
+        ]
     },
     "5": {
         "speaker": "",
-        "dialogue": "하지만 지금의 선생님은 온몸의 모든 근육을 사용해 이 견고한 음악 요새를 공격하려고 하고 있다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "하지만 지금의 선생님은 온몸의 모든 근육을 사용해 이 견고한 음악 요새를 공격하려고 하고 있다."
+            }
+        ]
     },
     "6": {
         "speaker": "",
-        "dialogue": "비록 어둠 속에서도, 타키는 자신의 두 눈이 어지러움을 느끼고 있음을 알 수 있었다. 그녀의 귀는 자신의 숨소리를 들을 수 없을 정도로 윙윙거렸고, 격렬하게 수축하는 폐와 차가운 공기에 긁힌 목구멍의 통증도 그녀의 평온한 심장 박동이 뼈를 통해 전달되는 것을 막을 수 없었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "비록 어둠 속에서도, 타키는 자신의 두 눈이 어지러움을 느끼고 있음을 알 수 있었다. 그녀의 귀는 자신의 숨소리를 들을 수 없을 정도로 윙윙거렸고, 격렬하게 수축하는 폐와 차가운 공기에 긁힌 목구멍의 통증도 그녀의 평온한 심장 박동이 뼈를 통해 전달되는 것을 막을 수 없었다."
+            }
+        ]
     },
     "7": {
         "speaker": "",
-        "dialogue": "90"
+        "dialogue": [
+            {
+                "html": "style='color:#ff0000'",
+                "text": "90"
+            }
+        ]
     },
     "8": {
         "speaker": "",
-        "dialogue": "왜, 왜, 왜."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "왜, 왜, 왜."
+            }
+        ]
     },
     "9": {
         "speaker": "",
-        "dialogue": "현재의 심박수로는 이렇게 큰 운동량을 지탱할 수 없지만, 그녀의 심장은 다른 차원에 갇힌 것처럼, 그녀가 아무리 히스테리적으로 자신을 소모해도, 심장은 한쪽에서 냉정하게, 일정한 속도로 뛰고 있었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "현재의 심박수로는 이렇게 큰 운동량을 지탱할 수 없지만, 그녀의 심장은 다른 차원에 갇힌 것처럼, 그녀가 아무리 히스테리적으로 자신을 소모해도, 심장은 한쪽에서 냉정하게, 일정한 속도로 뛰고 있었다."
+            }
+        ]
     },
     "10": {
         "speaker": "",
-        "dialogue": "마치 그녀의 헛된 노력을 비웃는 것처럼."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "마치 그녀의 헛된 노력을 비웃는 것처럼."
+            }
+        ]
     },
     "11": {
         "speaker": "시이나 타키",
-        "dialogue": "하, 하, 하아아아아아——!!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "하, 하, 하아아아아아——!!"
+            }
+        ]
     },
     "12": {
         "speaker": "",
-        "dialogue": "밀폐된 드럼 소리 속에서, 가벼운 딸깍 소리는 전혀 들리지 않았다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "밀폐된 드럼 소리 속에서, 가벼운 딸깍 소리는 전혀 들리지 않았다."
+            }
+        ]
     },
     "13": {
         "speaker": "",
-        "dialogue": "드럼 스틱이 부러졌다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "드럼 스틱이 부러졌다."
+            }
+        ]
     },
     "14": {
         "speaker": "",
-        "dialogue": "두 번째."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "두 번째."
+            }
+        ]
     },
     "15": {
         "speaker": "",
-        "dialogue": "세 번째."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "세 번째."
+            }
+        ]
     },
     "16": {
         "speaker": "",
-        "dialogue": "........."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "........."
+            }
+        ]
     },
     "17": {
         "speaker": "",
-        "dialogue": "네 번째가 부러졌을 때, 타키의 손은 완전히 들리지 않았다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "네 번째가 부러졌을 때, 타키의 손은 완전히 들리지 않았다."
+            }
+        ]
     },
     "18": {
         "speaker": "",
-        "dialogue": "피가 그녀가 얼마 전에 교체한 드럼 표면에 떨어졌다. 하나, 둘, 셋, 마치 눈물을 흘리는 얼굴처럼."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "피가 그녀가 얼마 전에 교체한 드럼 표면에 떨어졌다. 하나, 둘, 셋, 마치 눈물을 흘리는 얼굴처럼."
+            }
+        ]
     },
     "19": {
         "speaker": "",
-        "dialogue": "——소용없어."
+        "dialogue": [
+            {
+                "html": "style='color:#ff0000'",
+                "text": "——소용없어."
+            }
+        ]
     },
     "20": {
         "speaker": "",
-        "dialogue": "그 얼굴이 그녀에게 말했다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그 얼굴이 그녀에게 말했다."
+            }
+        ]
     },
     "21": {
         "speaker": "시이나 타키",
-        "dialogue": "————!!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "————!!"
+            }
+        ]
     },
     "22": {
         "speaker": "",
-        "dialogue": "피 묻은 주먹이 순간 드럼 표면을 뚫고 내부로 들어갔다. 내부는 매우 어둡고 차가웠으며, 아무것도 없었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "피 묻은 주먹이 순간 드럼 표면을 뚫고 내부로 들어갔다. 내부는 매우 어둡고 차가웠으며, 아무것도 없었다."
+            }
+        ]
     },
     "23": {
         "speaker": "",
-        "dialogue": "——너도 소용없다는 걸 알고 있잖아."
+        "dialogue": [
+            {
+                "html": "style='color:#ff0000'",
+                "text": "——너도 소용없다는 걸 알고 있잖아."
+            }
+        ]
     },
     "24": {
         "speaker": "",
-        "dialogue": "——너는 이미 이렇게 하고 싶었잖아?"
+        "dialogue": [
+            {
+                "html": "style='color:#ff0000'",
+                "text": "——너는 이미 이렇게 하고 싶었잖아?"
+            }
+        ]
     },
     "25": {
         "speaker": "",
-        "dialogue": "타키는 바닥에 주저앉았다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 바닥에 주저앉았다."
+            }
+        ]
     },
     "26": {
         "speaker": "",
-        "dialogue": "그리고 부서진 드럼 아래로 몸을 웅크렸다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그리고 부서진 드럼 아래로 몸을 웅크렸다."
+            }
+        ]
     },
     "27": {
         "speaker": "",
-        "dialogue": "드럼 방은 매우 넓었고, 드럼이 구석에 놓여 있어 텅 비어 보였다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "드럼 방은 매우 넓었고, 드럼이 구석에 놓여 있어 텅 비어 보였다."
+            }
+        ]
     },
     "28": {
         "speaker": "",
-        "dialogue": "그것은 전체 밴드를 수용할 수 있을 만큼 충분히 컸다——네 개의 마이크 스탠드, 두 개의 스피커, 세 개의 이펙터 슬롯, 아마도 악보 스탠드도 충분히 들어갈 수 있었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그것은 전체 밴드를 수용할 수 있을 만큼 충분히 컸다——네 개의 마이크 스탠드, 두 개의 스피커, 세 개의 이펙터 슬롯, 아마도 악보 스탠드도 충분히 들어갈 수 있었다."
+            }
+        ]
     },
     "29": {
         "speaker": "",
-        "dialogue": "하지만 지금은 드럼만 있었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "하지만 지금은 드럼만 있었다."
+            }
+        ]
     },
     "30": {
         "speaker": "",
-        "dialogue": "그리고 그 아래에 웅크리고 있는, 피로와 배고픔, 추위와 절망에 짓눌린 드러머."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그리고 그 아래에 웅크리고 있는, 피로와 배고픔, 추위와 절망에 짓눌린 드러머."
+            }
+        ]
     },
     "31": {
         "speaker": "시이나 타키",
-        "dialogue": "정말……최악이야."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "정말……최악이야."
+            }
+        ]
     }
 }

@@ -1,442 +1,992 @@
 {
     "0": {
         "speaker": "시이나 타키",
-        "dialogue": "（대체할 수 없는, 마음을 울리는 힘……노래에서 어떻게 구현해야 하지?）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（대체할 수 없는, 마음을 울리는 힘……노래에서 어떻게 구현해야 하지?）"
+            }
+        ]
     },
     "1": {
         "speaker": "시이나 타키",
-        "dialogue": "（잠시 감정에 의해 얕게 자극하는 것으로는 불가능해, 내가 필요한 건 진정한 힘——이전의 낙담에 익숙했던 나는 이 힘을 기를 수 없었어.）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（잠시 감정에 의해 얕게 자극하는 것으로는 불가능해, 내가 필요한 건 진정한 힘——이전의 낙담에 익숙했던 나는 이 힘을 기를 수 없었어.）"
+            }
+        ]
     },
     "2": {
         "speaker": "시이나 타키",
-        "dialogue": "（진정한……힘인가.）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（진정한……힘인가.）"
+            }
+        ]
     },
     "3": {
         "speaker": "시이나 타키",
-        "dialogue": "（세상을 더 세심히 관찰? 사랑으로 가득 찬 시선? 평범한 세상에서 다른 아름다움을 발견——전에 본 교훈들이 그렇게 말했지, 효과가 있을까?）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（세상을 더 세심히 관찰? 사랑으로 가득 찬 시선? 평범한 세상에서 다른 아름다움을 발견——전에 본 교훈들이 그렇게 말했지, 효과가 있을까?）"
+            }
+        ]
     },
     "4": {
         "speaker": "시이나 타키",
-        "dialogue": "（지푸라기라도 잡는 심정으로 해보자.）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（지푸라기라도 잡는 심정으로 해보자.）"
+            }
+        ]
     },
     "5": {
         "speaker": "시이나 타키",
-        "dialogue": "（하늘이 아직 어두워지지 않아서, 별이 보이지 않네…）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（하늘이 아직 어두워지지 않아서, 별이 보이지 않네…）"
+            }
+        ]
     },
     "6": {
         "speaker": "시이나 타키",
-        "dialogue": "（가로등은 이미 켜졌으니, 불빛을 볼까? 나쁘지 않네.）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（가로등은 이미 켜졌으니, 불빛을 볼까? 나쁘지 않네.）"
+            }
+        ]
     },
     "7": {
         "speaker": "시이나 타키",
-        "dialogue": "（건물을 볼까? 저 가게 간판은 페인트가 벗겨졌네. 저 카페는 카펫을 깔았고, 고양이 퍼즐이네. 팬더는 아니네……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（건물을 볼까? 저 가게 간판은 페인트가 벗겨졌네. 저 카페는 카펫을 깔았고, 고양이 퍼즐이네. 팬더는 아니네……）"
+            }
+        ]
     },
     "8": {
         "speaker": "시이나 타키",
-        "dialogue": "（……팬더가 아니라도 좋아, 밟히지 않을 테니까.）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（……팬더가 아니라도 좋아, 밟히지 않을 테니까.）"
+            }
+        ]
     },
     "9": {
         "speaker": "시이나 타키",
-        "dialogue": "（…………）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（…………）"
+            }
+        ]
     },
     "10": {
         "speaker": "시이나 타키",
-        "dialogue": "（이런 짓은 역시 소용없겠지.）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（이런 짓은 역시 소용없겠지.）"
+            }
+        ]
     },
     "11": {
         "speaker": "시이나 타키",
-        "dialogue": "어?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "어?"
+            }
+        ]
     },
     "12": {
         "speaker": "",
-        "dialogue": "골목 그림자 속에서 검은 고양이가 튀어나왔다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "골목 그림자 속에서 검은 고양이가 튀어나왔다."
+            }
+        ]
     },
     "13": {
         "speaker": "시이나 타키",
-        "dialogue": "（아, 검은 고양이. 그 보라색 눈, 틀림없어!）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（아, 검은 고양이. 그 보라색 눈, 틀림없어!）"
+            }
+        ]
     },
     "14": {
         "speaker": "시이나 타키",
-        "dialogue": "（도대체 무슨 일이야……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（도대체 무슨 일이야……）"
+            }
+        ]
     },
     "15": {
         "speaker": "고양이",
-        "dialogue": "……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……"
+            }
+        ]
     },
     "16": {
         "speaker": "",
-        "dialogue": "검은 고양이는 타키를 한 번 보고, 돌아서서 골목으로 돌아갔다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "검은 고양이는 타키를 한 번 보고, 돌아서서 골목으로 돌아갔다."
+            }
+        ]
     },
     "17": {
         "speaker": "시이나 타키",
-        "dialogue": "야!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "야!"
+            }
+        ]
     },
     "18": {
         "speaker": "",
-        "dialogue": "타키가 뛰어갔을 때, 검은 고양이는 이미 사라졌다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키가 뛰어갔을 때, 검은 고양이는 이미 사라졌다."
+            }
+        ]
     },
     "19": {
         "speaker": "시이나 타키",
-        "dialogue": "어디로 갔지……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "어디로 갔지……"
+            }
+        ]
     },
     "20": {
         "speaker": "시이나 타키",
-        "dialogue": "（그 녀석이 설마……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（그 녀석이 설마……）"
+            }
+        ]
     },
     "21": {
         "speaker": "",
-        "dialogue": "이때, 검은 그림자가 바람을 타고 다가왔다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "이때, 검은 그림자가 바람을 타고 다가왔다."
+            }
+        ]
     },
     "22": {
         "speaker": "시이나 타키",
-        "dialogue": "！！？？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "！！？？"
+            }
+        ]
     },
     "23": {
         "speaker": "",
-        "dialogue": "놀란 타키는 여러 발자국 뒤로 물러섰다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "놀란 타키는 여러 발자국 뒤로 물러섰다."
+            }
+        ]
     },
     "24": {
         "speaker": "",
-        "dialogue": "엔진 소리가 급격히 최고조에 이르러 타키의 고막을 찢었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "엔진 소리가 급격히 최고조에 이르러 타키의 고막을 찢었다."
+            }
+        ]
     },
     "25": {
         "speaker": "시이나 타키",
-        "dialogue": "치일 것 같아!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "치일 것 같아!"
+            }
+        ]
     },
     "26": {
         "speaker": "시이나 타키",
-        "dialogue": "（카운트다운 끝나기 전에도 죽을 수 있는 거야?!）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（카운트다운 끝나기 전에도 죽을 수 있는 거야?!）"
+            }
+        ]
     },
     "27": {
         "speaker": "시이나 타키",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "28": {
         "speaker": "시이나 타키",
-        "dialogue": "........."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "........."
+            }
+        ]
     },
     "29": {
         "speaker": "시이나 타키",
-        "dialogue": "............"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "............"
+            }
+        ]
     },
     "30": {
         "speaker": "",
-        "dialogue": "예상했던 충돌은 일어나지 않았다. 방금 얼굴을 때리던 강풍과 소리가 모두 사라졌다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "예상했던 충돌은 일어나지 않았다. 방금 얼굴을 때리던 강풍과 소리가 모두 사라졌다."
+            }
+        ]
     },
     "31": {
         "speaker": "",
-        "dialogue": "타키는 자신이 아직 살아 있음을 확인하며 가슴이 두근거리는 것을 느꼈다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 자신이 아직 살아 있음을 확인하며 가슴이 두근거리는 것을 느꼈다."
+            }
+        ]
     },
     "32": {
         "speaker": "",
-        "dialogue": "곧 그녀는 최근 경험과 골목에서 난폭하게 달리는 폭주족 때문에 엄청난 분노를 느꼈다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "곧 그녀는 최근 경험과 골목에서 난폭하게 달리는 폭주족 때문에 엄청난 분노를 느꼈다."
+            }
+        ]
     },
     "33": {
         "speaker": "시이나 타키",
-        "dialogue": "누가 이렇게……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "누가 이렇게……"
+            }
+        ]
     },
     "34": {
         "speaker": "시이나 타키",
-        "dialogue": "……우미리?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……우미리?"
+            }
+        ]
     },
     "35": {
         "speaker": "야하타 우미리",
-        "dialogue": "타키, 여기서 뭐해?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키, 여기서 뭐해?"
+            }
+        ]
     },
     "36": {
         "speaker": "야하타 우미리",
-        "dialogue": "너 괜찮아?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "너 괜찮아?"
+            }
+        ]
     },
     "37": {
         "speaker": "시이나 타키",
-        "dialogue": "난 괜찮아."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "난 괜찮아."
+            }
+        ]
     },
     "38": {
         "speaker": "시이나 타키",
-        "dialogue": "（……역시, 카운트다운이 끝나기 전에는 죽지 않겠지.）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（……역시, 카운트다운이 끝나기 전에는 죽지 않겠지.）"
+            }
+        ]
     },
     "39": {
         "speaker": "시이나 타키",
-        "dialogue": "（……다른 사람이 이렇게 운전하면 정말 욕을 퍼부었을 거야.）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（……다른 사람이 이렇게 운전하면 정말 욕을 퍼부었을 거야.）"
+            }
+        ]
     },
     "40": {
         "speaker": "시이나 타키",
-        "dialogue": "너 이렇게 운전하는 거 위험한 거 알아?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "너 이렇게 운전하는 거 위험한 거 알아?"
+            }
+        ]
     },
     "41": {
         "speaker": "야하타 우미리",
-        "dialogue": "미안해."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "미안해."
+            }
+        ]
     },
     "42": {
         "speaker": "야하타 우미리",
-        "dialogue": "보니까 아직도 멀쩡한 걸 보니 괜찮은 것 같네."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "보니까 아직도 멀쩡한 걸 보니 괜찮은 것 같네."
+            }
+        ]
     },
     "43": {
         "speaker": "",
-        "dialogue": "우미리은 선글라스를 올려 평온한 호수 같은 녹색 눈을 드러냈다. 그녀는 검은 가죽 재킷, 카키색 크롭탑, 검은색 무릎이 드러나는 청바지를 입고 있었고, 목에는 순수한 검은색 삼각 스카프를 두르고 있었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "우미리은 선글라스를 올려 평온한 호수 같은 녹색 눈을 드러냈다. 그녀는 검은 가죽 재킷, 카키색 크롭탑, 검은색 무릎이 드러나는 청바지를 입고 있었고, 목에는 순수한 검은색 삼각 스카프를 두르고 있었다."
+            }
+        ]
     },
     "44": {
         "speaker": "",
-        "dialogue": "타키의 인상에 우미리은 그렇게 크지 않았지만, 그녀는 좌석 높이 795mm, 무게 168kg의 CFMOTO 450SR 대형 오토바이를 조종하는 데 전혀 어색함이 없었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키의 인상에 우미리은 그렇게 크지 않았지만, 그녀는 좌석 높이 795mm, 무게 168kg의 CFMOTO 450SR 대형 오토바이를 조종하는 데 전혀 어색함이 없었다."
+            }
+        ]
     },
     "45": {
         "speaker": "",
-        "dialogue": "사실 우미리은 한 발로 땅을 지탱하기 위해 좌석 중앙에서 많이 비스듬히 나갔다. 그러나 그녀의 기질은 사람들에게 모든 것이 통제되고 있다는 여유를 주었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "사실 우미리은 한 발로 땅을 지탱하기 위해 좌석 중앙에서 많이 비스듬히 나갔다. 그러나 그녀의 기질은 사람들에게 모든 것이 통제되고 있다는 여유를 주었다."
+            }
+        ]
     },
     "46": {
         "speaker": "시이나 타키",
-        "dialogue": "（이 녀석은 전혀 반성할 생각이 없구나. 불량아야.）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（이 녀석은 전혀 반성할 생각이 없구나. 불량아야.）"
+            }
+        ]
     },
     "47": {
         "speaker": "시이나 타키",
-        "dialogue": "（사회에 나가서 음악인들과 어울리면서 나빠진 거겠지.）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（사회에 나가서 음악인들과 어울리면서 나빠진 거겠지.）"
+            }
+        ]
     },
     "48": {
         "speaker": "시이나 타키",
-        "dialogue": "거의 문제가 생길 뻔했어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "거의 문제가 생길 뻔했어."
+            }
+        ]
     },
     "49": {
         "speaker": "시이나 타키",
-        "dialogue": "너 이렇게 난폭하게 운전하면 언젠가 정말로 사람을 칠 텐데!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "너 이렇게 난폭하게 운전하면 언젠가 정말로 사람을 칠 텐데!"
+            }
+        ]
     },
     "50": {
         "speaker": "야하타 우미리",
-        "dialogue": "교차로에 가까워지면 속도를 줄여. 방금도 헤드라이트를 깜빡여 차가 있다는 신호를 보냈어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "교차로에 가까워지면 속도를 줄여. 방금도 헤드라이트를 깜빡여 차가 있다는 신호를 보냈어."
+            }
+        ]
     },
     "51": {
         "speaker": "야하타 우미리",
-        "dialogue": "다른 사람들은 일반적으로 그 신호를 알아차려."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "다른 사람들은 일반적으로 그 신호를 알아차려."
+            }
+        ]
     },
     "52": {
         "speaker": "시이나 타키",
-        "dialogue": "…………"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "…………"
+            }
+        ]
     },
     "53": {
         "speaker": "시이나 타키",
-        "dialogue": "……방금 헤드라이트 깜빡였다고?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……방금 헤드라이트 깜빡였다고?"
+            }
+        ]
     },
     "54": {
         "speaker": "시이나 타키",
-        "dialogue": "（난 왜 못 봤지.）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（난 왜 못 봤지.）"
+            }
+        ]
     },
     "55": {
         "speaker": "야하타 우미리",
-        "dialogue": "응."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "응."
+            }
+        ]
     },
     "56": {
         "speaker": "시이나 타키",
-        "dialogue": "…………"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "…………"
+            }
+        ]
     },
     "57": {
         "speaker": "시이나 타키",
-        "dialogue": "（고양이만 신경 쓴 건가?）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（고양이만 신경 쓴 건가?）"
+            }
+        ]
     },
     "58": {
         "speaker": "시이나 타키",
-        "dialogue": "（……맞다, 고양이. 오토바이 엔진 소리가 이렇게 큰데, 검은 고양이도 우미리 때문에 놀라서 도망갔어야 하는데. 이 거리에서……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（……맞다, 고양이. 오토바이 엔진 소리가 이렇게 큰데, 검은 고양이도 우미리 때문에 놀라서 도망갔어야 하는데. 이 거리에서……）"
+            }
+        ]
     },
     "59": {
         "speaker": "시이나 타키",
-        "dialogue": "（하지만 내가 들어가기 전에 빛은커녕 오토바이 엔진 소리도 들리지 않았어……이상하네.）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（하지만 내가 들어가기 전에 빛은커녕 오토바이 엔진 소리도 들리지 않았어……이상하네.）"
+            }
+        ]
     },
     "60": {
         "speaker": "시이나 타키",
-        "dialogue": "우미리, 검은 고양이 본 적 있어?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "우미리, 검은 고양이 본 적 있어?"
+            }
+        ]
     },
     "61": {
         "speaker": "야하타 우미리",
-        "dialogue": "검은 고양이? 본 적 없어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "검은 고양이? 본 적 없어."
+            }
+        ]
     },
     "62": {
         "speaker": "시이나 타키",
-        "dialogue": "……본 적 없어?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……본 적 없어?"
+            }
+        ]
     },
     "63": {
         "speaker": "시이나 타키",
-        "dialogue": "（우미리은 분명히 봤어야 했어, 방금 그 고양이가 이 골목으로 들어갔으니까.）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（우미리은 분명히 봤어야 했어, 방금 그 고양이가 이 골목으로 들어갔으니까.）"
+            }
+        ]
     },
     "64": {
         "speaker": "야하타 우미리",
-        "dialogue": "왜 그래?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "왜 그래?"
+            }
+        ]
     },
     "65": {
         "speaker": "시이나 타키",
-        "dialogue": "방금 그 고양이가 이 골목으로 뛰어들어갔어, 불과 몇 초 전에."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "방금 그 고양이가 이 골목으로 뛰어들어갔어, 불과 몇 초 전에."
+            }
+        ]
     },
     "66": {
         "speaker": "야하타 우미리",
-        "dialogue": "그래서 네가 검은 고양이를 쫓아가느라 내 헤드라이트 깜빡임과 엔진 소리를 무시한 거야?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그래서 네가 검은 고양이를 쫓아가느라 내 헤드라이트 깜빡임과 엔진 소리를 무시한 거야?"
+            }
+        ]
     },
     "67": {
         "speaker": "야하타 우미리",
-        "dialogue": "난 네가 팬더만 좋아하는 줄 알았는데. 고양이도 괜찮아?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "난 네가 팬더만 좋아하는 줄 알았는데. 고양이도 괜찮아?"
+            }
+        ]
     },
     "68": {
         "speaker": "시이나 타키",
-        "dialogue": "뭐?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "뭐?"
+            }
+        ]
     },
     "69": {
         "speaker": "시이나 타키",
-        "dialogue": "그건 그거고 이건 이거지!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그건 그거고 이건 이거지!"
+            }
+        ]
     },
     "70": {
         "speaker": "시이나 타키",
-        "dialogue": "난 그냥 네가 검은 고양이를 본 적 있는지 물어봤을 뿐이야!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "난 그냥 네가 검은 고양이를 본 적 있는지 물어봤을 뿐이야!"
+            }
+        ]
     },
     "71": {
         "speaker": "야하타 우미리",
-        "dialogue": "본 적 없어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "본 적 없어."
+            }
+        ]
     },
     "72": {
         "speaker": "야하타 우미리",
-        "dialogue": "그 검은 고양이가 그렇게 중요해? 그렇게 신경 쓰는 이유가."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그 검은 고양이가 그렇게 중요해? 그렇게 신경 쓰는 이유가."
+            }
+        ]
     },
     "73": {
         "speaker": "시이나 타키",
-        "dialogue": "（말을 많이 하면 일이 복잡해질 것 같아.）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（말을 많이 하면 일이 복잡해질 것 같아.）"
+            }
+        ]
     },
     "74": {
         "speaker": "시이나 타키",
-        "dialogue": "……아무것도 아니야, 잊어버려."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……아무것도 아니야, 잊어버려."
+            }
+        ]
     },
     "75": {
         "speaker": "시이나 타키",
-        "dialogue": "그런데, 여기 왜 왔어?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그런데, 여기 왜 왔어?"
+            }
+        ]
     },
     "76": {
         "speaker": "시이나 타키",
-        "dialogue": "네가 특별히 우리 집 근처로 올 일이 있는지 기억나지 않아."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "네가 특별히 우리 집 근처로 올 일이 있는지 기억나지 않아."
+            }
+        ]
     },
     "77": {
         "speaker": "시이나 타키",
-        "dialogue": "（여전히 이상해……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（여전히 이상해……）"
+            }
+        ]
     },
     "78": {
         "speaker": "시이나 타키",
-        "dialogue": "（검은 고양이가 방금 들어갔는데, 우미리이 나타났어, 고양이가 우미리으로 변한 것 같아. 털도 검은색이네.）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（검은 고양이가 방금 들어갔는데, 우미리이 나타났어, 고양이가 우미리으로 변한 것 같아. 털도 검은색이네.）"
+            }
+        ]
     },
     "79": {
         "speaker": "야하타 우미리",
-        "dialogue": "……？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……？"
+            }
+        ]
     },
     "80": {
         "speaker": "야하타 우미리",
-        "dialogue": "타키, 네 눈빛이 이상해."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키, 네 눈빛이 이상해."
+            }
+        ]
     },
     "81": {
         "speaker": "시이나 타키",
-        "dialogue": "？"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "？"
+            }
+        ]
     },
     "82": {
         "speaker": "시이나 타키",
-        "dialogue": "그래? 착각이겠지."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그래? 착각이겠지."
+            }
+        ]
     },
     "83": {
         "speaker": "시이나 타키",
-        "dialogue": "（여전히 예리하네.）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（여전히 예리하네.）"
+            }
+        ]
     },
     "84": {
         "speaker": "시이나 타키",
-        "dialogue": "（예리한 점도 특히 고양이 같아.）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（예리한 점도 특히 고양이 같아.）"
+            }
+        ]
     },
     "85": {
         "speaker": "야하타 우미리",
-        "dialogue": "……착각이라고 해."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……착각이라고 해."
+            }
+        ]
     },
     "86": {
         "speaker": "야하타 우미리",
-        "dialogue": "별일 아니야, 그냥 우리가 자주 가던 근처 이자카야에서 밥 먹으려고."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "별일 아니야, 그냥 우리가 자주 가던 근처 이자카야에서 밥 먹으려고."
+            }
+        ]
     },
     "87": {
         "speaker": "시이나 타키",
-        "dialogue": "나도 그 집에 가보려고 했어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "나도 그 집에 가보려고 했어."
+            }
+        ]
     },
     "88": {
         "speaker": "시이나 타키",
-        "dialogue": "하지만 며칠 전에 주인 할아버지가 병에 걸려서 문을 닫았으니까, 열지 않을 준비도 해야 해."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "하지만 며칠 전에 주인 할아버지가 병에 걸려서 문을 닫았으니까, 열지 않을 준비도 해야 해."
+            }
+        ]
     },
     "89": {
         "speaker": "야하타 우미리",
-        "dialogue": "……평소에 술을 너무 많이 마셨어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……평소에 술을 너무 많이 마셨어."
+            }
+        ]
     },
     "90": {
         "speaker": "야하타 우미리",
-        "dialogue": "같이 갈래?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "같이 갈래?"
+            }
+        ]
     },
     "91": {
         "speaker": "",
-        "dialogue": "우미리은 오토바이 앞 훅에서 헬멧을 내려 타키에게 건넸다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "우미리은 오토바이 앞 훅에서 헬멧을 내려 타키에게 건넸다."
+            }
+        ]
     },
     "92": {
         "speaker": "",
-        "dialogue": "타키는 헬멧을 받고 썼다. 그녀는 마지막으로 텅 빈 골목을 힐끗 보았다——검은 고양이는 없고, 외벽에 튀어나온 에어컨 실외기 선반만 있었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 헬멧을 받고 썼다. 그녀는 마지막으로 텅 빈 골목을 힐끗 보았다——검은 고양이는 없고, 외벽에 튀어나온 에어컨 실외기 선반만 있었다."
+            }
+        ]
     },
     "93": {
         "speaker": "",
-        "dialogue": "우미리은 앞으로 앉아 타키에게 충분한 공간을 남겨주었다. 타키는 우미리의 어깨를 잡고 힘을 빌려 가볍게 올라탔다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "우미리은 앞으로 앉아 타키에게 충분한 공간을 남겨주었다. 타키는 우미리의 어깨를 잡고 힘을 빌려 가볍게 올라탔다."
+            }
+        ]
     },
     "94": {
         "speaker": "",
-        "dialogue": "그녀는 잠시 망설이다가 한 손을 우미리의 어깨에 얹고, 다른 손으로는 바닥 옆을 지탱했다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그녀는 잠시 망설이다가 한 손을 우미리의 어깨에 얹고, 다른 손으로는 바닥 옆을 지탱했다."
+            }
+        ]
     },
     "95": {
         "speaker": "시이나 타키",
-        "dialogue": "（자세가 어색해……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（자세가 어색해……）"
+            }
+        ]
     },
     "96": {
         "speaker": "시이나 타키",
-        "dialogue": "（우미리 이 녀석은 언제까지 크롭탑을 입을 거야.）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（우미리 이 녀석은 언제까지 크롭탑을 입을 거야.）"
+            }
+        ]
     },
     "97": {
         "speaker": "시이나 타키",
-        "dialogue": "（……하지만 난 그날을 보지 못하겠지.）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（……하지만 난 그날을 보지 못하겠지.）"
+            }
+        ]
     },
     "98": {
         "speaker": "시이나 타키",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "99": {
         "speaker": "야하타 우미리",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "100": {
         "speaker": "야하타 우미리",
-        "dialogue": "꽉 잡지 않으면 위험해."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "꽉 잡지 않으면 위험해."
+            }
+        ]
     },
     "101": {
         "speaker": "시이나 타키",
-        "dialogue": "날 말하지 마, 네 헬멧은?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "날 말하지 마, 네 헬멧은?"
+            }
+        ]
     },
     "102": {
         "speaker": "야하타 우미리",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "103": {
         "speaker": "야하타 우미리",
-        "dialogue": "오늘은 사람을 태울 예정이 없어서 헬멧을 하나만 가져왔어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "오늘은 사람을 태울 예정이 없어서 헬멧을 하나만 가져왔어."
+            }
+        ]
     },
     "104": {
         "speaker": "시이나 타키",
-        "dialogue": "하지만 아까 너도 헬멧 안 썼잖아."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "하지만 아까 너도 헬멧 안 썼잖아."
+            }
+        ]
     },
     "105": {
         "speaker": "야하타 우미리",
-        "dialogue": "경찰을 보면 쓸 거야."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "경찰을 보면 쓸 거야."
+            }
+        ]
     },
     "106": {
         "speaker": "시이나 타키",
-        "dialogue": "그건 안전 문——"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그건 안전 문——"
+            }
+        ]
     },
     "107": {
         "speaker": "",
-        "dialogue": "갑자기 엔진 소리가 울리며, 가속 페달을 세게 밟아 갑작스러운 속도에 타키는 반사적으로 우미리의 허리를 꽉 끌어안았다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "갑자기 엔진 소리가 울리며, 가속 페달을 세게 밟아 갑작스러운 속도에 타키는 반사적으로 우미리의 허리를 꽉 끌어안았다."
+            }
+        ]
     },
     "108": {
         "speaker": "",
-        "dialogue": "오토바이는 빠르게 달리기 시작했다. 바람이 타키의 긴 머리를 휘날렸지만 헬멧이 고정되어 있어 시야에 방해가 되지 않았다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "오토바이는 빠르게 달리기 시작했다. 바람이 타키의 긴 머리를 휘날렸지만 헬멧이 고정되어 있어 시야에 방해가 되지 않았다."
+            }
+        ]
     },
     "109": {
         "speaker": "",
-        "dialogue": "길에는 차가 거의 없었고, 속도는 제한 속도 바로 아래였으며, 양쪽 풍경이 빠르게 뒤로 지나갔다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "길에는 차가 거의 없었고, 속도는 제한 속도 바로 아래였으며, 양쪽 풍경이 빠르게 뒤로 지나갔다."
+            }
+        ]
     }
 }

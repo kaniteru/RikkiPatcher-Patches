@@ -1,370 +1,830 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": "찬장에서 컵이 네 개 가지런히 놓여있었다. 타키는 잠시 망설이다가 방으로 돌아가 자신의 팬더 물컵을 꺼내 깨끗이 씻었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "찬장에서 컵이 네 개 가지런히 놓여있었다. 타키는 잠시 망설이다가 방으로 돌아가 자신의 팬더 물컵을 꺼내 깨끗이 씻었다."
+            }
+        ]
     },
     "1": {
         "speaker": "",
-        "dialogue": "냉장고를 열자, 맥주는 여전히 많이 남아있지만 커피는 거의 없었다. 맥주와 커피 사이에는 르나에게 줄지도 모를 말차 우유 한 상자가 있었다. 이것이 언니를 대접할 수 있는 전부였다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "냉장고를 열자, 맥주는 여전히 많이 남아있지만 커피는 거의 없었다. 맥주와 커피 사이에는 르나에게 줄지도 모를 말차 우유 한 상자가 있었다. 이것이 언니를 대접할 수 있는 전부였다."
+            }
+        ]
     },
     "2": {
         "speaker": "",
-        "dialogue": "냉장고의 물품을 확인한 후, 타키는 현관으로 가 신발장을 열어보았다. 아직 택도 떼지 않은 슬리퍼 한 켤레를 발견했다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "냉장고의 물품을 확인한 후, 타키는 현관으로 가 신발장을 열어보았다. 아직 택도 떼지 않은 슬리퍼 한 켤레를 발견했다."
+            }
+        ]
     },
     "3": {
         "speaker": "",
-        "dialogue": "얼마 남지 않은 시간 동안 여분의 슬리퍼를 남길 필요는 없었다. 타키는 택을 떼고 새 슬리퍼를 신발장 옆에 두었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "얼마 남지 않은 시간 동안 여분의 슬리퍼를 남길 필요는 없었다. 타키는 택을 떼고 새 슬리퍼를 신발장 옆에 두었다."
+            }
+        ]
     },
     "4": {
         "speaker": "시이나 타키",
-        "dialogue": "아……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "아……"
+            }
+        ]
     },
     "5": {
         "speaker": "시이나 타키",
-        "dialogue": "（집에 있는 물건들로도 괜찮겠지, 굳이 나갈 필요는 없을 것 같아.）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（집에 있는 물건들로도 괜찮겠지, 굳이 나갈 필요는 없을 것 같아.）"
+            }
+        ]
     },
     "6": {
         "speaker": "시이나 타키",
-        "dialogue": "（남은 시간도 얼마 없는데, 왜 그렇게 많은 물건들을 남겨둔 걸까?）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（남은 시간도 얼마 없는데, 왜 그렇게 많은 물건들을 남겨둔 걸까?）"
+            }
+        ]
     },
     "7": {
         "speaker": "시이나 타키",
-        "dialogue": "（언니가 집에 오기 전에 데모를 먼저 써봐야겠어, 새로운 아이디어를 많이 시도해봐야 해.）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（언니가 집에 오기 전에 데모를 먼저 써봐야겠어, 새로운 아이디어를 많이 시도해봐야 해.）"
+            }
+        ]
     },
     "8": {
         "speaker": "시이나 타키",
-        "dialogue": "（언니가 오기 전에 데모를 다시 한 번 들어봐야겠어, 새로운 아이디어를 시도해봐야 해.）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（언니가 오기 전에 데모를 다시 한 번 들어봐야겠어, 새로운 아이디어를 시도해봐야 해.）"
+            }
+        ]
     },
     "9": {
         "speaker": "",
-        "dialogue": "문벨이 울렸을 때 타키는 깜짝 놀랐다. 도시 중심에서 타키가 세 들어 사는 집까지는 꽤 먼 거리였고, 실제로도 그렇다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "문벨이 울렸을 때 타키는 깜짝 놀랐다. 도시 중심에서 타키가 세 들어 사는 집까지는 꽤 먼 거리였고, 실제로도 그렇다."
+            }
+        ]
     },
     "10": {
         "speaker": "",
-        "dialogue": "타키가 전화를 걸었을 때 창문으로 보이는 것이 여전히 아침 햇살이라고 겨우 말할 수 있을 정도였는데, 지금은 시계 바늘이 오후를 가리키고 있었다. 하지만 그녀의 편곡은 많이 바뀌지 않았다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키가 전화를 걸었을 때 창문으로 보이는 것이 여전히 아침 햇살이라고 겨우 말할 수 있을 정도였는데, 지금은 시계 바늘이 오후를 가리키고 있었다. 하지만 그녀의 편곡은 많이 바뀌지 않았다."
+            }
+        ]
     },
     "11": {
         "speaker": "시이나 마키",
-        "dialogue": "오랜만이야, 타키."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "오랜만이야, 타키."
+            }
+        ]
     },
     "12": {
         "speaker": "시이나 타키",
-        "dialogue": "언니, 들어와."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "언니, 들어와."
+            }
+        ]
     },
     "13": {
         "speaker": "",
-        "dialogue": "마키는 손가방을 타키에게 건네주었다. 이건 그녀가 오랫동안 미뤄왔던 집들이 선물이었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "마키는 손가방을 타키에게 건네주었다. 이건 그녀가 오랫동안 미뤄왔던 집들이 선물이었다."
+            }
+        ]
     },
     "14": {
         "speaker": "시이나 타키",
-        "dialogue": "이건……?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "이건……?"
+            }
+        ]
     },
     "15": {
         "speaker": "시이나 마키",
-        "dialogue": "받아줘, 네가 필요할 것 같아서. 이 집에 처음 와봤어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "받아줘, 네가 필요할 것 같아서. 이 집에 처음 와봤어."
+            }
+        ]
     },
     "16": {
         "speaker": "시이나 타키",
-        "dialogue": "……고마워, 언니."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……고마워, 언니."
+            }
+        ]
     },
     "17": {
         "speaker": "",
-        "dialogue": "마키는 타키가 준비한 슬리퍼를 신고 거실의 장식을 둘러보았다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "마키는 타키가 준비한 슬리퍼를 신고 거실의 장식을 둘러보았다."
+            }
+        ]
     },
     "18": {
         "speaker": "시이나 마키",
-        "dialogue": "위치는 조금 멀지만, 집은 괜찮네."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "위치는 조금 멀지만, 집은 괜찮네."
+            }
+        ]
     },
     "19": {
         "speaker": "시이나 타키",
-        "dialogue": "（이렇게 큰 집은 이 위치에서만 구할 수 있었어……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（이렇게 큰 집은 이 위치에서만 구할 수 있었어……）"
+            }
+        ]
     },
     "20": {
         "speaker": "시이나 타키",
-        "dialogue": "내 일 특성상 도심에 살 필요는 없어. 이 집이 딱이야."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "내 일 특성상 도심에 살 필요는 없어. 이 집이 딱이야."
+            }
+        ]
     },
     "21": {
         "speaker": "시이나 타키",
-        "dialogue": "언니 앉아, 내가 마실 거 가져올게."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "언니 앉아, 내가 마실 거 가져올게."
+            }
+        ]
     },
     "22": {
         "speaker": "",
-        "dialogue": "타키는 서둘러 주방으로 갔다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 서둘러 주방으로 갔다."
+            }
+        ]
     },
     "23": {
         "speaker": "시이나 타키",
-        "dialogue": "（언니가 단 걸 좋아한다는 얘긴 못 들었는데? 말차 우유를 좋아할까?）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（언니가 단 걸 좋아한다는 얘긴 못 들었는데? 말차 우유를 좋아할까?）"
+            }
+        ]
     },
     "24": {
         "speaker": "시이나 타키",
-        "dialogue": "（……아니면 캔 커피? 이런 싱거운 맛을 좋아할까?）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（……아니면 캔 커피? 이런 싱거운 맛을 좋아할까?）"
+            }
+        ]
     },
     "25": {
         "speaker": "시이나 타키",
-        "dialogue": "（아…… 왜 집에 있는 물건들로 손님을 대접할 수 있다고 생각했을까……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（아…… 왜 집에 있는 물건들로 손님을 대접할 수 있다고 생각했을까……）"
+            }
+        ]
     },
     "26": {
         "speaker": "시이나 마키",
-        "dialogue": "커피면 돼."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "커피면 돼."
+            }
+        ]
     },
     "27": {
         "speaker": "시이나 타키",
-        "dialogue": "언니?!"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "언니?!"
+            }
+        ]
     },
     "28": {
         "speaker": "시이나 타키",
-        "dialogue": "알겠어……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "알겠어……"
+            }
+        ]
     },
     "29": {
         "speaker": "시이나 마키",
-        "dialogue": "네가 말차 우유를 좋아하는지 몰랐네."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "네가 말차 우유를 좋아하는지 몰랐네."
+            }
+        ]
     },
     "30": {
         "speaker": "시이나 타키",
-        "dialogue": "아, 아니야. 가끔 팀원들이 집에 와."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "아, 아니야. 가끔 팀원들이 집에 와."
+            }
+        ]
     },
     "31": {
         "speaker": "시이나 마키",
-        "dialogue": "……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……"
+            }
+        ]
     },
     "32": {
         "speaker": "시이나 타키",
-        "dialogue": "（팀원 이야기를 듣고 싶은 거야?）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（팀원 이야기를 듣고 싶은 거야?）"
+            }
+        ]
     },
     "33": {
         "speaker": "시이나 타키",
-        "dialogue": "……우리 리드 기타리스트, 기술이 중학교 때부터 뛰어났어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……우리 리드 기타리스트, 기술이 중학교 때부터 뛰어났어."
+            }
+        ]
     },
     "34": {
         "speaker": "시이나 타키",
-        "dialogue": "그녀는 말차에 푹 빠졌어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그녀는 말차에 푹 빠졌어."
+            }
+        ]
     },
     "35": {
         "speaker": "시이나 마키",
-        "dialogue": "리드 기타리스트…… 기억이 나, 그녀의 기술은 화려했어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "리드 기타리스트…… 기억이 나, 그녀의 기술은 화려했어."
+            }
+        ]
     },
     "36": {
         "speaker": "시이나 마키",
-        "dialogue": "아주 개성 있는 아이 같아."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "아주 개성 있는 아이 같아."
+            }
+        ]
     },
     "37": {
         "speaker": "시이나 타키",
-        "dialogue": "확실히…… 개성이 있어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "확실히…… 개성이 있어."
+            }
+        ]
     },
     "38": {
         "speaker": "",
-        "dialogue": "타키는 냉장고에서 캔 커피를 꺼내 싱크대에서 캔 가장자리를 꼼꼼히 씻은 후, 팬더 물컵에 담았다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 냉장고에서 캔 커피를 꺼내 싱크대에서 캔 가장자리를 꼼꼼히 씻은 후, 팬더 물컵에 담았다."
+            }
+        ]
     },
     "39": {
         "speaker": "시이나 마키",
-        "dialogue": "네가 팬더를 좋아하는 건 여전하네."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "네가 팬더를 좋아하는 건 여전하네."
+            }
+        ]
     },
     "40": {
         "speaker": "시이나 타키",
-        "dialogue": "난 안……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "난 안……"
+            }
+        ]
     },
     "41": {
         "speaker": "시이나 타키",
-        "dialogue": "어……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "어……"
+            }
+        ]
     },
     "42": {
         "speaker": "시이나 타키",
-        "dialogue": "팬더……정말 귀여워."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "팬더……정말 귀여워."
+            }
+        ]
     },
     "43": {
         "speaker": "시이나 마키",
-        "dialogue": "이해해."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "이해해."
+            }
+        ]
     },
     "44": {
         "speaker": "시이나 타키",
-        "dialogue": "（이해……팬더를 좋아하는 게 무슨 이상한 일이라도 되는 것처럼 말하네.）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（이해……팬더를 좋아하는 게 무슨 이상한 일이라도 되는 것처럼 말하네.）"
+            }
+        ]
     },
     "45": {
         "speaker": "시이나 마키",
-        "dialogue": "방금 보니 냉장고에 맥주가 많던데, 평소에 마셔?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "방금 보니 냉장고에 맥주가 많던데, 평소에 마셔?"
+            }
+        ]
     },
     "46": {
         "speaker": "시이나 타키",
-        "dialogue": "……곡을 다 썼을 때, 가끔."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……곡을 다 썼을 때, 가끔."
+            }
+        ]
     },
     "47": {
         "speaker": "시이나 마키",
-        "dialogue": "최근엔 기분이 별로야?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "최근엔 기분이 별로야?"
+            }
+        ]
     },
     "48": {
         "speaker": "시이나 타키",
-        "dialogue": "아니, 그건 아니야……공연 끝나고 팀원들과 같이 이자카야에 가곤 해."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "아니, 그건 아니야……공연 끝나고 팀원들과 같이 이자카야에 가곤 해."
+            }
+        ]
     },
     "49": {
         "speaker": "시이나 타키",
-        "dialogue": "（하지만 그 이자카야가 최근 문을 닫았어, MyGO!!!!!도 최근엔 공연이 없었고.）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（하지만 그 이자카야가 최근 문을 닫았어, MyGO!!!!!도 최근엔 공연이 없었고.）"
+            }
+        ]
     },
     "50": {
         "speaker": "시이나 타키",
-        "dialogue": "아, 사실 며칠 전에 친구랑 같이 갔어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "아, 사실 며칠 전에 친구랑 같이 갔어."
+            }
+        ]
     },
     "51": {
         "speaker": "시이나 타키",
-        "dialogue": "（다만 자주 가던 곳은 아니지만.）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（다만 자주 가던 곳은 아니지만.）"
+            }
+        ]
     },
     "52": {
         "speaker": "시이나 마키",
-        "dialogue": "밴드 친구들이랑?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "밴드 친구들이랑?"
+            }
+        ]
     },
     "53": {
         "speaker": "시이나 타키",
-        "dialogue": "MyGO 멤버는 아니지만, 그 친구도 밴드에 있어, 베이시스트야."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "MyGO 멤버는 아니지만, 그 친구도 밴드에 있어, 베이시스트야."
+            }
+        ]
     },
     "54": {
         "speaker": "시이나 마키",
-        "dialogue": "……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……"
+            }
+        ]
     },
     "55": {
         "speaker": "시이나 마키",
-        "dialogue": "네가 업계 친구들을 사귀게 될 줄은 몰랐어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "네가 업계 친구들을 사귀게 될 줄은 몰랐어."
+            }
+        ]
     },
     "56": {
         "speaker": "시이나 타키",
-        "dialogue": "（언니 눈에 나는 그렇게 지루해 보이나?）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（언니 눈에 나는 그렇게 지루해 보이나?）"
+            }
+        ]
     },
     "57": {
         "speaker": "시이나 타키",
-        "dialogue": "음……사실 그 친구는 내 고등학교 동창이야."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "음……사실 그 친구는 내 고등학교 동창이야."
+            }
+        ]
     },
     "58": {
         "speaker": "시이나 타키",
-        "dialogue": "지금 Ave Mujica에서 베이시스트로 활동해……상코가 있는 밴드야."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "지금 Ave Mujica에서 베이시스트로 활동해……상코가 있는 밴드야."
+            }
+        ]
     },
     "59": {
         "speaker": "시이나 마키",
-        "dialogue": "그래."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그래."
+            }
+        ]
     },
     "60": {
         "speaker": "",
-        "dialogue": "마키는 물컵을 들어 한 모금 마셨다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "마키는 물컵을 들어 한 모금 마셨다."
+            }
+        ]
     },
     "61": {
         "speaker": "",
-        "dialogue": "동생 덕분이 아니었다면, 이미 사회의 엘리트가 된 그녀는 이렇게 싼 음료를 접할 기회가 거의 없었을 것이다. 이를 깨달은 타키는 친언니에게 무슨 주제로 말을 꺼내야 할지 모르겠다. 그녀들의 삶은 너무 멀리 떨어져 있었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "동생 덕분이 아니었다면, 이미 사회의 엘리트가 된 그녀는 이렇게 싼 음료를 접할 기회가 거의 없었을 것이다. 이를 깨달은 타키는 친언니에게 무슨 주제로 말을 꺼내야 할지 모르겠다. 그녀들의 삶은 너무 멀리 떨어져 있었다."
+            }
+        ]
     },
     "62": {
         "speaker": "시이나 타키",
-        "dialogue": "맞다, 이 기회에 언니에게 집을 구경시켜 줄게."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "맞다, 이 기회에 언니에게 집을 구경시켜 줄게."
+            }
+        ]
     },
     "63": {
         "speaker": "시이나 마키",
-        "dialogue": "좋아."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "좋아."
+            }
+        ]
     },
     "64": {
         "speaker": "",
-        "dialogue": "텅 빈 집은 생활의 흔적이 짙지 않았다. 타키는 일을 삶에 녹여냈기 때문에, 드럼 연습실만이 자주 사용된 흔적이 있었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "텅 빈 집은 생활의 흔적이 짙지 않았다. 타키는 일을 삶에 녹여냈기 때문에, 드럼 연습실만이 자주 사용된 흔적이 있었다."
+            }
+        ]
     },
     "65": {
         "speaker": "시이나 마키",
-        "dialogue": "드럼 연습을 위해 이사 온 거야?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "드럼 연습을 위해 이사 온 거야?"
+            }
+        ]
     },
     "66": {
         "speaker": "시이나 타키",
-        "dialogue": "그런 셈이야. 매일 연습실을 빌리는 것도 큰 지출이니까, 방세를 절약할 수 있었어……게다가 독립된 집이라 이웃과 멀리 떨어져 있어서 드럼방의 방음만 하면 민폐 끼칠 걱정도 없고."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그런 셈이야. 매일 연습실을 빌리는 것도 큰 지출이니까, 방세를 절약할 수 있었어……게다가 독립된 집이라 이웃과 멀리 떨어져 있어서 드럼방의 방음만 하면 민폐 끼칠 걱정도 없고."
+            }
+        ]
     },
     "67": {
         "speaker": "시이나 마키",
-        "dialogue": "정말 철저하네……맞다, 며칠 전에 뉴스에서 보도된 폭력 사건은 이 근처에서 일어난 거 맞지?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "정말 철저하네……맞다, 며칠 전에 뉴스에서 보도된 폭력 사건은 이 근처에서 일어난 거 맞지?"
+            }
+        ]
     },
     "68": {
         "speaker": "시이나 타키",
-        "dialogue": "（언니가 이런 것까지 알고 있다니……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（언니가 이런 것까지 알고 있다니……）"
+            }
+        ]
     },
     "69": {
         "speaker": "시이나 타키",
-        "dialogue": "……맞아."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……맞아."
+            }
+        ]
     },
     "70": {
         "speaker": "시이나 마키",
-        "dialogue": "안전 조심해."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "안전 조심해."
+            }
+        ]
     },
     "71": {
         "speaker": "시이나 타키",
-        "dialogue": "응, 걱정 마, 언니."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "응, 걱정 마, 언니."
+            }
+        ]
     },
     "72": {
         "speaker": "시이나 타키",
-        "dialogue": "（치안 문제는 나에게는……휴.）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（치안 문제는 나에게는……휴.）"
+            }
+        ]
     },
     "73": {
         "speaker": "시이나 타키",
-        "dialogue": "（며칠 지나면, 가족들이 가장 슬플 거야.）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（며칠 지나면, 가족들이 가장 슬플 거야.）"
+            }
+        ]
     },
     "74": {
         "speaker": "시이나 타키",
-        "dialogue": "……그런데, 항상 여기저기 출장을 다니는 언니야말로 안전 조심해야 돼."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……그런데, 항상 여기저기 출장을 다니는 언니야말로 안전 조심해야 돼."
+            }
+        ]
     },
     "75": {
         "speaker": "시이나 마키",
-        "dialogue": "타키……?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키……?"
+            }
+        ]
     },
     "76": {
         "speaker": "시이나 타키",
-        "dialogue": "（이런, 언니가 뭔가 눈치챈 걸까……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（이런, 언니가 뭔가 눈치챈 걸까……）"
+            }
+        ]
     },
     "77": {
         "speaker": "시이나 마키",
-        "dialogue": "밴드 친구들이 너에게 큰 영향을 주는 것 같아."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "밴드 친구들이 너에게 큰 영향을 주는 것 같아."
+            }
+        ]
     },
     "78": {
         "speaker": "시이나 타키",
-        "dialogue": "뭐……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "뭐……"
+            }
+        ]
     },
     "79": {
         "speaker": "시이나 타키",
-        "dialogue": "（하지만 언니는 별다른 이상을 눈치채지 않은 것 같아.）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（하지만 언니는 별다른 이상을 눈치채지 않은 것 같아.）"
+            }
+        ]
     },
     "80": {
         "speaker": "",
-        "dialogue": "타키는 오른손으로 왼손의 느린 맥박을 느끼며 진희의 평온한 표정을 보고 살며시 한숨을 쉬었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 오른손으로 왼손의 느린 맥박을 느끼며 진희의 평온한 표정을 보고 살며시 한숨을 쉬었다."
+            }
+        ]
     },
     "81": {
         "speaker": "시이나 마키",
-        "dialogue": "당초 너를 사코 동료에게 추천한 것은 옳은 선택이었어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "당초 너를 사코 동료에게 추천한 것은 옳은 선택이었어."
+            }
+        ]
     },
     "82": {
         "speaker": "시이나 타키",
-        "dialogue": "그게 그녀와 무슨 상관이야……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그게 그녀와 무슨 상관이야……"
+            }
+        ]
     },
     "83": {
         "speaker": "시이나 타키",
-        "dialogue": "（정말 오랜만에 보는 그녀인데, 아마 다시 만날 기회는 없을 거야.）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（정말 오랜만에 보는 그녀인데, 아마 다시 만날 기회는 없을 거야.）"
+            }
+        ]
     },
     "84": {
         "speaker": "시이나 마키",
-        "dialogue": "그 말이야, 고등학교 때는 정말 반항적이었는데, 밴드 멤버 때문에 나를 찾아올 수 있다니."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그 말이야, 고등학교 때는 정말 반항적이었는데, 밴드 멤버 때문에 나를 찾아올 수 있다니."
+            }
+        ]
     },
     "85": {
         "speaker": "시이나 타키",
-        "dialogue": "그게 얼마나 오래된 일이야……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그게 얼마나 오래된 일이야……"
+            }
+        ]
     },
     "86": {
         "speaker": "시이나 마키",
-        "dialogue": "월의 숲 학생이었지? 내가 기억하기로는 현악단에서 더블 베이스를 연주했어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "월의 숲 학생이었지? 내가 기억하기로는 현악단에서 더블 베이스를 연주했어."
+            }
+        ]
     },
     "87": {
         "speaker": "시이나 타키",
-        "dialogue": "지금은 우리 베이시스트야."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "지금은 우리 베이시스트야."
+            }
+        ]
     },
     "88": {
         "speaker": "시이나 마키",
-        "dialogue": "베이스와 더블 베이스…… 많이 비슷해."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "베이스와 더블 베이스…… 많이 비슷해."
+            }
+        ]
     },
     "89": {
         "speaker": "시이나 마키",
-        "dialogue": "나에게 도움을 청하기보다는 다른 베이시스트를 찾아봤겠지?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "나에게 도움을 청하기보다는 다른 베이시스트를 찾아봤겠지?"
+            }
+        ]
     },
     "90": {
         "speaker": "시이나 타키",
-        "dialogue": "……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……"
+            }
+        ]
     },
     "91": {
         "speaker": "시이나 마키",
-        "dialogue": "정말로 찾아봤구나……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "정말로 찾아봤구나……"
+            }
+        ]
     }
 }

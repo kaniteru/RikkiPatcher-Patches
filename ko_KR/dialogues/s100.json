@@ -1,118 +1,263 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": "아침에 집에서 학교로, 황혼에 라이브 하우스에서 집으로. 하루하루 도시의 풍경이 차창 밖으로 흘러가며 변화한다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "아침에 집에서 학교로, 황혼에 라이브 하우스에서 집으로. 하루하루 도시의 풍경이 차창 밖으로 흘러가며 변화한다."
+            }
+        ]
     },
     "1": {
         "speaker": "",
-        "dialogue": "전차로 연결된 하루하루가 그리움으로 다가온다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "전차로 연결된 하루하루가 그리움으로 다가온다."
+            }
+        ]
     },
     "2": {
         "speaker": "시이나 타키",
-        "dialogue": "（지금 돌아가면… 정말 괜찮을까?）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（지금 돌아가면… 정말 괜찮을까?）"
+            }
+        ]
     },
     "3": {
         "speaker": "",
-        "dialogue": "——왜 거기야?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "——왜 거기야?"
+            }
+        ]
     },
     "4": {
         "speaker": "시이나 타키",
-        "dialogue": "（그곳에서 출발했으니까… 대단한 출발점은 아니었지만, 앞으로 좋은 전망이 있었어.）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（그곳에서 출발했으니까… 대단한 출발점은 아니었지만, 앞으로 좋은 전망이 있었어.）"
+            }
+        ]
     },
     "5": {
         "speaker": "시이나 타키",
-        "dialogue": "（봄이 오면, 강 양쪽에 아름다운 풍경이 펼쳐지고, 사람들이 모여서 이야기하고, 노래하고, 악기를 연주해……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（봄이 오면, 강 양쪽에 아름다운 풍경이 펼쳐지고, 사람들이 모여서 이야기하고, 노래하고, 악기를 연주해……）"
+            }
+        ]
     },
     "6": {
         "speaker": "시이나 타키",
-        "dialogue": "하하… 나한테는 그리 어울리지 않는 이야기 같네."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "하하… 나한테는 그리 어울리지 않는 이야기 같네."
+            }
+        ]
     },
     "7": {
         "speaker": "시이나 타키",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "8": {
         "speaker": "시이나 타키",
-        "dialogue": "……거의 다 왔어."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……거의 다 왔어."
+            }
+        ]
     },
     "9": {
         "speaker": "",
-        "dialogue": "도에이 버스에서 내려 약 7분 정도 걸어가면 도착할 수 있다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "도에이 버스에서 내려 약 7분 정도 걸어가면 도착할 수 있다."
+            }
+        ]
     },
     "10": {
         "speaker": "",
-        "dialogue": "길을 따라 조기 벚꽃이 이미 활짝 피었다. 남풍이 불어와 흙 냄새를 전하고, 다리 근처에는 새 제비들이 떠돌고 있다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "길을 따라 조기 벚꽃이 이미 활짝 피었다. 남풍이 불어와 흙 냄새를 전하고, 다리 근처에는 새 제비들이 떠돌고 있다."
+            }
+        ]
     },
     "11": {
         "speaker": "시이나 타키",
-        "dialogue": "（전혀 변하지 않았어……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（전혀 변하지 않았어……）"
+            }
+        ]
     },
     "12": {
         "speaker": "",
-        "dialogue": "봄이 되어 벚꽃이 만개한 메에카게바시."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "봄이 되어 벚꽃이 만개한 메에카게바시."
+            }
+        ]
     },
     "13": {
         "speaker": "",
-        "dialogue": "타키는 고개를 들어 꽃가지와 나무 그림자가 머리 위에서 흔들리고, 함께 태양의 빛도 부드러워진다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 고개를 들어 꽃가지와 나무 그림자가 머리 위에서 흔들리고, 함께 태양의 빛도 부드러워진다."
+            }
+        ]
     },
     "14": {
         "speaker": "시이나 타키",
-        "dialogue": "（정말 아름답다……）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（정말 아름답다……）"
+            }
+        ]
     },
     "15": {
         "speaker": "",
-        "dialogue": "몇 번을 봐도, 마음속에서는 이렇게 감탄하게 된다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "몇 번을 봐도, 마음속에서는 이렇게 감탄하게 된다."
+            }
+        ]
     },
     "16": {
         "speaker": "",
-        "dialogue": "그녀는 펜을 들고, 이것을 적어 불멸의 곡으로 만들어야 한다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "그녀는 펜을 들고, 이것을 적어 불멸의 곡으로 만들어야 한다."
+            }
+        ]
     },
     "17": {
         "speaker": "",
-        "dialogue": "아마도 10분, 5분이 필요할 것이다……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "아마도 10분, 5분이 필요할 것이다……"
+            }
+        ]
     },
     "18": {
         "speaker": "",
-        "dialogue": "드럼 비트에서 시작되는 악보가 머릿속에서 짜여지고, 타키는 외투 주머니에 손을 꼭 쥐었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "드럼 비트에서 시작되는 악보가 머릿속에서 짜여지고, 타키는 외투 주머니에 손을 꼭 쥐었다."
+            }
+        ]
     },
     "19": {
         "speaker": "시이나 타키",
-        "dialogue": "（너무 자유롭고, 너무 밝고…… 너무 따뜻한 곡이네.）"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（너무 자유롭고, 너무 밝고…… 너무 따뜻한 곡이네.）"
+            }
+        ]
     },
     "20": {
         "speaker": "",
-        "dialogue": "마지막 한 순간에도, 그녀는 마음속에서 울리는 음악을 듣지 않을 수 없다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "마지막 한 순간에도, 그녀는 마음속에서 울리는 음악을 듣지 않을 수 없다."
+            }
+        ]
     },
     "21": {
         "speaker": "",
-        "dialogue": "마치 그녀가 시이나 타키가 되는 것을 선택할 수 없는 것처럼."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "마치 그녀가 시이나 타키가 되는 것을 선택할 수 없는 것처럼."
+            }
+        ]
     },
     "22": {
         "speaker": "",
-        "dialogue": "시간의 시계바늘이 주머니 속에서, 머릿속에서, 머리 위에서 쉬지 않고 째깍거린다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "시간의 시계바늘이 주머니 속에서, 머릿속에서, 머리 위에서 쉬지 않고 째깍거린다."
+            }
+        ]
     },
     "23": {
         "speaker": "",
-        "dialogue": "째깍. 째깍. 째깍."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "째깍. 째깍. 째깍."
+            }
+        ]
     },
     "24": {
         "speaker": "",
-        "dialogue": "타키는 외투 주머니에 있는 손을 꽉 쥐다가 천천히 풀었다."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "타키는 외투 주머니에 있는 손을 꽉 쥐다가 천천히 풀었다."
+            }
+        ]
     },
     "25": {
         "speaker": "시이나 타키",
-        "dialogue": "만약……"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "만약……"
+            }
+        ]
     },
     "26": {
         "speaker": "시이나 타키",
-        "dialogue": "너희도 볼 수 있었으면 좋았을 텐데."
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "너희도 볼 수 있었으면 좋았을 텐데."
+            }
+        ]
     },
     "27": {
         "speaker": "시이나 타키",
-        "dialogue": "......"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ]
     },
     "28": {
         "speaker": "시이나 타키",
-        "dialogue": "이건……꽃잎인가?"
+        "dialogue": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "이건……꽃잎인가?"
+            }
+        ]
     }
 }
