@@ -1,5 +1,5 @@
 {
-    "hash": "3b64814719bf5bc93681d8454f486981918066cb34e4478752b150d8eeacfaeb4ad6177b76fbf33e25f4ff09b71f630cc86babeca135c0f5087462bee9fface8",
+    "hash": "f471f775607419101073731f9378989cf9424494e126e21a168b0fa9185fa21d7ba998cb68e36f3fde88e735b2fa4c003d7061419546bd8703e687bfa367cd8b",
     "list": {
         "0": {
             "speaker": "超市营业员",
@@ -708,7 +708,7 @@
             "dialogue": [
                 {
                     "html": "style='color:#FfFffF'",
-                    "text": "（我会不要有点担心过头了？明明这些年聚餐的时候都没这么在意过…）"
+                    "text": "（我会不会有点担心过头了？明明这些年聚餐的时候都没这么在意过…）"
                 }
             ]
         },
