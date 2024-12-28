@@ -1,11 +1,12 @@
 {
-    "previous_dialogue": "이전 대화 열람",
-    "hide_interface": "대화 상자와 인터페이스 숨기기",
-    "auto_play_dialogue": "대화 자동 재생",
-    "auto_skip_dialogue": "대화 자동 스킵",
-    "save_game_progress": "게임 저장",
+    "auto_play_dialogue": "자동 재생",
+    "auto_skip_dialogue": "자동 스킵",
+    "enter_save_file_name": "세이브 파일명 입력...",
+    "enter_save_file_name2": "세이브 파일명 입력...",
+    "hide_interface": "대화 상자 숨기기",
     "load_game_progress": "게임 로드",
-    "settings": "환경 설정",
+    "previous_dialogue": "이전 대화 열람",
     "return_to_title": "타이틀 화면으로 돌아가기",
-    "enter_save_file_name": "세이브 파일명 입력..."
+    "save_game_progress": "게임 저장",
+    "settings": "환경 설정"
 }
