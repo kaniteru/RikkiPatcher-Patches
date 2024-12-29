@@ -5,7 +5,7 @@
 
 # Dialogues
 > ### Complete
-> - s9 ~ s16
+> - s3 ~ s16 
 
 ---
 
