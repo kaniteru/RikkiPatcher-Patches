@@ -1,11 +1,11 @@
 {
-    "back_to_title_alert": {
-        "system": "시스템",
-        "text": "정말 타이틀 화면으로 돌아가시겠습니까? 저장되지 않은 데이터는 모두 손실됩니다."
-    },
     "delete_save_file": {
         "system": "시스템",
         "text": "정말 「세이브 파일-[@p0]」을(를) 삭제하시겠습니까?"
+    },
+    "back_to_title_alert": {
+        "system": "시스템",
+        "text": "정말 타이틀 화면으로 돌아가시겠습니까? 저장되지 않은 데이터는 모두 손실됩니다."
     },
     "save_file_read_error": {
         "system": "시스템",

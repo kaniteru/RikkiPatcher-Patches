@@ -1,124 +1,124 @@
 {
-    "auto_play_dialogue_speed": {
-        "color": "#ffffff",
-        "font": "SourceHanSerifCN-Light-5",
-        "size": 20,
-        "text": "대화 자동 재생 속도"
-    },
-    "bgm_volume": {
-        "color": "#ffffff",
-        "font": "SourceHanSerifCN-Light-5",
-        "size": 28,
-        "text": "배경음악 볼륨"
-    },
-    "controls": {
-        "color": "#ffffff",
-        "font": "SourceHanSerifCN-SemiBold-7",
-        "size": 24,
-        "text": "조작 설명"
-    },
-    "controls_usage": {
-        "line_1": {
-            "color": "#ffffff",
-            "font": "SourceHanSerifCN-SemiBold-7",
-            "size": 25,
-            "text": "ESC - 환경 설정,   F5 - 게임 재시작"
-        },
-        "line_2": {
-            "color": "#ffffff",
-            "font": "SourceHanSerifCN-SemiBold-7",
-            "size": 25,
-            "text": "Q/O - 게임 저장,   E/P - 게임 로드"
-        },
-        "line_3": {
-            "color": "#ffffff",
-            "font": "SourceHanSerifCN-SemiBold-7",
-            "size": 25,
-            "text": "Ctrl/R/U - 대화 스킵,   T/I - 대화 자동재생,   H/C - 타이틀 화면으로 돌아가기"
-        },
-        "line_4": {
-            "color": "#ffffff",
-            "font": "SourceHanSerifCN-SemiBold-7",
-            "size": 25,
-            "text": "마우스 왼쪽버튼/마우스 휠↓/Enter/Space - 다음 대화 재생"
-        },
-        "line_5": {
-            "color": "#ffffff",
-            "font": "SourceHanSerifCN-SemiBold-7",
-            "size": 20,
-            "text": "마우스 오른쪽버튼/L/X - 대화 상자와 인터페이스 숨기기,   마우스 휠↑/V - 이전 대화 열람"
-        },
-        "line_6": {
-            "color": "#ffffff",
-            "font": "SourceHanSerifCN-SemiBold-7",
-            "size": 25,
-            "text": "게임 도중 마우스 포인터를 우측 하단으로 갖다대면 여러 옵션 버튼들이 표시됩니다."
-        },
-        "title": {
-            "color": "#ffffff",
-            "font": "SourceHanSerifCN-SemiBold-7",
-            "size": 45,
-            "text": "조작 설명"
-        }
-    },
-    "dialogue_ui_opacity": {
-        "color": "#ffffff",
-        "font": "SourceHanSerifCN-Light-5",
-        "size": 30,
-        "text": "대화 상자 투명도"
-    },
-    "dialogue_ui_opacity_preview": {
-        "color": "#ffffff",
-        "font": "JCYT500W",
-        "size": 28,
-        "text": "대화 상자 투명도 미리보기 입니다."
-    },
     "fullscreen": {
-        "color": "#ffffff",
         "font": "SourceHanSerifCN-Light-5",
+        "color": "#ffffff",
         "size": 20,
         "text": "전체 화면"
     },
-    "reverse_mouse_wheel": {
-        "color": "#ffffff",
+    "skip_seen_dialogues": {
         "font": "SourceHanSerifCN-Light-5",
+        "color": "#ffffff",
+        "size": 20,
+        "text": "이미 본 대화들을 자동으로 스킵"
+    },
+    "reverse_mouse_wheel": {
+        "font": "SourceHanSerifCN-Light-5",
+        "color": "#ffffff",
         "size": 20,
         "text": "마우스 휠 반전"
     },
-    "se_volume": {
-        "color": "#ffffff",
+    "bgm_volume": {
         "font": "SourceHanSerifCN-Light-5",
+        "color": "#ffffff",
+        "size": 28,
+        "text": "배경음악 볼륨"
+    },
+    "se_volume": {
+        "font": "SourceHanSerifCN-Light-5",
+        "color": "#ffffff",
         "size": 28,
         "text": "환경음향 볼륨"
     },
     "sfx_volume": {
-        "color": "#ffffff",
         "font": "SourceHanSerifCN-Light-5",
+        "color": "#ffffff",
         "size": 28,
         "text": "음향 효과 볼륨"
     },
-    "skip_seen_dialogues": {
-        "color": "#ffffff",
+    "voice_volume": {
         "font": "SourceHanSerifCN-Light-5",
-        "size": 20,
-        "text": "이미 본 대화들을 자동으로 스킵"
+        "color": "#ffffff",
+        "size": 28,
+        "text": "음성 볼륨"
+    },
+    "controls": {
+        "font": "SourceHanSerifCN-SemiBold-7",
+        "color": "#ffffff",
+        "size": 24,
+        "text": "조작 설명"
+    },
+    "dialogue_ui_opacity": {
+        "font": "SourceHanSerifCN-Light-5",
+        "color": "#ffffff",
+        "size": 30,
+        "text": "대화 상자 투명도"
+    },
+    "dialogue_ui_opacity_preview": {
+        "font": "JCYT500W",
+        "color": "#ffffff",
+        "size": 28,
+        "text": "대화 상자 투명도 미리보기 입니다."
     },
     "text_speed": {
-        "color": "#ffffff",
         "font": "SourceHanSerifCN-Light-5",
+        "color": "#ffffff",
         "size": 20,
         "text": "텍스트 재생 속도"
     },
-    "text_speed_preview": {
+    "auto_play_dialogue_speed": {
+        "font": "SourceHanSerifCN-Light-5",
         "color": "#ffffff",
+        "size": 20,
+        "text": "대화 자동 재생 속도"
+    },
+    "text_speed_preview": {
         "font": "JCYT500W",
+        "color": "#ffffff",
         "size": 28,
         "text": "텍스트 재생 속도 미리보기 입니다."
     },
-    "voice_volume": {
-        "color": "#ffffff",
-        "font": "SourceHanSerifCN-Light-5",
-        "size": 28,
-        "text": "음성 볼륨"
+    "controls_usage": {
+        "title": {
+            "font": "SourceHanSerifCN-SemiBold-7",
+            "color": "#ffffff",
+            "size": 45,
+            "text": "조작 설명"
+        },
+        "line_1": {
+            "font": "SourceHanSerifCN-SemiBold-7",
+            "color": "#ffffff",
+            "size": 25,
+            "text": "ESC - 환경 설정,   F5 - 게임 재시작"
+        },
+        "line_2": {
+            "font": "SourceHanSerifCN-SemiBold-7",
+            "color": "#ffffff",
+            "size": 25,
+            "text": "Q/O - 게임 저장,   E/P - 게임 로드"
+        },
+        "line_3": {
+            "font": "SourceHanSerifCN-SemiBold-7",
+            "color": "#ffffff",
+            "size": 25,
+            "text": "Ctrl/R/U - 대화 스킵,   T/I - 대화 자동재생,   H/C - 타이틀 화면으로 돌아가기"
+        },
+        "line_4": {
+            "font": "SourceHanSerifCN-SemiBold-7",
+            "color": "#ffffff",
+            "size": 25,
+            "text": "마우스 왼쪽버튼/마우스 휠↓/Enter/Space - 다음 대화 재생"
+        },
+        "line_5": {
+            "font": "SourceHanSerifCN-SemiBold-7",
+            "color": "#ffffff",
+            "size": 20,
+            "text": "마우스 오른쪽버튼/L/X - 대화 상자와 인터페이스 숨기기,   마우스 휠↑/V - 이전 대화 열람"
+        },
+        "line_6": {
+            "font": "SourceHanSerifCN-SemiBold-7",
+            "color": "#ffffff",
+            "size": 25,
+            "text": "게임 도중 마우스 포인터를 우측 하단으로 갖다대면 여러 옵션 버튼들이 표시됩니다."
+        }
     }
 }
