@@ -1,266 +1,292 @@
 {
-    "hash": "81ae4e0ca00a511bbb446e9e8f8eda8b927ead0d69354298f4921f3e792d320d60bf770d2aab4760bcaa337747603fc55b220aaea61a43a42df6e5296d54f511",
-    "list": {
-        "0": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "早晨从家到学校，黄昏从Live House回家。日复一日城市的街景在车窗外流动运转。"
-                }
-            ]
-        },
-        "1": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "由电车连接起的每一天都让人感到怀念。"
-                }
-            ]
-        },
-        "2": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（现在回去……真的好吗？）"
-                }
-            ]
-        },
-        "3": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "——为什么是那里？"
-                }
-            ]
-        },
-        "4": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（因为我是从那里出发的……不算很气派的起点，但往前有很好的视野。）"
-                }
-            ]
-        },
-        "5": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（春天来了，两岸有明媚的风景，人们会聚在一起，聊天、唱歌、弹琴……）"
-                }
-            ]
-        },
-        "6": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "哈哈…听起来不太适合我呢。"
-                }
-            ]
-        },
-        "7": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "......"
-                }
-            ]
-        },
-        "8": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "……就快要到了。"
-                }
-            ]
-        },
-        "9": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "从都营巴士下车，再走大约七分钟就能抵达。"
-                }
-            ]
-        },
-        "10": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "沿路上，早樱已经满开。南风吹来泥土的气息，桥边徘徊着新燕。"
-                }
-            ]
-        },
-        "11": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（一点没变……）"
-                }
-            ]
-        },
-        "12": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "在春天，开满樱花的面影桥。"
-                }
-            ]
-        },
-        "13": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "立希仰起头，花枝树影在头顶摇曳，连同太阳的光线也变得温柔。"
-                }
-            ]
-        },
-        "14": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（真美啊……）"
-                }
-            ]
-        },
-        "15": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "不管看过多少遍，心底都会这样感叹。"
-                }
-            ]
-        },
-        "16": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "她应该拿上一支笔，写下来，变成不朽的乐曲。"
-                }
-            ]
-        },
-        "17": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "那大概需要10分钟、5分钟……"
-                }
-            ]
-        },
-        "18": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "由鼓点出发的谱面在脑海中编织，立希放在大衣口袋的手紧紧握拳。"
-                }
-            ]
-        },
-        "19": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（好自由、好明朗……好温暖的曲子。）"
-                }
-            ]
-        },
-        "20": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "即使是最后一秒钟，她也无法选择不去聆听内心激荡的音乐"
-                }
-            ]
-        },
-        "21": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "就像她无法选择不成为椎名立希。"
-                }
-            ]
-        },
-        "22": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "时间的指针在口袋里，在脑海中，在头顶不停歇地计时。"
-                }
-            ]
-        },
-        "23": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "嘀嗒。嘀嗒。嘀嗒。"
-                }
-            ]
-        },
-        "24": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "立希放在大衣口袋的手紧紧握拳，再缓缓松开。"
-                }
-            ]
-        },
-        "25": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "如果……"
-                }
-            ]
-        },
-        "26": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "真希望能让你们也看看。"
-                }
-            ]
-        },
-        "27": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "......"
-                }
-            ]
-        },
-        "28": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "这是……花瓣吗？"
-                }
-            ]
-        }
+    "0": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "早晨从家到学校，黄昏从Live House回家。日复一日城市的街景在车窗外流动运转。"
+            }
+        ],
+        "atts": []
+    },
+    "1": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "由电车连接起的每一天都让人感到怀念。"
+            }
+        ],
+        "atts": []
+    },
+    "2": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（现在回去……真的好吗？）"
+            }
+        ],
+        "atts": []
+    },
+    "3": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "——为什么是那里？"
+            }
+        ],
+        "atts": []
+    },
+    "4": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（因为我是从那里出发的……不算很气派的起点，但往前有很好的视野。）"
+            }
+        ],
+        "atts": []
+    },
+    "5": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（春天来了，两岸有明媚的风景，人们会聚在一起，聊天、唱歌、弹琴……）"
+            }
+        ],
+        "atts": []
+    },
+    "6": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "哈哈…听起来不太适合我呢。"
+            }
+        ],
+        "atts": []
+    },
+    "7": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ],
+        "atts": []
+    },
+    "8": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……就快要到了。"
+            }
+        ],
+        "atts": []
+    },
+    "9": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "从都营巴士下车，再走大约七分钟就能抵达。"
+            }
+        ],
+        "atts": []
+    },
+    "10": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "沿路上，早樱已经满开。南风吹来泥土的气息，桥边徘徊着新燕。"
+            }
+        ],
+        "atts": []
+    },
+    "11": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（一点没变……）"
+            }
+        ],
+        "atts": []
+    },
+    "12": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "在春天，开满樱花的面影桥。"
+            }
+        ],
+        "atts": []
+    },
+    "13": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希仰起头，花枝树影在头顶摇曳，连同太阳的光线也变得温柔。"
+            }
+        ],
+        "atts": []
+    },
+    "14": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（真美啊……）"
+            }
+        ],
+        "atts": []
+    },
+    "15": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "不管看过多少遍，心底都会这样感叹。"
+            }
+        ],
+        "atts": []
+    },
+    "16": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "她应该拿上一支笔，写下来，变成不朽的乐曲。"
+            }
+        ],
+        "atts": []
+    },
+    "17": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "那大概需要10分钟、5分钟……"
+            }
+        ],
+        "atts": []
+    },
+    "18": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "由鼓点出发的谱面在脑海中编织，立希放在大衣口袋的手紧紧握拳。"
+            }
+        ],
+        "atts": []
+    },
+    "19": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（好自由、好明朗……好温暖的曲子。）"
+            }
+        ],
+        "atts": []
+    },
+    "20": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "即使是最后一秒钟，她也无法选择不去聆听内心激荡的音乐"
+            }
+        ],
+        "atts": []
+    },
+    "21": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "就像她无法选择不成为椎名立希。"
+            }
+        ],
+        "atts": []
+    },
+    "22": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "时间的指针在口袋里，在脑海中，在头顶不停歇地计时。"
+            }
+        ],
+        "atts": []
+    },
+    "23": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "嘀嗒。嘀嗒。嘀嗒。"
+            }
+        ],
+        "atts": []
+    },
+    "24": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希放在大衣口袋的手紧紧握拳，再缓缓松开。"
+            }
+        ],
+        "atts": []
+    },
+    "25": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "如果……"
+            }
+        ],
+        "atts": []
+    },
+    "26": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "真希望能让你们也看看。"
+            }
+        ],
+        "atts": []
+    },
+    "27": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ],
+        "atts": []
+    },
+    "28": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "这是……花瓣吗？"
+            }
+        ],
+        "atts": []
     }
 }

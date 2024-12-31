@@ -1,70 +1,88 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "卡拉OK是属于歌声的地方。"
             }
-        ]
+        ],
+        "atts": []
     },
     "1": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "说到底她们对于昏暗的包厢根本不陌生，ShidaX也好，Big Echo也罢，MyGO!!!!!团建时并没少去。虽然通常都作为气氛组存在罢了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "2": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "首先，灯的歌声必不可少；其次，一个每一回都嚷嚷着“要圆梦”的吉他主唱还不够吵吗？"
             }
-        ]
+        ],
+        "atts": []
     },
     "3": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "然而此时此刻只剩下节奏与和声。将这两个元素单独成组关进一个需要歌唱的空间，大概很难说得上是一个好主意。"
             }
-        ]
+        ],
+        "atts": []
     },
     "4": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "沙发上坐定的人们同时开始思索：有没有什么值得借鉴的案例？同时囊括献声的鼓手和贝斯、热切的拍手和谈笑。"
             }
-        ]
+        ],
+        "atts": []
     },
     "5": {
         "speaker": "？？？",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "■也是会笑的啦。"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "alpha": 0.48,
+                    "fontSize": 45
+                },
+                {
+                    "alpha": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "6": {
         "speaker": "椎名立希&长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……"
             }
-        ]
+        ],
+        "atts": []
     },
     "7": {
         "speaker": "椎名立希&长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#7777ff'",
                 "text": "我去点歌。"
@@ -77,695 +95,883 @@
                 "html": "style='color:#ffdd88'",
                 "text": "我来看看有什么喝的吧。"
             }
-        ]
+        ],
+        "atts": []
     },
     "8": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "不，那绝不是可供移植的经验。"
             }
-        ]
+        ],
+        "atts": []
     },
     "9": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "客人的歌单空空如也的时候，点歌机贴心地播放家喻户晓的流行歌曲，力图预热气氛。"
             }
-        ]
+        ],
+        "atts": []
     },
     "10": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希抓着平板，几乎是无意识地敲下几个字，搜索页面转了两圈，略一卡顿，而后继续徒劳地巡视两秒，才忠实地表示并未收录。"
             }
-        ]
+        ],
+        "atts": []
     },
     "11": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（昏了头了……MyGO!!!!!从来没有主流出过道，查得到才有鬼。）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "12": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（曲库收录的……）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "13": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "小立希想喝什么吗？有果汁和茶哦。"
             }
-        ]
+        ],
+        "atts": []
     },
     "14": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "没有咖啡吗？"
             }
-        ]
+        ],
+        "atts": {}
     },
     "15": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "“这下真的不早了”哦。酒也不可以。如果不是工作需要的话，少喝一点好吗？小立希？"
             }
-        ]
+        ],
+        "atts": []
     },
     "16": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "啧……"
             }
-        ]
+        ],
+        "atts": {}
     },
     "17": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "这么说茶不也是，晚上一样睡不着吧。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "18": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": []
     },
     "19": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "好的，那就果汁了哦？"
             }
-        ]
+        ],
+        "atts": []
     },
     "20": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（算了，说不过她。）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "21": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "闲话一番，立希的动作倒也没停。直接点歌不成，她还可以投屏。MyGO!!!!!的演奏影像她有的是。"
             }
-        ]
+        ],
+        "atts": []
     },
     "22": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "《壱雫空》、《迷星叫》、《音一会》、《潜在表明》、《栞》、《影色舞》……"
             }
-        ]
+        ],
+        "atts": []
     },
     "23": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "凡记得起名字的，都一股脑堆上去。想摆脱一种不合时宜的怀恋吗？请另一位真正盘旋着的、活着的幽灵降临吧。"
             }
-        ]
+        ],
+        "atts": []
     },
     "24": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "每一曲都是她亲手所作，凝结她一个个失眠的夜晚，早先是咖啡，后来是酒。"
             }
-        ]
+        ],
+        "atts": []
     },
     "25": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "含着心血在编曲软件、作词本和录音室里孕育，抱着热忱在舞台上出生，说是她们所有人的孩子也不为过。"
             }
-        ]
+        ],
+        "atts": []
     },
     "26": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "要唱吗？她们谁不记得这样的歌呢？又该由谁先开口呢？"
             }
-        ]
+        ],
+        "atts": []
     },
     "27": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "沙，沙，沙。"
             }
-        ]
+        ],
+        "atts": []
     },
     "28": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "方寸之地里触手可及的仅有的乐器，奔波整日的贝斯手攥紧它，视线被屏幕里颤抖且不对焦的摄像汲取，徒留一具空壳坐在原地，疏于练习的手腕晃动，沙沙、沙沙。"
             }
-        ]
+        ],
+        "atts": []
     },
     "29": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "不要在这个时候玩沙锤啊。麦克风呢？"
             }
-        ]
+        ],
+        "atts": {}
     },
     "30": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "幸好素世不是小气的朋友，还有一支沙锤留在茶几上。"
             }
-        ]
+        ],
+        "atts": []
     },
     "31": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希掂起它，几乎是条件反射地使锤头在手掌里转了一圈，类似棍状的手柄对准前方，时刻为一面不存在的鼓做好准备。然而配套的麦克风却似乎不见踪影了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "32": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "呼叫一下前台，让她们送饮料的时候也把麦克风送来吧。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "33": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "哒，哒，哒。"
             }
-        ]
+        ],
+        "atts": []
     },
     "34": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（我为什么要用锤柄敲桌子。）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "35": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "一种怀念暂时盖过了另一种怀念。"
             }
-        ]
+        ],
+        "atts": []
     },
     "36": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "尽管就一般意义上而言，符合“怀念”定义的皆是已然消逝的事物，但身旁坐着的朋友还会因为无法抽身参加练习而感到愧疚，这就足以证明录像里稚嫩的歌声还活着。"
             }
-        ]
+        ],
+        "atts": []
     },
     "37": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "她们好像在给生者办一场丧事。虽然感觉不坏，椎名立希想，这只不过是又一场预演，同录音室里的练习没有本质区别。"
             }
-        ]
+        ],
+        "atts": []
     },
     "38": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "彩排过后，总会上台的，或早或迟。"
             }
-        ]
+        ],
+        "atts": []
     },
     "39": {
         "speaker": "工作人员",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "非常抱歉！这是您的果汁和麦克风，祝您玩得开心！"
             }
-        ]
+        ],
+        "atts": {}
     },
     "40": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "没在歌唱的客人们齐齐转头。紧张的新人搁下东西，几乎是夺门而出。"
             }
-        ]
+        ],
+        "atts": []
     },
     "41": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "又一曲的安可结束，素世早已入神，数着拍子等待下一首歌，这是她今天来的唯一目的，希望节奏可以替她传达。"
             }
-        ]
+        ],
+        "atts": []
     },
     "42": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "未知也是一种幸福，身体被重力压在沙发上的时候，脑子却能轻飘飘地踩着音符。"
             }
-        ]
+        ],
+        "atts": []
     },
     "43": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "鉴赏着自己曾经的青春，社会人士报不出下一支曲名，亲手导入它们的人也理应陪着她遗忘。"
             }
-        ]
+        ],
+        "atts": []
     },
     "44": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "她觉得自己最好等在荧幕前攥紧双手，就像毫无预案地被告知今天是什么纪念日那样紧张。"
             }
-        ]
+        ],
+        "atts": []
     },
     "45": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "至少今夜，她们都需要忘记一些事情，尤其是椎名立希。"
             }
-        ]
+        ],
+        "atts": []
     },
     "46": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "点歌的人却忽然生出不好的预感。"
             }
-        ]
+        ],
+        "atts": []
     },
     "47": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（最后一首，是什么来着？）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "48": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "《影色舞》。"
             }
-        ]
+        ],
+        "atts": []
     },
     "49": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希在高一的时候为MyGO!!!!!作的曲。活泼到了稍显迷乱的程度，但很适合炒热气氛——前提是她们不熟。"
             }
-        ]
+        ],
+        "atts": []
     },
     "50": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "满电的麦克风躺在茶几上，再没有保持沉默的借口了。这样的旋律。你们还在记着吗？"
             }
-        ]
+        ],
+        "atts": []
     },
     "51": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "说起来，我们第一次表演这首歌的时候，SNS里有观众想让我们在台上跳舞呢。"
             }
-        ]
+        ],
+        "atts": []
     },
     "52": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "人声伴唱大概是开到了最低。比原唱更低更硬的歌声在逼仄的空间里僵硬地驻留不去，说不上是立希技艺不佳，还是拒绝从这副嗓子里唱出谁的心意。"
             }
-        ]
+        ],
+        "atts": []
     },
     "53": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "但是太过熟悉了。从这样的旋律里调用歌词是一种机械工作。不可能会出错的。"
             }
-        ]
+        ],
+        "atts": []
     },
     "54": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希攥紧麦克风，事到如今还要强调自己单人唱K派的作风的话，未免有点太过风趣了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "55": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "咳、咳。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "56": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "冷风终归没放过任何一个衣着单薄的人，年轻不是椎名立希逃避惩罚的理由。更何况持卡人早已透支。"
             }
-        ]
+        ],
+        "atts": []
     },
     "57": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "喉咙里痒丝丝的沉默会给她的生活带来什么影响？虽然再这么唱下去明天恐怕会哑，但总也不至于比昨天、前天或今天还糟糕。"
             }
-        ]
+        ],
+        "atts": []
     },
     "58": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "最糟糕的应当是还有人牵挂着这副躯壳。"
             }
-        ]
+        ],
+        "atts": []
     },
     "59": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……"
             }
-        ]
+        ],
+        "atts": []
     },
     "60": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "没有更多的歌了。没有挽回或岔开的机会。熟悉的鼓点消失，鞋底依然低低地打着节拍，就仿佛又一场演出的例行solo环节。"
             }
-        ]
+        ],
+        "atts": []
     },
     "61": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "点歌机自动播放了版权库里的歌曲，没有人声的乐器安静地合奏，也不知道这样一首没有歌词的舞曲为什么会在一家卡拉OK的歌单里。"
             }
-        ]
+        ],
+        "atts": []
     },
     "62": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "总不会有人到这里坐着，想唱，却唱不出歌吧？"
             }
-        ]
+        ],
+        "atts": []
     },
     "63": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "人鱼抵押声音尚且能换来灵魂与为人的自由，她付了票钱，却只能看一只笨猫跳舞。谁听说过那劳什子Libertango啊？"
             }
-        ]
+        ],
+        "atts": []
     },
     "64": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "可是已经出窍的灵魂一时半会塞不回去。不唱歌的话，还有什么办法呢？"
             }
-        ]
+        ],
+        "atts": []
     },
     "65": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#ffffff'",
                 "text": "来跳一支舞吧？"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "font": "SourceHanSerifCN-SemiBold-7",
+                    "fontSize": 70,
+                    "letterSpacing": 4,
+                    "shadowColor": "#2a2a2a",
+                    "shadowDx": 4,
+                    "shadowDy": 4,
+                    "strokeColor": "#313131",
+                    "x": 555,
+                    "y": 175
+                },
+                {
+                    "font": {},
+                    "fontSize": {},
+                    "letterSpacing": {},
+                    "shadowColor": {},
+                    "shadowDx": {},
+                    "shadowDy": {},
+                    "strokeColor": {},
+                    "x": {},
+                    "y": {}
+                }
+            ],
+            "skipBox": [
+                {
+                    "alpha": 0,
+                    "x": 1860,
+                    "y": 1339
+                },
+                {
+                    "alpha": {},
+                    "x": {},
+                    "y": {}
+                }
+            ]
+        }
     },
     "66": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（说起来，素世下班这么晚，怎么还有闲心出来唱歌？照她的性子，晚上没有应酬不应该第一时间窝回阿姨的公寓里？）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "67": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（现在的工作很忙吧。）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "68": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（反正我是没有正经职业的家伙。）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "69": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#ffffff'",
                 "text": "来跳一支舞吧？"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "font": "SourceHanSerifCN-SemiBold-7",
+                    "fontSize": 70,
+                    "letterSpacing": 4,
+                    "shadowColor": "#2a2a2a",
+                    "shadowDx": 4,
+                    "shadowDy": 4,
+                    "strokeColor": "#313131",
+                    "x": 555,
+                    "y": 175
+                },
+                {
+                    "font": {},
+                    "fontSize": {},
+                    "letterSpacing": {},
+                    "shadowColor": {},
+                    "shadowDx": {},
+                    "shadowDy": {},
+                    "strokeColor": {},
+                    "x": {},
+                    "y": {}
+                }
+            ],
+            "skipBox": [
+                {
+                    "alpha": 0,
+                    "x": 1860,
+                    "y": 1339
+                },
+                {
+                    "alpha": {},
+                    "x": {},
+                    "y": {}
+                }
+            ]
+        }
     },
     "70": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "月之森这样的大小姐学校，是会办交谊舞会的吧。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "71": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（反正我是完全没学过这样“高雅”的运动的。要跳一支舞吗？）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "72": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#ffdd88'",
                 "text": "来跳一支舞吧？"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "font": "SourceHanSerifCN-SemiBold-7",
+                    "fontSize": 70,
+                    "letterSpacing": 4,
+                    "shadowColor": "#7777ff",
+                    "shadowDx": 4,
+                    "shadowDy": 4,
+                    "strokeColor": "#7777ff",
+                    "x": 555,
+                    "y": 175
+                },
+                {
+                    "font": {},
+                    "fontSize": {},
+                    "letterSpacing": {},
+                    "shadowColor": {},
+                    "shadowDx": {},
+                    "shadowDy": {},
+                    "strokeColor": {},
+                    "x": {},
+                    "y": {}
+                }
+            ],
+            "skipBox": [
+                {
+                    "alpha": 0,
+                    "x": 1897,
+                    "y": 1339
+                },
+                {
+                    "alpha": {},
+                    "x": {},
+                    "y": {}
+                }
+            ]
+        }
     },
     "73": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希摩挲着双手，好像有些汗，可是她明明并没有打鼓。"
             }
-        ]
+        ],
+        "atts": []
     },
     "74": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "已经放下的麦克风躺在沙发上，现在该做些什么？立刻起身照猫画虎地跳一支舞也太突兀了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "75": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "身旁坐着的人长叹一口气。素世站起来，绕了茶几一圈，拿起了立希的手机。"
             }
-        ]
+        ],
+        "atts": []
     },
     "76": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "进度条往回拨一点，可以吗？"
             }
-        ]
+        ],
+        "atts": []
     },
     "77": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "哦……哦。可以。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "78": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "歌声不能重来？没人这么规定过。想唱的歌，要唱的歌，无论几时都可以唱。稚嫩的青春重新响起来。"
             }
-        ]
+        ],
+        "atts": []
     },
     "79": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "素世绕回立希身边，坐下，递给她一支被椎名立希放下过的麦克风。"
             }
-        ]
+        ],
+        "atts": []
     },
     "80": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "唱吧。哑了就哑了。怕什么？我才不管你。"
             }
-        ]
+        ],
+        "atts": []
     },
     "81": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": {}
     },
     "82": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希不再去打量总说谎的朋友的神色。"
             }
-        ]
+        ],
+        "atts": []
     },
     "83": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "因为她知道，现在她说的全是真话。"
             }
-        ]
+        ],
+        "atts": []
     },
     "84": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "もうなにもかも 忘れて\n"
@@ -774,11 +980,21 @@
                 "html": "style='color:#FfFffF'",
                 "text": "干脆遗忘所有"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "fontSize": 50
+                },
+                {
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "85": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "今宵は シルエットダンス\n"
@@ -787,11 +1003,21 @@
                 "html": "style='color:#FfFffF'",
                 "text": "今宵 于影色下起舞"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "fontSize": 50
+                },
+                {
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "86": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "知らない 要らない 全然\n"
@@ -800,11 +1026,21 @@
                 "html": "style='color:#FfFffF'",
                 "text": "一无所知 亦无所求"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "fontSize": 50
+                },
+                {
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "87": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "なんの法則もなく\n"
@@ -813,11 +1049,21 @@
                 "html": "style='color:#FfFffF'",
                 "text": "不被任何法则束缚"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "fontSize": 50
+                },
+                {
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "88": {
         "speaker": "椎名立希&长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#ffdd88'",
                 "text": "ただ舞って舞う"
@@ -830,11 +1076,12 @@
                 "html": "style='color:#7777ff'",
                 "text": "只愿自由自在 肆意起舞"
             }
-        ]
+        ],
+        "atts": []
     },
     "89": {
         "speaker": "椎名立希&长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#7777ff'",
                 "text": "今日を称えて"
@@ -847,366 +1094,407 @@
                 "html": "style='color:#ffdd88'",
                 "text": "赞颂今日吧"
             }
-        ]
+        ],
+        "atts": []
     },
     "90": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "混入了轻柔的声音。今夜消散了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "91": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "素世，你会跳舞吗？"
             }
-        ]
+        ],
+        "atts": {}
     },
     "92": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "虽然素世从没提起过。她们都有很多没提起过的事。"
             }
-        ]
+        ],
+        "atts": []
     },
     "93": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "所以MyGO!!!!!还有很多很多可以一起做的“第一次”。"
             }
-        ]
+        ],
+        "atts": []
     },
     "94": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "23岁了还要把读过什么高中挂在嘴边，人生在16岁就暂停了吗？"
             }
-        ]
+        ],
+        "atts": []
     },
     "95": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "人声伴奏开到最大。摇滚乐队MyGO!!!!!主唱，高松灯的声音。稚嫩的、中性的、喷薄的、毫无章法的。"
             }
-        ]
+        ],
+        "atts": []
     },
     "96": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "调高点唱机里的人声，鞋底和地板寂寞的鼓点需要辽阔的出口。有人要打起节奏，有人要弹起节奏。"
             }
-        ]
+        ],
+        "atts": []
     },
     "97": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "说起来，今天小立希能乖乖留到现在，还挺令人意外的。"
             }
-        ]
+        ],
+        "atts": []
     },
     "98": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "什么——？我有点听不清！"
             }
-        ]
+        ],
+        "atts": {}
     },
     "99": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "歌声要停止了。歌声已经停止了。说过的话语却不会在点歌台上重播。"
             }
-        ]
+        ],
+        "atts": []
     },
     "100": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……"
             }
-        ]
+        ],
+        "atts": []
     },
     "101": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "没有下一首了。点歌机自动播放了版权库里的歌曲，没有人声的乐器安静地合奏，也不知道这样一首没有歌词的舞曲为什么会在一家KTV的歌单里。"
             }
-        ]
+        ],
+        "atts": []
     },
     "102": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "不会有人到这里坐着却唱不出歌。"
             }
-        ]
+        ],
+        "atts": []
     },
     "103": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "熟悉的鼓点消失，鞋底依然低低地打着节拍，就仿佛又一场演出的例行solo环节。"
             }
-        ]
+        ],
+        "atts": []
     },
     "104": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "这下椎名立希总算听清了。长崎素世叹了一口气，好长好重的一口气，比看见要乐奈满身枝叶和沙土、挂在树上下不来还要重的一口气。"
             }
-        ]
+        ],
+        "atts": []
     },
     "105": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "虽然要乐奈已经很久不那么做了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "106": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "所以椎名立希也应该从好多好多年前的鼓点里醒过来——她的叹息是这个意思吗？"
             }
-        ]
+        ],
+        "atts": []
     },
     "107": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": {}
     },
     "108": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "但是那个椎名立希难道会认输吗？鼓手已经走了足足七年歧路，没理由到了最后……几天，却高举双手投降。"
             }
-        ]
+        ],
+        "atts": []
     },
     "109": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "你刚刚说什么了来着？"
             }
-        ]
+        ],
+        "atts": {}
     },
     "110": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "小立希还有什么想做的吗？"
             }
-        ]
+        ],
+        "atts": []
     },
     "111": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……啊？"
             }
-        ]
+        ],
+        "atts": {}
     },
     "112": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（什么意思。觉得刚刚太吵了？可是现在歌放完了吧。反正也没人唱。）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "113": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "交流又回到问答的模式里来。椎名立希重启思考。"
             }
-        ]
+        ],
+        "atts": []
     },
     "114": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "一道灵光滑过去，理性伸出手，却还是任由无形的东西游走。但是理性总有它自己的可靠结论。"
             }
-        ]
+        ],
+        "atts": []
     },
     "115": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "不早了。不是不熬夜主义吗？太晚的话你一个人回去可能不安全。再说我也要赶电车。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "116": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "........."
             }
-        ]
+        ],
+        "atts": []
     },
     "117": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希忽然从她的脸上看不出与神情相匹配的笑意了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "118": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "现在几点了？"
             }
-        ]
+        ],
+        "atts": []
     },
     "119": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "啊？反正肯定不早了。我们来的时候就不早了。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "120": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "手机整齐地堆在茶几另一端，要想够到它们，不是站起来绕一大圈，就是狼狈地趴到桌子上。"
             }
-        ]
+        ],
+        "atts": []
     },
     "121": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "两者椎名立希都不想做。至于安安静静绑在左腕上的运动手环，椎名立希正尝试着戒掉看它的习惯。"
             }
-        ]
+        ],
+        "atts": []
     },
     "122": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "现在几点了？"
             }
-        ]
+        ],
+        "atts": []
     },
     "123": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "椎名立希站起身，绕了茶几一圈，抓起自己的手机。"
             }
-        ]
+        ],
+        "atts": []
     },
     "124": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "10点17。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "125": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "队长即使成年了也不算太高。饶是如此，站着的她落下阴影时，仍然能笼住一整个贝斯手，将她的目光挡得严严实实。"
             }
-        ]
+        ],
+        "atts": []
     },
     "126": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "素世抬头，望不见一板一眼的人目光里有任何闪动。与台前对着镁光灯的样子全然不同。"
             }
-        ]
+        ],
+        "atts": []
     },
     "127": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希站在原地等她。素世一把抓过包，干脆地起身。"
             }
-        ]
+        ],
+        "atts": []
     },
     "128": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "可以走了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "129": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": {}
     }
 }

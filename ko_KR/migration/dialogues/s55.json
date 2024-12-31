@@ -1,77 +1,82 @@
 {
-    "hash": "aafabab02f25e1de7b764066585c01288ae110ffe5341fb2727328a37e7955f6f5af7853f6cc2106429c5783f728e681e7b90795798b401f6b6f3a46c8bd6a2a",
-    "list": {
-        "0": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "后半段总感觉不够明快。"
-                }
-            ]
-        },
-        "1": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "和弦再加三度？换一个更简洁的riff？"
-                }
-            ]
-        },
-        "2": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "立希在铃声响起的瞬间关掉了闹钟。"
-                }
-            ]
-        },
-        "3": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "......"
-                }
-            ]
-        },
-        "4": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（状态好的时候不知不觉就工作太久。）"
-                }
-            ]
-        },
-        "5": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（也许这就叫做“不良生活习惯”。）"
-                }
-            ]
-        },
-        "6": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "下楼随便走走吧。"
-                }
-            ]
-        },
-        "7": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "带上从不离身的AirPods，立希在出门的时候为自己选了一首喜欢的歌。"
-                }
-            ]
-        }
+    "0": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "后半段总感觉不够明快。"
+            }
+        ],
+        "atts": {}
+    },
+    "1": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "和弦再加三度？换一个更简洁的riff？"
+            }
+        ],
+        "atts": {}
+    },
+    "2": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希在铃声响起的瞬间关掉了闹钟。"
+            }
+        ],
+        "atts": []
+    },
+    "3": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ],
+        "atts": {}
+    },
+    "4": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（状态好的时候不知不觉就工作太久。）"
+            }
+        ],
+        "atts": {}
+    },
+    "5": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（也许这就叫做“不良生活习惯”。）"
+            }
+        ],
+        "atts": {}
+    },
+    "6": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "下楼随便走走吧。"
+            }
+        ],
+        "atts": {}
+    },
+    "7": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "带上从不离身的AirPods，立希在出门的时候为自己选了一首喜欢的歌。"
+            }
+        ],
+        "atts": []
     }
 }

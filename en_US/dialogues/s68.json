@@ -1,1802 +1,2002 @@
 {
     "0": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "呃……抱歉。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "1": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "出门前一直在工作，没有来得及收拾。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "2": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（桌上都是乐谱和营养果冻。）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "3": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（电脑也没有关。）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "4": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "为什么要抱歉？"
             }
-        ]
+        ],
+        "atts": {}
     },
     "5": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "祥子盯着立希未完成的作品看了一会儿。"
             }
-        ]
+        ],
+        "atts": []
     },
     "6": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "祥子，你有带工程文件吗？"
             }
-        ]
+        ],
+        "atts": {}
     },
     "7": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "没有。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "8": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "随身携带很危险。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "9": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（很危险……）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "10": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（这家伙究竟在搞什么乐队。）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "11": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "祥子在编曲键盘前坐了下来。深吸了一口气。"
             }
-        ]
+        ],
+        "atts": []
     },
     "12": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "我会……把曲子记在脑海里。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "13": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "不过单用一只手会有些不方便。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "14": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": {}
     },
     "15": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "水在这里。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "16": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（她既不喝咖啡，也不喝茶。）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "17": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "谢谢。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "18": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……杯子和熊猫都很可爱。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "19": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（我在脸红什么……）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "20": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（又不是在夸我。）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "21": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "正如丰川祥子所说，乐句和节拍都在她的脑海里。"
             }
-        ]
+        ],
+        "atts": []
     },
     "22": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "经过轻微颤抖的指尖，乐声磕磕绊绊地冒出来。"
             }
-        ]
+        ],
+        "atts": []
     },
     "23": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "那也是一组熟悉的八六拍。"
             }
-        ]
+        ],
+        "atts": []
     },
     "24": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "怎么了？"
             }
-        ]
+        ],
+        "atts": {}
     },
     "25": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "祥子，你还好吗？"
             }
-        ]
+        ],
+        "atts": {}
     },
     "26": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……我没事。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "27": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "只是有点头晕。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "28": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "果然还是不要勉强吧？"
             }
-        ]
+        ],
+        "atts": {}
     },
     "29": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "家里没有退烧药，我现在就送你去医院。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "30": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": {}
     },
     "31": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "不行。我的……我们的时间不多。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "32": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "祥子拦住了立希。"
             }
-        ]
+        ],
+        "atts": []
     },
     "33": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "她撑着桌面站起来，皱眉看着屏幕右下角一分一秒流逝的时间。"
             }
-        ]
+        ],
+        "atts": []
     },
     "34": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "请和我换个位置。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "35": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希，你听好……"
             }
-        ]
+        ],
+        "atts": {}
     },
     "36": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……？"
             }
-        ]
+        ],
+        "atts": {}
     },
     "37": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "完成以后合同酬金分给你百分之六十。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "38": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "你这家伙……是不是烧糊涂了？"
             }
-        ]
+        ],
+        "atts": {}
     },
     "39": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "一支写给骑士文学赏的歌，3分30秒，有钢琴，有提琴。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "40": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "交响金属，你会怎么写？"
             }
-        ]
+        ],
+        "atts": {}
     },
     "41": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "骑士文学？交响金属？"
             }
-        ]
+        ],
+        "atts": {}
     },
     "42": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "对，中世纪的浪漫派诗人……"
             }
-        ]
+        ],
+        "atts": {}
     },
     "43": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "你好像觉得很奇怪。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "44": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……不会有比你更让我觉得奇怪的人和事了。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "45": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "祥子笑了，接着咳嗽起来。"
             }
-        ]
+        ],
+        "atts": []
     },
     "46": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "不止是手伤，她的身体状况非常糟糕。"
             }
-        ]
+        ],
+        "atts": []
     },
     "47": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "看着她弓起单薄的脊背调整困难的呼吸，立希紧张地捏紧了自己的指节。"
             }
-        ]
+        ],
+        "atts": []
     },
     "48": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "你必须去医院。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "49": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "你必须坐下，就在这里。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "50": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "旋律我已经写到收尾，剩下的是和声配器和打谱。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "51": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……我看电子屏幕会想吐，闭上眼睛就没事了。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "52": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "唉......"
             }
-        ]
+        ],
+        "atts": {}
     },
     "53": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "祥子把手搁在立希的肩膀上，紧紧抓着她衬衣的肩缝。"
             }
-        ]
+        ],
+        "atts": []
     },
     "54": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "我现在看起来好笑吗？"
             }
-        ]
+        ],
+        "atts": {}
     },
     "55": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "像个艺术家吗？"
             }
-        ]
+        ],
+        "atts": {}
     },
     "56": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（她在发抖。）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "57": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……你看起来像个病人。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "58": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "那就是艺术家。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "59": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "开始工作吧。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "60": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "等等…我去拿点东西给你冷敷。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "61": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "不等回应，立希起身匆忙离开房间。"
             }
-        ]
+        ],
+        "atts": []
     },
     "62": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "脚步声跨出门外、进入客厅，忽然停下来，又立刻因为翻找药品变得急躁。"
             }
-        ]
+        ],
+        "atts": []
     },
     "63": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "——雨水的潮气透进窗户，祥子放在椅背的手指因用力紧张而发白。"
             }
-        ]
+        ],
+        "atts": []
     },
     "64": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "好在立希很快就回来了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "65": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "谢谢……"
             }
-        ]
+        ],
+        "atts": {}
     },
     "66": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": {}
     },
     "67": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "我真的很好心，对吧？"
             }
-        ]
+        ],
+        "atts": {}
     },
     "68": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "祥子笑了笑，气氛放松下来。"
             }
-        ]
+        ],
+        "atts": []
     },
     "69": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "椎名立希在不完整的乐曲前坐好，深呼吸。"
             }
-        ]
+        ],
+        "atts": []
     },
     "70": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "装满灵感的大脑仿佛一座沸滚的铸炉，一边用冰水降温一边轰隆运转。"
             }
-        ]
+        ],
+        "atts": []
     },
     "71": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希将指尖搁到琴键上，冶剑者透过音符阅读着彼此的想法。"
             }
-        ]
+        ],
+        "atts": []
     },
     "72": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（E小调riff……旋律音在重拍之前，音程距离基本超过四度。）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "73": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（听感上不是什么光荣凯旋的“骑士”。）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "74": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（......）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "75": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（总之先从四部和声开始。）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "76": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（在结尾过渡一个挂和弦增加层次。）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "77": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（鼓组铺满。）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "78": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（主旋律就用铜管……）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "79": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": {}
     },
     "80": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "怎么了？"
             }
-        ]
+        ],
+        "atts": {}
     },
     "81": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "不，没事……"
             }
-        ]
+        ],
+        "atts": {}
     },
     "82": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希你，一直都在写歌吗？"
             }
-        ]
+        ],
+        "atts": {}
     },
     "83": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": {}
     },
     "84": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "抱歉，这个问题太失礼了。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "85": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "只是，你比我想象的要专业很多。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "86": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……谈不上一直有在写。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "87": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "都是为了乐队。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "88": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "MyGO也会用到交响编制吗？"
             }
-        ]
+        ],
+        "atts": {}
     },
     "89": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "这个……"
             }
-        ]
+        ],
+        "atts": {}
     },
     "90": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（当然不会。）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "91": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（节奏、旋律、和声，即使是乐队用不到的……不知何时也变得像是身体器官的一部分。）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "92": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（拍子的快慢、音高的起伏，乐器的共鸣……差不多占满了所有的生活。）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "93": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "祥子，下一段你想要怎么编？"
             }
-        ]
+        ],
+        "atts": {}
     },
     "94": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": {}
     },
     "95": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "我想要自由奔放的听感。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "96": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "开头是一片雾气，之后像有万丈金光洒下来，英雄踩着云彩登场。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "97": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "哈？"
             }
-        ]
+        ],
+        "atts": {}
     },
     "98": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": {}
     },
     "99": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（静谧幽微是#C到B的八度不和谐音。）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "100": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（神圣史诗是跨四度的大和弦。）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "101": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（英雄……）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "102": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "很好听。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "103": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……真的吗？"
             }
-        ]
+        ],
+        "atts": {}
     },
     "104": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "当然。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "105": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……谢谢。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "106": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "丰川祥子睁开了眼睛。"
             }
-        ]
+        ],
+        "atts": []
     },
     "107": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "她伸出左手，在midi键盘上奏响几个连音。"
             }
-        ]
+        ],
+        "atts": []
     },
     "108": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希按下右边的琴键，分毫不差地为她补足和弦。"
             }
-        ]
+        ],
+        "atts": []
     },
     "109": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "乐声自由流淌在昏暗的室内，月光斜斜地自窗外照进来。"
             }
-        ]
+        ],
+        "atts": []
     },
     "110": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "而专注的二人谁都没有留意。"
             }
-        ]
+        ],
+        "atts": []
     },
     "111": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": {}
     },
     "112": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "怎么了？"
             }
-        ]
+        ],
+        "atts": {}
     },
     "113": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "没什么。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "114": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "我只是忽然才意识到……"
             }
-        ]
+        ],
+        "atts": {}
     },
     "115": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "好久不见，立希。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "116": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "这样就可以了吗？"
             }
-        ]
+        ],
+        "atts": {}
     },
     "117": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "还需要把主旋律换成钢琴。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "118": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……我之后会负责自己的乐谱，所以现在应该算是完成了。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "119": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": {}
     },
     "120": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": {}
     },
     "121": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "第三掌骨轻微骨裂，固定好勉强可以弹。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "122": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "至于以后，要看康复训练。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "123": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（……“勉强”吗？）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "124": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "没人在关心你。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "125": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "是吗？"
             }
-        ]
+        ],
+        "atts": {}
     },
     "126": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "我以为都写在脸上了。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "127": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": {}
     },
     "128": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "祥子，我既没有资格，也没有立场要求你多保重自己。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "129": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希伸手帮祥子取下刚换上的冰敷巾。"
             }
-        ]
+        ],
+        "atts": []
     },
     "130": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（好像退烧了。）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "131": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "不……立希，是你的话一定能理解我的。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "132": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": {}
     },
     "133": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希，你觉得我是个商人，还是个乐手？"
             }
-        ]
+        ],
+        "atts": {}
     },
     "134": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "两者都是吧。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "135": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "这两者有什么区别呢。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "136": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": {}
     },
     "137": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "请把刚刚做好的曲子从头放一遍。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "138": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "将分层编织的乐谱订制为一个整体，立希按下播放键。"
             }
-        ]
+        ],
+        "atts": []
     },
     "139": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "祥子低声跟唱着旋律，神情认真而凝重。"
             }
-        ]
+        ],
+        "atts": []
     },
     "140": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希，你觉得怎么样？"
             }
-        ]
+        ],
+        "atts": {}
     },
     "141": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……很好。但不像是你。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "142": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "也不像是我。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "143": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "特别是……"
             }
-        ]
+        ],
+        "atts": {}
     },
     "144": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "特别是？"
             }
-        ]
+        ],
+        "atts": {}
     },
     "145": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "特别是最后“英雄登场”，金碧辉煌的那一段。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "146": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希，这是写给骑士文学赏的主题曲。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "147": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "所以呢？"
             }
-        ]
+        ],
+        "atts": {}
     },
     "148": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "骑士本人的想法和意志都不再重要，不是吗？"
             }
-        ]
+        ],
+        "atts": {}
     },
     "149": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……我明白了。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "150": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "不，立希。你不明白。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "151": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希，刚刚你说，你的曲子都是写给乐队的。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "152": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……是的。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "153": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "可是立希，你了解那么多不同流派的编曲。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "154": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "熟悉那么多不同的配器知识。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "155": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "耳机里无时无刻不在放着不同的摇滚乐。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "156": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": {}
     },
     "157": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希，你不靠音乐吃饭。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "158": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "说是为了乐队作曲，可是MyGO也几乎停止活动。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "159": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "你为什么还每天坐在这里，没日没夜地创作。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "160": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "MyGO是……"
             }
-        ]
+        ],
+        "atts": {}
     },
     "161": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "MyGO也只是、一个乐队。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "162": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": {}
     },
     "163": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "做音乐不像造房子，没有看得见的一平米一平米垒造的一砖一瓦。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "164": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "没有真正可学习的规则、方法。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "165": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "灵感？"
             }
-        ]
+        ],
+        "atts": {}
     },
     "166": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "即使对天才而言，也只是不断自我怀疑的痛苦中，偶现的一支麻醉剂。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "167": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "一万次的平庸中偶然有那么一个，一个小节。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "168": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……好好想想，立希。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "169": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "这每一天都是为了什么？"
             }
-        ]
+        ],
+        "atts": {}
     },
     "170": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "说到最后，虚弱但清晰的声音有些激动。"
             }
-        ]
+        ],
+        "atts": []
     },
     "171": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "椎名立希想要反驳，却找不出能够反驳的事实。"
             }
-        ]
+        ],
+        "atts": []
     },
     "172": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "局促中抬起手臂，桌面上空空的水杯被拂了下来。"
             }
-        ]
+        ],
+        "atts": []
     },
     "173": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": {}
     },
     "174": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "对不起，我不该带入太多个人情绪。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "175": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "不，祥子……你说的没错。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "176": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（当然是痛苦的，我早就知道。）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "177": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（即便是这样……）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "178": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "你说的都没错。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "179": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "但是，我根本没有想过这些问题。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "180": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "流血了，你的手指……。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "181": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "呃。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "182": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "椎名立希空着双手捡拾地毯上的碎片，左手无名指有处被玻璃划伤。"
             }
-        ]
+        ],
+        "atts": []
     },
     "183": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "祥子从外套口袋里找出什么，安静递到立希眼前。"
             }
-        ]
+        ],
+        "atts": []
     },
     "184": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "是一张普通的创口贴。"
             }
-        ]
+        ],
+        "atts": []
     },
     "185": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "在期待什么？"
             }
-        ]
+        ],
+        "atts": {}
     },
     "186": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……我没有。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "187": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（认识灯以后，已经很久没有见过普通的创口贴了。）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "188": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希，如果你总是受伤，你就需要自己准备自己的创口贴，不是吗？"
             }
-        ]
+        ],
+        "atts": {}
     },
     "189": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "天快亮了，祥子。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "190": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "你有什么想吃的吗？我还有……"
             }
-        ]
+        ],
+        "atts": {}
     },
     "191": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……酒，喝一点？"
             }
-        ]
+        ],
+        "atts": {}
     },
     "192": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "我不喝酒。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "193": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……有烟吗？"
             }
-        ]
+        ],
+        "atts": {}
     },
     "194": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "没有，戒了。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "195": {
         "speaker": "椎名立希&丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": {}
     },
     "196": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "在尴尬的寂静中彼此对视了两秒，不知是谁先笑起来。"
             }
-        ]
+        ],
+        "atts": []
     },
     "197": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "不过……现在出门没问题吗？"
             }
-        ]
+        ],
+        "atts": {}
     },
     "198": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（虽然附近巡逻的警察多得有点夸张。）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "199": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "那你保护我。"
             }
-        ]
+        ],
+        "atts": {}
     }
 }

@@ -1,263 +1,292 @@
 {
     "0": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "谁啊……"
             }
-        ]
+        ],
+        "atts": []
     },
     "1": {
         "speaker": "？？？",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "您好您好~！"
             }
-        ]
+        ],
+        "atts": []
     },
     "2": {
         "speaker": "？？？",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "哎呀哎呀可真是位美丽的小姐啊！噢您一个人住吗？好漂亮的玄关！您这么大的房子一定养了宠物吧？"
             }
-        ]
+        ],
+        "atts": []
     },
     "3": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "欸？啊、不……"
             }
-        ]
+        ],
+        "atts": []
     },
     "4": {
         "speaker": "？？？",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "啊真是失礼忘记自我介绍了，鄙人是做这个的……您知道吗？国内数一数二数三的宠物大品牌！"
             }
-        ]
+        ],
+        "atts": []
     },
     "5": {
         "speaker": "推销员",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "要给您家猫猫来一点我们最新推出的猫猫专用沐浴露吗？？洗完后会有抹茶香哦~~还有这个猫牌，桃木制的，可以刻猫猫和主人的名字哦！还有这个深海鱼油……"
             }
-        ]
+        ],
+        "atts": []
     },
     "6": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "等等等等给我等等——！！"
             }
-        ]
+        ],
+        "atts": []
     },
     "7": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "别上来就推销啊！而且我家没有养猫啊！！"
             }
-        ]
+        ],
+        "atts": []
     },
     "8": {
         "speaker": "推销员",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "啊啦，是这样吗？可是这附近只有您家的台阶上聚着好几只猫，我还以为……"
             }
-        ]
+        ],
+        "atts": []
     },
     "9": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "没有一只是我养的！以后也不会养的！！你可以走了，下次别再来了！！"
             }
-        ]
+        ],
+        "atts": []
     },
     "10": {
         "speaker": "推销员",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "啊请稍等，至少名片…………"
             }
-        ]
+        ],
+        "atts": []
     },
     "11": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "哈……"
             }
-        ]
+        ],
+        "atts": []
     },
     "12": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "什么啊，一大早就莫名其妙的。"
             }
-        ]
+        ],
+        "atts": []
     },
     "13": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "瞎说什么我家门口有不少猫……"
             }
-        ]
+        ],
+        "atts": []
     },
     "14": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "啧，黑猫白猫都不如熊猫，现在还是找到票最优先……"
             }
-        ]
+        ],
+        "atts": []
     },
     "15": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（哈？！还敢来？？）"
             }
-        ]
+        ],
+        "atts": []
     },
     "16": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "都！说！了！不需要啊————"
             }
-        ]
+        ],
+        "atts": []
     },
     "17": {
         "speaker": "要乐奈",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "什么不需要？"
             }
-        ]
+        ],
+        "atts": []
     },
     "18": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "欸乐——你怎么来了？？？"
             }
-        ]
+        ],
+        "atts": []
     },
     "19": {
         "speaker": "要乐奈",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "什么不需要？"
             }
-        ]
+        ],
+        "atts": []
     },
     "20": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "呃，没什么… 就是刚才有个推销宠物用品的缠人推销员，我还以为她又回来了……"
             }
-        ]
+        ],
+        "atts": []
     },
     "21": {
         "speaker": "要乐奈",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Rikki，要养猫？"
             }
-        ]
+        ],
+        "atts": []
     },
     "22": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "才不会养。"
             }
-        ]
+        ],
+        "atts": []
     },
     "23": {
         "speaker": "要乐奈",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "呼……"
             }
-        ]
+        ],
+        "atts": []
     },
     "24": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "乐奈弯腰从地板上捡起了一张名片。"
             }
-        ]
+        ],
+        "atts": []
     },
     "25": {
         "speaker": "要乐奈",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "骗人。"
             }
-        ]
+        ],
+        "atts": []
     },
     "26": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "服了，什么时候塞进来的啊那家伙！！"
             }
-        ]
+        ],
+        "atts": []
     },
     "27": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "唉，算了，你有什么事吗。呃，先进来再说吧。"
             }
-        ]
+        ],
+        "atts": []
     },
     "28": {
         "speaker": "要乐奈",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "嗯。"
             }
-        ]
+        ],
+        "atts": []
     }
 }

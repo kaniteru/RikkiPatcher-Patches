@@ -1,290 +1,358 @@
 {
     "0": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "하아, 하아…… 하……"
             }
-        ]
+        ],
+        "atts": []
     },
     "1": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "두드리고, 두드리고, 또 두드리고."
             }
-        ]
+        ],
+        "atts": []
     },
     "2": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "광란의 드럼 소리가 방 안에서 휘몰아쳤다."
             }
-        ]
+        ],
+        "atts": []
     },
     "3": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "심벌즈, 탐탐, 스네어, 베이스, 원래 질서 있게 유지되는 모든 파트들이 불규칙적으로 튀어나와, 곧바로 주변의 방음판에 의해 흡수되었다. 마치 강력한 펀치가 뼈 없이 부드러운 스펀지에 맞는 것처럼, 쏟아지는 분노와 무차별적인 폭력은 결국 헛된 것이었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "4": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "——스틱은 손목과 팔뚝의 힘으로 제어해야 한다. 어떤 음악 학원의 드럼 강사는 학생들에게 이렇게 가르쳐왔다."
             }
-        ]
+        ],
+        "atts": []
     },
     "5": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "하지만 지금 그 강사는 온몸의 모든 근육을 사용하여 이 견고한 음악의 요새를 공격하려 하고 있다."
             }
-        ]
+        ],
+        "atts": []
     },
     "6": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "비록 어둠 속에서도, 타키는 자신의 두 눈이 어지러움을 느끼고 있음을 알 수 있었다. 그녀의 귀는 자신의 숨소리 조차 들리지 않을 정도로 윙윙거렸고, 격렬하게 수축하는 폐와 차가운 공기에 긁히는 목구멍의 통증도 그녀의 평온한 심장 박동이 뼈를 통해 전달되는 것을 막을 수 없었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "7": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#ff0000'",
                 "text": "90"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "fontSize": 43
+                },
+                {
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "8": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "왜, 왜? 도대체 왜?"
             }
-        ]
+        ],
+        "atts": []
     },
     "9": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "원래대로라면 현재의 심박수로는 이렇게 큰 운동량을 감당할 수 없겠지만, 그녀의 심장은 다른 차원에 갇힌 것처럼, 그녀가 아무리 히스테리적으로 자신을 소모해도, 심장은 한쪽에서 냉정하게, 일정한 속도로만 뛰고 있었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "10": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "마치 그녀의 헛된 노력을 비웃는 것처럼."
             }
-        ]
+        ],
+        "atts": []
     },
     "11": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "하아, 하아, 하아아아아아——!!"
             }
-        ]
+        ],
+        "atts": []
     },
     "12": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "밀폐된 공간의 드럼에서, 가벼운 딸깍 소리는 전혀 들리지 않았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "13": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "드럼 스틱이 두동강났다."
             }
-        ]
+        ],
+        "atts": []
     },
     "14": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "두 번째."
             }
-        ]
+        ],
+        "atts": []
     },
     "15": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "세 번째."
             }
-        ]
+        ],
+        "atts": []
     },
     "16": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "........."
             }
-        ]
+        ],
+        "atts": []
     },
     "17": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "네 번째로 부러졌을 때, 타키의 손은 완전히 들리지 않았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "18": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그녀의 붉은 피가 얼마 전에 교체한 드럼 표면에 떨어졌다. 한방울, 두방울, 세방울. 마치 눈물을 흘리는 얼굴처럼."
             }
-        ]
+        ],
+        "atts": []
     },
     "19": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#ff0000'",
                 "text": "——소용없어."
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "fontSize": 43
+                },
+                {
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "20": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그 얼굴이 그녀에게 말했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "21": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "————!!"
             }
-        ]
+        ],
+        "atts": []
     },
     "22": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "피 묻은 주먹이 순간 탐탐의 표면을 뚫고 내부로 들어섰다. 내부는 매우 어둡고 차가웠으며, 아무것도 느껴지지 않았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "23": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#ff0000'",
                 "text": "——너도 소용없다는 걸 알고 있잖아."
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "fontSize": 43
+                },
+                {
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "24": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#ff0000'",
                 "text": "——그냥 오래전부터 이렇게 하고 싶었던 거잖아?"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "fontSize": 43
+                },
+                {
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "25": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 바닥에 주저앉았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "26": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그리고 부서진 드럼 아래로 몸을 웅크렸다."
             }
-        ]
+        ],
+        "atts": []
     },
     "27": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "드럼이 배치된 방은 매우 넓었고, 구석에 놓여 있었기에 드럼을 빼고 본다면 텅 비어있었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "28": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그 곳은 밴드의 모든 파트를 수용할 수 있을 만큼 충분히 컸다——네 개의 마이크 스탠드, 두 개의 스피커, 세 개의 이펙터 슬롯, 아마도 악보 스탠드 또한 충분히 들어갈 수 있을 정도로."
             }
-        ]
+        ],
+        "atts": []
     },
     "29": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "하지만 지금은 드럼만이 존재했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "30": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그리고 그 아래에 웅크리고 있는, 피로와 배고픔, 추위와 절망에 짓눌린 드러머와 함께."
             }
-        ]
+        ],
+        "atts": []
     },
     "31": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "정말…… 최악이야."
             }
-        ]
+        ],
+        "atts": []
     }
 }

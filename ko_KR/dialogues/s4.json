@@ -1,542 +1,602 @@
 {
     "0": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "안 돼, 아직도 이상해……"
             }
-        ]
+        ],
+        "atts": []
     },
     "1": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아논, 네가 간주에서 리프를 틀렸어!"
             }
-        ]
+        ],
+        "atts": []
     },
     "2": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그리고 소요, 전주가 느리고 후주는 빠르잖아. 악보를 보고 오긴 한거야?"
             }
-        ]
+        ],
+        "atts": []
     },
     "3": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "봤어… 근데……"
             }
-        ]
+        ],
+        "atts": []
     },
     "4": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "악보를 받았던 이틀 전은 평일이였고, 바로 주말에 연습하자고 하면 시간이 좀 빠듯해."
             }
-        ]
+        ],
+        "atts": []
     },
     "5": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이미 연주 난이도도 내가 조정해놨어. 이제 꽤 쉬워졌잖아."
             }
-        ]
+        ],
+        "atts": []
     },
     "6": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "저기… 리키, 사실 그렇게 많이 힘써줄 필요는 없어. 곡이 완성되면 그냥 보내줘도 괜찮아……"
             }
-        ]
+        ],
+        "atts": []
     },
     "7": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그런 반 밖에 완성되지 않은 걸 보내주면 무슨 소용이야? 지금 하고있는 게 가장 쉽게 연주할 수 있는 버전이란 말이야."
             }
-        ]
+        ],
+        "atts": []
     },
     "8": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이것마저 제대로 연습할 시간조차 나질 않는데, 미리 보내줘서 뭐하겠어?"
             }
-        ]
+        ],
+        "atts": []
     },
     "9": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "휴."
             }
-        ]
+        ],
+        "atts": []
     },
     "10": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "뭐야? 불만 있으면 말해."
             }
-        ]
+        ],
+        "atts": []
     },
     "11": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "저기… 타키쨩, 소요쨩……"
             }
-        ]
+        ],
+        "atts": []
     },
     "12": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "하하하!! 물론 불만 없지, 그렇지 소요링? 어차피 이건 신곡 첫 연습이잖아, 아직 연습할 수 있는 기회는 충분하다구……"
             }
-        ]
+        ],
+        "atts": []
     },
     "13": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "나중에? 나중에 언제?"
             }
-        ]
+        ],
+        "atts": []
     },
     "14": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "음… 시간은 스펀지 같으니까, 쥐어 짜면 나올 거야… 나, 나 다음 주 가능해! 토모링은?"
             }
-        ]
+        ],
+        "atts": []
     },
     "15": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "나는… 다음 주에 오프라인 독서회 몇 개 참석해야 해서, 미안해… 타키쨩."
             }
-        ]
+        ],
+        "atts": []
     },
     "16": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "괜찮아 괜찮아! 모두 각자 일이 있으니까… 그럼, 다다음 주는?"
             }
-        ]
+        ],
+        "atts": []
     },
     "17": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "미안, 2주 뒤에는 내가 홋카이도로 출장을 나가야 해서 힘들 거 같아."
             }
-        ]
+        ],
+        "atts": []
     },
     "18": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그럴 수 있지, 그럼 그 다음 주는? 내가 달력을 봐볼게. 어, 공휴일이네! 이 때 딱 좋네……"
             }
-        ]
+        ],
+        "atts": []
     },
     "19": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "앗! 그날은 내 클라이언트가 정해준 24시간 스트리밍 도전 미션이 있는 날이네… 하하."
             }
-        ]
+        ],
+        "atts": []
     },
     "20": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……"
             }
-        ]
+        ],
+        "atts": []
     },
     "21": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "서로 시간도 안 맞고, 가까운 시일 내에도 라이브 일정이 있는 것도 아니니깐, 각자 시간 내서 개인적으로 연습하면 어떨까 싶은데."
             }
-        ]
+        ],
+        "atts": []
     },
     "22": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "합주도 제대로 못하면서, 무슨 라이브? 지금 이 상태로 어떻게 무대 위로 올라가? 팬들한테 뭘 보여주려고?"
             }
-        ]
+        ],
+        "atts": []
     },
     "23": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "라이브 일정을 먼저 정해야 목표를 가지고 연습할 수 있을 거 같아……"
             }
-        ]
+        ],
+        "atts": []
     },
     "24": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그럼 라이브 일정은 언제로 정할 수 있는데?"
             }
-        ]
+        ],
+        "atts": []
     },
     "25": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "순간, 모든 사람이 침묵했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "26": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이건 누구도 확실히 말할 수 없는 일이었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "27": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아무도 약속을 지키지 못하게 될까 봐 쉽사리 제안하지 못했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "28": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "모르겠으면, 지금부터라도 제대로 연습하자——"
             }
-        ]
+        ],
+        "atts": []
     },
     "29": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "갑자기 어지럼증이 머리를 덮치며, 타키의 입에서 나오려 했던 날카로운 말마디가 막혀 사라졌다."
             }
-        ]
+        ],
+        "atts": []
     },
     "30": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "점점 빨라지는 심장 박동과 억제할 수 없는 근육 경련이 함께 나타나며."
             }
-        ]
+        ],
+        "atts": []
     },
     "31": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키쨩… 괜찮아?"
             }
-        ]
+        ],
+        "atts": []
     },
     "32": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "리키, 안색이 별로 안 좋아 보여… 나 열심히 연습할테니깐 화내지 마……"
             }
-        ]
+        ],
+        "atts": []
     },
     "33": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "너 또 밤 샌거야?"
             }
-        ]
+        ],
+        "atts": []
     },
     "34": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "자신의 상태가 어떻게 보일지 깨달은 타키는 재빨리 정신을 차렸다."
             }
-        ]
+        ],
+        "atts": []
     },
     "35": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아… 응, 미안, 잠깐 멍했어, 별 거 아니야."
             }
-        ]
+        ],
+        "atts": []
     },
     "36": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "오늘은 여기까지 할까? 라나쨩도 언제 나갔는지 사라졌고, 파트 하나가 빠지면 합주도 제대로 안되니깐."
             }
-        ]
+        ],
+        "atts": []
     },
     "37": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "뭐? 누가 맘대로——"
             }
-        ]
+        ],
+        "atts": []
     },
     "38": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "——또 다시 심장에서의 찌릿한 통증이 타키의 항의를 멈추게 했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "39": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 소요가 그녀를 걱정하면서도 화난 눈빛으로 바라 보고 있다는 걸 눈치챘다, 그런 태도가 타키를 더욱 굴욕스럽게 만들었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "40": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "모두 시간이 잘 맞으면 좋겠지만, 맞추기 어려우면 천천히 해도 괜찮아, 어차피……"
             }
-        ]
+        ],
+        "atts": []
     },
     "41": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "——우린 그냥 아마추어 밴드니까."
             }
-        ]
+        ],
+        "atts": []
     },
     "42": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그녀는 그 끝마디를 말하지 않고 속으로 삼켰지만, 타키는 그녀가 무엇을 말하려 했는지 알고 있었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "43": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그럼, 지난번 합주 이후 몇 달 동안 아무것도 한게 없는거네? 그렇다면 연습을 1년에 한 번, 라이브를 2년에 한 번 해도 된다는 말이야? 애초에 명확한 목표도 없잖아."
             }
-        ]
+        ],
+        "atts": []
     },
     "44": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이런 식으로 너와 싸우고 싶지 않아."
             }
-        ]
+        ],
+        "atts": []
     },
     "45": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "누가 싸우자고 했어? 난 그냥——"
             }
-        ]
+        ],
+        "atts": []
     },
     "46": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "밴드를 유지하는 방법이 너 하나를 희생하는 것만 있는 건 아니야."
             }
-        ]
+        ],
+        "atts": []
     },
     "47": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "…나도 소요쨩의 말에 동의해."
             }
-        ]
+        ],
+        "atts": []
     },
     "48": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키쨩, 나도 네가 희생하면서까지 MyGO의 활동을 유지하는 건 원치 않아."
             }
-        ]
+        ],
+        "atts": []
     },
     "49": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "합주도 하고, 라이브도 할 수 있으면 좋겠지."
             }
-        ]
+        ],
+        "atts": []
     },
     "50": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "하지만 당장은 기회가 없더라도, 당장 서로 마음이 맞지 않는다고 해도 앞으로의 우리 사이가 멀어질 일은 없을거야."
             }
-        ]
+        ],
+        "atts": []
     },
     "51": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "어쨌든… 우린 이렇게 오랜 시간을 함께 해왔잖아."
             }
-        ]
+        ],
+        "atts": []
     },
     "52": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "………………"
             }
-        ]
+        ],
+        "atts": []
     },
     "53": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……………"
             }
-        ]
+        ],
+        "atts": []
     },
     "54": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그치, 그치! 가끔씩 다 같이 이렇게 모이기만 해도 정말 즐겁단 말이야!"
             }
-        ]
+        ],
+        "atts": []
     },
     "55": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아, 참. 근처에 새로 생긴 스키야키 가게가 있는데, 같이 가보지 않을래?"
             }
-        ]
+        ],
+        "atts": []
     },
     "56": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "오늘 밤에는 약속이 있어서, 난 힘들 거 같아."
             }
-        ]
+        ],
+        "atts": []
     },
     "57": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "난 오늘 밤에 부모님이 오셔서……"
             }
-        ]
+        ],
+        "atts": []
     },
     "58": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "괜찮아, 괜찮아. 그럼 리…… 다음번에 라나가 컨디션 좋을 때 다 같이 가보는 걸로 하자!"
             }
-        ]
+        ],
+        "atts": []
     },
     "59": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "………………"
             }
-        ]
+        ],
+        "atts": []
     }
 }

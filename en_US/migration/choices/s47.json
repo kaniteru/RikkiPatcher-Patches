@@ -1,7 +1,8 @@
 {
-    "hash": "351e1b41908fb72216de62db1bbf189de05840f0be1e126ef84669e26bfcbdd8664dde97aa189c64888da92e9cadbf676d7cd8ab55b2fbe2c56afecdf5c0fff8",
-    "list": {
-        "1": "继续找围巾",
-        "2": "赶紧走吧"
+    "1": {
+        "text": "继续找围巾"
+    },
+    "2": {
+        "text": "赶紧走吧"
     }
 }

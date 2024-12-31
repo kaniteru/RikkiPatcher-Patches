@@ -1,623 +1,717 @@
 {
-    "hash": "000e31fc8c30be3c6ac9dffd80a23e89c05dedc723f7427b875eaa4b0cc7627bc9db9a49ade6d0c8a8c23d34de5c949db0d58ce0c2fe90a61fe8021a94d54502",
-    "list": {
-        "0": {
-            "speaker": "",
-            "dialogue": [
+    "0": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "她在车站中狂奔。"
+            }
+        ],
+        "atts": []
+    },
+    "1": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "鞋跟撞击地面的声音在空旷的车站内反复回响，咯咯、咯咯，像是惊醒了某种黑暗中潜伏的怪物。"
+            }
+        ],
+        "atts": []
+    },
+    "2": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "突兀的想象令她不寒而栗，她胡乱脱开皮鞋，光脚踏在冰凉的水泥地上。落在身后的鞋子很快被阴影吞没。"
+            }
+        ],
+        "atts": []
+    },
+    "3": {
+        "speaker": "？？？",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "她抵达了月台，这里本是她最熟悉的车站。指示屏、贩卖机、便利店，所有东西都和往常一样原封不动。"
+            }
+        ],
+        "atts": []
+    },
+    "4": {
+        "speaker": "？？？",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "只是这里除了她没有任何人。"
+            }
+        ],
+        "atts": []
+    },
+    "5": {
+        "speaker": "？？？",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "站台上悬挂着一枚停滞的时钟，指针即将走向0，她知道，那是她所剩无几的寿命。"
+            }
+        ],
+        "atts": []
+    },
+    "6": {
+        "speaker": "？？？",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "那只该死的东西——消失前留下的那番毫无感情色彩的话——要么留在此地拥抱永恒的生命与孤寂，要么就回到现实面对那木已成舟的结局。"
+            }
+        ],
+        "atts": []
+    },
+    "7": {
+        "speaker": "？？？",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "正因不想让爱着自己的人目睹自己的结局，她才会逃离医院，闯进这座受诅咒的车站。"
+            }
+        ],
+        "atts": []
+    },
+    "8": {
+        "speaker": "？？？",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "她痛恨命中注定的死亡，所以哪怕知道结局不会改变，她也想用这双眼睛亲自见证另外一种选择。"
+            }
+        ],
+        "atts": []
+    },
+    "9": {
+        "speaker": "？？？",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "漆黑空洞的隧道里又传来那种不祥的咯咯声，有什么庞然大物正从最深处向她袭来。"
+            }
+        ],
+        "atts": []
+    },
+    "10": {
+        "speaker": "？？？",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "咯咯声逐渐变成震耳欲聋的轰鸣，她心跳被盖过，像死了一样。"
+            }
+        ],
+        "atts": []
+    },
+    "11": {
+        "speaker": "？？？",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "现在这样，真的是正确的吗？"
+            }
+        ],
+        "atts": []
+    },
+    "12": {
+        "speaker": "？？？",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "伴随着一阵令人头晕目眩的光亮，电车破洞而出，像有自我意识般在她面前停靠。"
+            }
+        ],
+        "atts": []
+    },
+    "13": {
+        "speaker": "？？？",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "这是最后的反悔时机了，她必须做出抉择。"
+            }
+        ],
+        "atts": []
+    },
+    "14": {
+        "speaker": "？？？",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "但她的双脚被钉在原地，无力动弹。"
+            }
+        ],
+        "atts": []
+    },
+    "15": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "车门在蒸汽声中徐徐打开，迎接她的却是那东西——那只该死的黑猫。"
+            }
+        ],
+        "atts": []
+    },
+    "16": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": " "
+            },
+            {
+                "html": "style='color:#db0b0b'",
+                "text": "An incarnate nightmare that I had no power to shake off."
+            },
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "\n"
+            },
+            {
+                "html": "style='color:#db0b0b'",
+                "text": "              那个我没有办法摆脱的，噩梦的化身。"
+            }
+        ],
+        "atts": {
+            "dialog": [
                 {
-                    "html": "style='color:#FfFffF'",
-                    "text": "她在车站中狂奔。"
-                }
-            ]
-        },
-        "1": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "鞋跟撞击地面的声音在空旷的车站内反复回响，咯咯、咯咯，像是惊醒了某种黑暗中潜伏的怪物。"
-                }
-            ]
-        },
-        "2": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "突兀的想象令她不寒而栗，她胡乱脱开皮鞋，光脚踏在冰凉的水泥地上。落在身后的鞋子很快被阴影吞没。"
-                }
-            ]
-        },
-        "3": {
-            "speaker": "？？？",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "她抵达了月台，这里本是她最熟悉的车站。指示屏、贩卖机、便利店，所有东西都和往常一样原封不动。"
-                }
-            ]
-        },
-        "4": {
-            "speaker": "？？？",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "只是这里除了她没有任何人。"
-                }
-            ]
-        },
-        "5": {
-            "speaker": "？？？",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "站台上悬挂着一枚停滞的时钟，指针即将走向0，她知道，那是她所剩无几的寿命。"
-                }
-            ]
-        },
-        "6": {
-            "speaker": "？？？",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "那只该死的东西——消失前留下的那番毫无感情色彩的话——要么留在此地拥抱永恒的生命与孤寂，要么就回到现实面对那木已成舟的结局。"
-                }
-            ]
-        },
-        "7": {
-            "speaker": "？？？",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "正因不想让爱着自己的人目睹自己的结局，她才会逃离医院，闯进这座受诅咒的车站。"
-                }
-            ]
-        },
-        "8": {
-            "speaker": "？？？",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "她痛恨命中注定的死亡，所以哪怕知道结局不会改变，她也想用这双眼睛亲自见证另外一种选择。"
-                }
-            ]
-        },
-        "9": {
-            "speaker": "？？？",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "漆黑空洞的隧道里又传来那种不祥的咯咯声，有什么庞然大物正从最深处向她袭来。"
-                }
-            ]
-        },
-        "10": {
-            "speaker": "？？？",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "咯咯声逐渐变成震耳欲聋的轰鸣，她心跳被盖过，像死了一样。"
-                }
-            ]
-        },
-        "11": {
-            "speaker": "？？？",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "现在这样，真的是正确的吗？"
-                }
-            ]
-        },
-        "12": {
-            "speaker": "？？？",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "伴随着一阵令人头晕目眩的光亮，电车破洞而出，像有自我意识般在她面前停靠。"
-                }
-            ]
-        },
-        "13": {
-            "speaker": "？？？",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "这是最后的反悔时机了，她必须做出抉择。"
-                }
-            ]
-        },
-        "14": {
-            "speaker": "？？？",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "但她的双脚被钉在原地，无力动弹。"
-                }
-            ]
-        },
-        "15": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "车门在蒸汽声中徐徐打开，迎接她的却是那东西——那只该死的黑猫。"
-                }
-            ]
-        },
-        "16": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": " "
+                    "font": "DGY",
+                    "fontSize": 40,
+                    "leading": 20,
+                    "letterSpacing": 1,
+                    "x": 185,
+                    "y": 625
                 },
                 {
-                    "html": "style='color:#db0b0b'",
-                    "text": "An incarnate nightmare that I had no power to shake off."
+                    "font": {},
+                    "fontSize": {},
+                    "leading": {},
+                    "letterSpacing": {},
+                    "x": {},
+                    "y": {}
+                }
+            ],
+            "skipBox": [
+                {
+                    "alpha": 0,
+                    "x": 1693,
+                    "y": 1206
                 },
                 {
-                    "html": "style='color:#FfFffF'",
-                    "text": "\n"
-                },
-                {
-                    "html": "style='color:#db0b0b'",
-                    "text": "              那个我没有办法摆脱的，噩梦的化身。"
-                }
-            ]
-        },
-        "17": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "这一刻，她终于意识到了自己究竟会去往何方。"
-                }
-            ]
-        },
-        "18": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "她命中注定要来到这里。"
-                }
-            ]
-        },
-        "19": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "……唔，故事到这里就结束了。"
-                }
-            ]
-        },
-        "20": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "我也是第一次完整读完这部小说呢，原来是一个开放式结局啊。"
-                }
-            ]
-        },
-        "21": {
-            "speaker": "评论",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "【虽然一开始的氛围挺吓人的，但不知道为什么听主播读总有种喜感……】\n"
-                },
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "【下次能念同人文吗？】\n"
-                },
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "【non最后唐突秀老伦敦英腔，大草】"
-                }
-            ]
-        },
-        "22": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "为什么都在吐槽我啊！就没有关于故事的感想吗！"
-                }
-            ]
-        },
-        "23": {
-            "speaker": "评论",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "【总觉得文中的黑猫比起不祥的象征，更像是一种引导者的存在呢】\n"
-                },
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "【要说恐怖好像除了黑猫和迷之寿命暗示之外也没有出现别的灵异现象，到头来还是聚焦于主人公的心理恐怖吧】【感觉主人公单纯是个精神病吧……】"
-                }
-            ]
-        },
-        "24": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "大家听得好仔细啊……总而言之，当红恐怖怪谈小说——《猫与如月车站》正在火热发售中，喜欢的观众们也可以自行入手一本品读哦，肯定和主播念的有别样的风味啦！链接放在评论区，点击即可领优惠券…………"
-                }
-            ]
-        },
-        "25": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "……"
-                }
-            ]
-        },
-        "26": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "关掉直播网页后，立希长叹一口气，瘫倒在了椅背上。"
-                }
-            ]
-        },
-        "27": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "房间窗帘紧闭，十分昏暗，刺眼的电脑屏幕上充斥着以“黑猫”、“倒计时”等为关键词的搜索网页，因为数量太多，标签栏挤作了一团，具体的标题已然残缺不清。"
-                }
-            ]
-        },
-        "28": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（那串倒计时……究竟是什么东西……）"
-                }
-            ]
-        },
-        "29": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "立希不记得在浴室见到那番景象后具体发生了什么。等她回过神来时，已经坐在桌前发疯般检索相关信息了。"
-                }
-            ]
-        },
-        "30": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "不管如何，爱音的视频还是把她从混乱中拉了回来。"
-                }
-            ]
-        },
-        "31": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "毕竟能把那样诡异的文本念得像睡前故事般平稳和滑稽，虽然招致了观众的吐槽，但对于目前深陷超自然现象中的人来说，的确宛如镇定剂般令人安心。"
-                }
-            ]
-        },
-        "32": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "可立希的思绪依旧一团乱麻。呕吐以及惊吓导致的糟糕余韵亦始终如影随形。"
-                }
-            ]
-        },
-        "33": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "将梦中黑猫的话与爱音刚刚所讲的那个故事重叠在一起，相似性呼之欲出。"
-                }
-            ]
-        },
-        "34": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "同样的黑猫、同样的重重谜云、同样的迷失以及同样的关于时间和死亡的命题……"
-                }
-            ]
-        },
-        "35": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "虽说用小说来解释现实着实有些荒谬，可无奈当下压根找不到一个可靠答案，所以她暂且也只能将这虚拟当作为数不多的依凭。"
-                }
-            ]
-        },
-        "36": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（整整十天。这个数字难道有什么特别的含义吗？说起来刚刚也查到有部叫作《余命10年》的电影，会有什么联系吗……）"
-                }
-            ]
-        },
-        "37": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（不……没有任何证据能够证明这个倒计时与死亡有关，只是恰好在我不适的时候出现，所以才会引发这些联想……）"
-                }
-            ]
-        },
-        "38": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（唉，坐在这纠结也只是浪费时间，手边能做的事……今天先请个假吧。）"
-                }
-            ]
-        },
-        "39": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "拉开窗帘，晨光顿时洒落入内。对于习惯熬夜的人而言，这样的光让人有些不适，她眯起眼睛适应了好一会。"
-                }
-            ]
-        },
-        "40": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "推开窗，急雨后的薄凉空气带着几分馥郁，沁人心脾。"
-                }
-            ]
-        },
-        "41": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "叽叽喳喳的鸟叫和汽车行驶过的噪音将城市的生命力灌进死气沉沉的房间，多少治愈了饱受一夜折磨的立希，她不禁深吸一口气，享受片刻的平静。"
-                }
-            ]
-        },
-        "42": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "就在这时，一阵喧闹声从窗外传来。"
-                }
-            ]
-        },
-        "43": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "视线下落，只见背着乐器、穿着制服的高中生一边嬉闹，一边匆匆跑过街道。"
-                }
-            ]
-        },
-        "44": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "指针走过九点，第一堂课已经开始了。"
-                }
-            ]
-        },
-        "45": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "立希几乎没有在早晨的这个时间观察过窗外的事物，在平时这个点不是早就出门上班，就是还在床上补觉，自然不知道这群高中生几乎每天都会从她楼下经过。"
-                }
-            ]
-        },
-        "46": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（这附近原来是有高中的啊……）"
-                }
-            ]
-        },
-        "47": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "喧闹逐渐消失在街道尽头，立希怔怔地想起很久很久之前，在爱音家的那次聚会。"
-                }
-            ]
-        },
-        "48": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "演出前的准备总是那么匆忙，她们通宵达旦地赶制服饰，导致第二天睡过头，不得不狼狈地朝着各自的学校赶去的场景。"
-                }
-            ]
-        },
-        "49": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "在内心极度脆弱的时刻，物是人非的感慨总是具有侵略性。"
-                }
-            ]
-        },
-        "50": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "她们经历了太多，很多东西都变了，但也有些一如既往，还有些则正在消逝。"
-                }
-            ]
-        },
-        "51": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "…………？"
-                }
-            ]
-        },
-        "52": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "某种异样感打断了她。面对如此平静的景象，她的心却好似一刻也静不下来。"
-                }
-            ]
-        },
-        "53": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "她继续深呼吸，试图平复心情。然而，她发现，这种心慌的源头，似乎不是心理意义上的心情，而是生理上的“心”。"
-                }
-            ]
-        },
-        "54": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "她伸手摁在前胸，胸骨下的颤动明显而激烈，像是能触到心脏的轮廓。"
-                }
-            ]
-        },
-        "55": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "冷汗划过脸颊，紧张感再度将她包裹。"
-                }
-            ]
-        },
-        "56": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（要是Live刚结束的时候还说得过去，可我明明什么也没干，为什么会……）"
-                }
-            ]
-        },
-        "57": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "她攥紧五指，紧闭双眼，再次企图平复心跳。"
-                }
-            ]
-        },
-        "58": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "可越是刻意去平复，就越是徒劳。"
-                }
-            ]
-        },
-        "59": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（……也许是因为刚刚的那篇小说吧。）"
-                }
-            ]
-        },
-        "60": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "回忆着方才那存于字里行间的诡异，立希企图借此说服自己。"
-                }
-            ]
-        },
-        "61": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "......"
-                }
-            ]
-        },
-        "62": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "——进入倒计时的或许不止一样东西。"
-                }
-            ]
-        },
-        "63": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "这个想法突兀地冒出，立希发现自己心中的恐惧和慌乱被一种更加深层次的虚无感冲淡。"
-                }
-            ]
-        },
-        "64": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "窗户上自己的倒影中，一串数字仍在跳动着。"
-                }
-            ]
-        },
-        "65": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "她咂了咂舌，哗地拉上窗帘，让窗户就那样开着，转身离去。"
+                    "alpha": {},
+                    "x": {},
+                    "y": {}
                 }
             ]
         }
+    },
+    "17": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "这一刻，她终于意识到了自己究竟会去往何方。"
+            }
+        ],
+        "atts": []
+    },
+    "18": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "她命中注定要来到这里。"
+            }
+        ],
+        "atts": []
+    },
+    "19": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……唔，故事到这里就结束了。"
+            }
+        ],
+        "atts": []
+    },
+    "20": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我也是第一次完整读完这部小说呢，原来是一个开放式结局啊。"
+            }
+        ],
+        "atts": []
+    },
+    "21": {
+        "speaker": "评论",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "【虽然一开始的氛围挺吓人的，但不知道为什么听主播读总有种喜感……】\n"
+            },
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "【下次能念同人文吗？】\n"
+            },
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "【non最后唐突秀老伦敦英腔，大草】"
+            }
+        ],
+        "atts": []
+    },
+    "22": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "为什么都在吐槽我啊！就没有关于故事的感想吗！"
+            }
+        ],
+        "atts": []
+    },
+    "23": {
+        "speaker": "评论",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "【总觉得文中的黑猫比起不祥的象征，更像是一种引导者的存在呢】\n"
+            },
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "【要说恐怖好像除了黑猫和迷之寿命暗示之外也没有出现别的灵异现象，到头来还是聚焦于主人公的心理恐怖吧】【感觉主人公单纯是个精神病吧……】"
+            }
+        ],
+        "atts": []
+    },
+    "24": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "大家听得好仔细啊……总而言之，当红恐怖怪谈小说——《猫与如月车站》正在火热发售中，喜欢的观众们也可以自行入手一本品读哦，肯定和主播念的有别样的风味啦！链接放在评论区，点击即可领优惠券…………"
+            }
+        ],
+        "atts": []
+    },
+    "25": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……"
+            }
+        ],
+        "atts": []
+    },
+    "26": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "关掉直播网页后，立希长叹一口气，瘫倒在了椅背上。"
+            }
+        ],
+        "atts": []
+    },
+    "27": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "房间窗帘紧闭，十分昏暗，刺眼的电脑屏幕上充斥着以“黑猫”、“倒计时”等为关键词的搜索网页，因为数量太多，标签栏挤作了一团，具体的标题已然残缺不清。"
+            }
+        ],
+        "atts": []
+    },
+    "28": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（那串倒计时……究竟是什么东西……）"
+            }
+        ],
+        "atts": []
+    },
+    "29": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希不记得在浴室见到那番景象后具体发生了什么。等她回过神来时，已经坐在桌前发疯般检索相关信息了。"
+            }
+        ],
+        "atts": []
+    },
+    "30": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "不管如何，爱音的视频还是把她从混乱中拉了回来。"
+            }
+        ],
+        "atts": []
+    },
+    "31": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "毕竟能把那样诡异的文本念得像睡前故事般平稳和滑稽，虽然招致了观众的吐槽，但对于目前深陷超自然现象中的人来说，的确宛如镇定剂般令人安心。"
+            }
+        ],
+        "atts": []
+    },
+    "32": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "可立希的思绪依旧一团乱麻。呕吐以及惊吓导致的糟糕余韵亦始终如影随形。"
+            }
+        ],
+        "atts": []
+    },
+    "33": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "将梦中黑猫的话与爱音刚刚所讲的那个故事重叠在一起，相似性呼之欲出。"
+            }
+        ],
+        "atts": []
+    },
+    "34": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "同样的黑猫、同样的重重谜云、同样的迷失以及同样的关于时间和死亡的命题……"
+            }
+        ],
+        "atts": []
+    },
+    "35": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "虽说用小说来解释现实着实有些荒谬，可无奈当下压根找不到一个可靠答案，所以她暂且也只能将这虚拟当作为数不多的依凭。"
+            }
+        ],
+        "atts": []
+    },
+    "36": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（整整十天。这个数字难道有什么特别的含义吗？说起来刚刚也查到有部叫作《余命10年》的电影，会有什么联系吗……）"
+            }
+        ],
+        "atts": []
+    },
+    "37": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（不……没有任何证据能够证明这个倒计时与死亡有关，只是恰好在我不适的时候出现，所以才会引发这些联想……）"
+            }
+        ],
+        "atts": []
+    },
+    "38": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（唉，坐在这纠结也只是浪费时间，手边能做的事……今天先请个假吧。）"
+            }
+        ],
+        "atts": []
+    },
+    "39": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "拉开窗帘，晨光顿时洒落入内。对于习惯熬夜的人而言，这样的光让人有些不适，她眯起眼睛适应了好一会。"
+            }
+        ],
+        "atts": []
+    },
+    "40": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "推开窗，急雨后的薄凉空气带着几分馥郁，沁人心脾。"
+            }
+        ],
+        "atts": []
+    },
+    "41": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "叽叽喳喳的鸟叫和汽车行驶过的噪音将城市的生命力灌进死气沉沉的房间，多少治愈了饱受一夜折磨的立希，她不禁深吸一口气，享受片刻的平静。"
+            }
+        ],
+        "atts": []
+    },
+    "42": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "就在这时，一阵喧闹声从窗外传来。"
+            }
+        ],
+        "atts": []
+    },
+    "43": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "视线下落，只见背着乐器、穿着制服的高中生一边嬉闹，一边匆匆跑过街道。"
+            }
+        ],
+        "atts": []
+    },
+    "44": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "指针走过九点，第一堂课已经开始了。"
+            }
+        ],
+        "atts": []
+    },
+    "45": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希几乎没有在早晨的这个时间观察过窗外的事物，在平时这个点不是早就出门上班，就是还在床上补觉，自然不知道这群高中生几乎每天都会从她楼下经过。"
+            }
+        ],
+        "atts": []
+    },
+    "46": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（这附近原来是有高中的啊……）"
+            }
+        ],
+        "atts": []
+    },
+    "47": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "喧闹逐渐消失在街道尽头，立希怔怔地想起很久很久之前，在爱音家的那次聚会。"
+            }
+        ],
+        "atts": []
+    },
+    "48": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "演出前的准备总是那么匆忙，她们通宵达旦地赶制服饰，导致第二天睡过头，不得不狼狈地朝着各自的学校赶去的场景。"
+            }
+        ],
+        "atts": []
+    },
+    "49": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "在内心极度脆弱的时刻，物是人非的感慨总是具有侵略性。"
+            }
+        ],
+        "atts": []
+    },
+    "50": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "她们经历了太多，很多东西都变了，但也有些一如既往，还有些则正在消逝。"
+            }
+        ],
+        "atts": []
+    },
+    "51": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "…………？"
+            }
+        ],
+        "atts": []
+    },
+    "52": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "某种异样感打断了她。面对如此平静的景象，她的心却好似一刻也静不下来。"
+            }
+        ],
+        "atts": []
+    },
+    "53": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "她继续深呼吸，试图平复心情。然而，她发现，这种心慌的源头，似乎不是心理意义上的心情，而是生理上的“心”。"
+            }
+        ],
+        "atts": []
+    },
+    "54": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "她伸手摁在前胸，胸骨下的颤动明显而激烈，像是能触到心脏的轮廓。"
+            }
+        ],
+        "atts": []
+    },
+    "55": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "冷汗划过脸颊，紧张感再度将她包裹。"
+            }
+        ],
+        "atts": []
+    },
+    "56": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（要是Live刚结束的时候还说得过去，可我明明什么也没干，为什么会……）"
+            }
+        ],
+        "atts": []
+    },
+    "57": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "她攥紧五指，紧闭双眼，再次企图平复心跳。"
+            }
+        ],
+        "atts": []
+    },
+    "58": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "可越是刻意去平复，就越是徒劳。"
+            }
+        ],
+        "atts": []
+    },
+    "59": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（……也许是因为刚刚的那篇小说吧。）"
+            }
+        ],
+        "atts": []
+    },
+    "60": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "回忆着方才那存于字里行间的诡异，立希企图借此说服自己。"
+            }
+        ],
+        "atts": []
+    },
+    "61": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ],
+        "atts": []
+    },
+    "62": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "——进入倒计时的或许不止一样东西。"
+            }
+        ],
+        "atts": []
+    },
+    "63": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "这个想法突兀地冒出，立希发现自己心中的恐惧和慌乱被一种更加深层次的虚无感冲淡。"
+            }
+        ],
+        "atts": []
+    },
+    "64": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "窗户上自己的倒影中，一串数字仍在跳动着。"
+            }
+        ],
+        "atts": []
+    },
+    "65": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "她咂了咂舌，哗地拉上窗帘，让窗户就那样开着，转身离去。"
+            }
+        ],
+        "atts": []
     }
 }

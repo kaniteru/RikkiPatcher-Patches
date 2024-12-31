@@ -1,527 +1,582 @@
 {
-    "hash": "362128c9335083cc6f0f8237b1fe4ac21d09de1add20d35042a0e7f8ce1631f05dec29b9545a50e899644a8a05c4420ca30a930f7f2fae1c62983ac054eec076",
-    "list": {
-        "0": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "谈话间两人来到立希的卧室，桌子上摆放着还未来得及收拾的咖啡空罐和营养果冻空袋，倒不显得杂乱，但立希为此感到窘迫。"
-                }
-            ]
-        },
-        "1": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "她将易拉罐拢到一起，作势要拿去扔掉。也许是收拾的动作不小心触碰到鼠标，电脑屏幕随即亮起。"
-                }
-            ]
-        },
-        "2": {
-            "speaker": "椎名真希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "真该改改你的生活习惯……"
-                }
-            ]
-        },
-        "3": {
-            "speaker": "椎名真希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "刚刚是在工作吗？"
-                }
-            ]
-        },
-        "4": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "啊，嗯……已经快完成了。"
-                }
-            ]
-        },
-        "5": {
-            "speaker": "椎名真希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "我以为你完成工作才去帮别人直播。"
-                }
-            ]
-        },
-        "6": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "我……"
-                }
-            ]
-        },
-        "7": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "……姐姐看了直播？"
-                }
-            ]
-        },
-        "8": {
-            "speaker": "椎名真希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "……"
-                }
-            ]
-        },
-        "9": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "？"
-                }
-            ]
-        },
-        "10": {
-            "speaker": "椎名真希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "咳咳、"
-                }
-            ]
-        },
-        "11": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "姐姐？"
-                }
-            ]
-        },
-        "12": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（果然不是我多想……）"
-                }
-            ]
-        },
-        "13": {
-            "speaker": "椎名真希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "……就只看过一次。"
-                }
-            ]
-        },
-        "14": {
-            "speaker": "椎名真希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "主播是你们的吉他手吧？很有活力的女孩子。"
-                }
-            ]
-        },
-        "15": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "嗯……"
-                }
-            ]
-        },
-        "16": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（活力到有点吵闹了。）"
-                }
-            ]
-        },
-        "17": {
-            "speaker": "椎名真希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "既然已经快完成了，那你先忙，不用管我。"
-                }
-            ]
-        },
-        "18": {
-            "speaker": "椎名真希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "等会儿一起喝一杯。"
-                }
-            ]
-        },
-        "19": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "！"
-                }
-            ]
-        },
-        "20": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "嗯……"
-                }
-            ]
-        },
-        "21": {
-            "speaker": "椎名真希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "遇到困难了？"
-                }
-            ]
-        },
-        "22": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "……算是吧。"
-                }
-            ]
-        },
-        "23": {
-            "speaker": "椎名真希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "我说了，等你有空的时候再联系我，不要耽误你的工作。"
-                }
-            ]
-        },
-        "24": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "不、不会耽误工作的。"
-                }
-            ]
-        },
-        "25": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "……缺乏灵感的时候，坐在电脑前也写不出漂亮的乐句。"
-                }
-            ]
-        },
-        "26": {
-            "speaker": "椎名真希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "唉……"
-                }
-            ]
-        },
-        "27": {
-            "speaker": "椎名真希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "立希，我帮不了你。"
-                }
-            ]
-        },
-        "28": {
-            "speaker": "椎名真希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "但乐队里不是只有你一个人，不要独自承担所有压力。"
-                }
-            ]
-        },
-        "29": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "我没……"
-                }
-            ]
-        },
-        "30": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "呃，大家都有自己的事要忙……而且作曲本来就是我的工作。"
-                }
-            ]
-        },
-        "31": {
-            "speaker": "椎名真希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "把所有责任都揽到自己身上，这可不是合格的领导者该做的。"
-                }
-            ]
-        },
-        "32": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（我才不是什么领导者……）"
-                }
-            ]
-        },
-        "33": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "我的工作比她们的更灵活。"
-                }
-            ]
-        },
-        "34": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "而且我……"
-                }
-            ]
-        },
-        "35": {
-            "speaker": "椎名真希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "只是一个人坐在电脑前也写不出更动听的乐句。"
-                }
-            ]
-        },
-        "36": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "哈……"
-                }
-            ]
-        },
-        "37": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（竟然用我说的话来教育我……）"
-                }
-            ]
-        },
-        "38": {
-            "speaker": "椎名真希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "至少，多出去走走吧？"
-                }
-            ]
-        },
-        "39": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "我明白了……"
-                }
-            ]
-        },
-        "40": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "明天，明天我会出门的。"
-                }
-            ]
-        },
-        "41": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "这一次……大家已经给了我不少灵感，我才能顺畅地写出旋律。"
-                }
-            ]
-        },
-        "42": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "接下来的工作该由我来完成。"
-                }
-            ]
-        },
-        "43": {
-            "speaker": "椎名真希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "……是意义重大的曲子呢。"
-                }
-            ]
-        },
-        "44": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "是的。"
-                }
-            ]
-        },
-        "45": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（最后一曲，要做成一支好曲子啊。）"
-                }
-            ]
-        },
-        "46": {
-            "speaker": "椎名真希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "那么，你希望我做些什么？"
-                }
-            ]
-        },
-        "47": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（明明刚刚才说过帮不了我？）"
-                }
-            ]
-        },
-        "48": {
-            "speaker": "椎名真希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "什么都还没想好就打电话了吗？"
-                }
-            ]
-        },
-        "49": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "我没说要请姐姐帮忙……"
-                }
-            ]
-        },
-        "50": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（我早就不是那个要靠姐姐的光环过活的小孩子了。）"
-                }
-            ]
-        },
-        "51": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（我的最后一曲，更不能去依靠姐姐。）"
-                }
-            ]
-        },
-        "52": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "今天给姐姐打电话，只是因为好久不见了而已。"
-                }
-            ]
-        },
-        "53": {
-            "speaker": "椎名真希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "那我就好好期待着了，MyGO的新曲。"
-                }
-            ]
-        },
-        "54": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "我……会努力的。"
-                }
-            ]
-        },
-        "55": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "空气陷入了沉寂，立希坐立难安。"
-                }
-            ]
-        },
-        "56": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "姐姐似乎自然地觉得她请自己来是为了求助。在姐姐眼里，她是否依然是那个遇到困难就去敲门的小孩子，立希问不出口。"
-                }
-            ]
-        },
-        "57": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "真希用眼神示意立希收拾好桌上的空罐。"
-                }
-            ]
-        }
+    "0": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "谈话间两人来到立希的卧室，桌子上摆放着还未来得及收拾的咖啡空罐和营养果冻空袋，倒不显得杂乱，但立希为此感到窘迫。"
+            }
+        ],
+        "atts": []
+    },
+    "1": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "她将易拉罐拢到一起，作势要拿去扔掉。也许是收拾的动作不小心触碰到鼠标，电脑屏幕随即亮起。"
+            }
+        ],
+        "atts": []
+    },
+    "2": {
+        "speaker": "椎名真希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "真该改改你的生活习惯……"
+            }
+        ],
+        "atts": []
+    },
+    "3": {
+        "speaker": "椎名真希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "刚刚是在工作吗？"
+            }
+        ],
+        "atts": []
+    },
+    "4": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "啊，嗯……已经快完成了。"
+            }
+        ],
+        "atts": {}
+    },
+    "5": {
+        "speaker": "椎名真希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我以为你完成工作才去帮别人直播。"
+            }
+        ],
+        "atts": []
+    },
+    "6": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我……"
+            }
+        ],
+        "atts": {}
+    },
+    "7": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……姐姐看了直播？"
+            }
+        ],
+        "atts": {}
+    },
+    "8": {
+        "speaker": "椎名真希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……"
+            }
+        ],
+        "atts": []
+    },
+    "9": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "？"
+            }
+        ],
+        "atts": {}
+    },
+    "10": {
+        "speaker": "椎名真希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "咳咳、"
+            }
+        ],
+        "atts": []
+    },
+    "11": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "姐姐？"
+            }
+        ],
+        "atts": {}
+    },
+    "12": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（果然不是我多想……）"
+            }
+        ],
+        "atts": {}
+    },
+    "13": {
+        "speaker": "椎名真希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……就只看过一次。"
+            }
+        ],
+        "atts": []
+    },
+    "14": {
+        "speaker": "椎名真希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "主播是你们的吉他手吧？很有活力的女孩子。"
+            }
+        ],
+        "atts": []
+    },
+    "15": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "嗯……"
+            }
+        ],
+        "atts": {}
+    },
+    "16": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（活力到有点吵闹了。）"
+            }
+        ],
+        "atts": {}
+    },
+    "17": {
+        "speaker": "椎名真希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "既然已经快完成了，那你先忙，不用管我。"
+            }
+        ],
+        "atts": []
+    },
+    "18": {
+        "speaker": "椎名真希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "等会儿一起喝一杯。"
+            }
+        ],
+        "atts": []
+    },
+    "19": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "！"
+            }
+        ],
+        "atts": {}
+    },
+    "20": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "嗯……"
+            }
+        ],
+        "atts": {}
+    },
+    "21": {
+        "speaker": "椎名真希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "遇到困难了？"
+            }
+        ],
+        "atts": []
+    },
+    "22": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……算是吧。"
+            }
+        ],
+        "atts": {}
+    },
+    "23": {
+        "speaker": "椎名真希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我说了，等你有空的时候再联系我，不要耽误你的工作。"
+            }
+        ],
+        "atts": []
+    },
+    "24": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "不、不会耽误工作的。"
+            }
+        ],
+        "atts": {}
+    },
+    "25": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……缺乏灵感的时候，坐在电脑前也写不出漂亮的乐句。"
+            }
+        ],
+        "atts": {}
+    },
+    "26": {
+        "speaker": "椎名真希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "唉……"
+            }
+        ],
+        "atts": []
+    },
+    "27": {
+        "speaker": "椎名真希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希，我帮不了你。"
+            }
+        ],
+        "atts": []
+    },
+    "28": {
+        "speaker": "椎名真希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "但乐队里不是只有你一个人，不要独自承担所有压力。"
+            }
+        ],
+        "atts": []
+    },
+    "29": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我没……"
+            }
+        ],
+        "atts": {}
+    },
+    "30": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "呃，大家都有自己的事要忙……而且作曲本来就是我的工作。"
+            }
+        ],
+        "atts": {}
+    },
+    "31": {
+        "speaker": "椎名真希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "把所有责任都揽到自己身上，这可不是合格的领导者该做的。"
+            }
+        ],
+        "atts": []
+    },
+    "32": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（我才不是什么领导者……）"
+            }
+        ],
+        "atts": {}
+    },
+    "33": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我的工作比她们的更灵活。"
+            }
+        ],
+        "atts": {}
+    },
+    "34": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "而且我……"
+            }
+        ],
+        "atts": {}
+    },
+    "35": {
+        "speaker": "椎名真希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "只是一个人坐在电脑前也写不出更动听的乐句。"
+            }
+        ],
+        "atts": []
+    },
+    "36": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "哈……"
+            }
+        ],
+        "atts": {}
+    },
+    "37": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（竟然用我说的话来教育我……）"
+            }
+        ],
+        "atts": {}
+    },
+    "38": {
+        "speaker": "椎名真希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "至少，多出去走走吧？"
+            }
+        ],
+        "atts": []
+    },
+    "39": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我明白了……"
+            }
+        ],
+        "atts": {}
+    },
+    "40": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "明天，明天我会出门的。"
+            }
+        ],
+        "atts": {}
+    },
+    "41": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "这一次……大家已经给了我不少灵感，我才能顺畅地写出旋律。"
+            }
+        ],
+        "atts": {}
+    },
+    "42": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "接下来的工作该由我来完成。"
+            }
+        ],
+        "atts": {}
+    },
+    "43": {
+        "speaker": "椎名真希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……是意义重大的曲子呢。"
+            }
+        ],
+        "atts": []
+    },
+    "44": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "是的。"
+            }
+        ],
+        "atts": {}
+    },
+    "45": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（最后一曲，要做成一支好曲子啊。）"
+            }
+        ],
+        "atts": {}
+    },
+    "46": {
+        "speaker": "椎名真希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "那么，你希望我做些什么？"
+            }
+        ],
+        "atts": []
+    },
+    "47": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（明明刚刚才说过帮不了我？）"
+            }
+        ],
+        "atts": {}
+    },
+    "48": {
+        "speaker": "椎名真希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "什么都还没想好就打电话了吗？"
+            }
+        ],
+        "atts": []
+    },
+    "49": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我没说要请姐姐帮忙……"
+            }
+        ],
+        "atts": {}
+    },
+    "50": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（我早就不是那个要靠姐姐的光环过活的小孩子了。）"
+            }
+        ],
+        "atts": {}
+    },
+    "51": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（我的最后一曲，更不能去依靠姐姐。）"
+            }
+        ],
+        "atts": {}
+    },
+    "52": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "今天给姐姐打电话，只是因为好久不见了而已。"
+            }
+        ],
+        "atts": {}
+    },
+    "53": {
+        "speaker": "椎名真希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "那我就好好期待着了，MyGO的新曲。"
+            }
+        ],
+        "atts": []
+    },
+    "54": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我……会努力的。"
+            }
+        ],
+        "atts": {}
+    },
+    "55": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "空气陷入了沉寂，立希坐立难安。"
+            }
+        ],
+        "atts": []
+    },
+    "56": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "姐姐似乎自然地觉得她请自己来是为了求助。在姐姐眼里，她是否依然是那个遇到困难就去敲门的小孩子，立希问不出口。"
+            }
+        ],
+        "atts": []
+    },
+    "57": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "真希用眼神示意立希收拾好桌上的空罐。"
+            }
+        ],
+        "atts": []
     }
 }

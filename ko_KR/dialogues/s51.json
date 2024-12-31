@@ -1,457 +1,507 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "굴러가는 철 상자가 주인을 태우고 철의 숲을 넘어 마침내 그곳에 도착했다. 주차, 시동을 끄고, 기사가 철마를 묶고 입장한다."
             }
-        ]
+        ],
+        "atts": []
     },
     "1": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 갑자기 차 문을 열었고, 이른 봄의 밤바람에 몸을 움츠렸다."
             }
-        ]
+        ],
+        "atts": []
     },
     "2": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "분명 더 갈 수 있었지만, 인간 네비게이션 역할을 하던 나가사키 소요는 오늘 밤 목적지를 밝히지 않았다. 그래서 운전사는 안내를 따라 주차장에서 임무를 마쳤다."
             }
-        ]
+        ],
+        "atts": []
     },
     "3": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "기온이 떨어진 상황에서 조금 얇은 외투는 빈 공간에 스며드는 차가운 공기를 막을 수 없었다. 시이나 타키는 뒷좌석 차문 옆으로 다가가 먼저 문을 열어두었다. 그녀는 지금 실내로 들어가고 싶을 뿐이다."
             }
-        ]
+        ],
+        "atts": []
     },
     "4": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "우리..."
             }
-        ]
+        ],
+        "atts": {}
     },
     "5": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "너 왜 평평한 신발로 갈아 신었어? 몇 걸음 안 남았잖아."
             }
-        ]
+        ],
+        "atts": {}
     },
     "6": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（돌아갈 때 네가 직접 운전해야 한다고 해도 지금 바로 갈아 신을 필요는 없잖아. 어차피 거의 다 왔으니까.）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "7": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "백 미터도 길이야. 하이힐은 불편해."
             }
-        ]
+        ],
+        "atts": []
     },
     "8": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "...됐어. 가자?"
             }
-        ]
+        ],
+        "atts": []
     },
     "9": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키의 본능은 충실히 경고를 보냈다: 뭔가 이상해."
             }
-        ]
+        ],
+        "atts": []
     },
     "10": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그러나 오늘 밤 그녀가 얻지 못한 질문이 너무 많아서 이 하나 더 추가되는 건 큰 문제가 아니었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "11": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "앞이야? 얼마나 더 가야 돼? 먼저 밥 먹을까?"
             }
-        ]
+        ],
+        "atts": {}
     },
     "12": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "응."
             }
-        ]
+        ],
+        "atts": []
     },
     "13": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（'응'이 무슨 뜻이야?）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "14": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키, 내일도 출근해?"
             }
-        ]
+        ],
+        "atts": []
     },
     "15": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "휴가를 여러 날 냈고, 곧 자발적 실직 상태가 될 계약직 사원에게는 너무 예리한 질문이다."
             }
-        ]
+        ],
+        "atts": []
     },
     "16": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그러나 이것은 질문자의 잘못이 아니다. 여러 날 동안 집에 있던 음악 교사 자신 외에는 누가 그녀의 일정을 알 수 있을까? 이미 RiNG에서 일하던 때가 아니다."
             }
-        ]
+        ],
+        "atts": []
     },
     "17": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "취미반 교사는 주말처럼 여유로운 시간에 가장 바쁘지만, 시이나 타키는 오늘이 무슨 요일인지도 기억하지 못했다. 그녀의 질문을 피하기 위해 가짜 이야기를 지어낼 필요가 있을까?"
             }
-        ]
+        ],
+        "atts": []
     },
     "18": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "미안, 내일 수업 일정 좀 잊어버렸어."
             }
-        ]
+        ],
+        "atts": {}
     },
     "19": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키도 기억이 안 나면, 중요한 일이 없을 것 같아. 다행이야, 내일이 토요일이라서 바쁠까 걱정했어."
             }
-        ]
+        ],
+        "atts": []
     },
     "20": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（...그렇게 생각해도 되겠네.）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "21": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그렇다면 오늘 밤은 서두를 필요 없겠다."
             }
-        ]
+        ],
+        "atts": []
     },
     "22": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（서두를 필요 없다니?）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "23": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아, 앞에 맛집 거리가 있어. 잠시 들러서 뭐 좀 먹을래?"
             }
-        ]
+        ],
+        "atts": []
     },
     "24": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "어떻게? 그렇게 좋지는 않다. 그러나 싫지도 않다."
             }
-        ]
+        ],
+        "atts": []
     },
     "25": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그녀의 제안은 오늘 타키의 계획에 포함되지 않았다. 그러나 이 거리도 목적지에 도달하는 필수 경로라면 따라갈 수밖에 없었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "26": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "젊음의 장점은 두 걸음만 걸어도 외투에 배어든 차가운 기운이 빠르게 순환되는 피로 사라진다는 것이다."
             }
-        ]
+        ],
+        "atts": []
     },
     "27": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "지금 심장이 빨리 뛰는지 궁금하지 않다. 타키는 손을 주머니에 잘 숨기고 운동 팔찌의 데이터에는 관심이 없었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "28": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "맛집 거리에 들어서자 사람과 열기가 오르기 시작했다. 불빛이 밝고 향기가 풍겨왔다. 타키는 멀리 있는 표지판을 눈을 가늘게 뜨고 바라보았다. 갑자기 그녀에게는 어울리지 않고 적절하지 않은 비유가 떠올랐다."
             }
-        ]
+        ],
+        "atts": []
     },
     "29": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（마치 얼음 지옥에서 인간 세계로 잘못 들어온 것처럼.）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "30": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키, 아까부터 말을 안 하네. 어디 불편해?"
             }
-        ]
+        ],
+        "atts": []
     },
     "31": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "어, 아니."
             }
-        ]
+        ],
+        "atts": {}
     },
     "32": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "여기 잘 몰라서 맛있는 곳을 찾기 힘들 거야. 운에 맡겨야겠어."
             }
-        ]
+        ],
+        "atts": {}
     },
     "33": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "괜찮아. 정말 안 되면 편의점에서 오뎅 사 먹어도 되잖아. 날씨가 이렇게 추운데 따뜻한 것이라면 맛이 없을 리 없어."
             }
-        ]
+        ],
+        "atts": []
     },
     "34": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아, 그런데 말이야... 잠깐 기다려줄래? 앞에 편의점에 뭐 좀 사러 갈게."
             }
-        ]
+        ],
+        "atts": []
     },
     "35": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "바로 선택을 건너뛴 거야?"
             }
-        ]
+        ],
+        "atts": {}
     },
     "36": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "동행인은 웃음을 짓고 더 이상의 말을 하지 않았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "37": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 손을 주머니에서 꺼내 동행인에게 열 분 정도면 돌아올 거라고 손을 흔들어 보여주었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "38": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "사실 이미 알고 있었지? 나가사키 소요가 멀리서 차를 세우라고 했을 때부터, 나가사키 소요가 하이힐을 벗었을 때부터, 나가사키 소요가 끊임없이 대화를 시도했을 때부터."
             }
-        ]
+        ],
+        "atts": []
     },
     "39": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이 길은 한동안 끝나지 않을 것이다. 그러나 차에서 내릴 때 초조했던 시이나 타키는 이를 인정하지 않았다. 어떤 사실을 인식한다고 해서 그것과 싸우지 않는다는 의미는 아니다."
             }
-        ]
+        ],
+        "atts": []
     },
     "40": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "기다리는 몇 분 동안 길가에 서 있는 타키는 숨을 내뱉으며 등불 아래 떠오르는 하얀 안개를 멍하니 바라보았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "41": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "담배를 끊은 지 오래됐지만, 그녀는 갑자기 지금 담배 한 대를 피우는 것도 나쁘지 않다고 생각했다. 사람은 정말로 아무것도 하지 않고 행복할 수는 없지 않은가?"
             }
-        ]
+        ],
+        "atts": []
     },
     "42": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "자, 이거 받아."
             }
-        ]
+        ],
+        "atts": []
     },
     "43": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "뭐?"
             }
-        ]
+        ],
+        "atts": {}
     },
     "44": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "사탕 담배."
             }
-        ]
+        ],
+        "atts": []
     },
     "45": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 하나를 꺼내 3초 동안 살펴보고 사탕 상자를 두드려서 그것을 다시 넣었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "46": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "고마워."
             }
-        ]
+        ],
+        "atts": {}
     },
     "47": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "내가 고마워해야 해."
             }
-        ]
+        ],
+        "atts": []
     },
     "48": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "무엇이 마음에 드는 게 있어? 빨리 가서 사, 줄을 서야 할지도 몰라."
             }
-        ]
+        ],
+        "atts": []
     },
     "49": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "..."
             }
-        ]
+        ],
+        "atts": []
     },
     "50": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "앞의 그 집, 타이야키（"
@@ -472,1725 +522,1928 @@
                 "html": "style='color:#FfFffF'",
                 "text": "）怎么样？"
             }
-        ]
+        ],
+        "atts": []
     },
     "51": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "일부러 그러는 거지."
             }
-        ]
+        ],
+        "atts": {}
     },
     "52": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "…!"
             }
-        ]
+        ],
+        "atts": []
     },
     "53": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그렇다고 해서 타키가 정말 신경 쓰는 건 아니다. 그녀는 고등학교 때부터 이름에 대한 농담을 신경 쓰지 않았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "54": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그리고 따뜻하고 달콤한 밀가루 과자는 앉아서 제대로 된 식사를 할 생각이 없는 사람에게 가장 적합하다."
             }
-        ]
+        ],
+        "atts": []
     },
     "55": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "연말연시도 아니고, 거리의 사람도 그리 많지 않다. 줄을 서도 오래 기다리지 않는다. 돈을 내고 나서는 잠시 침묵이 이어졌다. 시이나 타키는 주인의 솜씨에 집중하며 누군가 자신을 보고 있다는 것을 모른 척했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "56": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키와 이렇게 목적 없이 함께 걷는 건 처음인 것 같아. 중학교 때도, 대학교 때도, 졸업하고 나서도, 항상 서둘러서 뭔가로 직행했어."
             }
-        ]
+        ],
+        "atts": []
     },
     "57": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "‘목적 없이’라고 할 수는 없지. 단지 누군가 끝을 알려주지 않는 것뿐이야."
             }
-        ]
+        ],
+        "atts": {}
     },
     "58": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키, 내가 오늘 왜 너를 만났는지 알아?"
             }
-        ]
+        ],
+        "atts": []
     },
     "59": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "..."
             }
-        ]
+        ],
+        "atts": {}
     },
     "60": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "...이야기 좀 하려고, 아마도."
             }
-        ]
+        ],
+        "atts": {}
     },
     "61": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "주인이 외쳤고, 타키는 가방을 받으러 돌아갔다. 내용물은 여전히 뜨거웠고, 당분간 먹을 수 없었다. 그들은 다시 걷기 시작했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "62": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "무슨 이야기를 하려고?"
             }
-        ]
+        ],
+        "atts": []
     },
     "63": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（타이야키는 아직 먹을 수 없어... 네가 무슨 말을 할지 어떻게 알아?）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "64": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（밴드 연습? 소요는 며칠 후에 출장을 가니까 급하지 않을 거야. 직장 문제? 우리는 상관없어. 생활 문제? 그녀는 차라리 잠겨 있는 소셜 계정에 불평을 올릴 것이지 나에게 상의하지는 않을 거야.）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "65": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키, 내 문자 보고 오늘 여기 온 거지?"
             }
-        ]
+        ],
+        "atts": []
     },
     "66": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "여기 있는 것은 Hina를 집에 데려다 주기 때문이기도 해. 넌 절반의 이유일 뿐이야."
             }
-        ]
+        ],
+        "atts": {}
     },
     "67": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "자주 질문을 받는 학생은 다가오는 시험을 감지할 수 있지만, 일방적인 질문 형식의 게임은 피동적인 사람에게 불공평하다."
             }
-        ]
+        ],
+        "atts": []
     },
     "68": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 누군가에 의해 조종되는 것을 좋아하지 않았고, 추상적인 답변도 필요하지 않았다. 그녀는 오늘 밤 어디로 가야 할지 알고 싶었다. 그냥 계획대로 계속 가면 어떨까? 이렇게 차가운 농담을 할 수 있는 것은 드러머의 성과였다."
             }
-        ]
+        ],
+        "atts": []
     },
     "69": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그러나 분명히, 그녀의 성숙 속도는 한 발짝 앞서 있는 친구를 만족시킬 수 없었다. 소요는 걸음을 멈추고 그녀를 향해 돌아섰다."
             }
-        ]
+        ],
+        "atts": []
     },
     "70": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "..."
             }
-        ]
+        ],
+        "atts": {}
     },
     "71": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "우리는, 모두, 너를 많이 걱정하고 있어, 타키."
             }
-        ]
+        ],
+        "atts": []
     },
     "72": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "길은 짧았다. 작은 맛집 거리는 이미 끝났고, 그들은 육교 앞에 서 있었다. 평평한 신발을 신은 나가사키 소요는 이 말을 던지며, 드물게 가벼운 걸음으로 두 계단을 올라갔다."
             }
-        ]
+        ],
+        "atts": []
     },
     "73": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 그녀를 올려다보았다. 몇 해 된 가로등은 밝지 않았지만, 여전히 바람에 흩날리는 소요의 흐트러진 윤곽을 그렸다."
             }
-        ]
+        ],
+        "atts": []
     },
     "74": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "부드러운 옆머리, 밝은 눈, 나가사키 소요는 그녀가 오랫동안 알고 지낸 친구로, 방황하는 드러머처럼 젊었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "75": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "사실 올려다보면 안 되는 건데."
             }
-        ]
+        ],
+        "atts": []
     },
     "76": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "무대 위에 앉아 있는 그녀라도 약간의 눈길만 주고 가끔 옆에 오는 베이시스트와 눈을 맞추곤 했다. 그들은 평등한 리듬이었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "77": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "올라가야 할까? 그녀와 나란히?"
             }
-        ]
+        ],
+        "atts": []
     },
     "78": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "..."
             }
-        ]
+        ],
+        "atts": {}
     },
     "79": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "시이나 타키는 계단을 올라갔다."
             }
-        ]
+        ],
+        "atts": []
     },
     "80": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "높이 올라가면 멀리 보이는 동시에 추위를 느낀다."
             }
-        ]
+        ],
+        "atts": []
     },
     "81": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "육교에서 내려다보면 질주하는 철의 괴물들도 눈 아래서 벌레처럼 줄지어 흐른다."
             }
-        ]
+        ],
+        "atts": []
     },
     "82": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이른 봄의 밤, 급한 발걸음의 행인들은 코트를 꼭 껴입고, 발코니에 널어놓은 마르지 않은 두꺼운 외투를 그리워한다. 건조 기능이 있는 세탁기를 진지하게 고려해봐야 할지도 모른다."
             }
-        ]
+        ],
+        "atts": []
     },
     "83": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（아니, 그만둬. 필요 없을 거야... 게다가 그럴 여유도 없잖아.）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "84": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "하지만 사실 추위를 해결하는 가장 좋은 방법은 지금 바로 내려가는 것이다. 시이나 타키는 당연히 알고 있다."
             }
-        ]
+        ],
+        "atts": []
     },
     "85": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "사방에서 바람이 새는 여행에는 어떤 보호 장치도 없다. 줄도 없고, 족쇄도 없다. 오직 아침에 보내는 비용 없는 문자 한 통뿐, 요즘은 친구를 초대하는 데 우표 값도 들지 않는다."
             }
-        ]
+        ],
+        "atts": []
     },
     "86": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그녀는 이렇게 불쾌할 정도로 부드러운 말에 따라 거리 끝까지 걸어갔다. 그녀는 걱정 가득한 파란 눈을 따라 육교에 올랐고, 자신의 마음을 따라 여기까지 왔다."
             }
-        ]
+        ],
+        "atts": []
     },
     "87": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "지금에 와서 머리가 뜨거워서 뛰어 올라왔다는 것을 인정할 수 없었다. 마지막으로 자신의 주체성을 보존하기 위해, 시이나 타키는 팔짱을 낀 채 난간에 반쯤 기대었고, 친구처럼 상반신의 무게를 오래된 철제 난간에 완전히 의지하지 않았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "88": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "정말로 춥지 않아?"
             }
-        ]
+        ],
+        "atts": {}
     },
     "89": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "코트를 두른 여자는 팔을 편안한 둥지처럼 감고, 젊고 부드러운 뺨은 그 안에 깊숙이 묻혀 있었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "90": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "밤바람 속에는 더 이상 부드럽지 않은 금빛 머리카락, 청각을 잃은 척하는 귀 한 쌍, 그리고 차량 흐름을 세는 데 온 마음을 쏟는 눈 한 쌍만 남아 있었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "91": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "난간에 완전히 기대었네... 이럴 때는 더럽다고 생각하지 않네."
             }
-        ]
+        ],
+        "atts": {}
     },
     "92": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "1."
             }
-        ]
+        ],
+        "atts": []
     },
     "93": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "뭐?"
             }
-        ]
+        ],
+        "atts": {}
     },
     "94": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "SUV 한 대."
             }
-        ]
+        ],
+        "atts": []
     },
     "95": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아. 이 시간엔 러시아워가 끝나서 차가 별로 없지. 게다가 사람들은 작은 차를 더 좋아하는 것 같아. 옆반의 피아노 선생님도 작은 K-Car로 바꿨어."
             }
-        ]
+        ],
+        "atts": {}
     },
     "96": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "하지만 타키는 졸업할 때 큰 차를 사고 싶다고 했잖아."
             }
-        ]
+        ],
+        "atts": []
     },
     "97": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아, 그건..."
             }
-        ]
+        ],
+        "atts": {}
     },
     "98": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "작은 차도 다섯 명은 탈 수 있어. 딱 맞아."
             }
-        ]
+        ],
+        "atts": []
     },
     "99": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "너무 좁아... 짐이라도 있으면 완전 엉망이야. 라나가 그렇게 소중히 여기는 기타도 있고."
             }
-        ]
+        ],
+        "atts": {}
     },
     "100": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "하지만 소요는 이미 차가 있는데 타키의 소원은 아직도 공허한 약속일 뿐이다."
             }
-        ]
+        ],
+        "atts": []
     },
     "101": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 돈을 얼마나 모았어?"
             }
-        ]
+        ],
+        "atts": []
     },
     "102": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "말 참 잘한다."
             }
-        ]
+        ],
+        "atts": {}
     },
     "103": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "계획 진행은 건조 기능이 있는 세탁기를 위해 추위를 참을 정도에 머물러 있다."
             }
-        ]
+        ],
+        "atts": []
     },
     "104": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "결국 타키의 개인적인 곤란함은 그녀의 노력 여부와 큰 관련이 없다."
             }
-        ]
+        ],
+        "atts": []
     },
     "105": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "만약 그녀가 이웃에 대한 걱정 때문에 독신 생활비를 부담할 필요가 없었다면, 작곡을 위해 많은 시간을 할애하기 위해 교육 기관에서 일하는 것을 선택하지 않았다면, 아직 공부하는 동료를 위해 밴드 관련 지출을 움켜쥐고 있지 않았다면—"
             }
-        ]
+        ],
+        "atts": []
     },
     "106": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아, 아직도 공부하는 녀석들. 마음을 놓지 못하게 하는 녀석들."
             }
-        ]
+        ],
+        "atts": []
     },
     "107": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "너 최근에 라나랑 연락했어?"
             }
-        ]
+        ],
+        "atts": {}
     },
     "108": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "최근엔 메시지를 거의 보내지 않았어. 마지막으로 말한 건 네가 연속 3일 동안 이자카야에서 먹는다고 고발한 때였어."
             }
-        ]
+        ],
+        "atts": []
     },
     "109": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "뭐야."
             }
-        ]
+        ],
+        "atts": {}
     },
     "110": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（라나가 자발적으로 고발했다고? 거의 강제로 했겠지.）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "111": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "근데 좀 걱정돼. 지난달에 그녀의 논문이 반환됐어, 단어 수가 부족하다고. 지금 다 썼는지 모르겠다. 이 얘기만 하면 라나가 답장을 안 해."
             }
-        ]
+        ],
+        "atts": []
     },
     "112": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "하하, 그게 다가 아니야. 작곡 과제도 통과 못 했어."
             }
-        ]
+        ],
+        "atts": {}
     },
     "113": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "작곡 과제...? 정말?"
             }
-        ]
+        ],
+        "atts": []
     },
     "114": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "응."
             }
-        ]
+        ],
+        "atts": {}
     },
     "115": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "라나가 글쓰기를 잘 못하는 건 이해할 수 있지만... 이런 과제를 못할 리가 없잖아? 요즘 상태가 안 좋은가? 지난번에 그녀를 봤어야 했는데..."
             }
-        ]
+        ],
+        "atts": []
     },
     "116": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "좀 과하다. 빨리 설명해."
             }
-        ]
+        ],
+        "atts": []
     },
     "117": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "음, 그렇게 걱정할 필요 없어. 작곡 선생님이 그녀에게 기대하는 바가 높을 뿐이야. 이런 수준의 결과는 영감이 필요해. 강요한다고 나올 게 아니야."
             }
-        ]
+        ],
+        "atts": {}
     },
     "118": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "...게다가, 지금쯤이면 그녀도 영감을 찾았을 거야."
             }
-        ]
+        ],
+        "atts": {}
     },
     "119": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "...후, 원래 네가 할 줄 알았는데."
             }
-        ]
+        ],
+        "atts": {}
     },
     "120": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "다시 물어볼게. 학점은 중요한 문제니까."
             }
-        ]
+        ],
+        "atts": {}
     },
     "121": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "학업에 관한 이야기는 여기까지다. 결국 낮에는 여유로워 보이는 이 오래된 친구도 시이나 타키만큼 자기 비판을 잘한다. 이때는 얼굴이 두꺼운 사람의 방법을 배워야 한다."
             }
-        ]
+        ],
+        "atts": []
     },
     "122": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "역시 내가, 음, 길고양이를 가르치는 방법이 더 좋은 것 같아."
             }
-        ]
+        ],
+        "atts": {}
     },
     "123": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "소요는 다시 얼굴을 묻었다. 타키는 그녀가 희미하게 웃는 소리를 들었다고 확신했다. 방법이 통했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "124": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그렇군. 어쨌든 라나는 네가 데려온 아이니까, 너가 좀 더 신경 써."
             }
-        ]
+        ],
+        "atts": []
     },
     "125": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "몇 년이 지났는데, 그런 거 구분할 필요가 있나."
             }
-        ]
+        ],
+        "atts": {}
     },
     "126": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "구분해야 해."
             }
-        ]
+        ],
+        "atts": []
     },
     "127": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아주 부드럽고 딱딱한 대답으로, 다른 사람에게는 거의 결단의 선언으로 들릴 수 있지만, 나가사키 소요가 이 다리에 발을 디딘 첫 마디가 이미 이후 모든 단어의 성격을 정했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "128": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그래서 타키도 고개를 숙이고 목소리를 낮췄다."
             }
-        ]
+        ],
+        "atts": []
     },
     "129": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "왜?"
             }
-        ]
+        ],
+        "atts": {}
     },
     "130": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "기억하고 싶으니까. 전부 다."
             }
-        ]
+        ],
+        "atts": []
     },
     "131": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "뜬금없는 말이다. 검은 머리가 갈색 머리 옆에 멈추고, 가릴 곳 없이 바람에 흩날리는 머리카락이 시이나 타키의 뺨을 간질였다."
             }
-        ]
+        ],
+        "atts": []
     },
     "132": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "나가사키 소요는 설명할 생각이 없었고, 시이나 타키는 이해하고 몸을 바로 세웠다. 머리카락이 닿아 재채기를 하고 싶은 것은 절대 아니었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "133": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（오늘 밤, 도대체, 뭐하는 걸까.）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "134": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키, 고등학교 때 내가 너 대신 길고양이를 집에 데려다 준 적이 있었지?"
             }
-        ]
+        ],
+        "atts": []
     },
     "135": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "응? 어..."
             }
-        ]
+        ],
+        "atts": {}
     },
     "136": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "몇 살인데, 몇 년이 지났는데, 타키는 더 이상 '등을 돌보는' 자격에 대해 신경 쓰지 않았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "137": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "좋아, 적어도 매번 그렇게 신경 쓰는 건 아니다. 가끔 다른 사람이 대신하는 것도 수용 가능하다. 게다가 소요는 '다른 사람'이 아니다."
             }
-        ]
+        ],
+        "atts": []
     },
     "138": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "기억 안 나면 기억 안 난다고 말하면 돼."
             }
-        ]
+        ],
+        "atts": []
     },
     "139": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "피고인은 묵비권을 행사할 권리가 있으며, 다음 말이 법정 증거로 사용되지 않도록 한다."
             }
-        ]
+        ],
+        "atts": []
     },
     "140": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "길고양이 집 밑에도 이런 다리가 있었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "141": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "도쿄 주거 지역의 보행자용 육교 건축 기준은 다 똑같지 않아?"
             }
-        ]
+        ],
+        "atts": {}
     },
     "142": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "소요는 그녀를 무시했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "143": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그때 MyGO가 막 시작했었지."
             }
-        ]
+        ],
+        "atts": []
     },
     "144": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "너에게서 길고양이를 데려와 그녀를 다리까지 데려갔어."
             }
-        ]
+        ],
+        "atts": []
     },
     "145": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（데려오는 건 없다. 등은 누구의 소유물이 아니다.）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "146": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그러나 이것은 연습 시간 외에 나가사키 소요의 입에서 나온 MyGO!!!!!이다."
             }
-        ]
+        ],
+        "atts": []
     },
     "147": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "말의 선택은 중요하지 않다. 그냥 그녀가 시이나 타키가 고마츠 등을 8년 동안 집착하는 것을 농담으로 여기는 것으로 이해하자."
             }
-        ]
+        ],
+        "atts": []
     },
     "148": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 약간의 차가운 유머를 참을 수 있었다, 왜냐하면 이제 정말 중요한 일이었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "149": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "등(灯)과 몇 마디 나눴어."
             }
-        ]
+        ],
+        "atts": []
     },
     "150": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "..."
             }
-        ]
+        ],
+        "atts": {}
     },
     "151": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그 당시 나에게는 MyGO를 인정하는 것이 사실 꽤 고통스러운 일이었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "152": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "모두와 함께 있다는 것은 내가 항상 피하고 있던 것들을 직면해야 한다는 것을 의미했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "153": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "무엇을 피하고 있는지 - 타키는 묻고 싶었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "154": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그러나 그녀는 소요의 머리를 내려다보았다. 그녀의 부드러운 머리 부분을 볼 수 있는 드문 순간이었다. 이야기를 하는 사람을 방해해서는 안 된다."
             }
-        ]
+        ],
+        "atts": []
     },
     "155": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그래서 사실 나는 너를 많이 부러워했다. 질투도 했을지 모른다."
             }
-        ]
+        ],
+        "atts": []
     },
     "156": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "무엇을 질투했는가? 타키는 얼굴을 돌려 조용히 다가오는 시선을 마주했다. 그녀는 똑바로 쳐다보며 시선으로 질문했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "157": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "소요는 시선을 거두고 얼굴을 돌렸다. 교활한 여우는 그녀의 의미를 완전히 이해했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "158": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "방금 네가 그렇게 한 것처럼."
             }
-        ]
+        ],
+        "atts": []
     },
     "159": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（말하기 싫은가.）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "160": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그럼 등 얘기로 돌아가자. 너희가 무슨 얘기를 했어?"
             }
-        ]
+        ],
+        "atts": {}
     },
     "161": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "코토리의 가사, 때로는 받아들이기 어려운 부분도 있네요."
             }
-        ]
+        ],
+        "atts": []
     },
     "162": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 반사적으로 주먹을 움켜쥐었다. 하지만 분노는 예상만큼 마음 깊이 치솟지 않았다. 어쩌면 심장이 더 이상 변하지 않는 것이 도움이 될 수도 있을까?"
             }
-        ]
+        ],
+        "atts": []
     },
     "163": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "오랫동안 생각해봤지만, 표현하기 어려웠어요. 당시 코토리가 이해한 이유는 아마도 그녀가 작가였기 때문일 거예요. 모든 감정은 그녀로부터 시작되었으니까요."
             }
-        ]
+        ],
+        "atts": []
     },
     "164": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "하지만 당신도 이해할 수 있을 거라 생각해요. 왜냐하면 당신과 나는 같은 위치에 서 있는 사람이니까요."
             }
-        ]
+        ],
+        "atts": []
     },
     "165": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "나……"
             }
-        ]
+        ],
+        "atts": {}
     },
     "166": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "“코토리의 가사는 그녀의 외침이었어요.”"
             }
-        ]
+        ],
+        "atts": []
     },
     "167": {
         "speaker": "？？？",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "코토리의 가사, 그건 내면의 외침이야!"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "alpha": 0.48,
+                    "fontSize": 45
+                },
+                {
+                    "alpha": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "168": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "저는 그것이 사실 나의 외침이기도 하다고 생각해요."
             }
-        ]
+        ],
+        "atts": []
     },
     "169": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "소요……"
             }
-        ]
+        ],
+        "atts": {}
     },
     "170": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이제 그 “왜”를 알았나요?"
             }
-        ]
+        ],
+        "atts": []
     },
     "171": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "나, 나, 나. 항상 내 이야기만 하고, 참 이기적이죠?"
             }
-        ]
+        ],
+        "atts": []
     },
     "172": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "자신의 마음을 꺼내놓을 때, 아무도 그것이 땅에 내팽개쳐지길 원하지 않는다."
             }
-        ]
+        ],
+        "atts": []
     },
     "173": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 깊이 숨을 들이마셨다. 차가운 공기가 폐로 들어오며 타오르는 내부를 잠시나마 식혔다. 그녀는 두 손을 모아 마음이 여전히 안정되기를 기도했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "174": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "괜찮아, 괜찮아. 말해봐."
             }
-        ]
+        ],
+        "atts": {}
     },
     "175": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이제 내 이야기할 건 없어요. 나머지는 코토리와 나만의 비밀이에요. 코토리의 동의 없이는 말할 수 없어요."
             }
-        ]
+        ],
+        "atts": []
     },
     "176": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "정말 궁금하다면 코토리에게 물어봐요."
             }
-        ]
+        ],
+        "atts": []
     },
     "177": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": {}
     },
     "178": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "코토리에게…… 묻는다고……"
             }
-        ]
+        ],
+        "atts": {}
     },
     "179": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그렇다면, 적어도 하나의 키워드는 줘야 하지 않을까? 어디서부터 물어봐야 할지 모르잖아?"
             }
-        ]
+        ],
+        "atts": {}
     },
     "180": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "“망각”에 대해 물어봐요. 마치 내가 영원히 기억하고 싶은 코토리와 리나가 MyGO에 가져온 것처럼."
             }
-        ]
+        ],
+        "atts": []
     },
     "181": {
         "speaker": "？？？",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "야옹~"
             }
-        ]
+        ],
+        "atts": {}
     },
     "182": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "한 마리 고양이. 적절한 끼어들기, 혹은 타이밍이 맞지 않았다고 할 수도 있다. 인간은 자신의 말을 삼키고, 고양이 말을 하는 이질적인 존재에게 고개를 돌렸다."
             }
-        ]
+        ],
+        "atts": []
     },
     "183": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "밤중, 경계심이 높아진 타키는 순간적으로 이 끼어드는 고양이를 찾을 수 없었다. 편의점에서의 기습적인 상황에도 불구하고 그녀는 걱정을 멈출 수 없었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "184": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "누워 있는 소요는 따뜻한 환각을 먼저 경험할 것인가? 이렇게 가까운 거리에서, 따뜻하고 습한 호흡이 여우의 귀 끝에 닿아야 하지 않을까?"
             }
-        ]
+        ],
+        "atts": []
     },
     "185": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "하지만 갈색 여우는 대화로 인해 힘이 빠진 듯한 모습으로 나른하게 누워 있었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "186": {
         "speaker": "고양이",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "야옹."
             }
-        ]
+        ],
+        "atts": {}
     },
     "187": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이제 찾았다. 보라색 인간의 눈이 보라색 세로 눈동자와 마주쳤다."
             }
-        ]
+        ],
+        "atts": []
     },
     "188": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "소요는 고양이가 소리를 낼 때만 고개를 약간 움직였고, 타키의 떨리는 동공 속에서 다시 누웠다. 그리고 공기를 향해 분노의 시선을 던지고 있는 사람을 탐구하는 눈길을 보냈다."
             }
-        ]
+        ],
+        "atts": []
     },
     "189": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "응?"
             }
-        ]
+        ],
+        "atts": []
     },
     "190": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 이를 꽉 깨물었다. 그녀는 평생 연기와는 인연이 없었다. 얼굴 근육을 조절하는 것은 그녀가 노력할 범위 밖에 있었다. 지난 8년간 무대에서의 모든 공연은 진정한 감정의 표현이었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "191": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "소요 앞에서 표정을 숨기다니? 차라리 지금 두 손을 모아 자신만의 환상이 즉시 사라지기를 기도하는 게 낫겠다. 아마 이 불굴의 존재는 너그러이 용서해줄 것이다."
             }
-        ]
+        ],
+        "atts": []
     },
     "192": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "고양이는 꼬리를 흔들었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "193": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（너, 뭐, 하, 려, 는, 거, 야?）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "194": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "공기를 향해 반복적으로 입을 열고 있는 것만으로도 이미 “정상”의 한계를 넘어서고 있었다. 무소리로 입 모양만 하는 질문, 인간의 말을 모르는 야생동물을 협박하는 것은 공기를 협박하는 것과 같았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "195": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "정상적인 세상을 유지하기 위해 필요한 노력이다. 시이나 타키는 나가사키 소요의 실체같은 혼란스러운 시선에 대해 모르쇠로 일관할 수밖에 없었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "196": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "고양이는 오른쪽 발을 들었다. 높지 않게, 소요의 귀 위로 살짝 걸쳐 있었다. 분홍색과 흰색의 발바닥이 어렴풋이 보였고, 솜털로 된 다모클레스의 칼이었지만, 떨어질 때 죽을 사람은 다른 사람이었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "197": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이 시간에 교통 체증이라니, 참 신기하다."
             }
-        ]
+        ],
+        "atts": []
     },
     "198": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "고양이는 놀란 듯, 또는 이미 계획된 듯, 내민 오른발을 급히 원래 자리로 되돌렸고, 뒷다리는 급히 힘을 내어 검은색의 몸이 공중에서 불편하게 그려졌다."
             }
-        ]
+        ],
+        "atts": []
     },
     "199": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이봐……!"
             }
-        ]
+        ],
+        "atts": {}
     },
     "200": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "“떨어지겠어——” 타키는 거의 외칠 뻔했다. 육교와 난간을 더하면 최소 두세 층 높이는 되는데, 더구나 아래는 모두 차들로 가득하다. 이 녀석 뭐하는 거지, 이렇게 서툴러? 분명 고양이잖아?"
             }
-        ]
+        ],
+        "atts": []
     },
     "201": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "다행히 검은 고양이는 끝내 소요의 머리를 넘어 안전하게 난간에 착지했다. 하지만 그것이 죽을 수도 있는 능력이 있는지는 알 수 없었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "202": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "놀라운 인간들을 무시하며, 고양이는 멈추지 않고 네 발을 각각의 일에 맡겼다."
             }
-        ]
+        ],
+        "atts": []
     },
     "203": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "올라가고, 내려가고, 다시 올라가고. 고양이의 우아함은 없이, 오히려 작은 망아지처럼 난간에서 뛰어다녔다."
             }
-        ]
+        ],
+        "atts": []
     },
     "204": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "보라색 눈이 검은 발을 따라가며, 시이나 타키는 무심코 숨을 죽였다. 그리고 자신에게 집중된 또 다른 파란 눈을 의식하지 못했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "205": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（……1, 4, 7. 꽤 규칙적인 패턴이 있네. 도대체 뭐하고 있는 거지?）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "206": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "춤추는 것 같다. 명백히, 매우 서투르지만. 하지만 고양이에게 예술성이나 기술을 기대할 수는 없다. 아마 초보자일까?"
             }
-        ]
+        ],
+        "atts": []
     },
     "207": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "3-3-2."
             }
-        ]
+        ],
+        "atts": []
     },
     "208": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "하아?!"
             }
-        ]
+        ],
+        "atts": {}
     },
     "209": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Libertango에도 자주 나오고, 유행곡에서도 자주 봐요."
             }
-        ]
+        ],
+        "atts": []
     },
     "210": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키, 다음 곡의 영감이 떠올랐나요?"
             }
-        ]
+        ],
+        "atts": []
     },
     "211": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "뭐……으."
             }
-        ]
+        ],
+        "atts": {}
     },
     "212": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "신발 밑의 리듬이 그녀를 배신했다. 소요는 그녀의 리듬에서 다른 세상을 들었다. 타키는 서둘러 오른발을 거두고 바로 섰다."
             }
-        ]
+        ],
+        "atts": []
     },
     "213": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "가자, 여긴 너무 춥다."
             }
-        ]
+        ],
+        "atts": []
     },
     "214": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（최악이야, 매번 만날 때마다 이 녀석 때문에 발광하는 것 같아…… 소요가 아직 있는데. 다행히 그녀는 내가 왜 이러는지 묻지 않았다.）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "215": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（내가 왜 이러는지 묻지 않나요? 하나도 안 물어봐요?）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "216": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "갈색 머리 여자는 뒤돌아보지 않고 앞으로 걸어갔다. 타키는 하루 동안 이렇게 여러 번 소요의 뒷모습을 주시한 적이 없다. 무대에서조차 드럼과 베이스는 전부 뒷모습만 보이지 않았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "217": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "시선이 다시 떠나가며, 때로는 의문이 가득했고, 때로는 아무 말도 하지 않았다. 소요는 주제를 점잖은 지점에서 끝내는 데 능숙했다. 그녀가 원하는 대답은 말로 나오지 않았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "218": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "하지만 답을 삼킨 타키는 비밀로 인해 목구멍이 타들어가고 있었다. 이 불꽃은 곧 스스로 터질 듯했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "219": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "소요, 매미가 겨울에도 노래한다고 믿어?"
             }
-        ]
+        ],
+        "atts": {}
     },
     "220": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "여자의 호수같은 푸른 눈이 돌았다. 가로등이 밝지 않아 파란색도 따뜻하게 어둡고, 집에서 기른 연못 같았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "221": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 충동적으로 나온 동화를 후회했다. 소요가 이런 기본 상식을 모를 리가 없었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "222": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......응, 믿어요."
             }
-        ]
+        ],
+        "atts": []
     },
     "223": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "밤은 더 이상 검어질 수 없지만, 시간은 점점 더 늦어졌다. 주말 산책을 마친 사람들은 보행자 다리에서 내려왔고, 입을 열면 바람만 남아있었다. 이야기는 다 끝났다."
             }
-        ]
+        ],
+        "atts": []
     },
     "224": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "정말 늦었네."
             }
-        ]
+        ],
+        "atts": {}
     },
     "225": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "소요는 마지막 계단 앞에 멈춰 서서 얼굴을 돌렸다. 이것이 오늘 밤 가장 노골적인 응시였다. 대화의 의미를 확인할 순간이었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "226": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（그녀가 집에 가자고 하면……）"
             }
-        ]
+        ],
+        "atts": []
     },
     "227": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이번에는 진짜로 거의 도착한 거죠, 앞에?"
             }
-        ]
+        ],
+        "atts": {}
     },
     "228": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "소요는 시선을 거두었다. 간신히 합격한 답변이었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "229": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "응, 앞에 있는 노래방. 거짓말 아니야, 그렇게 멀지 않지?"
             }
-        ]
+        ],
+        "atts": []
     },
     "230": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "걷다가 오늘 왜 왔는지 잊을 뻔했어. 걸어서 갈 수 있는 곳이 전부 '가까운' 것은 아니잖아."
             }
-        ]
+        ],
+        "atts": {}
     },
     "231": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "게다가 처음에는 건강 전문가가 먼저 제대로 된 저녁 식사를 하자고 할 줄 알았어."
             }
-        ]
+        ],
+        "atts": {}
     },
     "232": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "홋카이도에 가야 해서, 비행기를 타야 해서 시간이 없어요. 당신이 기차를 놓치지 않도록 해야죠, 맞죠?"
             }
-        ]
+        ],
+        "atts": []
     },
     "233": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（소요가 비행기를 타야 한다고? 왜 미리 말하지 않았지? 이틀 후에야 홋카이도로 출장을 가는 거잖아? 혹시 다른 일정이 있나? 왜 이렇게 바쁘지?）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "234": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "의문이 많지만, 폭탄을 던진 사람은 여전히 자기가 길을 걸으며, 시이나 타키에게는 멋진 뒷모습을 남겼다."
             }
-        ]
+        ],
+        "atts": []
     },
     "235": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "머리가 멈춘 사람은 제자리에 멈춰 서서, 많은 질문을 머리 속에서 걸러내다가 결국 두 걸음 빨리 따라가 가장 시급한 질문을 했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "236": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "비행기는 몇 시야? 안 그러면 우리……"
             }
-        ]
+        ],
+        "atts": {}
     },
     "237": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "다음 주에."
             }
-        ]
+        ],
+        "atts": []
     },
     "238": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "？"
             }
-        ]
+        ],
+        "atts": {}
     },
     "239": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "다시 속았지만, 정말 화가 나지 않았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "240": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 입술을 오므리고, 결국 상당히 어이없게 웃었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "241": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "리더의 속도는 줄지 않았고, 낮의 부드러움도 없이, 뒤따르는 사람은 빠르게 따라가야 했다. 단정하지 않은 플랫슈즈의 발걸음으로."
             }
-        ]
+        ],
+        "atts": []
     }
 }

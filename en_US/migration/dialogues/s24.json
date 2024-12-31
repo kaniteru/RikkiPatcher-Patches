@@ -1,1229 +1,1362 @@
 {
-    "hash": "e04cbbf08e073548ec15afdfdbdf674b71efbfdc7320090b3d1d7592b7623a053c0fb5f9cb1dd0cf2b13fbea8e07ae42811d1ba2060d750c0a5775990e76714b",
-    "list": {
-        "0": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "代表来客的铃声响起。"
-                }
-            ]
-        },
-        "1": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "明明已经毕业这么久了，为什么听见这个声音，还是差点就喊出欢迎光临呢……"
-                }
-            ]
-        },
-        "2": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "眼前的一切都是那么的熟悉，却又叫立希感到分外的陌生。"
-                }
-            ]
-        },
-        "3": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（或许是重新装修过的原因吧…总感觉哪里不太一样了。）"
-                }
-            ]
-        },
-        "4": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "确实有许多的地方不一样了。"
-                }
-            ]
-        },
-        "5": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "RiNG，这家几乎承托了立希半个学生时代的咖啡厅，与她们那指不定什么时候就会真正解散的乐队不同，在许多年后的今天依然散发着勃勃生机。"
-                }
-            ]
-        },
-        "6": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（还记得有段时间生意不太好，凛凛子小姐总嚷嚷着要倒闭……）"
-                }
-            ]
-        },
-        "7": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（啊，说起来，凛凛子小姐也早在几年前就调到市内的新分店去了。）"
-                }
-            ]
-        },
-        "8": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（现在看起来，这家店倒是能比我要活得更久些呢……）"
-                }
-            ]
-        },
-        "9": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "你好，这里点餐。"
-                }
-            ]
-        },
-        "10": {
-            "speaker": "店员",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "哦…哦！请您稍等一下！"
-                }
-            ]
-        },
-        "11": {
-            "speaker": "店员",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "您好，请问您要点些什么？"
-                }
-            ]
-        },
-        "12": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "你是新人？"
-                }
-            ]
-        },
-        "13": {
-            "speaker": "店员",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "欸…这么明显吗？"
-                }
-            ]
-        },
-        "14": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "你擦杯子的方法不太对——洗完后要先倒扣在架子上，控干大部分水分后用海绵吸附剩余的水珠，然后干毛巾绕着内壁转三圈外壁转一圈，最后再放进收纳柜。"
-                }
-            ]
-        },
-        "15": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "还有，你的碟子也摆错位置了，要按大小排序分类，混着放在用餐高峰期的时候容易拿错，会影响出餐速度的——我说，你入职前难道没有受训吗？"
-                }
-            ]
-        },
-        "16": {
-            "speaker": "店员",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "欸！！是这样吗——因为各种各样的原因我确实是还没结束培训就被迫上岗……"
-                }
-            ]
-        },
-        "17": {
-            "speaker": "店员",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "稍等，让我去重新整理一下——"
-                }
-            ]
-        },
-        "18": {
-            "speaker": "店员",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "您之前也做过这类的工作吗？我是第一次打工呢！！您真是我——"
-                }
-            ]
-        },
-        "19": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（这人的身上为什么有一股很熟悉的麻烦感……）"
-                }
-            ]
-        },
-        "20": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "嗯…非要这么说的话，如果当初我没有请辞，或许现在我就是你的领班——所以我可以开始点餐了吗？"
-                }
-            ]
-        },
-        "21": {
-            "speaker": "店员",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "啊啊抱歉抱歉！请问您需要来点什么呢？我们最近有上新的季节限定甜品哦~~就在菜单新增的夹页上，还没来得及打广告，但是您大可以试一试！"
-                }
-            ]
-        },
-        "22": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "不用看了，我刚刚在门口注意到你们有出新口味的咖啡。"
-                }
-            ]
-        },
-        "23": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "呃…麦芽冰美式？就那个，请给我来一杯。"
-                }
-            ]
-        },
-        "24": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "立希翻动着比起以前厚出不少的菜单。"
-                }
-            ]
-        },
-        "25": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（呃……好夸张的套餐…感觉把全世界的糖浆和奶油都堆上去了……）"
-                }
-            ]
-        },
-        "26": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（这么麻烦的餐点，感觉只有同样麻烦的人才喜欢点……）"
-                }
-            ]
-        },
-        "27": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（等等，这个松饼上居然有熊猫印画？套餐咖啡上的拉花也是——还附赠熊猫挂坠吗？？）"
-                }
-            ]
-        },
-        "28": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（不是！我在RiNG打工的时候为什么没有这种活动啊？？！！！）"
-                }
-            ]
-        },
-        "29": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "内心活动纵然激烈，立希在表面上还是维持了一个成年人的固执与坚守。"
-                }
-            ]
-        },
-        "30": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "你好，我要一份这个季节限定特餐，谢谢。"
-                }
-            ]
-        },
-        "31": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "似乎是因为时间段的关系，整个吧台后面只有那一个新手在手忙脚乱地准备食物，过程比立希预计得要漫长许多。"
-                }
-            ]
-        },
-        "32": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "但她却意外地并不似从前那般着急了。"
-                }
-            ]
-        },
-        "33": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（好奇怪的感觉。）"
-                }
-            ]
-        },
-        "34": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（能窥见剩下的日子，反而稍微放松下来了。）"
-                }
-            ]
-        },
-        "35": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（这算什么…）"
-                }
-            ]
-        },
-        "36": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（尘埃落定后的…坦然…吗？）"
-                }
-            ]
-        },
-        "37": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "立希开始久违地利用这段无事可做的闲暇打量起四周。"
-                }
-            ]
-        },
-        "38": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "招牌还是那块招牌，咖啡厅也仍是这家咖啡厅，从吧台的位置侧头，也依旧可以透过落地窗看见斜对面那家高高挂起卡拉OK招牌的商厦。"
-                }
-            ]
-        },
-        "39": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "可确实是有什么改变了。"
-                }
-            ]
-        },
-        "40": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（是氛围的原因吗？）"
-                }
-            ]
-        },
-        "41": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "虽然重新装修过，但室内的整体格调并没有太大的变化，椎名立希在咖啡厅内环顾四周，试图找到让自己感觉异样的原因。"
-                }
-            ]
-        },
-        "42": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "在吧台后工作的人不是自己和凛凛子，演奏区里弹吉他的人不是野猫，顾客一批一批地换，大厅内满是面生的人，素世与灯常待的餐桌前，几个穿着改版后的月之森制服的学生正小声探讨着课业。"
-                }
-            ]
-        },
-        "43": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（就是这样啊，熟悉的一切都在陌生的人流中消逝，包括那个烦人的粉……）"
-                }
-            ]
-        },
-        "44": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "烦人的粉毛？？！！！"
-                }
-            ]
-        },
-        "45": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "前脚踏入咖啡厅的大门，后脚就听见熟悉的声音呼唤，千早爱音顺着刺耳来源的方向抬起头，手中的自拍杆镜头自然而然调转了方向——椎名立希入镜了。"
-                }
-            ]
-        },
-        "46": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "Rikki——！！！！！！"
-                }
-            ]
-        },
-        "47": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "在这样人员混杂的公共场合，又隔着大半个前厅的距离，纵使是立希这般苛刻的人，此时也自认无法将读不懂空气的罪责完全推到突然出现的队友身上。"
-                }
-            ]
-        },
-        "48": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "即使对方是那个一贯最会读空气的千早爱音。"
-                }
-            ]
-        },
-        "49": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "但是现在的状态又实在达不到可以入镜的标准……"
-                }
-            ]
-        },
-        "50": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "关掉你的镜头——要不然就带着它坐到拍不到我的地方去！"
-                }
-            ]
-        },
-        "51": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "明明不久前才见过，重逢的兴奋却仍然直冲云霄，爱音正准备冲到立希的面前给她一个拥抱，就因为对方突然发出的呵斥而身体一僵，不得不在半路上紧急收回自己的脚步。"
-                }
-            ]
-        },
-        "52": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "爱音小心翼翼地观察着立希指缝后暴露不多的脸色区块，试探性地继续走并收起自拍杆，关掉了拍摄模式。"
-                }
-            ]
-        },
-        "53": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "好啦…Rikki，人家已经把摄像关掉了啦……你还真是扫兴欸。"
-                }
-            ]
-        },
-        "54": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "手指打开一条缝，一双眼睛从缝隙后露出窄窄的边，立希花了好一会儿时间，确认面前这个粉毛所言是否属实。"
-                }
-            ]
-        },
-        "55": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "而后，她终于愿意重新露出完整的面孔。"
-                }
-            ]
-        },
-        "56": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "哈？你做的这种事情才叫做扫兴吧。"
-                }
-            ]
-        },
-        "57": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "咦，Rikki今天怎么会突发奇想来RiNG了？啊，坐在吧台上的话…Rikki你一定是一个人吧？我能坐在这边吗？"
-                }
-            ]
-        },
-        "58": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "之前有粉丝好奇乐队排练的事情，我就想着今天来给大家录一期关于RiNG的介绍，顺便拍下这边还没有正式宣发的季节限定甜点当探店素材——偶尔回忆一下过去也挺不错的，不是吗？"
-                }
-            ]
-        },
-        "59": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "但是一个人对着镜头演独角戏未免太无聊……能在这边遇到Rikki实在最好不过了！"
-                }
-            ]
-        },
-        "60": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "如果是Rikki和我的话…无论是在RING打工或者排练演出的回忆，还是对于新品的意见，一定都会大不相同，这样我的素材就能够多一些有争议的——"
-                }
-            ]
-        },
-        "61": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（是终于被这份职业给污染了吗）"
-                }
-            ]
-        },
-        "62": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "……够了，你的话真的是越来越多了。"
-                }
-            ]
-        },
-        "63": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "望着不知不觉就说出一大堆话的爱音，立希突然间有些烦躁不安，头也毫无征兆地隐隐作痛起来。"
-                }
-            ]
-        },
-        "64": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "嘶……你还真的是…一如既往的麻烦。"
-                }
-            ]
-        },
-        "65": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "要一起坐的话，到那边的桌子上去吧。"
-                }
-            ]
-        },
-        "66": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "二人一同转移了阵地，由吧台换到一张靠近落地窗的，普普通通的双人餐桌上坐下。"
-                }
-            ]
-        },
-        "67": {
-            "speaker": "店员",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "啊…啊！原来您换到这一桌来了，我还在吧台那里找了您一圈——这是您点的餐，抱歉让您久等了，祝您用餐愉快。"
-                }
-            ]
-        },
-        "68": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "店员来也匆匆去也匆匆，立希当然明白一个人值守吧台的辛苦，可惜对面那个被直接忽视的粉毛似乎有着不一样的想法。"
-                }
-            ]
-        },
-        "69": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "她没认出我？她没认出我？！她居然没有认出我？！！！"
-                }
-            ]
-        },
-        "70": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "Rikki~~你看她呀——"
-                }
-            ]
-        },
-        "71": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "拜托你饶了我…你总不能要求全世界的所有人都认识你吧？"
-                }
-            ]
-        },
-        "72": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "我才是拜托你饶了我——这可是我！是我欸！大名鼎鼎的MyGO!!!!!乐队的节奏吉他手，油管新锐主播，个人账号的粉丝量高达12万，直播时的最多同时在线观看人数有三万七千二百零五人…"
-                }
-            ]
-        },
-        "73": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "曾经一次性收到二十条最高额度的红色SC置顶——我！这样的我！认不出就算了！好歹作为顾客我也不该受到如此的忽视吧！"
-                }
-            ]
-        },
-        "74": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（我早就该知道，选择来这里不是什么好主意。）"
-                }
-            ]
-        },
-        "75": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "你如果想现在就想和我一起被赶出门去，完全可以直说。"
-                }
-            ]
-        },
-        "76": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "态度怎么比第一次见面那天还差劲……"
-                }
-            ]
-        },
-        "77": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "欸？这个？你点的居然是这个？"
-                }
-            ]
-        },
-        "78": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "麦芽冰美式…一听就不怎么样……"
-                }
-            ]
-        },
-        "79": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "你只点了一杯咖啡吗？只点了一杯咖啡？？没有别的什么？"
-                }
-            ]
-        },
-        "80": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "不然呢？来咖啡厅，不就是喝咖啡的吗？"
-                }
-            ]
-        },
-        "81": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "你还真是超级咖啡狂热患者……算了！"
-                }
-            ]
-        },
-        "82": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "你好！我要点一份季节限定的熊猫特餐——"
-                }
-            ]
-        },
-        "83": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（什么——熊猫特餐？！新品居然是这个吗？？？）"
-                }
-            ]
-        },
-        "84": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "等下Rikki要帮我一起吃！"
-                }
-            ]
-        },
-        "85": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "没想到啊！Rikki！你也有品味变好的一天嘛——你看看这个套餐内容多丰富！多可爱！"
-                }
-            ]
-        },
-        "86": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "你从前只喝咖啡的样子多单调啊！！成年人的生活还是该丰富一点才好嘛——对了，在你吃之前可以允许我先拍一下照片吗？顺便录一个简短的视频介绍？当然，如果你愿意分一点点给我让我试一下味道那更是再好不过！"
-                }
-            ]
-        },
-        "87": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "随便你。"
-                }
-            ]
-        },
-        "88": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "这样说着，立希装作不经意地抽出菜单，翻到了新品宣传页，一副随便看看打发时间的样子。"
-                }
-            ]
-        },
-        "89": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（等等，这个松饼上居然有熊猫印画？套餐咖啡上的拉花也是——还附赠熊猫挂坠吗？？）"
-                }
-            ]
-        },
-        "90": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（可恶！早知道我就点这个了！！）"
-                }
-            ]
-        },
-        "91": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "欸~~~Rikki不要这么冷淡嘛！你不是很喜欢的嘛！熊猫！"
-                }
-            ]
-        },
-        "92": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "可喜可贺，纵然内心情绪波澜万丈，立希还是在表面上维持了一个成年人的处变不惊。"
-                }
-            ]
-        },
-        "93": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "欸~~~Rikki不要这么冷淡嘛！"
-                }
-            ]
-        },
-        "94": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "人家这不也是在为了MyGO!!!!!着想，辛辛苦苦在这边录素材欸！你知不知道运营账号有多辛苦啊！"
-                }
-            ]
-        },
-        "95": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "昨天我们的乐队账号还掉了三个粉丝！其中有两个甚至是关注了三年以上的老粉！！！多么惨痛的败绩！都是因为我们的日常更新太少了！"
-                }
-            ]
-        },
-        "96": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "说起来也是，大家现在都好忙，就连排练的日程都要靠运气才能凑出来，要不然我也不会沦落到一个人点这么一大份的甜品对着摄像头傻瓜一样自言自语半天，最后吃不完还得自己打包回家——然后又得吃上个三天。"
-                }
-            ]
-        },
-        "97": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "如果有大家一起在，我根本不用担心素材分量的问题。"
-                }
-            ]
-        },
-        "98": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "啊今天运气……!有Rikki在！不用我自己解决一大份了！拜托拜托…只要Rikki愿意帮我……"
-                }
-            ]
-        },
-        "99": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "套餐附赠的熊猫吊坠就归Rikki了，怎么样？！！"
-                }
-            ]
-        },
-        "100": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "确实是超级大的一份——服务生适时将追加的食物送到了餐桌上。"
-                }
-            ]
-        },
-        "101": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "啊，不过今天的运气很好呢！有Rikki你在！不用我一个人解决一大份了！"
-                }
-            ]
-        },
-        "102": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（这么一看……确实，这分量未免也太多了一点）"
-                }
-            ]
-        },
-        "103": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "你把照片拍好看一点发我，至于套餐……你先尽量吃吧。"
-                }
-            ]
-        },
-        "104": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "吃到你吃不完再说。"
-                }
-            ]
-        },
-        "105": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（当然…当然不是为了挂坠，嗯，至少不全是。）"
-                }
-            ]
-        },
-        "106": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "Rikki……"
-                }
-            ]
-        },
-        "107": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "粉色头发的少女，眼眸中露出明晃晃的感动。"
-                }
-            ]
-        },
-        "108": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "可她接下来说出的话，却与椎名立希猜测的南辕北辙。"
-                }
-            ]
-        },
-        "109": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "所以Rikki明明很有空吧？"
-                }
-            ]
-        },
-        "110": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "今天这个时候能在咖啡厅里坐着。"
-                }
-            ]
-        },
-        "111": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "那天晚上也去了茶餐厅……"
-                }
-            ]
-        },
-        "112": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "……"
-                }
-            ]
-        },
-        "113": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "我说，你再不拍照的话，松饼边上的奶油就要塌掉了吧。"
-                }
-            ]
-        },
-        "114": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "啊啊啊！你为什么不早点提醒我！"
-                }
-            ]
-        },
-        "115": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "千早爱音抱怨着，手忙脚乱地摆出了自己带来的设备，在不断修改角度拍下一堆照片后，她开始调试摄像的镜头，反复录制多次，终于凑齐了足够剪辑的素材。"
-                }
-            ]
-        },
-        "116": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "以可爱为主打的套餐，在这时候也显然不复出炉时的光鲜。"
-                }
-            ]
-        },
-        "117": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "这是立希第一次近距离观看爱音进行“网红工作”的样子。"
-                }
-            ]
-        },
-        "118": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "说实话，在大学里几乎每周都换一个兴趣尝鲜的爱音，第一次向乐队的大家宣布她要进军网红届借此洗刷“Anon Tokyo”的恶名时，就连灯都不太相信这个爱好能够战胜千早爱音的三分钟热度。"
-                }
-            ]
-        },
-        "119": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（可是爱音偏偏就成功了。成功地坚持了下去，成功地将这个兴趣变成了她赖以生存的职业。）"
-                }
-            ]
-        },
-        "120": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（而当初讽刺过她的我呢……我喜欢的，我需要的，我坚持的究竟是……）"
-                }
-            ]
-        },
-        "121": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "椎名立希打断了正兴致勃勃捧着录像，一边看，一边见缝插针同她讲些工作上的趣事与困难的爱音。"
-                }
-            ]
-        },
-        "122": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "爱音，你喜欢这份工作吗？"
-                }
-            ]
-        },
-        "123": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "或者说，你平常在寻找素材或者直播话题的时候，不会有感觉灵感枯竭，很累很累的时候吗？不会在某个时刻，感觉到厌烦吗？"
-                }
-            ]
-        },
-        "124": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "千早爱音从检查素材的工作中抬起头来。"
-                }
-            ]
-        },
-        "125": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "她有些惊诧于椎名立希提出的问题——毕竟她一直都很安静，似乎神游天外的样子。"
-                }
-            ]
-        },
-        "126": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "爱音还以为她如从前一般并不在意自己讲了些什么。"
-                }
-            ]
-        },
-        "127": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "Rikki……你是在关心我吗？"
-                }
-            ]
-        },
-        "128": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "谁在关心你啊？！你不要搞错重点好不好！"
-                }
-            ]
-        },
-        "129": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "我没想到你会问我关于直播的问题——我一直以为你是真的不感兴趣来着。"
-                }
-            ]
-        },
-        "130": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "这个问题……我想我现在很难回答你欸。"
-                }
-            ]
-        },
-        "131": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "既然很难回答，那不回答也可……"
-                }
-            ]
-        },
-        "132": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "不过，如果你真的想知道我的感受的话——晚一点我还有一场直播，你要来我的直播间看看吗？"
-                }
-            ]
-        },
-        "133": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "噢！我的意思是，你要来我家看看我平时都是怎么直播的吗？"
-                }
-            ]
-        },
-        "134": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "......"
-                }
-            ]
-        },
-        "135": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "椎名立希没有拒绝。"
-                }
-            ]
-        }
+    "0": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "代表来客的铃声响起。"
+            }
+        ],
+        "atts": []
+    },
+    "1": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "明明已经毕业这么久了，为什么听见这个声音，还是差点就喊出欢迎光临呢……"
+            }
+        ],
+        "atts": []
+    },
+    "2": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "眼前的一切都是那么的熟悉，却又叫立希感到分外的陌生。"
+            }
+        ],
+        "atts": []
+    },
+    "3": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（或许是重新装修过的原因吧…总感觉哪里不太一样了。）"
+            }
+        ],
+        "atts": []
+    },
+    "4": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "确实有许多的地方不一样了。"
+            }
+        ],
+        "atts": []
+    },
+    "5": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "RiNG，这家几乎承托了立希半个学生时代的咖啡厅，与她们那指不定什么时候就会真正解散的乐队不同，在许多年后的今天依然散发着勃勃生机。"
+            }
+        ],
+        "atts": []
+    },
+    "6": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（还记得有段时间生意不太好，凛凛子小姐总嚷嚷着要倒闭……）"
+            }
+        ],
+        "atts": []
+    },
+    "7": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（啊，说起来，凛凛子小姐也早在几年前就调到市内的新分店去了。）"
+            }
+        ],
+        "atts": []
+    },
+    "8": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（现在看起来，这家店倒是能比我要活得更久些呢……）"
+            }
+        ],
+        "atts": []
+    },
+    "9": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "你好，这里点餐。"
+            }
+        ],
+        "atts": []
+    },
+    "10": {
+        "speaker": "店员",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "哦…哦！请您稍等一下！"
+            }
+        ],
+        "atts": []
+    },
+    "11": {
+        "speaker": "店员",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "您好，请问您要点些什么？"
+            }
+        ],
+        "atts": []
+    },
+    "12": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "你是新人？"
+            }
+        ],
+        "atts": []
+    },
+    "13": {
+        "speaker": "店员",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "欸…这么明显吗？"
+            }
+        ],
+        "atts": []
+    },
+    "14": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "你擦杯子的方法不太对——洗完后要先倒扣在架子上，控干大部分水分后用海绵吸附剩余的水珠，然后干毛巾绕着内壁转三圈外壁转一圈，最后再放进收纳柜。"
+            }
+        ],
+        "atts": []
+    },
+    "15": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "还有，你的碟子也摆错位置了，要按大小排序分类，混着放在用餐高峰期的时候容易拿错，会影响出餐速度的——我说，你入职前难道没有受训吗？"
+            }
+        ],
+        "atts": []
+    },
+    "16": {
+        "speaker": "店员",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "欸！！是这样吗——因为各种各样的原因我确实是还没结束培训就被迫上岗……"
+            }
+        ],
+        "atts": []
+    },
+    "17": {
+        "speaker": "店员",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "稍等，让我去重新整理一下——"
+            }
+        ],
+        "atts": []
+    },
+    "18": {
+        "speaker": "店员",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "您之前也做过这类的工作吗？我是第一次打工呢！！您真是我——"
+            }
+        ],
+        "atts": []
+    },
+    "19": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（这人的身上为什么有一股很熟悉的麻烦感……）"
+            }
+        ],
+        "atts": []
+    },
+    "20": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "嗯…非要这么说的话，如果当初我没有请辞，或许现在我就是你的领班——所以我可以开始点餐了吗？"
+            }
+        ],
+        "atts": []
+    },
+    "21": {
+        "speaker": "店员",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "啊啊抱歉抱歉！请问您需要来点什么呢？我们最近有上新的季节限定甜品哦~~就在菜单新增的夹页上，还没来得及打广告，但是您大可以试一试！"
+            }
+        ],
+        "atts": []
+    },
+    "22": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "不用看了，我刚刚在门口注意到你们有出新口味的咖啡。"
+            }
+        ],
+        "atts": []
+    },
+    "23": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "呃…麦芽冰美式？就那个，请给我来一杯。"
+            }
+        ],
+        "atts": []
+    },
+    "24": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希翻动着比起以前厚出不少的菜单。"
+            }
+        ],
+        "atts": []
+    },
+    "25": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（呃……好夸张的套餐…感觉把全世界的糖浆和奶油都堆上去了……）"
+            }
+        ],
+        "atts": []
+    },
+    "26": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（这么麻烦的餐点，感觉只有同样麻烦的人才喜欢点……）"
+            }
+        ],
+        "atts": []
+    },
+    "27": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（等等，这个松饼上居然有熊猫印画？套餐咖啡上的拉花也是——还附赠熊猫挂坠吗？？）"
+            }
+        ],
+        "atts": []
+    },
+    "28": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（不是！我在RiNG打工的时候为什么没有这种活动啊？？！！！）"
+            }
+        ],
+        "atts": []
+    },
+    "29": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "内心活动纵然激烈，立希在表面上还是维持了一个成年人的固执与坚守。"
+            }
+        ],
+        "atts": []
+    },
+    "30": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "你好，我要一份这个季节限定特餐，谢谢。"
+            }
+        ],
+        "atts": []
+    },
+    "31": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "似乎是因为时间段的关系，整个吧台后面只有那一个新手在手忙脚乱地准备食物，过程比立希预计得要漫长许多。"
+            }
+        ],
+        "atts": []
+    },
+    "32": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "但她却意外地并不似从前那般着急了。"
+            }
+        ],
+        "atts": []
+    },
+    "33": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（好奇怪的感觉。）"
+            }
+        ],
+        "atts": []
+    },
+    "34": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（能窥见剩下的日子，反而稍微放松下来了。）"
+            }
+        ],
+        "atts": []
+    },
+    "35": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（这算什么…）"
+            }
+        ],
+        "atts": []
+    },
+    "36": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（尘埃落定后的…坦然…吗？）"
+            }
+        ],
+        "atts": []
+    },
+    "37": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希开始久违地利用这段无事可做的闲暇打量起四周。"
+            }
+        ],
+        "atts": []
+    },
+    "38": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "招牌还是那块招牌，咖啡厅也仍是这家咖啡厅，从吧台的位置侧头，也依旧可以透过落地窗看见斜对面那家高高挂起卡拉OK招牌的商厦。"
+            }
+        ],
+        "atts": []
+    },
+    "39": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "可确实是有什么改变了。"
+            }
+        ],
+        "atts": []
+    },
+    "40": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（是氛围的原因吗？）"
+            }
+        ],
+        "atts": []
+    },
+    "41": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "虽然重新装修过，但室内的整体格调并没有太大的变化，椎名立希在咖啡厅内环顾四周，试图找到让自己感觉异样的原因。"
+            }
+        ],
+        "atts": []
+    },
+    "42": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "在吧台后工作的人不是自己和凛凛子，演奏区里弹吉他的人不是野猫，顾客一批一批地换，大厅内满是面生的人，素世与灯常待的餐桌前，几个穿着改版后的月之森制服的学生正小声探讨着课业。"
+            }
+        ],
+        "atts": []
+    },
+    "43": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（就是这样啊，熟悉的一切都在陌生的人流中消逝，包括那个烦人的粉……）"
+            }
+        ],
+        "atts": []
+    },
+    "44": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "烦人的粉毛？？！！！"
+            }
+        ],
+        "atts": []
+    },
+    "45": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "前脚踏入咖啡厅的大门，后脚就听见熟悉的声音呼唤，千早爱音顺着刺耳来源的方向抬起头，手中的自拍杆镜头自然而然调转了方向——椎名立希入镜了。"
+            }
+        ],
+        "atts": []
+    },
+    "46": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "Rikki——！！！！！！"
+            }
+        ],
+        "atts": []
+    },
+    "47": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "在这样人员混杂的公共场合，又隔着大半个前厅的距离，纵使是立希这般苛刻的人，此时也自认无法将读不懂空气的罪责完全推到突然出现的队友身上。"
+            }
+        ],
+        "atts": []
+    },
+    "48": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "即使对方是那个一贯最会读空气的千早爱音。"
+            }
+        ],
+        "atts": []
+    },
+    "49": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "但是现在的状态又实在达不到可以入镜的标准……"
+            }
+        ],
+        "atts": []
+    },
+    "50": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "关掉你的镜头——要不然就带着它坐到拍不到我的地方去！"
+            }
+        ],
+        "atts": []
+    },
+    "51": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "明明不久前才见过，重逢的兴奋却仍然直冲云霄，爱音正准备冲到立希的面前给她一个拥抱，就因为对方突然发出的呵斥而身体一僵，不得不在半路上紧急收回自己的脚步。"
+            }
+        ],
+        "atts": []
+    },
+    "52": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "爱音小心翼翼地观察着立希指缝后暴露不多的脸色区块，试探性地继续走并收起自拍杆，关掉了拍摄模式。"
+            }
+        ],
+        "atts": []
+    },
+    "53": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "好啦…Rikki，人家已经把摄像关掉了啦……你还真是扫兴欸。"
+            }
+        ],
+        "atts": []
+    },
+    "54": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "手指打开一条缝，一双眼睛从缝隙后露出窄窄的边，立希花了好一会儿时间，确认面前这个粉毛所言是否属实。"
+            }
+        ],
+        "atts": []
+    },
+    "55": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "而后，她终于愿意重新露出完整的面孔。"
+            }
+        ],
+        "atts": []
+    },
+    "56": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "哈？你做的这种事情才叫做扫兴吧。"
+            }
+        ],
+        "atts": []
+    },
+    "57": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "咦，Rikki今天怎么会突发奇想来RiNG了？啊，坐在吧台上的话…Rikki你一定是一个人吧？我能坐在这边吗？"
+            }
+        ],
+        "atts": []
+    },
+    "58": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "之前有粉丝好奇乐队排练的事情，我就想着今天来给大家录一期关于RiNG的介绍，顺便拍下这边还没有正式宣发的季节限定甜点当探店素材——偶尔回忆一下过去也挺不错的，不是吗？"
+            }
+        ],
+        "atts": []
+    },
+    "59": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "但是一个人对着镜头演独角戏未免太无聊……能在这边遇到Rikki实在最好不过了！"
+            }
+        ],
+        "atts": []
+    },
+    "60": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "如果是Rikki和我的话…无论是在RING打工或者排练演出的回忆，还是对于新品的意见，一定都会大不相同，这样我的素材就能够多一些有争议的——"
+            }
+        ],
+        "atts": []
+    },
+    "61": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（是终于被这份职业给污染了吗）"
+            }
+        ],
+        "atts": []
+    },
+    "62": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……够了，你的话真的是越来越多了。"
+            }
+        ],
+        "atts": []
+    },
+    "63": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "望着不知不觉就说出一大堆话的爱音，立希突然间有些烦躁不安，头也毫无征兆地隐隐作痛起来。"
+            }
+        ],
+        "atts": []
+    },
+    "64": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "嘶……你还真的是…一如既往的麻烦。"
+            }
+        ],
+        "atts": []
+    },
+    "65": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "要一起坐的话，到那边的桌子上去吧。"
+            }
+        ],
+        "atts": []
+    },
+    "66": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "二人一同转移了阵地，由吧台换到一张靠近落地窗的，普普通通的双人餐桌上坐下。"
+            }
+        ],
+        "atts": []
+    },
+    "67": {
+        "speaker": "店员",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "啊…啊！原来您换到这一桌来了，我还在吧台那里找了您一圈——这是您点的餐，抱歉让您久等了，祝您用餐愉快。"
+            }
+        ],
+        "atts": []
+    },
+    "68": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "店员来也匆匆去也匆匆，立希当然明白一个人值守吧台的辛苦，可惜对面那个被直接忽视的粉毛似乎有着不一样的想法。"
+            }
+        ],
+        "atts": []
+    },
+    "69": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "她没认出我？她没认出我？！她居然没有认出我？！！！"
+            }
+        ],
+        "atts": []
+    },
+    "70": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "Rikki~~你看她呀——"
+            }
+        ],
+        "atts": []
+    },
+    "71": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "拜托你饶了我…你总不能要求全世界的所有人都认识你吧？"
+            }
+        ],
+        "atts": []
+    },
+    "72": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我才是拜托你饶了我——这可是我！是我欸！大名鼎鼎的MyGO!!!!!乐队的节奏吉他手，油管新锐主播，个人账号的粉丝量高达12万，直播时的最多同时在线观看人数有三万七千二百零五人…"
+            }
+        ],
+        "atts": []
+    },
+    "73": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "曾经一次性收到二十条最高额度的红色SC置顶——我！这样的我！认不出就算了！好歹作为顾客我也不该受到如此的忽视吧！"
+            }
+        ],
+        "atts": []
+    },
+    "74": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（我早就该知道，选择来这里不是什么好主意。）"
+            }
+        ],
+        "atts": []
+    },
+    "75": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "你如果想现在就想和我一起被赶出门去，完全可以直说。"
+            }
+        ],
+        "atts": []
+    },
+    "76": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "态度怎么比第一次见面那天还差劲……"
+            }
+        ],
+        "atts": []
+    },
+    "77": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "欸？这个？你点的居然是这个？"
+            }
+        ],
+        "atts": []
+    },
+    "78": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "麦芽冰美式…一听就不怎么样……"
+            }
+        ],
+        "atts": []
+    },
+    "79": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "你只点了一杯咖啡吗？只点了一杯咖啡？？没有别的什么？"
+            }
+        ],
+        "atts": []
+    },
+    "80": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "不然呢？来咖啡厅，不就是喝咖啡的吗？"
+            }
+        ],
+        "atts": []
+    },
+    "81": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "你还真是超级咖啡狂热患者……算了！"
+            }
+        ],
+        "atts": []
+    },
+    "82": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "你好！我要点一份季节限定的熊猫特餐——"
+            }
+        ],
+        "atts": []
+    },
+    "83": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（什么——熊猫特餐？！新品居然是这个吗？？？）"
+            }
+        ],
+        "atts": []
+    },
+    "84": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "等下Rikki要帮我一起吃！"
+            }
+        ],
+        "atts": []
+    },
+    "85": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "没想到啊！Rikki！你也有品味变好的一天嘛——你看看这个套餐内容多丰富！多可爱！"
+            }
+        ],
+        "atts": []
+    },
+    "86": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "你从前只喝咖啡的样子多单调啊！！成年人的生活还是该丰富一点才好嘛——对了，在你吃之前可以允许我先拍一下照片吗？顺便录一个简短的视频介绍？当然，如果你愿意分一点点给我让我试一下味道那更是再好不过！"
+            }
+        ],
+        "atts": []
+    },
+    "87": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "随便你。"
+            }
+        ],
+        "atts": []
+    },
+    "88": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "这样说着，立希装作不经意地抽出菜单，翻到了新品宣传页，一副随便看看打发时间的样子。"
+            }
+        ],
+        "atts": []
+    },
+    "89": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（等等，这个松饼上居然有熊猫印画？套餐咖啡上的拉花也是——还附赠熊猫挂坠吗？？）"
+            }
+        ],
+        "atts": []
+    },
+    "90": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（可恶！早知道我就点这个了！！）"
+            }
+        ],
+        "atts": []
+    },
+    "91": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "欸~~~Rikki不要这么冷淡嘛！你不是很喜欢的嘛！熊猫！"
+            }
+        ],
+        "atts": []
+    },
+    "92": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "可喜可贺，纵然内心情绪波澜万丈，立希还是在表面上维持了一个成年人的处变不惊。"
+            }
+        ],
+        "atts": []
+    },
+    "93": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "欸~~~Rikki不要这么冷淡嘛！"
+            }
+        ],
+        "atts": []
+    },
+    "94": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "人家这不也是在为了MyGO!!!!!着想，辛辛苦苦在这边录素材欸！你知不知道运营账号有多辛苦啊！"
+            }
+        ],
+        "atts": []
+    },
+    "95": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "昨天我们的乐队账号还掉了三个粉丝！其中有两个甚至是关注了三年以上的老粉！！！多么惨痛的败绩！都是因为我们的日常更新太少了！"
+            }
+        ],
+        "atts": []
+    },
+    "96": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "说起来也是，大家现在都好忙，就连排练的日程都要靠运气才能凑出来，要不然我也不会沦落到一个人点这么一大份的甜品对着摄像头傻瓜一样自言自语半天，最后吃不完还得自己打包回家——然后又得吃上个三天。"
+            }
+        ],
+        "atts": []
+    },
+    "97": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "如果有大家一起在，我根本不用担心素材分量的问题。"
+            }
+        ],
+        "atts": []
+    },
+    "98": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "啊今天运气……!有Rikki在！不用我自己解决一大份了！拜托拜托…只要Rikki愿意帮我……"
+            }
+        ],
+        "atts": []
+    },
+    "99": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "套餐附赠的熊猫吊坠就归Rikki了，怎么样？！！"
+            }
+        ],
+        "atts": []
+    },
+    "100": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "确实是超级大的一份——服务生适时将追加的食物送到了餐桌上。"
+            }
+        ],
+        "atts": []
+    },
+    "101": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "啊，不过今天的运气很好呢！有Rikki你在！不用我一个人解决一大份了！"
+            }
+        ],
+        "atts": []
+    },
+    "102": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（这么一看……确实，这分量未免也太多了一点）"
+            }
+        ],
+        "atts": []
+    },
+    "103": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "你把照片拍好看一点发我，至于套餐……你先尽量吃吧。"
+            }
+        ],
+        "atts": []
+    },
+    "104": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "吃到你吃不完再说。"
+            }
+        ],
+        "atts": []
+    },
+    "105": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（当然…当然不是为了挂坠，嗯，至少不全是。）"
+            }
+        ],
+        "atts": []
+    },
+    "106": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "Rikki……"
+            }
+        ],
+        "atts": []
+    },
+    "107": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "粉色头发的少女，眼眸中露出明晃晃的感动。"
+            }
+        ],
+        "atts": []
+    },
+    "108": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "可她接下来说出的话，却与椎名立希猜测的南辕北辙。"
+            }
+        ],
+        "atts": []
+    },
+    "109": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "所以Rikki明明很有空吧？"
+            }
+        ],
+        "atts": []
+    },
+    "110": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "今天这个时候能在咖啡厅里坐着。"
+            }
+        ],
+        "atts": []
+    },
+    "111": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "那天晚上也去了茶餐厅……"
+            }
+        ],
+        "atts": []
+    },
+    "112": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……"
+            }
+        ],
+        "atts": []
+    },
+    "113": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我说，你再不拍照的话，松饼边上的奶油就要塌掉了吧。"
+            }
+        ],
+        "atts": []
+    },
+    "114": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "啊啊啊！你为什么不早点提醒我！"
+            }
+        ],
+        "atts": []
+    },
+    "115": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "千早爱音抱怨着，手忙脚乱地摆出了自己带来的设备，在不断修改角度拍下一堆照片后，她开始调试摄像的镜头，反复录制多次，终于凑齐了足够剪辑的素材。"
+            }
+        ],
+        "atts": []
+    },
+    "116": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "以可爱为主打的套餐，在这时候也显然不复出炉时的光鲜。"
+            }
+        ],
+        "atts": []
+    },
+    "117": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "这是立希第一次近距离观看爱音进行“网红工作”的样子。"
+            }
+        ],
+        "atts": []
+    },
+    "118": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "说实话，在大学里几乎每周都换一个兴趣尝鲜的爱音，第一次向乐队的大家宣布她要进军网红届借此洗刷“Anon Tokyo”的恶名时，就连灯都不太相信这个爱好能够战胜千早爱音的三分钟热度。"
+            }
+        ],
+        "atts": []
+    },
+    "119": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（可是爱音偏偏就成功了。成功地坚持了下去，成功地将这个兴趣变成了她赖以生存的职业。）"
+            }
+        ],
+        "atts": []
+    },
+    "120": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（而当初讽刺过她的我呢……我喜欢的，我需要的，我坚持的究竟是……）"
+            }
+        ],
+        "atts": []
+    },
+    "121": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "椎名立希打断了正兴致勃勃捧着录像，一边看，一边见缝插针同她讲些工作上的趣事与困难的爱音。"
+            }
+        ],
+        "atts": []
+    },
+    "122": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "爱音，你喜欢这份工作吗？"
+            }
+        ],
+        "atts": []
+    },
+    "123": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "或者说，你平常在寻找素材或者直播话题的时候，不会有感觉灵感枯竭，很累很累的时候吗？不会在某个时刻，感觉到厌烦吗？"
+            }
+        ],
+        "atts": []
+    },
+    "124": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "千早爱音从检查素材的工作中抬起头来。"
+            }
+        ],
+        "atts": []
+    },
+    "125": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "她有些惊诧于椎名立希提出的问题——毕竟她一直都很安静，似乎神游天外的样子。"
+            }
+        ],
+        "atts": []
+    },
+    "126": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "爱音还以为她如从前一般并不在意自己讲了些什么。"
+            }
+        ],
+        "atts": []
+    },
+    "127": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "Rikki……你是在关心我吗？"
+            }
+        ],
+        "atts": []
+    },
+    "128": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "谁在关心你啊？！你不要搞错重点好不好！"
+            }
+        ],
+        "atts": []
+    },
+    "129": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我没想到你会问我关于直播的问题——我一直以为你是真的不感兴趣来着。"
+            }
+        ],
+        "atts": []
+    },
+    "130": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "这个问题……我想我现在很难回答你欸。"
+            }
+        ],
+        "atts": []
+    },
+    "131": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "既然很难回答，那不回答也可……"
+            }
+        ],
+        "atts": []
+    },
+    "132": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "不过，如果你真的想知道我的感受的话——晚一点我还有一场直播，你要来我的直播间看看吗？"
+            }
+        ],
+        "atts": []
+    },
+    "133": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "噢！我的意思是，你要来我家看看我平时都是怎么直播的吗？"
+            }
+        ],
+        "atts": []
+    },
+    "134": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ],
+        "atts": []
+    },
+    "135": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "椎名立希没有拒绝。"
+            }
+        ],
+        "atts": []
     }
 }

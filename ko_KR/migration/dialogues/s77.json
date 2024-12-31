@@ -1,662 +1,815 @@
 {
-    "hash": "65766e0a1a00478a2157b277e4bb5147059b93c2a49242a0105f169b87f0e15f3e28e2bdc1aa30a4ad6412ce7dc8b16aba6953b8a2cb242a4624966fb9f39a9b",
-    "list": {
-        "0": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "推开洗手间的门之后，迎接自己的是更加熟悉的异常温差。整个房间仿佛封闭了许久的植物温室，闷热的环境让之前的不适更加突出。"
-                }
-            ]
-        },
-        "1": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "关门，反锁，然后……"
-                }
-            ]
-        },
-        "2": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（该死。）"
-                }
-            ]
-        },
-        "3": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "她不觉得自己能够到换气窗的开关，前两件事情就几乎耗干了她所有的力气。"
-                }
-            ]
-        },
-        "4": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "抖如筛糠的双腿已经几乎不能承担身体的重量，她只能把半个身体都压在靠门边的洗衣机上。"
-                }
-            ]
-        },
-        "5": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（接下来是昏迷？）"
-                }
-            ]
-        },
-        "6": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "绝望之下她反而有点想笑出来的感觉。上次昏迷一头晕到了深夜，这次呢？灯要多久才会拆开洗手间的门然后发现昏倒的自己？"
-                }
-            ]
-        },
-        "7": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（彻底完蛋了。）"
-                }
-            ]
-        },
-        "8": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "意识里最后绷紧的一根线也断开，椎名立希最后看了眼镜中的时间，接着滑到地上，脊背与地面接触时发出咚的一声。"
-                }
-            ]
-        },
-        "9": {
-            "speaker": "高松灯",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "……！"
-                }
-            ]
-        },
-        "10": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "海，仍然是海。"
-                }
-            ]
-        },
-        "11": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "但自己却不再有初次入梦时那种看着自己的一生缓缓汇入水里的平静。"
-                }
-            ]
-        },
-        "12": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "慌张的心绪来回奔走不得出路，原地转圈的焦躁搅动起整片海洋。"
-                }
-            ]
-        },
-        "13": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "恐慌和愤怒的漩涡随之产生，在越来越长的等待中压缩凝结，逐渐缩小又逐渐深入。"
-                }
-            ]
-        },
-        "14": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "海面像被锥子刺穿之后的创口，那不断缩小的漩涡终于成为了一个标准的圆形。"
-                }
-            ]
-        },
-        "15": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（好熟悉……）"
-                }
-            ]
-        },
-        "16": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（我在哪里见过这个圆？）"
-                }
-            ]
-        },
-        "17": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "视线从漩涡的边缘向中心投去，本该是水或者海底陆地的地方成了一圈刺眼的空白，光从另一头向海面涌进，而后一颗琥珀色的宝石堵住了它。"
-                }
-            ]
-        },
-        "18": {
-            "speaker": "？？？",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "小立希？！"
-                }
-            ]
-        },
-        "19": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "琥珀色的宝石连同漩涡一起消失，她悬在天空的视角跌入水里，潮湿的触感让她心烦意乱。"
-                }
-            ]
-        },
-        "20": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "这个梦的场景和情绪比前一个更加明确，原因不言自明——"
-                }
-            ]
-        },
-        "21": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "知道了！时间已经不多了！！"
-                }
-            ]
-        },
-        "22": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "她认命地大喊，但她振动着的喉咙里并没有发出任何的声音，反而是她背后传来了巨大的汽船鸣笛声，仿佛连接着她的肺部和声带的气管其实是一根涌动着蒸汽的汽笛。"
-                }
-            ]
-        },
-        "23": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "尖叫的行为和几乎要震聋她耳朵的响声一起落幕。浮在水里的人回头看去，汽船的庞大黑影占据了她的全部视线，而船头的那抹黑似乎比别处更浓重一些。"
-                }
-            ]
-        },
-        "24": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（那只猫！）"
-                }
-            ]
-        },
-        "25": {
-            "speaker": "？？？",
-            "dialogue": [
-                {
-                    "html": "style='color:#ff0000'",
-                    "text": "时间，已经不多了。"
-                }
-            ]
-        },
-        "26": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "船舶启动的轰鸣声里混进了耳朵进水的咕噜声，带起的波浪将她拍入海中。意识沉浮间，她撞上了一块坚硬的东西。"
-                }
-            ]
-        },
-        "27": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "——是地板。"
-                }
-            ]
-        },
-        "28": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "坚硬、冰冷而陌生的地板。"
-                }
-            ]
-        },
-        "29": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "她挣扎着起身，在自己本不愿再看一眼的数字上聚焦视线——分钟数减少了3。"
-                }
-            ]
-        },
-        "30": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（还好，也许……不算太久？）"
-                }
-            ]
-        },
-        "31": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "她转头去看洗手间的门，它正在诡异的沉默中晃动自己的身躯，反锁的圆形把手费力地转动，有人正在尝试打开它。"
-                }
-            ]
-        },
-        "32": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "触电一般地，她理解了梦里海平面上那个标准的圆形，以及小孔底部那抹琥珀色的含义。"
-                }
-            ]
-        },
-        "33": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "不是梦。"
-                }
-            ]
-        },
-        "34": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（是灯。）"
-                }
-            ]
-        },
-        "35": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "她几乎立即认识到了局势的严重程度：灯已经发现了刚刚出了什么她不清楚的事情，而自己耳朵里还残留着溺水时的潮声，嗡嗡地听不见声音。"
-                }
-            ]
-        },
-        "36": {
-            "speaker": "？？？",
-            "dialogue": [
-                {
-                    "html": "style='color:#ff0000'",
-                    "text": "时间，已经不多了。"
-                }
-            ]
-        },
-        "37": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "这该死的昏迷一直在推着自己走。第一次把自己推到了只有十天的危险境地，让自己不得不行动起来，试着做些什么。"
-                }
-            ]
-        },
-        "38": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "而现在它又把自己推到悬崖边上，逼自己去做出本已经决心不去做的解释。"
-                }
-            ]
-        },
-        "39": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（要怎么做才能瞒过灯？我甚至听不到她待会要问我什么……）"
-                }
-            ]
-        },
-        "40": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（但直接坦白的话……）"
-                }
-            ]
-        },
-        "41": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "灯泫然欲泣的神态出现在自己的脑海里，椎名立希感觉自己的心猛地抽动了一下。"
-                }
-            ]
-        },
-        "42": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（我做不到。）"
-                }
-            ]
-        },
-        "43": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "门又晃了一下，灯的声音隐约传来，只有大概的音调，词汇分辨不清。"
-                }
-            ]
-        },
-        "44": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（没办法等到听力完全恢复，再拖延下去的话，灯只会越来越焦急。）"
-                }
-            ]
-        },
-        "45": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（必须要做出选择了。）"
-                }
-            ]
-        },
-        "46": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（不能……不辞而别。）"
-                }
-            ]
-        },
-        "47": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（哪怕死亡的结局是注定的……）"
-                }
-            ]
-        },
-        "48": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（我也不希望突如其来的离开再一次伤害灯。）"
-                }
-            ]
-        },
-        "49": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（但，到底该如何开口呢……？）"
-                }
-            ]
-        },
-        "50": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "她把耳朵贴在门上。"
-                }
-            ]
-        },
-        "51": {
-            "speaker": "高松灯",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "小立希？"
-                }
-            ]
-        },
-        "52": {
-            "speaker": "高松灯",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "发生什么了！"
-                }
-            ]
-        },
-        "53": {
-            "speaker": "高松灯",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "你还在里面吗？"
-                }
-            ]
-        },
-        "54": {
-            "speaker": "高松灯",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "快开门啊……"
-                }
-            ]
-        },
-        "55": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（听力似乎开始稍微恢复了，但现在的状态绝对没办法跟灯正常交流。）"
-                }
-            ]
-        },
-        "56": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（至少得先想个办法听清灯在说什么……）"
-                }
-            ]
-        },
-        "57": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "她深深地叹了口气，扭开反锁的门，一张因过度紧张而显出虚弱的脸出现在灯的面前。"
-                }
-            ]
-        },
-        "58": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（我不会再让灯留下悲伤的回忆了…）"
-                }
-            ]
-        },
-        "59": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（哪怕死亡的结局是注定的……最后几天的生命也不该是对灯的凌迟。）"
-                }
-            ]
-        },
-        "60": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（得想个办法瞒过去，该怎么做，该怎么做？）"
-                }
-            ]
-        },
-        "61": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "她把耳朵贴在门上。"
-                }
-            ]
-        },
-        "62": {
-            "speaker": "高松灯",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "小立希？"
-                }
-            ]
-        },
-        "63": {
-            "speaker": "高松灯",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "发生什么了！"
-                }
-            ]
-        },
-        "64": {
-            "speaker": "高松灯",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "你还在里面吗？"
-                }
-            ]
-        },
-        "65": {
-            "speaker": "高松灯",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "快开门啊……"
-                }
-            ]
-        },
-        "66": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（听力似乎开始稍微恢复了，但现在的状态绝对没办法跟灯正常交流。）"
-                }
-            ]
-        },
-        "67": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（得先把她的注意力从目前的事情上引开……）"
-                }
-            ]
-        },
-        "68": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（我需要一个能转移她注意力的话题。）"
-                }
-            ]
-        },
-        "69": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "焦躁带来的干渴和炖菜残留在嘴里的味道让她无比地想去水龙头漱漱口，但水声会进一步引来灯的注意，她只好又舔舔嘴唇。"
-                }
-            ]
-        },
-        "70": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（炖菜？）"
-                }
-            ]
-        },
-        "71": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "解法似乎找到了。"
-                }
-            ]
-        },
-        "72": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "她深深地吸了口气，扭开反锁的门，努力让自己接下来的话避开灯眼神里的担忧。"
+    "0": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "推开洗手间的门之后，迎接自己的是更加熟悉的异常温差。整个房间仿佛封闭了许久的植物温室，闷热的环境让之前的不适更加突出。"
+            }
+        ],
+        "atts": []
+    },
+    "1": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "关门，反锁，然后……"
+            }
+        ],
+        "atts": []
+    },
+    "2": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（该死。）"
+            }
+        ],
+        "atts": []
+    },
+    "3": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "她不觉得自己能够到换气窗的开关，前两件事情就几乎耗干了她所有的力气。"
+            }
+        ],
+        "atts": []
+    },
+    "4": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "抖如筛糠的双腿已经几乎不能承担身体的重量，她只能把半个身体都压在靠门边的洗衣机上。"
+            }
+        ],
+        "atts": []
+    },
+    "5": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（接下来是昏迷？）"
+            }
+        ],
+        "atts": []
+    },
+    "6": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "绝望之下她反而有点想笑出来的感觉。上次昏迷一头晕到了深夜，这次呢？灯要多久才会拆开洗手间的门然后发现昏倒的自己？"
+            }
+        ],
+        "atts": []
+    },
+    "7": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（彻底完蛋了。）"
+            }
+        ],
+        "atts": []
+    },
+    "8": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "意识里最后绷紧的一根线也断开，椎名立希最后看了眼镜中的时间，接着滑到地上，脊背与地面接触时发出咚的一声。"
+            }
+        ],
+        "atts": []
+    },
+    "9": {
+        "speaker": "高松灯",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……！"
+            }
+        ],
+        "atts": []
+    },
+    "10": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "海，仍然是海。"
+            }
+        ],
+        "atts": []
+    },
+    "11": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "但自己却不再有初次入梦时那种看着自己的一生缓缓汇入水里的平静。"
+            }
+        ],
+        "atts": []
+    },
+    "12": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "慌张的心绪来回奔走不得出路，原地转圈的焦躁搅动起整片海洋。"
+            }
+        ],
+        "atts": []
+    },
+    "13": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "恐慌和愤怒的漩涡随之产生，在越来越长的等待中压缩凝结，逐渐缩小又逐渐深入。"
+            }
+        ],
+        "atts": []
+    },
+    "14": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "海面像被锥子刺穿之后的创口，那不断缩小的漩涡终于成为了一个标准的圆形。"
+            }
+        ],
+        "atts": []
+    },
+    "15": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（好熟悉……）"
+            }
+        ],
+        "atts": []
+    },
+    "16": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（我在哪里见过这个圆？）"
+            }
+        ],
+        "atts": []
+    },
+    "17": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "视线从漩涡的边缘向中心投去，本该是水或者海底陆地的地方成了一圈刺眼的空白，光从另一头向海面涌进，而后一颗琥珀色的宝石堵住了它。"
+            }
+        ],
+        "atts": []
+    },
+    "18": {
+        "speaker": "？？？",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "小立希？！"
+            }
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "alpha": 0.47,
+                    "fontSize": 20
+                },
+                {
+                    "alpha": {},
+                    "fontSize": {}
                 }
             ]
         }
+    },
+    "19": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "琥珀色的宝石连同漩涡一起消失，她悬在天空的视角跌入水里，潮湿的触感让她心烦意乱。"
+            }
+        ],
+        "atts": []
+    },
+    "20": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "这个梦的场景和情绪比前一个更加明确，原因不言自明——"
+            }
+        ],
+        "atts": []
+    },
+    "21": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "知道了！时间已经不多了！！"
+            }
+        ],
+        "atts": []
+    },
+    "22": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "她认命地大喊，但她振动着的喉咙里并没有发出任何的声音，反而是她背后传来了巨大的汽船鸣笛声，仿佛连接着她的肺部和声带的气管其实是一根涌动着蒸汽的汽笛。"
+            }
+        ],
+        "atts": []
+    },
+    "23": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "尖叫的行为和几乎要震聋她耳朵的响声一起落幕。浮在水里的人回头看去，汽船的庞大黑影占据了她的全部视线，而船头的那抹黑似乎比别处更浓重一些。"
+            }
+        ],
+        "atts": []
+    },
+    "24": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（那只猫！）"
+            }
+        ],
+        "atts": []
+    },
+    "25": {
+        "speaker": "？？？",
+        "spans": [
+            {
+                "html": "style='color:#ff0000'",
+                "text": "时间，已经不多了。"
+            }
+        ],
+        "atts": []
+    },
+    "26": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "船舶启动的轰鸣声里混进了耳朵进水的咕噜声，带起的波浪将她拍入海中。意识沉浮间，她撞上了一块坚硬的东西。"
+            }
+        ],
+        "atts": []
+    },
+    "27": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "——是地板。"
+            }
+        ],
+        "atts": []
+    },
+    "28": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "坚硬、冰冷而陌生的地板。"
+            }
+        ],
+        "atts": []
+    },
+    "29": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "她挣扎着起身，在自己本不愿再看一眼的数字上聚焦视线——分钟数减少了3。"
+            }
+        ],
+        "atts": []
+    },
+    "30": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（还好，也许……不算太久？）"
+            }
+        ],
+        "atts": []
+    },
+    "31": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "她转头去看洗手间的门，它正在诡异的沉默中晃动自己的身躯，反锁的圆形把手费力地转动，有人正在尝试打开它。"
+            }
+        ],
+        "atts": []
+    },
+    "32": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "触电一般地，她理解了梦里海平面上那个标准的圆形，以及小孔底部那抹琥珀色的含义。"
+            }
+        ],
+        "atts": []
+    },
+    "33": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "不是梦。"
+            }
+        ],
+        "atts": []
+    },
+    "34": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（是灯。）"
+            }
+        ],
+        "atts": []
+    },
+    "35": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "她几乎立即认识到了局势的严重程度：灯已经发现了刚刚出了什么她不清楚的事情，而自己耳朵里还残留着溺水时的潮声，嗡嗡地听不见声音。"
+            }
+        ],
+        "atts": []
+    },
+    "36": {
+        "speaker": "？？？",
+        "spans": [
+            {
+                "html": "style='color:#ff0000'",
+                "text": "时间，已经不多了。"
+            }
+        ],
+        "atts": []
+    },
+    "37": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "这该死的昏迷一直在推着自己走。第一次把自己推到了只有十天的危险境地，让自己不得不行动起来，试着做些什么。"
+            }
+        ],
+        "atts": []
+    },
+    "38": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "而现在它又把自己推到悬崖边上，逼自己去做出本已经决心不去做的解释。"
+            }
+        ],
+        "atts": []
+    },
+    "39": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（要怎么做才能瞒过灯？我甚至听不到她待会要问我什么……）"
+            }
+        ],
+        "atts": []
+    },
+    "40": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（但直接坦白的话……）"
+            }
+        ],
+        "atts": []
+    },
+    "41": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "灯泫然欲泣的神态出现在自己的脑海里，椎名立希感觉自己的心猛地抽动了一下。"
+            }
+        ],
+        "atts": []
+    },
+    "42": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（我做不到。）"
+            }
+        ],
+        "atts": []
+    },
+    "43": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "门又晃了一下，灯的声音隐约传来，只有大概的音调，词汇分辨不清。"
+            }
+        ],
+        "atts": []
+    },
+    "44": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（没办法等到听力完全恢复，再拖延下去的话，灯只会越来越焦急。）"
+            }
+        ],
+        "atts": []
+    },
+    "45": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（必须要做出选择了。）"
+            }
+        ],
+        "atts": []
+    },
+    "46": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（不能……不辞而别。）"
+            }
+        ],
+        "atts": []
+    },
+    "47": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（哪怕死亡的结局是注定的……）"
+            }
+        ],
+        "atts": []
+    },
+    "48": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（我也不希望突如其来的离开再一次伤害灯。）"
+            }
+        ],
+        "atts": []
+    },
+    "49": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（但，到底该如何开口呢……？）"
+            }
+        ],
+        "atts": []
+    },
+    "50": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "她把耳朵贴在门上。"
+            }
+        ],
+        "atts": []
+    },
+    "51": {
+        "speaker": "高松灯",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "小立希？"
+            }
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "alpha": 0.1
+                },
+                {
+                    "alpha": {}
+                }
+            ]
+        }
+    },
+    "52": {
+        "speaker": "高松灯",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "发生什么了！"
+            }
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "alpha": 0.2
+                },
+                {
+                    "alpha": {}
+                }
+            ]
+        }
+    },
+    "53": {
+        "speaker": "高松灯",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "你还在里面吗？"
+            }
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "alpha": 0.3
+                },
+                {
+                    "alpha": {}
+                }
+            ]
+        }
+    },
+    "54": {
+        "speaker": "高松灯",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "快开门啊……"
+            }
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "alpha": 0.4
+                },
+                {
+                    "alpha": {}
+                }
+            ]
+        }
+    },
+    "55": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（听力似乎开始稍微恢复了，但现在的状态绝对没办法跟灯正常交流。）"
+            }
+        ],
+        "atts": []
+    },
+    "56": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（至少得先想个办法听清灯在说什么……）"
+            }
+        ],
+        "atts": []
+    },
+    "57": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "她深深地叹了口气，扭开反锁的门，一张因过度紧张而显出虚弱的脸出现在灯的面前。"
+            }
+        ],
+        "atts": []
+    },
+    "58": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（我不会再让灯留下悲伤的回忆了…）"
+            }
+        ],
+        "atts": []
+    },
+    "59": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（哪怕死亡的结局是注定的……最后几天的生命也不该是对灯的凌迟。）"
+            }
+        ],
+        "atts": []
+    },
+    "60": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（得想个办法瞒过去，该怎么做，该怎么做？）"
+            }
+        ],
+        "atts": []
+    },
+    "61": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "她把耳朵贴在门上。"
+            }
+        ],
+        "atts": []
+    },
+    "62": {
+        "speaker": "高松灯",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "小立希？"
+            }
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "alpha": 0.1
+                },
+                {
+                    "alpha": {}
+                }
+            ]
+        }
+    },
+    "63": {
+        "speaker": "高松灯",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "发生什么了！"
+            }
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "alpha": 0.2
+                },
+                {
+                    "alpha": {}
+                }
+            ]
+        }
+    },
+    "64": {
+        "speaker": "高松灯",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "你还在里面吗？"
+            }
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "alpha": 0.3
+                },
+                {
+                    "alpha": {}
+                }
+            ]
+        }
+    },
+    "65": {
+        "speaker": "高松灯",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "快开门啊……"
+            }
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "alpha": 0.4
+                },
+                {
+                    "alpha": {}
+                }
+            ]
+        }
+    },
+    "66": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（听力似乎开始稍微恢复了，但现在的状态绝对没办法跟灯正常交流。）"
+            }
+        ],
+        "atts": []
+    },
+    "67": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（得先把她的注意力从目前的事情上引开……）"
+            }
+        ],
+        "atts": []
+    },
+    "68": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（我需要一个能转移她注意力的话题。）"
+            }
+        ],
+        "atts": []
+    },
+    "69": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "焦躁带来的干渴和炖菜残留在嘴里的味道让她无比地想去水龙头漱漱口，但水声会进一步引来灯的注意，她只好又舔舔嘴唇。"
+            }
+        ],
+        "atts": []
+    },
+    "70": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（炖菜？）"
+            }
+        ],
+        "atts": []
+    },
+    "71": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "解法似乎找到了。"
+            }
+        ],
+        "atts": []
+    },
+    "72": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "她深深地吸了口气，扭开反锁的门，努力让自己接下来的话避开灯眼神里的担忧。"
+            }
+        ],
+        "atts": []
     }
 }

@@ -1,263 +1,292 @@
 {
     "0": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "누구야……"
             }
-        ]
+        ],
+        "atts": []
     },
     "1": {
         "speaker": "？？？",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "안녕하세요~!"
             }
-        ]
+        ],
+        "atts": []
     },
     "2": {
         "speaker": "？？？",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아이고 아이고, 정말 아름다운 아가씨네요! 오, 혼자 사세요? 정말 예쁜 현관이네요! 이렇게 큰 집에선 당연히 애완동물을 키우겠죠?"
             }
-        ]
+        ],
+        "atts": []
     },
     "3": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "어? 아, 아니……"
             }
-        ]
+        ],
+        "atts": []
     },
     "4": {
         "speaker": "？？？",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아, 정말 실례했습니다. 자기소개를 깜빡했네요. 저는 이쪽 일을 하는 사람인데…… 아시나요? 국내 최고 대형 애완동물 브랜드입니다!"
             }
-        ]
+        ],
+        "atts": []
     },
     "5": {
         "speaker": "판매원",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "고양이에게 우리 최신 고양이 전용 샴푸를 좀 써보는 건 어떠세요?? 씻고 나면 녹차 향이 납니다~~ 그리고 이 고양이 태그, 복숭아 나무로 만든 건데, 고양이와 주인의 이름을 새길 수 있어요! 그리고 이 심해 어유도……"
             }
-        ]
+        ],
+        "atts": []
     },
     "6": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "잠깐 잠깐, 기다려봐——!!"
             }
-        ]
+        ],
+        "atts": []
     },
     "7": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "처음부터 물건을 팔지 마! 그리고 우리 집에는 고양이가 없어!!"
             }
-        ]
+        ],
+        "atts": []
     },
     "8": {
         "speaker": "판매원",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아, 그래요? 하지만 이 근처에 당신 집 계단에만 여러 마리의 고양이가 모여 있어서 저는……"
             }
-        ]
+        ],
+        "atts": []
     },
     "9": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그 고양이들 다 내가 키우는 게 아니야! 앞으로도 키우지 않을 거야!! 이제 가세요, 다음엔 오지 마세요!!"
             }
-        ]
+        ],
+        "atts": []
     },
     "10": {
         "speaker": "판매원",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아, 잠시만요. 최소한 명함이라도……"
             }
-        ]
+        ],
+        "atts": []
     },
     "11": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "하……"
             }
-        ]
+        ],
+        "atts": []
     },
     "12": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "뭐야, 아침부터 정말 어이없네."
             }
-        ]
+        ],
+        "atts": []
     },
     "13": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "무슨 소리야, 우리 집 앞에 고양이들이 많이 있다는 게……"
             }
-        ]
+        ],
+        "atts": []
     },
     "14": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "휴, 검은 고양이든 흰 고양이든 팬더보다는 못해, 지금은 표를 찾는 게 우선이야……"
             }
-        ]
+        ],
+        "atts": []
     },
     "15": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（하? 다시 오는 거야？？）"
             }
-        ]
+        ],
+        "atts": []
     },
     "16": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이미! 말했잖아! 필요 없다고————"
             }
-        ]
+        ],
+        "atts": []
     },
     "17": {
         "speaker": "카나메 라나",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "뭐가 필요 없다는 거야?"
             }
-        ]
+        ],
+        "atts": []
     },
     "18": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "어, 라나——너가 어떻게 여기 왔어？？？"
             }
-        ]
+        ],
+        "atts": []
     },
     "19": {
         "speaker": "카나메 라나",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "뭐가 필요 없다는 거야?"
             }
-        ]
+        ],
+        "atts": []
     },
     "20": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "음, 아무것도 아니야… 그냥 아까 귀찮은 애완동물 용품 판매원이 와서, 또 돌아왔는 줄 알았어……"
             }
-        ]
+        ],
+        "atts": []
     },
     "21": {
         "speaker": "카나메 라나",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "리키, 고양이 키울 거야?"
             }
-        ]
+        ],
+        "atts": []
     },
     "22": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "절대 안 키워."
             }
-        ]
+        ],
+        "atts": []
     },
     "23": {
         "speaker": "카나메 라나",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "휴……"
             }
-        ]
+        ],
+        "atts": []
     },
     "24": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "라나는 바닥에서 명함을 하나 주워 들었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "25": {
         "speaker": "카나메 라나",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "거짓말."
             }
-        ]
+        ],
+        "atts": []
     },
     "26": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "에휴, 그 녀석이 언제 명함을 두고 갔지!!"
             }
-        ]
+        ],
+        "atts": []
     },
     "27": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "하, 됐어. 너 무슨 일로 왔어? 일단 들어와서 얘기하자."
             }
-        ]
+        ],
+        "atts": []
     },
     "28": {
         "speaker": "카나메 라나",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "응."
             }
-        ]
+        ],
+        "atts": []
     }
 }

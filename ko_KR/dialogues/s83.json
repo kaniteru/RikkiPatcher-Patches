@@ -1,623 +1,923 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 침실로 뛰어 들어갔고, 그 순간 검은 고양이의 꼬리는 창문 커튼 뒤로 사라졌다."
             }
-        ]
+        ],
+        "atts": []
     },
     "1": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "조용히 따라 들어온 방 주인은 그저 자기 뒤를 멍하니 바라보고 있었다. 침묵은 마치 라이브에서 노래가 끝난 후 관중들이 박수를 치기 전 몇 초간의 정적 같았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "2": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "커다란 혼란이 마치 폭발한 에어백처럼 그녀를 밀어 타키에게 더 가까이 다가가게 했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "3": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "——그러나 그녀들은 이미 너무 가까이 서 있어서 타키가 바라보는 방향을 따라 뒤로 바라볼 수밖에 없었다——커튼의 흔들림이 점차 멈추었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "4": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "무...무슨 일이 있었던거야?"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {},
+                {
+                    "alpha": {}
+                }
+            ]
+        }
     },
     "5": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "검은 고양이는 이미 커튼 뒤로 완전히 사라졌지만 창문은 단단히 닫혀 있었다. 이는 고양이가 나갈 길이 없다는 것을 의미한다. 커튼을 걷어내기만 하면, 그 검은 동물이 가장 좋은 시작이 될 것이다."
             }
-        ]
+        ],
+        "atts": []
     },
     "6": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "토모리, 창문 뒤에 있어."
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {},
+                {
+                    "alpha": {}
+                }
+            ]
+        }
     },
     "7": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "시이나 타키는 다가가서 커튼을 열었지만, 창틀에는 아무것도 없었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "8": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（역시......）"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {},
+                {
+                    "alpha": {}
+                }
+            ]
+        }
     },
     "9": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "‘최악의 가능성’ 시나리오 중 하나로 이미 예측했기 때문에 타키는 별로 놀라지 않았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "10": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "검은 고양이는 창틀에 없었지만, 카운트다운은 여전히 창틀에 있었다. 그래서 그녀는 이야기를 계속했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "11": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "토모리가 그걸 볼 수 있어?"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {},
+                {
+                    "alpha": {}
+                }
+            ]
+        }
     },
     "12": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "토모리는 고개를 저었다. 그녀의 이마에 불안감이 스프링처럼 돌아갔고, 그 익숙한 불안감은 더욱 강하게 스프링을 돌리게 했다. 그녀의 눈썹은 결국 서로 얽혀버렸다."
             }
-        ]
+        ],
+        "atts": []
     },
     "13": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "며칠 전, 갑자기 기절한 후, 내 머리 위에 카운트다운이 생겼어."
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {},
+                {
+                    "alpha": {}
+                }
+            ]
+        }
     },
     "14": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "동시에, 내 분당 심장 박동 수는 10의 정수 배수로 고정되었고, 매일 자정 이후에 10회씩 줄어들어."
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {},
+                {
+                    "alpha": {}
+                }
+            ]
+        }
     },
     "15": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "카운트다운이 0이 되면... 내 심장은 멈출 거야."
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {},
+                {
+                    "alpha": {}
+                }
+            ]
+        }
     },
     "16": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "잠시의 침묵도 이 순간에는 길게 느껴졌다. 말하지 않은 의미는 더 분명했다——뛰지 않는 심장은 무엇을 의미할까?"
             }
-        ]
+        ],
+        "atts": []
     },
     "17": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키, 농담하는 거 아니지?"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {},
+                {
+                    "alpha": {}
+                }
+            ]
+        }
     },
     "18": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "토모리의 목소리는 떨렸다. 그녀는 상대방이 이런 심각한 일을 농담으로 할 사람이 아니라는 것을 알고 있었고, 얼굴의 무거움도 가짜가 아니었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "19": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그러나 토모리는 물었다. 마치 타키가 진짜로 '농담이다'라고 대답할 것처럼."
             }
-        ]
+        ],
+        "atts": []
     },
     "20": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "갑작스런 재난 앞에서, 토모리는 가장 빠른 속도로 비상 모드를 시작했다——아무리 작은 가능성이라도 잡아보려 했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "21": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 토모리의 손을 잡고 자신의 가슴 앞에 놓았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "22": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "거의 1초에 한 번씩 뛰는 심장 박동을, 메인 보컬은 이 안정적이면서도 이상한 리듬을 분명히 알아차릴 수밖에 없었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "23": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "몇 초에 한 번씩 울리는 심장 박동을 메인 보컬은 분명히 알아차릴 수밖에 없었고, 눈앞의 사람이 아직 움직일 수 있다는 것은 기적이었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "24": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "왜...?"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {},
+                {
+                    "alpha": {}
+                }
+            ]
+        }
     },
     "25": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 어떤 단서가 있니?"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {},
+                {
+                    "alpha": {}
+                }
+            ]
+        }
     },
     "26": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "저주일까? 타키는 엑소시스트를 찾아본 적 있어?"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {},
+                {
+                    "alpha": {}
+                }
+            ]
+        }
     },
     "27": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아니면 잠을 못 잔 걸까? 수면 부족이 환각을 일으켰을 수도 있어. 아마도 신곡에 대한 압박이 너무 커서..."
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {},
+                {
+                    "alpha": {}
+                }
+            ]
+        }
     },
     "28": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그녀는 계속 질문을 던졌고, 톤은 점점 빨라졌지만, 머리는 점점 더 내려갔다."
             }
-        ]
+        ],
+        "atts": []
     },
     "29": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "문 밖의 재료들이 거의 다 꺼내져 있고, 에너지 젤리만 가득 찬 바구니가 시야에 들어왔을 때 그녀는 드디어 멈췄다."
             }
-        ]
+        ],
+        "atts": []
     },
     "30": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키, 사실 그 이유로 식재료를 모아둔 거지?"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {},
+                {
+                    "alpha": {}
+                }
+            ]
+        }
     },
     "31": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키, 사실 요리 연습을 위해 이렇게 많은 재료를 산 게 아니지?"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {},
+                {
+                    "alpha": {}
+                }
+            ]
+        }
     },
     "32": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {},
+                {
+                    "alpha": {}
+                }
+            ]
+        }
     },
     "33": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "토모리는 한 걸음 뒤로 물러났다. 처음에는 찌푸린 그녀의 눈썹이 어떤 대답을 찾았기 때문에 풀렸다. 그것은 마치 타키의 목구멍에 걸린 숨결이 고요하게 내쉬어지는 것 같았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "34": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키... 이미 그 전에 곡을 써야겠다고 결심한 거야?"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {},
+                {
+                    "alpha": {}
+                }
+            ]
+        }
     },
     "35": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {},
+                {
+                    "alpha": {}
+                }
+            ]
+        }
     },
     "36": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "말할 수 없다. 그렇게 결심했다고 해도, 현재는 그저 결심일 뿐이다. 곡의 진도는 빠르기도 하고 느리기도 해서 마감 전에 제출할 수 있을지도 확신할 수 없다."
             }
-        ]
+        ],
+        "atts": []
     },
     "37": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "내가 좀 더 능숙했더라면, 시간이 좀 더 넉넉했더라면——수없이 이런 한탄을 해봤지만, 지금 당장은 시작해야만 곡을 완성할 가능성이 있기 때문에, 그렇기 때문에."
             }
-        ]
+        ],
+        "atts": []
     },
     "38": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "뭔가를 남기고 싶어."
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {},
+                {
+                    "alpha": {}
+                }
+            ]
+        }
     },
     "39": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "왜, 왜 자신을 조금 더 생각하지 않는 거야?"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {},
+                {
+                    "alpha": {}
+                }
+            ]
+        }
     },
     "40": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "만약 갑자기 기절하는 일이 없었다면... 타키는 언제까지 숨길 생각이었어?"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {},
+                {
+                    "alpha": {}
+                }
+            ]
+        }
     },
     "41": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이런 타키는... 싫어."
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {},
+                {
+                    "alpha": {}
+                }
+            ]
+        }
     },
     "42": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "말을 조직하는 게 힘든 일이 되었다. 시이나 타키는 지금 목소리를 내고, 입을 열어 무언가를 말해야 하지만, 첫걸음인 생각을 정리하는 데서 막혔다."
             }
-        ]
+        ],
+        "atts": []
     },
     "43": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "감정의 파도가 그녀를 바닥에 내리쳤고, 폐는 물결에 맞춰 숨을 들이마셨고, 눈가에서는 따끔거림 때문에 눈물이 맺혔다. 그녀는 토모리의 가사에 비슷한 감정을 많이 느꼈지만, 이번이 가장 싫었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "44": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "토모리도 힘이 다한 듯 웅크려 앉아 작은 덩어리가 되어 어깨를 살짝 떨었다. 소리는 겹쳐진 외투와 팔 사이로 통해 나왔고, 평소보다 더 답답하게 들렸다."
             }
-        ]
+        ],
+        "atts": []
     },
     "45": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그날 연습 때도 이 때문이었어? 카운트다운은 얼마나 남았어?"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {},
+                {
+                    "alpha": {}
+                }
+            ]
+        }
     },
     "46": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "토모리..."
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {},
+                {
+                    "alpha": {}
+                }
+            ]
+        }
     },
     "47": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그녀는 다시 도망치고 싶어졌다."
             }
-        ]
+        ],
+        "atts": []
     },
     "48": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "바닥에 웅크려 우는 토모리는 깨지기 쉬운 존재였지만, 곁에 있는 사람을 붙잡으려는 토모리는 강인하고 힘이 있었다. 그녀는 이런 모순된 결합을 루퍼트의 눈물에서만 본 적이 있었고, 그것은 자연계에 존재해서는 안 되는 것이었다. 낯설다고 느끼고 물러나려는 생각이 드는 것도 당연했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "49": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "작은 거짓말 하나만 하면 된다. 죽음의 날짜를 하루 미루기만 하면 된다. 집에서 키우는 개도 수명이 다하면 몰래 숨어서 사람들에게 들키지 않으려 한다. 감정이 더 풍부한 인간으로서 토모리에게 직접 자신의 죽음을 보게 할 이유가 없다."
             }
-        ]
+        ],
+        "atts": []
     },
     "50": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "토모리가 올 때쯤이면 아마 자신은 의식을 잃었을 것이다. 준비된 돌발 상황은 이별의 슬픔을 효과적으로 풀어줄 수 있다. 거짓말에 대한 원한이 남더라도 이미 명계를 건넌 자신에게는 닿지 않을 것이다."
             }
-        ]
+        ],
+        "atts": []
     },
     "51": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "남은 시간은... [@v100]일..."
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {},
+                {
+                    "alpha": {}
+                }
+            ]
+        }
     },
     "52": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "결국 오래 생각했던 거짓말을 하지 않았다. 잘못된 것은 다시 잘못되어서는 안 된다. 거짓말에 대한 원한은 그때의 자신을 쫓지 못하지만, 해명의 말도 명계를 벗어나지 못해 토모리에게 전달되지 않는다."
             }
-        ]
+        ],
+        "atts": []
     },
     "53": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "토모리는 깊게 숨을 쉬고 일어나 다시 한 걸음 물러났다. 그 슬픈 떨림이 사라졌고, 대신 팔짱을 낀 동작이 나타났다. 마치 주변이 아주 추운 것처럼."
             }
-        ]
+        ],
+        "atts": []
     },
     "54": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "미안해, 타키."
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {},
+                {
+                    "alpha": {}
+                }
+            ]
+        }
     },
     "55": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "창문을 닫아야 했나…?"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {},
+                {
+                    "alpha": {}
+                }
+            ]
+        }
     },
     "56": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "시이나 타키는 천천히 뒤로 물러나 벽에 기대는 토모리를 보며, 그가 심리학에서 흔히 보는 방어 자세라는 것을 뒤늦게 깨달았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "57": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "우리가 평생 밴드를 하자고 했을 때 기억해? 타키는 제일 먼저 내게 동의했어."
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {},
+                {
+                    "alpha": {}
+                }
+            ]
+        }
     },
     "58": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "후회하지 마. 평생이란 평생이야. 심장이 멈추기 전까지 타키는 우리의 드러머이자 작곡가야."
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {},
+                {
+                    "alpha": {}
+                }
+            ]
+        }
     },
     "59": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그날 지나서 가사를 줄게. 타키가 완벽을 추구하려면 마지막 곡이 가사 없이 나오는 건 말이 안 되잖아."
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {},
+                {
+                    "alpha": {}
+                }
+            ]
+        }
     },
     "60": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그래서 타키는 잘 살아야 해. 이건 좀 과한 요구일지도 모르지만, 타키가 내 가사를 받기 전까지 살아야 해."
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {},
+                {
+                    "alpha": {}
+                }
+            ]
+        }
     },
     "61": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그 전에..."
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {},
+                {
+                    "alpha": {}
+                }
+            ]
+        }
     },
     "62": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "당분간, 타키를 보고 싶지 않아."
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {},
+                {
+                    "alpha": {}
+                }
+            ]
+        }
     },
     "63": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "토모리가 문을 닫을 때 바람 한 줄기가 불어왔다. 초봄의 찬 바람이 타키의 얼굴에 닿으며 어지러움을 가져왔고, 그녀는 눈을 감았다. 귀신경 손상 시 균형 장애를 일으킬 수 있지만, 왜 지금은 평소보다 더 잘 들리는 걸까——"
             }
-        ]
+        ],
+        "atts": []
     },
     "64": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "털과 창틀이 스치는 작은 소리를 들었고, 바람 소리가 창문을 통해 들어오는 소리를 들었고, 높은 곳에서 물웅덩이에 빠졌다가 몇 걸음 점프하는 고양이 발톱 소리를 들었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "65": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "바구니를 들어올릴 때 젤리 포장지끼리 비비는 소리를 들었고, 발 아래 부츠가 가볍고 조심스럽게 걸음을 내디딜 때 나는 소리를 들었고, 손 옆 문이 부드럽게 닫히는 소리를 들었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "66": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "침대에 몸을 던지는 둔탁한 소리를 들었고, 이불을 들어 올리다가 다시 대충 뭉쳐지는 전의 서늘한 소리를 들었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "67": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "길게 한숨 쉬는 소리를 들었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "68": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "내가... 무슨 짓을 한 거야..."
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {},
+                {
+                    "alpha": {}
+                }
+            ]
+        }
     }
 }

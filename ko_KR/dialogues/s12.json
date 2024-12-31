@@ -1,34 +1,37 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "날이 점점 어두워지고, 거리는 여전히 한산했다. 차가운 습기가 공기 중에 퍼지고, 오늘 하루의 고됨이 사람들로 하여금 자신의 집으로 걸음을 재촉하게 만들었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "1": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키에게 있어 집이란 커튼이 닫혀 빛이 드리우지 않아 어두운 방 안에 있는 책상과 의자, 그리고 LCD 화면으로 이루어진 작은 공간이었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "2": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "편의점은 동서로 연결된 직선 도로에 위치해 있다. 동쪽으로 향하든 서쪽으로 향하든 타키가 사는 집에 도달할 수 있다. 그러나 두 길의 거리와 경치, 주변 시설은 많이 다르다."
             }
-        ]
+        ],
+        "atts": []
     },
     "3": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "동쪽으로 가면, 사람들이 붐벼 시끌벅적한 번화가를 지나치게 된다. "
@@ -41,20 +44,22 @@
                 "html": "style='color:#FfFffF'",
                 "text": "는 사람이 많고 길도 복잡하여 서쪽으로 가는 것 보다는 조금 더 멀다."
             }
-        ]
+        ],
+        "atts": []
     },
     "4": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "거리에는 많은 가게들이 늘어서 있었지만, 새 집으로 이사한 이후로는 많이 바빠져 쇼핑을 할 여유가 없었다. 매번 밤 늦게 귀가할 때 마다 안전을 생각하며 급히 지나치다 보니 어떤 상점들이 있는지 정확히 알지 못했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "5": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "서쪽의 지름길로 지나가면 상대적으로 거리는 짧지만, 공사 현장과 폐허가 된 도로를 통과해야 한다. "
@@ -67,42 +72,47 @@
                 "html": "style='color:#FfFffF'",
                 "text": "은 밤에 인적이 드물어 혼자 걷기에는 많이 으스스하다."
             }
-        ]
+        ],
+        "atts": []
     },
     "6": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(평소같으면 사람이 많은 번화가를 지나쳤겠지만 오늘은 너무 피곤해…… 어느 쪽으로 가는 게 좋을까?)"
             }
-        ]
+        ],
+        "atts": []
     },
     "7": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "머릿속에는 아직도 그 이상한 검은 고양이의 울음소리가 잊히지 않아 타키의 불안은 점점 깊어져만 갔다."
             }
-        ]
+        ],
+        "atts": []
     },
     "8": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(번화가로 가자, 조금 멀더라도 안전하니까……)"
             }
-        ]
+        ],
+        "atts": []
     },
     "9": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(너무 피곤한데… 이번 한 번만 지름길로 지나가자. 빠르게 지나치면 아무 일 없겠지……)"
             }
-        ]
+        ],
+        "atts": []
     }
 }

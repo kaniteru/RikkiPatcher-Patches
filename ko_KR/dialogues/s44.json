@@ -1,389 +1,432 @@
 {
     "0": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（여긴 시 외곽 방향이야.）"
             }
-        ]
+        ],
+        "atts": []
     },
     "1": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "두 번째 장소로 술 마시러 가는 거 아니었어?"
             }
-        ]
+        ],
+        "atts": []
     },
     "2": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "소리가 좁은 공간 안에서 울려서 답답하게 들린다."
             }
-        ]
+        ],
+        "atts": []
     },
     "3": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아니."
             }
-        ]
+        ],
+        "atts": []
     },
     "4": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "길이 좀 멀어."
             }
-        ]
+        ],
+        "atts": []
     },
     "5": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": []
     },
     "6": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（어디로 가는지 말할 생각 없나……）"
             }
-        ]
+        ],
+        "atts": []
     },
     "7": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（뭐……익숙하지.）"
             }
-        ]
+        ],
+        "atts": []
     },
     "8": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "오토바이가 국도로 들어섰다."
             }
-        ]
+        ],
+        "atts": []
     },
     "9": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "번화한 도쿄를 떠나, 고요한 도로는 맑은 고독감을 준다."
             }
-        ]
+        ],
+        "atts": []
     },
     "10": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（우리 둘뿐인가.）"
             }
-        ]
+        ],
+        "atts": []
     },
     "11": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（나쁘지 않은데.）"
             }
-        ]
+        ],
+        "atts": []
     },
     "12": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（질주하는 바람, 온몸이 바람에 잡히는 느낌, 모든 것이 가벼워졌어.）"
             }
-        ]
+        ],
+        "atts": []
     },
     "13": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（그리고 이 적당한, 손가락이 얼어붙는 추위.）"
             }
-        ]
+        ],
+        "atts": []
     },
     "14": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（……헬멧이 좀 거추장스럽네.）"
             }
-        ]
+        ],
+        "atts": []
     },
     "15": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（역시 이 추위 없이는, 몸속으로 파고드는 이 고통 없이는 안 돼.）"
             }
-        ]
+        ],
+        "atts": []
     },
     "16": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（고통과 벌이 있어야 마음 놓고 즐길 수 있어.）"
             }
-        ]
+        ],
+        "atts": []
     },
     "17": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（소세가 이 생각을 알았다면 분명 '미쳤다'고 하겠지.）"
             }
-        ]
+        ],
+        "atts": []
     },
     "18": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（겨울에 이렇게 질주하는 우미리……）"
             }
-        ]
+        ],
+        "atts": []
     },
     "19": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（우린 다들 심각하게 아프네.）"
             }
-        ]
+        ],
+        "atts": []
     },
     "20": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "차 한 대가 오토바이 옆을 지나며 곧 사라졌다."
             }
-        ]
+        ],
+        "atts": []
     },
     "21": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이 떠들썩하면서도 고요한 세상은 영원히 변하지 않을 것 같다."
             }
-        ]
+        ],
+        "atts": []
     },
     "22": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "질주하는 오토바이, 바람에 휘날리는 라이더의 머리카락, 점점 어두워지는 하늘, 울부짖는 소리를 담아 자장가를 연주하는 고독한 바람."
             }
-        ]
+        ],
+        "atts": []
     },
     "23": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "언어로 유지될 필요가 없다."
             }
-        ]
+        ],
+        "atts": []
     },
     "24": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "여기에는, 오직 세상 자체만이 존재한다."
             }
-        ]
+        ],
+        "atts": []
     },
     "25": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......우미리, 이제 목적지 안 알려줘?"
             }
-        ]
+        ],
+        "atts": []
     },
     "26": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "만약 내가 말하면, 우리는 계속 목적지에 있었어."
             }
-        ]
+        ],
+        "atts": []
     },
     "27": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……대충 짐작했어. 정말 오래 탔네."
             }
-        ]
+        ],
+        "atts": []
     },
     "28": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이렇게 바람을 맞으며 타는 경험, 정말 상쾌해."
             }
-        ]
+        ],
+        "atts": []
     },
     "29": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "나도 이 여정을 좋아해."
             }
-        ]
+        ],
+        "atts": []
     },
     "30": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그래도, 다음 목적지가 있긴 해, 거의 다 왔어."
             }
-        ]
+        ],
+        "atts": []
     },
     "31": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "직접 말해주면 안 돼."
             }
-        ]
+        ],
+        "atts": []
     },
     "32": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（우미리이 언제부터 이렇게 미스테리어스한 사람이었지……）"
             }
-        ]
+        ],
+        "atts": []
     },
     "33": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "직접 말하면 드문 경험을 망칠 수 있어, 왜냐하면 아주 평범한 대답이니까."
             }
-        ]
+        ],
+        "atts": []
     },
     "34": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키가 '이게 뭐 볼만한 곳이야'라고 생각할까 봐 아쉬울 거야."
             }
-        ]
+        ],
+        "atts": []
     },
     "35": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……그럼 우미리, 내가 대답을 보고 '이게 뭐 볼만한 곳이야'라고 할 거라고 생각해?"
             }
-        ]
+        ],
+        "atts": []
     },
     "36": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "지금은 '이게 뭐 숨길 만한 일이야'라고 불평할지도 몰라."
             }
-        ]
+        ],
+        "atts": []
     },
     "37": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "하지만 내가 이 여정도 목적지라고 했잖아."
             }
-        ]
+        ],
+        "atts": []
     },
     "38": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키……이제 기분 좀 나아졌어?"
             }
-        ]
+        ],
+        "atts": []
     },
     "39": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "…………"
             }
-        ]
+        ],
+        "atts": []
     },
     "40": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "말했잖아, 기분이 아주 상쾌해."
             }
-        ]
+        ],
+        "atts": []
     },
     "41": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그래."
             }
-        ]
+        ],
+        "atts": []
     },
     "42": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그럼 정말 다행이네."
             }
-        ]
+        ],
+        "atts": []
     }
 }

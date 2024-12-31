@@ -1,353 +1,533 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "报幕"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "alpha": 0,
+                    "fontSize": 30,
+                    "height": 34,
+                    "shadowEnabled": false,
+                    "strokeColor": "#d57fdf",
+                    "width": 413,
+                    "x": 1284,
+                    "y": 1102
+                },
+                {
+                    "alpha": {},
+                    "fontSize": {},
+                    "height": {},
+                    "shadowEnabled": {},
+                    "strokeColor": {},
+                    "width": {},
+                    "x": {},
+                    "y": {}
+                }
+            ],
+            "nameBox": [
+                {
+                    "height": 156,
+                    "x": -240,
+                    "y": 586
+                },
+                {
+                    "height": {},
+                    "x": {},
+                    "y": {}
+                }
+            ],
+            "skipBox": [
+                {
+                    "alpha": 0,
+                    "x": 1546,
+                    "y": 1074
+                },
+                {
+                    "alpha": {},
+                    "x": {},
+                    "y": {}
+                }
+            ]
+        }
     },
     "1": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": []
     },
     "2": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "手机振动声响过三道。"
             }
-        ]
+        ],
+        "atts": []
     },
     "3": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "彻夜未眠的立希靠在床头，盯着面前昏暗的空间，没有摁灭手机的打算。"
             }
-        ]
+        ],
+        "atts": []
     },
     "4": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……喂？"
             }
-        ]
+        ],
+        "atts": {}
     },
     "5": {
         "speaker": "未知来电",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": []
     },
     "6": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "来电显示未知的号码，听筒里沙沙的白噪音令沉默的气氛更加毛骨悚然。"
             }
-        ]
+        ],
+        "atts": []
     },
     "7": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……您好？"
             }
-        ]
+        ],
+        "atts": {}
     },
     "8": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……搞什么。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "9": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "陌生的恶作剧点燃了累积的焦虑。立希闭上眼睛，紧紧握拳。"
             }
-        ]
+        ],
+        "atts": []
     },
     "10": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "她想要大喊，想要咒骂，想要尖叫。"
             }
-        ]
+        ],
+        "atts": []
     },
     "11": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "但最终她什么也没有做。只是疲惫地睁开眼，看向手机变暗的屏幕。"
             }
-        ]
+        ],
+        "atts": []
     },
     "12": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "7：00"
             }
-        ]
+        ],
+        "atts": []
     },
     "13": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……还剩一个小时吗。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "14": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（一个小时能做些什么呢，什么也做不了。）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "15": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "人在远行之前应该做些什么？人在临终之前会做些什么……"
             }
-        ]
+        ],
+        "atts": []
     },
     "16": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "十天的时间，立希还未思考清楚这个问题。"
             }
-        ]
+        ],
+        "atts": []
     },
     "17": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "道别……"
             }
-        ]
+        ],
+        "atts": {}
     },
     "18": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "是道别吧。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "19": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "闭上眼睛，仿佛看得见春风吹动殡仪场外的柳枝。"
             }
-        ]
+        ],
+        "atts": []
     },
     "20": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "人们排着队，一一向灵前安躺的躯体献花。"
             }
-        ]
+        ],
+        "atts": []
     },
     "21": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "唱经随升腾的焚香缭绕，亲友守护在旁，往棺木里放入死者生前最喜欢的物件。"
             }
-        ]
+        ],
+        "atts": []
     },
     "22": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "这叫什么告别……别把鼓棒放棺材里啊。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "23": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "我……"
             }
-        ]
+        ],
+        "atts": {}
     },
     "24": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "摁亮手机，与他人的最后一次联系停留在几天以前。"
             }
-        ]
+        ],
+        "atts": []
     },
     "25": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（要联系谁……能联系谁？）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "26": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（就说……“对不起我要死了”“再见”吗，连聊天叙旧都来不及，凭什么到最后还打给对方，留下苦痛和悔恨的回忆。）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "27": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（为什么到最后才想起来……）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "28": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（曲子也……）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "29": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（我又选错了什么吗……）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "30": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "电脑屏幕发着荧光，最后《未完成的作品》中止在无法被完成的位置。"
             }
-        ]
+        ],
+        "atts": []
     },
     "31": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……哈。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "32": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "很残酷吧，命运。"
             }
-        ]
+        ],
+        "atts": []
     },
     "33": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "灵感不会降临，奇迹不会发生，期待不会被满足。最后才想要再见的人……"
             }
-        ]
+        ],
+        "atts": []
     },
     "34": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "也来不及讲出“再见”。"
             }
-        ]
+        ],
+        "atts": []
     },
     "35": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "稀薄的日光慢慢照亮空旷的房间。"
             }
-        ]
+        ],
+        "atts": []
     },
     "36": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "春风如一阵稍纵即逝的呼吸。"
             }
-        ]
+        ],
+        "atts": []
     },
     "37": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "报幕"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "alpha": 0,
+                    "fontSize": 30,
+                    "height": 34,
+                    "shadowEnabled": false,
+                    "strokeColor": "#d57fdf",
+                    "width": 413,
+                    "x": 1284,
+                    "y": 1102
+                },
+                {
+                    "alpha": {},
+                    "fontSize": {},
+                    "height": {},
+                    "shadowEnabled": {},
+                    "strokeColor": {},
+                    "width": {},
+                    "x": {},
+                    "y": {}
+                }
+            ],
+            "nameBox": [
+                {
+                    "height": 156,
+                    "x": -240,
+                    "y": 586
+                },
+                {
+                    "height": {},
+                    "x": {},
+                    "y": {}
+                }
+            ],
+            "skipBox": [
+                {
+                    "alpha": 0,
+                    "x": 1546,
+                    "y": 1074
+                },
+                {
+                    "alpha": {},
+                    "x": {},
+                    "y": {}
+                }
+            ]
+        }
     },
     "38": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "报幕"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "alpha": 0,
+                    "fontSize": 30,
+                    "height": 34,
+                    "shadowEnabled": false,
+                    "strokeColor": "#d57fdf",
+                    "width": 413,
+                    "x": 1284,
+                    "y": 1102
+                },
+                {
+                    "alpha": {},
+                    "fontSize": {},
+                    "height": {},
+                    "shadowEnabled": {},
+                    "strokeColor": {},
+                    "width": {},
+                    "x": {},
+                    "y": {}
+                }
+            ],
+            "nameBox": [
+                {
+                    "height": 156,
+                    "x": -240,
+                    "y": 586
+                },
+                {
+                    "height": {},
+                    "x": {},
+                    "y": {}
+                }
+            ],
+            "skipBox": [
+                {
+                    "alpha": 0,
+                    "x": 1546,
+                    "y": 1074
+                },
+                {
+                    "alpha": {},
+                    "x": {},
+                    "y": {}
+                }
+            ]
+        }
     }
 }

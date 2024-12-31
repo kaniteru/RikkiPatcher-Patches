@@ -1,74 +1,82 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "사키코와 작별을 하고, 아침 햇살을 가르며 집으로 돌아왔다."
             }
-        ]
+        ],
+        "atts": []
     },
     "1": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "컴퓨터 화면은 타키의 미완성 작품으로 돌아갔고, 프로젝트 파일과 백업은 모두 깔끔하게 삭제되었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "2": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "마치 아무 일도 일어나지 않은 것처럼."
             }
-        ]
+        ],
+        "atts": []
     },
     "3": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아무 것도 남기지 않다니, 정말 신중하네."
             }
-        ]
+        ],
+        "atts": {}
     },
     "4": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": {}
     },
     "5": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（아니, 아마도 많은 것들이 남았을 거야.）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "6": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（7년 전부터.）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "7": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 몸을 굽혀, 바닥에서 마지막 유리 조각을 조심스럽게 주워냈다."
             }
-        ]
+        ],
+        "atts": []
     }
 }

@@ -1,1559 +1,1779 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "평일이라 시간이 5시가 지났음에도 불구하고 이자카야는 여전히 한산했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "1": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "작은 가게에 일곱 개의 테이블이 있었지만, 두 명의 손님이 앉아 있는 테이블이 하나뿐이었다. 그리고 그들은 술을 주문하지 않았고, 테이블에는 반쯤 먹은 정식 세트만 있었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "2": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키와 우미리는 구석의 테이블에 앉았다. 타키는 그 두 사람이 얼핏 그녀들을 살피는 것처럼 보였지만, 시선이 여러 번 우미리의 복부에 머물렀다가 다시 낮은 소리로 논의하는 것을 발견했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "3": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 상대방이 다시 훔쳐보려고 할 때 거칠게 눈을 부라리며 손에 들고 있던 물컵을 테이블 위에 내리쳤고, 얼음 조각이 튀어 나왔다."
             }
-        ]
+        ],
+        "atts": []
     },
     "4": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "잠시 후 그 두 사람은 급히 자리에서 일어났다."
             }
-        ]
+        ],
+        "atts": []
     },
     "5": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "우미리는 가볍게 웃으며 여유롭게 타키에게 자신이 좋아하는 술을 추천했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "6": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "신경 안 써?"
             }
-        ]
+        ],
+        "atts": []
     },
     "7": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "상관없어. 여기선 그들을 볼 수도 없고, 없는 셈 치면 돼."
             }
-        ]
+        ],
+        "atts": []
     },
     "8": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "뭐? 안 보여도 들리잖아!"
             }
-        ]
+        ],
+        "atts": []
     },
     "9": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "칭찬이라면 그냥 놔둬."
             }
-        ]
+        ],
+        "atts": []
     },
     "10": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이런 사람들이 옆에서 떠드는 걸 들으면 술 맛이 나빠져."
             }
-        ]
+        ],
+        "atts": []
     },
     "11": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그래?"
             }
-        ]
+        ],
+        "atts": []
     },
     "12": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "우리가 밴드 활동을 계속하면서, 온라인이든 오프라인이든 이런 일에 익숙해졌다고 생각했는데."
             }
-        ]
+        ],
+        "atts": []
     },
     "13": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "적어도 욕설보다는 낫지 않아, 타키."
             }
-        ]
+        ],
+        "atts": []
     },
     "14": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "난 그렇게 생각하지 않아."
             }
-        ]
+        ],
+        "atts": []
     },
     "15": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（우미리도 이런 표정을 짓다니.）"
             }
-        ]
+        ],
+        "atts": []
     },
     "16": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（전에는 웃어도 항상 비꼬는 것처럼 느껴졌어.）"
             }
-        ]
+        ],
+        "atts": []
     },
     "17": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키, 표정이 정말 풍부하네."
             }
-        ]
+        ],
+        "atts": []
     },
     "18": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "무슨 생각해?"
             }
-        ]
+        ],
+        "atts": []
     },
     "19": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "너 고등학교 때랑 정말 많이 달라졌어."
             }
-        ]
+        ],
+        "atts": []
     },
     "20": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "응?"
             }
-        ]
+        ],
+        "atts": []
     },
     "21": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……타키도 마찬가지야, 오늘 계속 옛날 사람처럼 말하잖아."
             }
-        ]
+        ],
+        "atts": []
     },
     "22": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "참 이상하네."
             }
-        ]
+        ],
+        "atts": []
     },
     "23": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……뭐가 이상하다는 거야."
             }
-        ]
+        ],
+        "atts": []
     },
     "24": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "모든 게 이상해."
             }
-        ]
+        ],
+        "atts": []
     },
     "25": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "적어도 우리가 마지막으로 만났을 때, 너는 이렇지 않았어."
             }
-        ]
+        ],
+        "atts": []
     },
     "26": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "불과 세 달도 안 됐는데."
             }
-        ]
+        ],
+        "atts": []
     },
     "27": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（뭐라고 둘러댈까……）"
             }
-        ]
+        ],
+        "atts": []
     },
     "28": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（……잠깐, 우미리 이 녀석 왜 의자에 기대고 있어? '어디 한번 둘러대 봐'라는 눈빛……내가 그렇게 티가 나나?!）"
             }
-        ]
+        ],
+        "atts": []
     },
     "29": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그때, 종업원이 술안주와 소합병을 담은 쟁반을 들고 지나갔다."
             }
-        ]
+        ],
+        "atts": []
     },
     "30": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "유혹적인 색상의 고추냉이 문어, 매운 맛 조개와 해초 무침이 가볍게 테이블에 놓여 있어, 약간 배가 고픈 두 사람은 잠시 이야기를 멈추었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "31": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（다행히 이때 안주가 나와서 분위기가 끊겼다.）"
             }
-        ]
+        ],
+        "atts": []
     },
     "32": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（이런 날카로운 시선을 받는 느낌은 오랜만이야……그녀가 나를 이렇게 잘 알아주다니 고마워……）"
             }
-        ]
+        ],
+        "atts": []
     },
     "33": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": []
     },
     "34": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "먼저 한 잔 하자."
             }
-        ]
+        ],
+        "atts": []
     },
     "35": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "우미리는 타키의 술잔을 채웠다."
             }
-        ]
+        ],
+        "atts": []
     },
     "36": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "고마워."
             }
-        ]
+        ],
+        "atts": []
     },
     "37": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "맛이 정말 좋네."
             }
-        ]
+        ],
+        "atts": []
     },
     "38": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "또 저렴하기도 해, 순미 나마겐슈 한 병에 3000엔밖에 안 해."
             }
-        ]
+        ],
+        "atts": []
     },
     "39": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그래서 더 즐겁게 마셔야겠네."
             }
-        ]
+        ],
+        "atts": []
     },
     "40": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": []
     },
     "41": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "알다시피, 내가 도울 수 있는 건 뭐든 도울게."
             }
-        ]
+        ],
+        "atts": []
     },
     "42": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "…………"
             }
-        ]
+        ],
+        "atts": []
     },
     "43": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 술잔을 들이켰다."
             }
-        ]
+        ],
+        "atts": []
     },
     "44": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "목구멍에서부터 위까지 매운맛이 느껴졌다."
             }
-        ]
+        ],
+        "atts": []
     },
     "45": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（지금 거짓말을 하면 나중에 우미리의 진실을 알게 될 때……너무 잔인하지 않을까.）"
             }
-        ]
+        ],
+        "atts": []
     },
     "46": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（하지만 심장이 멈출 때 정확히 무슨 일이 일어날지 나도 몰라.）"
             }
-        ]
+        ],
+        "atts": []
     },
     "47": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（그리고 정말로 믿는 사람이 있을까?）"
             }
-        ]
+        ],
+        "atts": []
     },
     "48": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 자신에게 두 번째 잔을 따랐다."
             }
-        ]
+        ],
+        "atts": []
     },
     "49": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그녀는 우미리의 시선을 느끼며 자신이 빠른 답을 줘야 한다는 것을 알고 있었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "50": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그녀는 술을 한 모금 크게 마셨고, 위가 무겁게 느껴지며 알코올이 혈액에 급증해 머리가 어지러웠다."
             }
-        ]
+        ],
+        "atts": []
     },
     "51": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그때 꼬치구이와 사시미가 테이블에 놓였다."
             }
-        ]
+        ],
+        "atts": []
     },
     "52": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 닭심 꼬치를 하나 집어 들며 대답을 미루었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "53": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "소금 양과 불 조절이 딱 맞아, 좋은 가게네."
             }
-        ]
+        ],
+        "atts": []
     },
     "54": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "좋아해줘서 다행이야."
             }
-        ]
+        ],
+        "atts": []
     },
     "55": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（……이 꼬치를 다 먹으면, 어떤 식으로든 답을 줘야겠지. 이렇게 해도 괜찮을까? 그녀에게 쓸데없는 걱정을 더해주는 건.）"
             }
-        ]
+        ],
+        "atts": []
     },
     "56": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（하지만 전혀 말하지 않으면 우미리도 가만히 있지 않을 거야.）"
             }
-        ]
+        ],
+        "atts": []
     },
     "57": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……나 요즘 곡 하나를 만들고 있는데, 계속 잘 안 돼."
             }
-        ]
+        ],
+        "atts": []
     },
     "58": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아마 그게 영향을 끼친 거 같아."
             }
-        ]
+        ],
+        "atts": []
     },
     "59": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……단지 곡 때문이야?"
             }
-        ]
+        ],
+        "atts": []
     },
     "60": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "다른 일로 나를 괴롭히는 건 없잖아, 너도 알잖아."
             }
-        ]
+        ],
+        "atts": []
     },
     "61": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": []
     },
     "62": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "거의 잊어버렸는데, 너 잠시 후에 운전해야 되는데 술 마셔도 괜찮아?"
             }
-        ]
+        ],
+        "atts": []
     },
     "63": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（미안, 이렇게 넘기게 해줘.）"
             }
-        ]
+        ],
+        "atts": []
     },
     "64": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "걱정 마, 이 정도로는 취하지 않아."
             }
-        ]
+        ],
+        "atts": []
     },
     "65": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "큰소리치네. 이 술은 꽤 독한데."
             }
-        ]
+        ],
+        "atts": []
     },
     "66": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이 정도는 돼야 술 마시는 느낌이 나지."
             }
-        ]
+        ],
+        "atts": []
     },
     "67": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "우미리는 천천히 술잔을 입에 대고 마셨다."
             }
-        ]
+        ],
+        "atts": []
     },
     "68": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그녀의 얼굴은 전혀 변하지 않았다. 반면, 타키의 얼굴은 이미 술기운으로 약간 붉어졌다."
             }
-        ]
+        ],
+        "atts": []
     },
     "69": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "넌 여전히 똑같아, 술만 마시면 말이 많아져."
             }
-        ]
+        ],
+        "atts": []
     },
     "70": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "응?"
             }
-        ]
+        ],
+        "atts": []
     },
     "71": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "내가 잘못 기억한 게 아니라면, 술 취해서 공원의 팬더 시소를 타고 싶다고 소리치며 MyGO를 위해 세계 최고의 곡을 만들겠다고 한 사람은……"
             }
-        ]
+        ],
+        "atts": []
     },
     "72": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "뭐, 뭐?!"
             }
-        ]
+        ],
+        "atts": []
     },
     "73": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그런데 누가 청소 아저씨의 빗자루를 베이스로 삼아 연주하면서 왜 무대에 올라가서 합주하지 않느냐고 나한테 물었지?!"
             }
-        ]
+        ],
+        "atts": []
     },
     "74": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": []
     },
     "75": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그렇다면 내가 술에 취했어도 연주에 신경 쓰는 거지, 정말 프로페셔널하네."
             }
-        ]
+        ],
+        "atts": []
     },
     "76": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（젠장, 이 녀석 이길 수가 없네.）"
             }
-        ]
+        ],
+        "atts": []
     },
     "77": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "응, 타키도 그래, 맑은 정신이든 술에 취했든, 항상 작곡 생각뿐이잖아, 항상 그래."
             }
-        ]
+        ],
+        "atts": []
     },
     "78": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……나 지금 정말로 한 곡이 잘 안 돼서 며칠째 고민 중이야."
             }
-        ]
+        ],
+        "atts": []
     },
     "79": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이번이 처음도 아니잖아."
             }
-        ]
+        ],
+        "atts": []
     },
     "80": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（한동안 말이 안 나오네.）"
             }
-        ]
+        ],
+        "atts": []
     },
     "81": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……이 곡이 중요한 이유는 기한이 촉박하기도 해서."
             }
-        ]
+        ],
+        "atts": []
     },
     "82": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그래?"
             }
-        ]
+        ],
+        "atts": []
     },
     "83": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그럼 힘내."
             }
-        ]
+        ],
+        "atts": []
     },
     "84": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（이렇게 많이 물어보고 마지막에 '힘내'라고?）"
             }
-        ]
+        ],
+        "atts": []
     },
     "85": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "넌 여전히 변하지 않았어, 가끔은 남의 일에 신경도 안 쓰는 것처럼 보여."
             }
-        ]
+        ],
+        "atts": []
     },
     "86": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（더 인간적이 된 우미리, 여전히 예리한 우미리, 익숙하지 않은 것은 대체 무엇일까……）"
             }
-        ]
+        ],
+        "atts": []
     },
     "87": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（변화하는 것과 변하지 않는 것, 이것이야말로 정상인데…… 그 이야기, 테세우스의 배라고 했던가?）"
             }
-        ]
+        ],
+        "atts": []
     },
     "88": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（어느 정도 변하면 우미리는 더 이상 '우미리'이 아닐까.）"
             }
-        ]
+        ],
+        "atts": []
     },
     "89": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（……아마 카운트다운이 없었더라도, '시이나 타키'는 이미 죽었을지도 모른다.）"
             }
-        ]
+        ],
+        "atts": []
     },
     "90": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 한 잔 더 마시려 했지만, 잔은 우미리의 손에 의해 막혔다."
             }
-        ]
+        ],
+        "atts": []
     },
     "91": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 불만스럽게 쳐다보았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "92": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "우미리는 차분하게 그녀의 잔을 내려놓고, 남은 술을 자신이 마시고, 빈 잔을 타키에게 돌려주었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "93": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "너도 있잖아."
             }
-        ]
+        ],
+        "atts": []
     },
     "94": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이게 술을 즐기는 방법이 아니야."
             }
-        ]
+        ],
+        "atts": []
     },
     "95": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "난 잠시 후에 또 취객을 옮기는 걸 원치 않아."
             }
-        ]
+        ],
+        "atts": []
     },
     "96": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……천천히 마실게."
             }
-        ]
+        ],
+        "atts": []
     },
     "97": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "돌려놔. 오랜만에 만난 거잖아."
             }
-        ]
+        ],
+        "atts": []
     },
     "98": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": []
     },
     "99": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그러나, 우미리는 타키의 빈 잔을 채운 후, 술병을 자기 발치에 놓았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "100": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "작은 잔에는 한 번에 최대 두 모금만 담을 수 있었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "101": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……설교한다고 하더니, 우미리 너야말로."
             }
-        ]
+        ],
+        "atts": []
     },
     "102": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "우미리는 대답하지 않고, 한 잔을 마시고 다시 채우고 나서야 타키를 바라보았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "103": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "차분하게 바라보았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "104": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "오늘은 유난히 고집스럽다."
             }
-        ]
+        ],
+        "atts": []
     },
     "105": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그냥 오늘의 타키가 좀 이상해서 그래."
             }
-        ]
+        ],
+        "atts": []
     },
     "106": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "내 옷차림, 감기에 걸릴지, 변했는지 신경 쓰는 것. 예전에는 그런 걸 신경 쓰지 않았잖아."
             }
-        ]
+        ],
+        "atts": []
     },
     "107": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "넌 항상 눈앞의 일에만 집중했었지, 고등학교 때부터~"
             }
-        ]
+        ],
+        "atts": []
     },
     "108": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "하지만 타키가 사람을 더 챙기게 된 건 정말 축하할 만한 발전이야."
             }
-        ]
+        ],
+        "atts": []
     },
     "109": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": []
     },
     "110": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "할 말이 없네."
             }
-        ]
+        ],
+        "atts": []
     },
     "111": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "우리가 어떻게 변하든, 나쁜 쪽으로만 아니면, 깊게 생각할 필요 없잖아."
             }
-        ]
+        ],
+        "atts": []
     },
     "112": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그래."
             }
-        ]
+        ],
+        "atts": []
     },
     "113": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "CG 해제: 건배"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "alpha": 0,
+                    "fontSize": 30,
+                    "height": 34,
+                    "shadowEnabled": false,
+                    "strokeColor": "#d57fdf",
+                    "width": 413,
+                    "x": 1284,
+                    "y": 1102
+                },
+                {
+                    "alpha": {},
+                    "fontSize": {},
+                    "height": {},
+                    "shadowEnabled": {},
+                    "strokeColor": {},
+                    "width": {},
+                    "x": {},
+                    "y": {}
+                }
+            ],
+            "nameBox": [
+                {
+                    "height": 156,
+                    "x": -240,
+                    "y": 586
+                },
+                {
+                    "height": {},
+                    "x": {},
+                    "y": {}
+                }
+            ],
+            "skipBox": [
+                {
+                    "alpha": 0,
+                    "x": 1546,
+                    "y": 1074
+                },
+                {
+                    "alpha": {},
+                    "x": {},
+                    "y": {}
+                }
+            ]
+        }
     },
     "114": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "너의 변화가 항상 좋은 방향으로 가기를, 건배."
             }
-        ]
+        ],
+        "atts": []
     },
     "115": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……!"
             }
-        ]
+        ],
+        "atts": []
     },
     "116": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "후."
             }
-        ]
+        ],
+        "atts": []
     },
     "117": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "건배."
             }
-        ]
+        ],
+        "atts": []
     },
     "118": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "잠시 후에, 무슨 계획 있어?"
             }
-        ]
+        ],
+        "atts": []
     },
     "119": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "없어, 왜?"
             }
-        ]
+        ],
+        "atts": []
     },
     "120": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "가보고 싶은 곳이 있어."
             }
-        ]
+        ],
+        "atts": []
     },
     "121": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "시간 있으면, 나랑 같이 가자."
             }
-        ]
+        ],
+        "atts": []
     },
     "122": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": []
     },
     "123": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이제 남은 밤이 하나밖에 없는데, 이 초대는 참 시기적절하지 않다."
             }
-        ]
+        ],
+        "atts": []
     },
     "124": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "[@v100]일 남았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "125": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "[@v100]시간의 여유도 한계가 있다. 미완성의 악보가 여전히 마음에 걸려 더 이상은 바랄 수 없다."
             }
-        ]
+        ],
+        "atts": []
     },
     "126": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "게다가 비밀의 방어선이 이미 흔들리고 있어, 계속 우미리의 곁에 있으면 타키는 무슨 말을 할지 보장할 수 없었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "127": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "여기서 작별하자, 그녀들은 항상 바빠야 하는 일이 있다, 언제나 그랬다."
             }
-        ]
+        ],
+        "atts": []
     },
     "128": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……미안, 우미리."
             }
-        ]
+        ],
+        "atts": []
     },
     "129": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "곡의 기한이 정말로…"
             }
-        ]
+        ],
+        "atts": []
     },
     "130": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그녀는 MyGO!!!!! 외의 밴드에 곡을 쓴 적이 없었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "131": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그리고 MyGO!!!!!의 리더는 자신에게 기한을 정하지 않는다——그녀는 항상 최대한 빨리 완성한다."
             }
-        ]
+        ],
+        "atts": []
     },
     "132": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이 변명은 너무 서투러서 그녀 자신도 웃음을 참을 수 없었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "133": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아니, 내가 사과해야 해. 무작정 세운 계획으로 네 시간을 빼앗아서 미안해."
             }
-        ]
+        ],
+        "atts": []
     },
     "134": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "집에 데려다줄게."
             }
-        ]
+        ],
+        "atts": []
     },
     "135": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......고마워."
             }
-        ]
+        ],
+        "atts": []
     },
     "136": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "알코올과 음식이 효과를 잃은 것 같았다. 타키는 돌아가는 길의 찬 바람과 침묵이 점점 그녀의 체온을 빼앗아가는 것을 느꼈다."
             }
-        ]
+        ],
+        "atts": []
     },
     "137": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......그래."
             }
-        ]
+        ],
+        "atts": []
     },
     "138": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 3년 전, 우미리의 4개월 2일을 기다려서야 그녀와 함께 술집에서 20살 성인식을 축하했던 것을 기억했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "139": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그날 밤 그녀들은 처음으로 술을 마셨고, 3년 동안 두 명의 성숙한 이자카야 단골을 키우기에 충분했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "140": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "연이어 나오는 맛있는 음식들이 작은 테이블을 가득 채웠고, 웃음과 건배 소리와 함께 어느새 술안주들도 사라졌다."
             }
-        ]
+        ],
+        "atts": []
     },
     "141": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 드물게 배부르게 먹었고, 마지막 한 잔을 마시자 우미리의 일어나 계산을 하러 갔다."
             }
-        ]
+        ],
+        "atts": []
     },
     "142": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "얼마야?"
             }
-        ]
+        ],
+        "atts": []
     },
     "143": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "필요 없어. 널 동행한 보수로 생각해."
             }
-        ]
+        ],
+        "atts": []
     },
     "144": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "뭐? 그럴 수는 없어."
             }
-        ]
+        ],
+        "atts": []
     },
     "145": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "다음에 다시 사주면 돼."
             }
-        ]
+        ],
+        "atts": []
     },
     "146": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": []
     },
     "147": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그래, 다음에 내가 살게."
             }
-        ]
+        ],
+        "atts": []
     },
     "148": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "좋아, 내가 빚 받으러 갈 거야."
             }
-        ]
+        ],
+        "atts": []
     },
     "149": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……나 탈영하지 않을 거야."
             }
-        ]
+        ],
+        "atts": []
     },
     "150": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이제 이자카야는 사람들로 가득 찼다."
             }
-        ]
+        ],
+        "atts": []
     },
     "151": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키와 우미리는 좁은 통로를 지나 밖으로 나갔고, 주위는 갑자기 많이 조용해졌다."
             }
-        ]
+        ],
+        "atts": []
     },
     "152": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "지금 어디로 가?"
             }
-        ]
+        ],
+        "atts": []
     },
     "153": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "…비밀."
             }
-        ]
+        ],
+        "atts": []
     },
     "154": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "뭐?"
             }
-        ]
+        ],
+        "atts": []
     },
     "155": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "길이 좀 멀어……"
             }
-        ]
+        ],
+        "atts": []
     },
     "156": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "응? 헬멧이 왜 바닥에 떨어졌지."
             }
-        ]
+        ],
+        "atts": []
     },
     "157": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이자카야의 빛이 미치는 범위 안에, 그녀가 아까 썼던 헬멧이 오토바이에서 3미터 떨어진 곳에 있었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "158": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（헬멧……움직이고 있어?）"
             }
-        ]
+        ],
+        "atts": []
     },
     "159": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（……또……그 검은 고양이?）"
             }
-        ]
+        ],
+        "atts": []
     },
     "160": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "하지만 이번에는 타키가 전혀 긴장하지 않았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "161": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（도대체……무슨 말을 하고 싶은 거야?）"
             }
-        ]
+        ],
+        "atts": []
     },
     "162": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "우미리의 다가오자, 검은 고양이는 새로 찾은 작은 보금자리를 더 이상 아쉬워하지 않고 어둠 속으로 가볍게 뛰어들었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "163": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "우미리는 몸을 구부려 헬멧을 집어들고, 소매로 먼지를 닦고, 타키에게 건넸다."
             }
-        ]
+        ],
+        "atts": []
     },
     "164": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "필요 없어, 어차피 전복하면 소용없어."
             }
-        ]
+        ],
+        "atts": []
     },
     "165": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（역시 우미리의 또 못 본 건가, 소리조차……）"
             }
-        ]
+        ],
+        "atts": []
     },
     "166": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "내 운전 실력을 그렇게 의심해?"
             }
-        ]
+        ],
+        "atts": []
     },
     "167": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그럼 네가 운전해."
             }
-        ]
+        ],
+        "atts": []
     },
     "168": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "싫어."
             }
-        ]
+        ],
+        "atts": []
     },
     "169": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 헬멧을 받아 단단히 썼다."
             }
-        ]
+        ],
+        "atts": []
     },
     "170": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "잠시 후 교통경찰에 잡혀 면허가 취소될 사람은 너야."
             }
-        ]
+        ],
+        "atts": []
     },
     "171": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "——헬멧 안 써서 설교 들을 사람도 너야."
             }
-        ]
+        ],
+        "atts": []
     },
     "172": {
         "speaker": "야하타 우미리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "걱정 마. 우리가 가려는 곳에는 교통경찰이 없어."
             }
-        ]
+        ],
+        "atts": []
     }
 }

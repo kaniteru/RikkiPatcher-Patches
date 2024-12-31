@@ -1,70 +1,88 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "노래방은 노래를 위한 곳이죠."
             }
-        ]
+        ],
+        "atts": []
     },
     "1": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "어둑한 방이 낯설지 않아요. ShidaX나 Big Echo도 마찬가지로, MyGO!!!!! 팀 빌딩 때 자주 갔죠. 대체로 분위기 메이커로 존재했지만요."
             }
-        ]
+        ],
+        "atts": []
     },
     "2": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "첫째, 등(灯)의 노래는 필수였고, 둘째, 매번 '꿈을 이루겠다'고 소리치는 기타 보컬도 시끄럽지 않았나요?"
             }
-        ]
+        ],
+        "atts": []
     },
     "3": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "하지만 지금은 리듬과 화음만 남았어요. 이 두 요소를 단독으로 노래해야 하는 공간에 가두는 건 좋은 생각이라고 하기 어렵죠."
             }
-        ]
+        ],
+        "atts": []
     },
     "4": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "소파에 앉은 사람들은 동시에 생각하기 시작했어요. 참고할 만한 사례가 있을까? 드럼과 베이스, 열정적인 박수와 대화를 모두 포함하는 경우는?"
             }
-        ]
+        ],
+        "atts": []
     },
     "5": {
         "speaker": "？？？",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "■도 웃을 수 있어요."
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "alpha": 0.48,
+                    "fontSize": 45
+                },
+                {
+                    "alpha": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "6": {
         "speaker": "시이나 타키 & 나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……"
             }
-        ]
+        ],
+        "atts": []
     },
     "7": {
         "speaker": "시이나 타키 & 나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#7777ff'",
                 "text": "노래를 틀게."
@@ -77,695 +95,883 @@
                 "html": "style='color:#ffdd88'",
                 "text": "我来看看有什么喝的吧。"
             }
-        ]
+        ],
+        "atts": []
     },
     "8": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아니, 그건 이식 가능한 경험이 아니었어요."
             }
-        ]
+        ],
+        "atts": []
     },
     "9": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "손님의 노래 리스트가 비어있을 때, 노래방 기계는 인기 있는 노래를 자동으로 틀어 분위기를 예열합니다."
             }
-        ]
+        ],
+        "atts": []
     },
     "10": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 태블릿을 잡고 거의 무의식적으로 몇 글자를 눌러 검색 페이지를 두 바퀴 돌렸습니다. 약간의 지연 후 다시 두 초 동안 검색했지만, 리스트에 없다고 충실하게 표시했습니다."
             }
-        ]
+        ],
+        "atts": []
     },
     "11": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（헷갈렸어……MyGO!!!!!가 주류에 올라서지 않았는데 검색할 수 있다면 이상하죠.）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "12": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（곡 목록에 있는……）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "13": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키, 뭐 마시고 싶어? 주스랑 차가 있어."
             }
-        ]
+        ],
+        "atts": []
     },
     "14": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "커피는 없어?"
             }
-        ]
+        ],
+        "atts": {}
     },
     "15": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "“이제 정말 늦었어”는 술도 안 돼. 일이 필요하지 않다면, 적게 마셔, 타키?"
             }
-        ]
+        ],
+        "atts": []
     },
     "16": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "쳇……"
             }
-        ]
+        ],
+        "atts": {}
     },
     "17": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그러니까 차도 똑같이, 밤에 잠이 안 오잖아."
             }
-        ]
+        ],
+        "atts": {}
     },
     "18": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": []
     },
     "19": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "좋아, 그럼 주스로 할게?"
             }
-        ]
+        ],
+        "atts": []
     },
     "20": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（그래, 이기지 못해.）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "21": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "수다를 나누면서도 타키의 손은 멈추지 않았어요. 직접 노래를 틀 수 없다면, 투영할 수도 있죠. MyGO!!!!!의 공연 영상은 많으니까요."
             }
-        ]
+        ],
+        "atts": []
     },
     "22": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "《壱雫空》、《迷星叫》、《音一会》、《潜在表明》、《栞》、《影色舞》……"
             }
-        ]
+        ],
+        "atts": []
     },
     "23": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "기억나는 노래 이름은 모두 넣어둡니다. 부적절한 그리움을 벗어나고 싶나요? 다른 진짜 떠도는, 살아 있는 유령을 초대하세요."
             }
-        ]
+        ],
+        "atts": []
     },
     "24": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "모든 노래는 그녀가 직접 만들었고, 불면의 밤을 커피와 나중에 술로 버티며 응축한 것이에요."
             }
-        ]
+        ],
+        "atts": []
     },
     "25": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "작곡 소프트웨어, 작사 노트와 녹음실에서 피와 땀으로 만들어지고, 무대 위에서 열정으로 태어났습니다. 그녀들의 아이들이라고 해도 과언이 아니죠."
             }
-        ]
+        ],
+        "atts": []
     },
     "26": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "노래할까요? 그녀들이 이런 노래를 잊을 리 없죠? 누가 먼저 노래를 시작해야 할까요?"
             }
-        ]
+        ],
+        "atts": []
     },
     "27": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "샤, 샤, 샤."
             }
-        ]
+        ],
+        "atts": []
     },
     "28": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "작은 공간에서 손에 닿는 유일한 악기는, 하루 종일 바쁘게 움직인 베이시스트가 잡고 있었어요. 시선은 화면 속의 떨리고 초점을 맞추지 못한 카메라에 빠져, 빈 껍데기만 남아 있었죠. 연습 부족으로 손목은 흔들리며 샤샤, 샤샤."
             }
-        ]
+        ],
+        "atts": []
     },
     "29": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "지금 샤커를 만지지 마. 마이크는?"
             }
-        ]
+        ],
+        "atts": {}
     },
     "30": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "다행히 소요는 인색한 친구가 아니어서, 테이블 위에 샤커를 하나 더 두었어요."
             }
-        ]
+        ],
+        "atts": []
     },
     "31": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 그것을 들어 손바닥에서 거의 반사적으로 머리 부분을 돌렸습니다. 막대기 형태의 손잡이가 앞을 향해 있어, 언제든지 존재하지 않는 드럼에 대비해 준비되었습니다. 그러나 마이크는 보이지 않는 것 같았어요."
             }
-        ]
+        ],
+        "atts": []
     },
     "32": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "프런트에 전화해서 음료를 가져올 때 마이크도 가져오라고 하세요."
             }
-        ]
+        ],
+        "atts": {}
     },
     "33": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "탁, 탁, 탁."
             }
-        ]
+        ],
+        "atts": []
     },
     "34": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（왜 나는 샤커 손잡이로 탁자를 두드리고 있는 거지.）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "35": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "하나의 그리움이 다른 그리움을 잠시 덮었습니다."
             }
-        ]
+        ],
+        "atts": []
     },
     "36": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "일반적인 의미에서 '그리움'의 정의에 부합하는 것은 이미 사라진 것들이지만, 옆에 앉아 있는 친구는 연습에 참여하지 못해 죄책감을 느낄 것입니다. 이것은 영상 속의 미숙한 노래가 여전히 살아 있음을 증명합니다."
             }
-        ]
+        ],
+        "atts": []
     },
     "37": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그녀들은 마치 살아있는 사람을 위한 장례식을 하고 있는 것 같아요. 나쁘지 않다고 느끼면서, 시이나 타키는 생각했어요. 이것은 또 다른 리허설일 뿐이며, 녹음실에서의 연습과 본질적으로 다르지 않다고."
             }
-        ]
+        ],
+        "atts": []
     },
     "38": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "리허설 후에는 언제나 무대에 오를 것입니다. 빠르든 늦든."
             }
-        ]
+        ],
+        "atts": []
     },
     "39": {
         "speaker": "직원",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "매우 죄송합니다! 여기 주스와 마이크입니다. 즐겁게 놀아보세요!"
             }
-        ]
+        ],
+        "atts": {}
     },
     "40": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "노래하지 않는 손님들은 일제히 고개를 돌렸습니다. 긴장한 신입은 물건을 내려놓고 거의 문을 향해 달려갔습니다."
             }
-        ]
+        ],
+        "atts": []
     },
     "41": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "또 한 곡의 앙코르가 끝나자, 소요는 이미 빠져들어 박자를 세며 다음 곡을 기다렸습니다. 이게 그녀가 오늘 온 유일한 목적이었으니까요. 리듬이 대신 전달해주기를 바랐죠."
             }
-        ]
+        ],
+        "atts": []
     },
     "42": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "알 수 없는 것도 하나의 행복입니다. 몸이 소파에 눌리면서도, 머리는 가벼운 음표를 밟을 수 있죠."
             }
-        ]
+        ],
+        "atts": []
     },
     "43": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "자신의 청춘을 감상하며, 사회인으로서 다음 곡의 제목을 기억하지 못하고, 직접 입력한 사람도 그녀와 함께 잊어야 한다고 느낍니다."
             }
-        ]
+        ],
+        "atts": []
     },
     "44": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그녀는 오늘이 어떤 기념일인지 사전에 알려지지 않은 상태에서 화면 앞에서 손을 꽉 쥐고 기다리는 게 좋다고 생각했습니다."
             }
-        ]
+        ],
+        "atts": []
     },
     "45": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "적어도 오늘 밤, 그녀들은 몇 가지를 잊어야 해요, 특히 시이나 타키는."
             }
-        ]
+        ],
+        "atts": []
     },
     "46": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "노래를 선택한 사람은 갑자기 불안감을 느꼈습니다."
             }
-        ]
+        ],
+        "atts": []
     },
     "47": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（마지막 곡이 뭐였지?）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "48": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "《影色舞》。"
             }
-        ]
+        ],
+        "atts": []
     },
     "49": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키가 고등학교 1학년 때 MyGO!!!!!를 위해 만든 곡이에요. 조금은 혼란스러울 정도로 활기찼지만, 분위기를 띄우기에 아주 좋았죠——그녀들이 서로 친하지 않은 경우에 한해서요."
             }
-        ]
+        ],
+        "atts": []
     },
     "50": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "충전이 가득 된 마이크가 테이블에 놓여있고, 더 이상 침묵을 지킬 변명은 없었어요. 이런 멜로디, 아직 기억하고 있나요?"
             }
-        ]
+        ],
+        "atts": []
     },
     "51": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "생각해보면, 우리가 처음 이 노래를 공연할 때 SNS에서 관객들이 우리에게 무대에서 춤추라고 했었죠."
             }
-        ]
+        ],
+        "atts": []
     },
     "52": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "보컬 반주가 아마도 최소로 줄여져 있었어요. 원곡보다 낮고 단단한 노래가 좁은 공간에 굳어버린 듯 머물러 있었죠. 이는 타키의 기술이 부족해서인지, 아니면 그녀의 마음을 노래로 표현하기를 거부해서인지는 알 수 없었어요."
             }
-        ]
+        ],
+        "atts": []
     },
     "53": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그러나 너무 익숙한 멜로디였어요. 이 멜로디에서 가사를 불러내는 것은 기계적인 작업이었죠. 틀릴 수가 없었어요."
             }
-        ]
+        ],
+        "atts": []
     },
     "54": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 마이크를 꽉 잡고, 이제 와서 혼자서 노래방에서 노래 부르는 스타일을 강조하는 건 너무 재미있다고 생각했어요."
             }
-        ]
+        ],
+        "atts": []
     },
     "55": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "에헴, 에헴."
             }
-        ]
+        ],
+        "atts": {}
     },
     "56": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "찬 바람은 얇은 옷을 입은 사람을 놓아주지 않았어요. 젊음은 시이나 타키가 벌을 피할 이유가 되지 않았죠. 게다가 카드 소유자는 이미 초과 지출 상태였어요."
             }
-        ]
+        ],
+        "atts": []
     },
     "57": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "목 안의 가벼운 침묵은 그녀의 삶에 어떤 영향을 미칠까요? 이렇게 노래를 부르면 내일 목이 쉬겠지만, 어제, 그제, 오늘보다 나빠지지는 않을 거예요."
             }
-        ]
+        ],
+        "atts": []
     },
     "58": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "최악의 상황은 누군가 이 육신을 신경 쓰는 사람이 있다는 거죠."
             }
-        ]
+        ],
+        "atts": []
     },
     "59": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……"
             }
-        ]
+        ],
+        "atts": []
     },
     "60": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "더 이상 노래가 없었어요. 만회하거나 벗어날 기회도 없었죠. 익숙한 드럼 비트가 사라졌지만, 신발 밑은 여전히 낮은 리듬을 타고 있었어요. 마치 또 하나의 공연의 정례 솔로 부분처럼요."
             }
-        ]
+        ],
+        "atts": []
     },
     "61": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "노래방 기계는 자동으로 저작권 라이브러리에 있는 곡을 재생했어요. 가사가 없는 악기가 조용히 합주했지만, 왜 이런 가사 없는 춤곡이 노래방 목록에 있는지는 알 수 없었어요."
             }
-        ]
+        ],
+        "atts": []
     },
     "62": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "여기에 앉아 노래를 부르고 싶은데 노래를 부를 수 없는 사람이 있을까요?"
             }
-        ]
+        ],
+        "atts": []
     },
     "63": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "인어가 목소리를 담보로 영혼과 인간의 자유를 얻을 수 있는데, 그녀는 티켓 값을 지불하고도 어리석은 고양이의 춤만 볼 수 있었어요. 그 Libertango가 뭐라고 들어본 적이 있나요?"
             }
-        ]
+        ],
+        "atts": []
     },
     "64": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "하지만 이미 떠난 영혼은 쉽게 돌아오지 않아요. 노래를 부르지 않으면 어떤 방법이 있을까요?"
             }
-        ]
+        ],
+        "atts": []
     },
     "65": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#ffffff'",
                 "text": "춤을 추자?"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "font": "SourceHanSerifCN-SemiBold-7",
+                    "fontSize": 70,
+                    "letterSpacing": 4,
+                    "shadowColor": "#2a2a2a",
+                    "shadowDx": 4,
+                    "shadowDy": 4,
+                    "strokeColor": "#313131",
+                    "x": 555,
+                    "y": 175
+                },
+                {
+                    "font": {},
+                    "fontSize": {},
+                    "letterSpacing": {},
+                    "shadowColor": {},
+                    "shadowDx": {},
+                    "shadowDy": {},
+                    "strokeColor": {},
+                    "x": {},
+                    "y": {}
+                }
+            ],
+            "skipBox": [
+                {
+                    "alpha": 0,
+                    "x": 1860,
+                    "y": 1339
+                },
+                {
+                    "alpha": {},
+                    "x": {},
+                    "y": {}
+                }
+            ]
+        }
     },
     "66": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（말이 나왔으니 말인데, 소요는 퇴근 후 이렇게 늦게까지 노래 부를 여유가 있는 걸까? 그녀의 성격상 저녁에 약속이 없으면 이모의 아파트로 바로 들어가야 하지 않았을까?）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "67": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（지금 일도 많이 바쁘겠지.）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "68": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（어쨌든 나는 제대로 된 직업이 없는 사람이다.）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "69": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#ffffff'",
                 "text": "춤을 추자?"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "font": "SourceHanSerifCN-SemiBold-7",
+                    "fontSize": 70,
+                    "letterSpacing": 4,
+                    "shadowColor": "#2a2a2a",
+                    "shadowDx": 4,
+                    "shadowDy": 4,
+                    "strokeColor": "#313131",
+                    "x": 555,
+                    "y": 175
+                },
+                {
+                    "font": {},
+                    "fontSize": {},
+                    "letterSpacing": {},
+                    "shadowColor": {},
+                    "shadowDx": {},
+                    "shadowDy": {},
+                    "strokeColor": {},
+                    "x": {},
+                    "y": {}
+                }
+            ],
+            "skipBox": [
+                {
+                    "alpha": 0,
+                    "x": 1860,
+                    "y": 1339
+                },
+                {
+                    "alpha": {},
+                    "x": {},
+                    "y": {}
+                }
+            ]
+        }
     },
     "70": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "월계수 같은 부유한 학교에서는 댄스파티를 열지 않겠죠?"
             }
-        ]
+        ],
+        "atts": {}
     },
     "71": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（어쨌든 나는 그런 '고상한' 운동을 전혀 배운 적이 없어요. 춤을 추자고?）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "72": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#ffdd88'",
                 "text": "춤을 추자?"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "font": "SourceHanSerifCN-SemiBold-7",
+                    "fontSize": 70,
+                    "letterSpacing": 4,
+                    "shadowColor": "#7777ff",
+                    "shadowDx": 4,
+                    "shadowDy": 4,
+                    "strokeColor": "#7777ff",
+                    "x": 555,
+                    "y": 175
+                },
+                {
+                    "font": {},
+                    "fontSize": {},
+                    "letterSpacing": {},
+                    "shadowColor": {},
+                    "shadowDx": {},
+                    "shadowDy": {},
+                    "strokeColor": {},
+                    "x": {},
+                    "y": {}
+                }
+            ],
+            "skipBox": [
+                {
+                    "alpha": 0,
+                    "x": 1897,
+                    "y": 1339
+                },
+                {
+                    "alpha": {},
+                    "x": {},
+                    "y": {}
+                }
+            ]
+        }
     },
     "73": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 손을 비비며 땀이 나는 것 같았어요. 하지만 그녀는 드럼을 치지 않았어요."
             }
-        ]
+        ],
+        "atts": []
     },
     "74": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이미 내려놓은 마이크가 소파에 놓여있었고, 이제 무엇을 해야 할까요? 갑자기 일어나서 고양이 흉내를 내며 춤을 추는 건 너무 갑작스러웠어요."
             }
-        ]
+        ],
+        "atts": []
     },
     "75": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "옆에 앉아 있던 사람이 긴 한숨을 내쉬었어요. 소요는 일어나서 테이블 주위를 한 바퀴 돌고 타키의 휴대폰을 집어 들었어요."
             }
-        ]
+        ],
+        "atts": []
     },
     "76": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "진도 바를 조금 되돌릴 수 있을까요?"
             }
-        ]
+        ],
+        "atts": []
     },
     "77": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아…아. 괜찮아요."
             }
-        ]
+        ],
+        "atts": {}
     },
     "78": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "노래를 다시 부를 수 없다고요? 아무도 그렇게 규정하지 않았어요. 부르고 싶은 노래, 불러야 할 노래는 언제든지 부를 수 있어요. 풋풋한 청춘이 다시 울려 퍼졌어요."
             }
-        ]
+        ],
+        "atts": []
     },
     "79": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "소요는 타키 옆으로 돌아와 앉아, 그녀가 놓았던 마이크를 건네주었습니다."
             }
-        ]
+        ],
+        "atts": []
     },
     "80": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "노래해요. 목이 쉬어도 상관없어요. 무서워하지 마요. 난 신경 안 써요."
             }
-        ]
+        ],
+        "atts": []
     },
     "81": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": {}
     },
     "82": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 거짓말쟁이 친구의 표정을 더 이상 살피지 않았어요."
             }
-        ]
+        ],
+        "atts": []
     },
     "83": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "왜냐하면 이제 그녀가 하는 말은 모두 진실이라는 걸 알았으니까요."
             }
-        ]
+        ],
+        "atts": []
     },
     "84": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "모든 것을 잊자"
@@ -774,11 +980,21 @@
                 "html": "style='color:#FfFffF'",
                 "text": "干脆遗忘所有"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "fontSize": 50
+                },
+                {
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "85": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이 밤, 그림자 아래 춤을 추자"
@@ -787,11 +1003,21 @@
                 "html": "style='color:#FfFffF'",
                 "text": "今宵 于影色下起舞"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "fontSize": 50
+                },
+                {
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "86": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아무것도 모르고, 아무것도 바라지 않으며"
@@ -800,11 +1026,21 @@
                 "html": "style='color:#FfFffF'",
                 "text": "一无所知 亦无所求"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "fontSize": 50
+                },
+                {
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "87": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "어떤 법칙에도 얽매이지 않고"
@@ -813,11 +1049,21 @@
                 "html": "style='color:#FfFffF'",
                 "text": "不被任何法则束缚"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "fontSize": 50
+                },
+                {
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "88": {
         "speaker": "시이나 타키 & 나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#ffdd88'",
                 "text": "그저 춤추며 춤추자"
@@ -830,11 +1076,12 @@
                 "html": "style='color:#7777ff'",
                 "text": "只愿自由自在 肆意起舞"
             }
-        ]
+        ],
+        "atts": []
     },
     "89": {
         "speaker": "시이나 타키 & 나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#7777ff'",
                 "text": "오늘을 칭송하며"
@@ -847,366 +1094,407 @@
                 "html": "style='color:#ffdd88'",
                 "text": "赞颂今日吧"
             }
-        ]
+        ],
+        "atts": []
     },
     "90": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "부드러운 소리가 섞였어요. 오늘 밤은 사라졌어요."
             }
-        ]
+        ],
+        "atts": []
     },
     "91": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "소요, 너 춤출 줄 알아?"
             }
-        ]
+        ],
+        "atts": {}
     },
     "92": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "소요는 한 번도 언급한 적이 없어요. 그녀들에게는 언급하지 않은 많은 일들이 있었죠."
             }
-        ]
+        ],
+        "atts": []
     },
     "93": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그래서 MyGO!!!!!에는 함께 할 수 있는 많은 '처음'이 있어요."
             }
-        ]
+        ],
+        "atts": []
     },
     "94": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "23살이 되어도 어떤 고등학교를 졸업했는지 얘기해야 하나요? 인생이 16살에 멈췄나요?"
             }
-        ]
+        ],
+        "atts": []
     },
     "95": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "보컬 반주를 최대한으로 높였어요. 록밴드 MyGO!!!!!의 보컬, 타카마츠 등(灯)의 목소리. 풋풋하고, 중성적이며, 강렬하고, 무질서한."
             }
-        ]
+        ],
+        "atts": []
     },
     "96": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "노래방 기계의 보컬 소리를 높였어요. 신발 밑과 바닥에서 외로운 드럼 비트가 넓은 출구를 필요로 했죠. 누군가는 리듬을 잡아야 하고, 누군가는 리듬을 연주해야 해요."
             }
-        ]
+        ],
+        "atts": []
     },
     "97": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "말 나온 김에, 타키가 오늘 지금까지 조용히 남아 있는 건 꽤 놀라운 일이에요."
             }
-        ]
+        ],
+        "atts": []
     },
     "98": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "뭐——? 잘 들리지 않아요!"
             }
-        ]
+        ],
+        "atts": {}
     },
     "99": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "노래가 멈추려 해요. 노래가 이미 멈췄어요. 하지만 말했던 단어들은 노래방에서 다시 재생되지 않을 거예요."
             }
-        ]
+        ],
+        "atts": []
     },
     "100": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……"
             }
-        ]
+        ],
+        "atts": []
     },
     "101": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "다음 곡이 없어요. 노래방 기계는 저작권 라이브러리에 있는 곡을 자동으로 재생했어요. 가사가 없는 악기가 조용히 합주했지만, 왜 이런 가사 없는 춤곡이 노래방 목록에 있는지는 알 수 없었어요."
             }
-        ]
+        ],
+        "atts": []
     },
     "102": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "여기에 앉아 노래를 부르고 싶어도 부를 수 없는 사람이 있을까요?"
             }
-        ]
+        ],
+        "atts": []
     },
     "103": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "익숙한 드럼 비트가 사라졌지만, 신발 밑은 여전히 낮은 리듬을 타고 있었어요. 마치 또 하나의 공연의 정례 솔로 부분처럼요."
             }
-        ]
+        ],
+        "atts": []
     },
     "104": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이제야 타키는 들을 수 있었어요. 나가사키 소요가 한숨을 쉬었어요. 긴 한숨, 나뭇가지와 흙으로 덮인 나구모 요레나를 보고 나무에서 내려오지 못하는 한숨보다 더 무거운 한숨을 쉬었죠."
             }
-        ]
+        ],
+        "atts": []
     },
     "105": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "요레나는 오랫동안 그렇게 하지 않았어요."
             }
-        ]
+        ],
+        "atts": []
     },
     "106": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그래서 타키도 몇 년 전의 드럼 비트에서 깨어나야 할까요—그녀의 한숨은 그런 의미인가요?"
             }
-        ]
+        ],
+        "atts": []
     },
     "107": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": {}
     },
     "108": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "하지만 그 타키가 항복할까요? 드러머는 일곱 년간의 잘못된 길을 걸어왔지만, 마지막 며칠 동안에는 손을 들고 항복할 이유가 없어요."
             }
-        ]
+        ],
+        "atts": []
     },
     "109": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "방금 뭐라고 했어?"
             }
-        ]
+        ],
+        "atts": {}
     },
     "110": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 하고 싶은 일이 또 있나요?"
             }
-        ]
+        ],
+        "atts": []
     },
     "111": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……아?"
             }
-        ]
+        ],
+        "atts": {}
     },
     "112": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（무슨 뜻이지. 아까 너무 시끄러웠다고 생각했나? 하지만 이제 노래가 끝났잖아. 어차피 아무도 안 부르니까.）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "113": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "대화는 다시 질문과 답변의 모드로 돌아왔어요. 타키는 다시 생각하기 시작했어요."
             }
-        ]
+        ],
+        "atts": []
     },
     "114": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "섬광이 지나가고, 이성이 손을 내밀었지만, 여전히 무형의 것을 걸어다니게 놔두었어요. 그러나 이성은 항상 자신의 신뢰할 만한 결론을 가지고 있어요."
             }
-        ]
+        ],
+        "atts": []
     },
     "115": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "늦었어. 밤새지 않겠다는 주의 아니야? 너무 늦으면 너 혼자 돌아가기가 안전하지 않을 거야. 나도 전철을 타야 해."
             }
-        ]
+        ],
+        "atts": {}
     },
     "116": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "........."
             }
-        ]
+        ],
+        "atts": []
     },
     "117": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 그녀의 얼굴에서 표정에 맞는 웃음을 볼 수 없었어요."
             }
-        ]
+        ],
+        "atts": []
     },
     "118": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "지금 몇 시야?"
             }
-        ]
+        ],
+        "atts": []
     },
     "119": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아? 어쨌든 늦었지. 우리가 왔을 때도 이미 늦었잖아."
             }
-        ]
+        ],
+        "atts": {}
     },
     "120": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "휴대폰이 테이블 끝에 가지런히 쌓여 있었어요. 그것들을 잡으려면 일어나서 한 바퀴 돌아야 하거나, 어색하게 테이블 위에 누워야 했어요."
             }
-        ]
+        ],
+        "atts": []
     },
     "121": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 둘 다 하고 싶지 않았어요. 조용히 왼손목에 묶인 피트니스 밴드를 보지 않으려고 노력하고 있었어요."
             }
-        ]
+        ],
+        "atts": []
     },
     "122": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "지금 몇 시야?"
             }
-        ]
+        ],
+        "atts": []
     },
     "123": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 일어나서 테이블을 한 바퀴 돌아 자신의 휴대폰을 잡았어요."
             }
-        ]
+        ],
+        "atts": []
     },
     "124": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "10시 17분이야."
             }
-        ]
+        ],
+        "atts": {}
     },
     "125": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "팀장(隊長)은 성인이 되었어도 키가 크지 않았어요. 그럼에도 불구하고, 그녀가 서 있을 때의 그림자는 베이시스트 전체를 덮을 수 있었고, 그녀의 시선을 완전히 차단할 수 있었어요."
             }
-        ]
+        ],
+        "atts": []
     },
     "126": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "소요가 올려다보았을 때, 형식적인 사람의 눈에는 어떤 빛도 보이지 않았어요. 무대에서 스포트라이트를 받을 때와는 완전히 달랐어요."
             }
-        ]
+        ],
+        "atts": []
     },
     "127": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 그녀가 일어날 때까지 그 자리에 서 있었어요. 소요는 가방을 잡아 단호하게 일어났어요."
             }
-        ]
+        ],
+        "atts": []
     },
     "128": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이제 가도 돼요."
             }
-        ]
+        ],
+        "atts": []
     },
     "129": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": {}
     }
 }

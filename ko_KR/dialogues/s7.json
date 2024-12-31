@@ -1,173 +1,192 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "마치 평생 보더라도 끝나지 않을 긴 꿈 같았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "1": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "자신의 인생이 익숙한 과거에서부터 아직 겪어본 적 없는 미래까지, 객관적인 시각을 넘어 반복적으로 흘러 들어갔다."
             }
-        ]
+        ],
+        "atts": []
     },
     "2": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "하지만 타키는 그 중 어떤 것도 기억하지 못했고, 모든 것이 익숙하면서도 매우 낯설었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "3": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "으… 음…"
             }
-        ]
+        ],
+        "atts": []
     },
     "4": {
         "speaker": "？？？",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "………………"
             }
-        ]
+        ],
+        "atts": []
     },
     "5": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "어릴때 독한 감기에 걸려 몸살이 났을 때 처럼 아렸고, 기억의 급류가 눈앞을 지나치며 물 없는 죽음의 바다로 흘러들어갔다."
             }
-        ]
+        ],
+        "atts": []
     },
     "6": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "멀리 지평선 위에 배 한 척이 희미한 연기를 내뿜으며 지나가고 있었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "7": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그리고 그녀 또한 바다 위에서 홀로 떠돌고 있었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "8": {
         "speaker": "？？？",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……시간이……"
             }
-        ]
+        ],
+        "atts": []
     },
     "9": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "바다의 흐름대로 표류하던 몸이 점점 지평선에 가까워졌다. 갑자기 무언가가 눈가에서 번쩍였다——"
             }
-        ]
+        ],
+        "atts": []
     },
     "10": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "어릴 적의 붙잡고 싶었던 어느 순간이었을 것이다."
             }
-        ]
+        ],
+        "atts": []
     },
     "11": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그녀는 급히 뒤를 돌아봤지만, 그것은 이미 사라지고 없었다. 대신, 낯익은 검은 고양이 한 마리가 앉아있었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "12": {
         "speaker": "？？？",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……시간이……"
             }
-        ]
+        ],
+        "atts": []
     },
     "13": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그 자그마한 입이 움직이며 무언가를 말하고 있었지만, 소리가 들리지 않았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "14": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 마침내 그 입모양이 무엇을 말하는지 깨달았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "15": {
         "speaker": "？？？",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#ff0000'",
                 "text": "——시간이 얼마 남지 않았어."
             }
-        ]
+        ],
+        "atts": []
     },
     "16": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "고열과 동반된 몸살의 고통은 이미 사라졌고, 검은 고양이의 모습은 점점 희미해져갔다."
             }
-        ]
+        ],
+        "atts": []
     },
     "17": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……………………………………"
             }
-        ]
+        ],
+        "atts": []
     },
     "18": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……"
             }
-        ]
+        ],
+        "atts": []
     }
 }

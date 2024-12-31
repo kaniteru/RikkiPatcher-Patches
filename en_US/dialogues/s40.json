@@ -1,164 +1,182 @@
 {
     "0": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "不够。"
             }
-        ]
+        ],
+        "atts": []
     },
     "1": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "这支曲子还缺少能够打动人心的细节。"
             }
-        ]
+        ],
+        "atts": []
     },
     "2": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "桌子前方的长原木隔板上，左侧是编曲等音乐相关的书籍，右侧是提神饮品和饱腹果冻。桌子角落和垃圾桶里都是饮品和果冻的残余包装。"
             }
-        ]
+        ],
+        "atts": []
     },
     "3": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "因为是冬天，不再需要担心保质期，立希特意将它们堆在可以随时取用的木架上，这样既能节省时间也不怕打断灵感影响创作。"
             }
-        ]
+        ],
+        "atts": []
     },
     "4": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "——现在，则多了另一个不用再担心是否过期的理由。"
             }
-        ]
+        ],
+        "atts": []
     },
     "5": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……没想到这么快就是最后一曲了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "6": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（明明还想作好多好多曲子。）"
             }
-        ]
+        ],
+        "atts": []
     },
     "7": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（每一支比上一支更好，直到心脏停止跳动的那一刻。）"
             }
-        ]
+        ],
+        "atts": []
     },
     "8": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "我不会认输的。"
             }
-        ]
+        ],
+        "atts": []
     },
     "9": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（到底缺少了什么……）"
             }
-        ]
+        ],
+        "atts": []
     },
     "10": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（和她们见面，不是已经抓到什么了吗？只要将这些都化为歌……）"
             }
-        ]
+        ],
+        "atts": []
     },
     "11": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "咕…………"
             }
-        ]
+        ],
+        "atts": []
     },
     "12": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "腹中传来令人尴尬的空响，立希猛然发现，自己从早晨到黄昏都没有离开电脑桌半步。"
             }
-        ]
+        ],
+        "atts": []
     },
     "13": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "冰箱里还有储备，但当下的食欲并非仅靠速食或是自炊就能满足。"
             }
-        ]
+        ],
+        "atts": []
     },
     "14": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……去喝一杯吧，用不了两个小时。"
             }
-        ]
+        ],
+        "atts": []
     },
     "15": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "酒精说不定能让事情顺利一些。"
             }
-        ]
+        ],
+        "atts": []
     },
     "16": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（虽然路上会花不少时间，但已经做好觉悟了不是吗…就算是最后，也要当做寻常的一天去对待。）"
             }
-        ]
+        ],
+        "atts": []
     },
     "17": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（顺便…去看看店主老爷子身体好了没有。）"
             }
-        ]
+        ],
+        "atts": []
     }
 }

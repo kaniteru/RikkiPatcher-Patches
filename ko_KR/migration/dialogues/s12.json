@@ -1,111 +1,118 @@
 {
-    "hash": "579032e0f2f5ae239b79d2a38fd7af68c4a42eab11f17917262f37878f9d3b5eb6bf8d688de2e9bc99d41315213a030d07117256831a468a51c31e17a749b824",
-    "list": {
-        "0": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "天色渐暗，街景依旧寂寥，空气中弥漫着冰冷的湿气，加上今天的种种不顺，都让人渴望赶紧回到自己的栖身之所。"
-                }
-            ]
-        },
-        "1": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "而对于立希而言，这样的场所便是她那窗帘紧闭的昏暗房间里由桌椅以及一块液晶屏组成的方寸之地。"
-                }
-            ]
-        },
-        "2": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "便利店坐落在一条贯通东西的笔直道路上。无论向东还是往西，都能抵达立希所租住的房子。不过两条路的路程、景致与周边的设施都相差很多。"
-                }
-            ]
-        },
-        "3": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "向东的话，途径的是一条喧闹的"
-                },
-                {
-                    "html": "style='color:#f50c59'",
-                    "text": "居民商业街"
-                },
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "，因为地形的原因，路程要比往西稍长一些。"
-                }
-            ]
-        },
-        "4": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "街道内商铺很多，但自从搬到新家后，立希就忙得没有闲心逛街。每次只是在晚归的时候出于安全考虑匆匆穿过，所以也不太清楚具体都有些什么店铺。"
-                }
-            ]
-        },
-        "5": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "向西的话，路程相对较短，但需途径一片工地和一座快要荒废的"
-                },
-                {
-                    "html": "style='color:#3aeb7a'",
-                    "text": "小公园"
-                },
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "，一到晚上便人迹罕至，对于独自走夜路的人来说并不是什么好选择。"
-                }
-            ]
-        },
-        "6": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（平时的话都会走人多的商业街，但今天已经很累了……要走哪边呢？）"
-                }
-            ]
-        },
-        "7": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "脑海中仿佛还回荡着那只诡异黑猫的叫声，立希内心的忧惧逐渐加深。"
-                }
-            ]
-        },
-        "8": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（还是走商业街吧，远点就远点，至少安全……）"
-                }
-            ]
-        },
-        "9": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（实在累得很，走一次近路吧，快些冲过去就什么事情也没有……）"
-                }
-            ]
-        }
+    "0": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "天色渐暗，街景依旧寂寥，空气中弥漫着冰冷的湿气，加上今天的种种不顺，都让人渴望赶紧回到自己的栖身之所。"
+            }
+        ],
+        "atts": []
+    },
+    "1": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "而对于立希而言，这样的场所便是她那窗帘紧闭的昏暗房间里由桌椅以及一块液晶屏组成的方寸之地。"
+            }
+        ],
+        "atts": []
+    },
+    "2": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "便利店坐落在一条贯通东西的笔直道路上。无论向东还是往西，都能抵达立希所租住的房子。不过两条路的路程、景致与周边的设施都相差很多。"
+            }
+        ],
+        "atts": []
+    },
+    "3": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "向东的话，途径的是一条喧闹的"
+            },
+            {
+                "html": "style='color:#f50c59'",
+                "text": "居民商业街"
+            },
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "，因为地形的原因，路程要比往西稍长一些。"
+            }
+        ],
+        "atts": []
+    },
+    "4": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "街道内商铺很多，但自从搬到新家后，立希就忙得没有闲心逛街。每次只是在晚归的时候出于安全考虑匆匆穿过，所以也不太清楚具体都有些什么店铺。"
+            }
+        ],
+        "atts": []
+    },
+    "5": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "向西的话，路程相对较短，但需途径一片工地和一座快要荒废的"
+            },
+            {
+                "html": "style='color:#3aeb7a'",
+                "text": "小公园"
+            },
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "，一到晚上便人迹罕至，对于独自走夜路的人来说并不是什么好选择。"
+            }
+        ],
+        "atts": []
+    },
+    "6": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（平时的话都会走人多的商业街，但今天已经很累了……要走哪边呢？）"
+            }
+        ],
+        "atts": []
+    },
+    "7": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "脑海中仿佛还回荡着那只诡异黑猫的叫声，立希内心的忧惧逐渐加深。"
+            }
+        ],
+        "atts": []
+    },
+    "8": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（还是走商业街吧，远点就远点，至少安全……）"
+            }
+        ],
+        "atts": []
+    },
+    "9": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（实在累得很，走一次近路吧，快些冲过去就什么事情也没有……）"
+            }
+        ],
+        "atts": []
     }
 }

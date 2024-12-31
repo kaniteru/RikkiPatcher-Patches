@@ -1,12 +1,57 @@
 {
-    "hash": "06190d50abfbe39479e3d511ba913ef4680bcdf71db1207ea23ed1228ff5c566abee23d9429dff93814b11f46834f323abc745cdf830e99c7adc62ce8bfe09a4",
-    "list": {
-        "0": {
-            "speaker": "",
-            "dialogue": [
+    "0": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "报幕"
+            }
+        ],
+        "atts": {
+            "dialog": [
                 {
-                    "html": "style='color:#FfFffF'",
-                    "text": "报幕"
+                    "alpha": 0,
+                    "fontSize": 30,
+                    "height": 34,
+                    "shadowEnabled": false,
+                    "strokeColor": "#d57fdf",
+                    "width": 413,
+                    "x": 1284,
+                    "y": 1102
+                },
+                {
+                    "alpha": {},
+                    "fontSize": {},
+                    "height": {},
+                    "shadowEnabled": {},
+                    "strokeColor": {},
+                    "width": {},
+                    "x": {},
+                    "y": {}
+                }
+            ],
+            "nameBox": [
+                {
+                    "height": 156,
+                    "x": -240,
+                    "y": 586
+                },
+                {
+                    "height": {},
+                    "x": {},
+                    "y": {}
+                }
+            ],
+            "skipBox": [
+                {
+                    "alpha": 0,
+                    "x": 1546,
+                    "y": 1074
+                },
+                {
+                    "alpha": {},
+                    "x": {},
+                    "y": {}
                 }
             ]
         }

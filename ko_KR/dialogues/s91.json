@@ -1,254 +1,282 @@
 {
     "0": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "네가 나를 어디로 데려가려고 한다고 하더니...... 결국 여기가 목적지였구나."
             }
-        ]
+        ],
+        "atts": []
     },
     "1": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（사실 중간에 이미 눈치챘지만.....）"
             }
-        ]
+        ],
+        "atts": []
     },
     "2": {
         "speaker": "카나메 라나",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "리키, 실망했어?"
             }
-        ]
+        ],
+        "atts": []
     },
     "3": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아니……"
             }
-        ]
+        ],
+        "atts": []
     },
     "4": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 이곳이 라나에게 어떤 의미인지 알고 있었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "5": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "고양이가 소중히 간직한 비밀 기지를 사람에게 보여주는 것, 그것만으로도 그녀는 조금 안심했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "6": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "하지만 더 걱정되기 시작했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "7": {
         "speaker": "카나메 라나",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이쪽이야."
             }
-        ]
+        ],
+        "atts": []
     },
     "8": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이 방향... 잠깐, 너 집 안으로 들어가려는 거야? 정말 괜찮아? 몇 년이나 방치된 곳인데... 야?!"
             }
-        ]
+        ],
+        "atts": []
     },
     "9": {
         "speaker": "카나메 라나",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "리키, 걱정 마."
             }
-        ]
+        ],
+        "atts": []
     },
     "10": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "네가 언제 날 안심시킨 적 있었나....."
             }
-        ]
+        ],
+        "atts": []
     },
     "11": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "여전히 타키의 손을 잡고 있는 라나는, 주저 없이 집 앞의 경고 표지판과 쓰레기통을 돌아 나가, 뒤에서 들리는 낮은 탄성과 부딪히는 소리를 무시하고 그녀를 집 뒤 구석의 숨겨진 곳으로 데려갔다."
             }
-        ]
+        ],
+        "atts": []
     },
     "12": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "거기에는 이미 녹이 슨 철문이 있었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "13": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "옛날에 야생 고양이를 잡기 위해 자주 왕래했지만, 타키는 이곳에 숨겨진 통로가 있다는 것을 전혀 눈치채지 못했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "14": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "라나는 아무 설명도 하지 않고, 가볍게 타키의 손을 놓고, 허리를 굽혀 회색 벽을 따라 손으로 더듬어 찾기 시작했다. 한참 만에 어디선가 열쇠를 꺼냈다."
             }
-        ]
+        ],
+        "atts": []
     },
     "15": {
         "speaker": "카나메 라나",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "가게 문 닫기 전에 내가 몰래 숨겨둔 예비 열쇠야, 할머니는 몰라."
             }
-        ]
+        ],
+        "atts": []
     },
     "16": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 기타리스트의 손에 있는 주변 분위기와 전혀 맞지 않는 반짝이는 새 열쇠를 뚫어져라 쳐다보았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "17": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 '할머니는 모른다'는 정도가 의심스러웠다."
             }
-        ]
+        ],
+        "atts": []
     },
     "18": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "하지만 그녀는 현명하게도 침묵을 지켰다."
             }
-        ]
+        ],
+        "atts": []
     },
     "19": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "문이 열리면서 거대한 '삐걱' 소리가 타키의 고막을 스쳤고, 타키는 무의식적으로 귀를 막았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "20": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그녀는 신비한 검은 구멍 앞에 서 있었다, 마치 경계를 넘은 외부인처럼."
             }
-        ]
+        ],
+        "atts": []
     },
     "21": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（진심으로... 열쇠가 계속 새것으로 바뀌었다면 왜 문 축에 기름을 치지 않은 거지......）"
             }
-        ]
+        ],
+        "atts": []
     },
     "22": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "항상 사람에게 뜻밖의 놀라움이나 공포를 안겨준다."
             }
-        ]
+        ],
+        "atts": []
     },
     "23": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "고양이란 그런 존재다."
             }
-        ]
+        ],
+        "atts": []
     },
     "24": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "라나도 마찬가지다."
             }
-        ]
+        ],
+        "atts": []
     },
     "25": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "라나는 뒤돌아 타키를 향해 고개를 끄덕였고, 먼저 어둠 속으로 들어갔다."
             }
-        ]
+        ],
+        "atts": []
     },
     "26": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "내면의 호기심이 어른의 체면을 이겨내고, 시이나 타키는 그 라이브 하우스의 문을 넘어섰다."
             }
-        ]
+        ],
+        "atts": []
     },
     "27": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "라나의 10년 전으로 들어섰다."
             }
-        ]
+        ],
+        "atts": []
     }
 }

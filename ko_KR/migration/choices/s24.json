@@ -1,7 +1,8 @@
 {
-    "hash": "e04cbbf08e073548ec15afdfdbdf674b71efbfdc7320090b3d1d7592b7623a053c0fb5f9cb1dd0cf2b13fbea8e07ae42811d1ba2060d750c0a5775990e76714b",
-    "list": {
-        "1": "咖啡",
-        "2": "新限定甜点"
+    "1": {
+        "text": "咖啡"
+    },
+    "2": {
+        "text": "新限定甜点"
     }
 }

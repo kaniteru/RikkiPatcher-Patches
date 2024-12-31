@@ -1,164 +1,182 @@
 {
     "0": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "부족해."
             }
-        ]
+        ],
+        "atts": []
     },
     "1": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이 곡에는 마음을 울리는 디테일이 부족해."
             }
-        ]
+        ],
+        "atts": []
     },
     "2": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "책상 앞의 긴 원목 칸막이 왼쪽에는 편곡 등 음악 관련 서적이 있고, 오른쪽에는 각성 음료와 포만감 젤리가 있다. 책상 구석과 쓰레기통에는 음료와 젤리의 남은 포장이 가득하다."
             }
-        ]
+        ],
+        "atts": []
     },
     "3": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "겨울이기 때문에 유통기한을 걱정할 필요가 없어, 타키는 그것들을 언제든지 꺼내 쓸 수 있도록 나무 선반에 쌓아두었다. 이렇게 하면 시간을 절약할 수 있고, 영감이 끊겨 창작에 방해가 되지 않는다."
             }
-        ]
+        ],
+        "atts": []
     },
     "4": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "——지금은, 유통기한을 걱정하지 않아도 되는 또 다른 이유가 생겼다."
             }
-        ]
+        ],
+        "atts": []
     },
     "5": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……이렇게 빨리 마지막 곡이 될 줄이야."
             }
-        ]
+        ],
+        "atts": []
     },
     "6": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（분명 더 많은 곡을 만들고 싶었는데.）"
             }
-        ]
+        ],
+        "atts": []
     },
     "7": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（각 곡이 이전 곡보다 더 좋아질 때까지, 심장이 멈출 때까지.）"
             }
-        ]
+        ],
+        "atts": []
     },
     "8": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "난 포기하지 않을 거야."
             }
-        ]
+        ],
+        "atts": []
     },
     "9": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（도대체 뭐가 부족한 거지……）"
             }
-        ]
+        ],
+        "atts": []
     },
     "10": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（그녀들과 만났을 때, 이미 뭔가 잡지 않았어? 이 모든 것을 노래로 표현하기만 하면……）"
             }
-        ]
+        ],
+        "atts": []
     },
     "11": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "꼬르륵…………"
             }
-        ]
+        ],
+        "atts": []
     },
     "12": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "배에서 들려오는 어색한 소리에, 타키는 자신이 아침부터 저녁까지 컴퓨터 책상에서 한 발자국도 벗어나지 않았다는 것을 깨달았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "13": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "냉장고에는 비축해 둔 음식이 있지만, 현재의 식욕은 간편식이나 자취로는 만족시킬 수 없다."
             }
-        ]
+        ],
+        "atts": []
     },
     "14": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……한잔하러 가자, 두 시간이 걸리지 않아."
             }
-        ]
+        ],
+        "atts": []
     },
     "15": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "술이 일을 순조롭게 해줄지도 몰라."
             }
-        ]
+        ],
+        "atts": []
     },
     "16": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（길에서 많은 시간을 보낼 수도 있지만, 이미 각오를 했잖아… 마지막이라도 평소처럼 대해야 해.）"
             }
-        ]
+        ],
+        "atts": []
     },
     "17": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（겸사겸사… 가게 주인 할아버지의 건강도 확인하자.）"
             }
-        ]
+        ],
+        "atts": []
     }
 }

@@ -1,781 +1,867 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "向机构请假之后，唐突而来的空闲时间让立希一时间无所适从。"
             }
-        ]
+        ],
+        "atts": []
     },
     "1": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "她不想留任何空隙给自己胡思乱想。于是从随手扔掉餐桌上的啤酒罐为起点，一次大扫除开始了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "2": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "然而太久没好好打扫过卫生，本以为很快就能结束的大扫除直到下午才告一段落。"
             }
-        ]
+        ],
+        "atts": []
     },
     "3": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "再等明天把垃圾丢掉就行了……"
             }
-        ]
+        ],
+        "atts": []
     },
     "4": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "松懈下来的瞬间，脱力的眩晕感顿时朝大脑和四肢袭来，立希两眼发昏，差点站不稳，堪堪扶住椅背才没有倒下。"
             }
-        ]
+        ],
+        "atts": []
     },
     "5": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "——？！"
             }
-        ]
+        ],
+        "atts": []
     },
     "6": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "强烈的疑虑又涌上心头，她不禁把这种身体的不适和悬浮在头顶的超自然现象联系起来。但……"
             }
-        ]
+        ],
+        "atts": []
     },
     "7": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "比起倒计时这种难以捉摸的超自然现象，身体出现的反应一定有其生理原因……"
             }
-        ]
+        ],
+        "atts": []
     },
     "8": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "啊…………"
             }
-        ]
+        ],
+        "atts": []
     },
     "9": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（这么一想，好像已经快24个小时没有吃东西了……）"
             }
-        ]
+        ],
+        "atts": []
     },
     "10": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（什么啊，原来只是低血糖啊……）"
             }
-        ]
+        ],
+        "atts": []
     },
     "11": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "是啊，人不进食就会死。这是多么简单的道理。"
             }
-        ]
+        ],
+        "atts": []
     },
     "12": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "而直到刚才，立希都因为一个虚无缥缈的预兆完全忽略了眼前这个更现实、更迫在眉睫的威胁。"
             }
-        ]
+        ],
+        "atts": []
     },
     "13": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "比起那串莫名其妙的数字，当下正在经受的生命的流逝要真切得多。"
             }
-        ]
+        ],
+        "atts": []
     },
     "14": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（得赶紧吃点什么……）"
             }
-        ]
+        ],
+        "atts": []
     },
     "15": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "晕眩暂时缓解。立希扶着墙面来到冰箱前，准备找些东西果腹。"
             }
-        ]
+        ],
+        "atts": []
     },
     "16": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "冰箱就和她的家一样空。"
             }
-        ]
+        ],
+        "atts": []
     },
     "17": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "几罐啤酒、开了一半的番茄罐头、冰块、以及……"
             }
-        ]
+        ],
+        "atts": []
     },
     "18": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "——关东煮味噌炒饭便当。"
             }
-        ]
+        ],
+        "atts": []
     },
     "19": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "呃……这玩意。"
             }
-        ]
+        ],
+        "atts": []
     },
     "20": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（算了，也不是可以挑剔的时候了。）"
             }
-        ]
+        ],
+        "atts": []
     },
     "21": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "几罐啤酒、开了一半的番茄罐头、冰块、以及不知道什么时候买的便利店便当。"
             }
-        ]
+        ],
+        "atts": []
     },
     "22": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "生产日期是……唔包装完好没变味没发霉，好的，可以吃。"
             }
-        ]
+        ],
+        "atts": []
     },
     "23": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希将便当放入微波炉，在极度饥饿状态下很难保证自己不狼吞虎咽，为了避免烫伤，她在便当热到刚刚回温时便取出。"
             }
-        ]
+        ],
+        "atts": []
     },
     "24": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "她在刚打扫完显得一尘不染的餐桌旁坐下。"
             }
-        ]
+        ],
+        "atts": []
     },
     "25": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "拿着筷子的右手因缺糖不受控地颤抖着，向口中送入第一口久违的带盐食物。"
             }
-        ]
+        ],
+        "atts": []
     },
     "26": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "…………"
             }
-        ]
+        ],
+        "atts": []
     },
     "27": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "………………"
             }
-        ]
+        ],
+        "atts": []
     },
     "28": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "或许是碳水和盐分带来的镇定作用，立希并没有预想中的狼吞虎咽。"
             }
-        ]
+        ],
+        "atts": []
     },
     "29": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "相反，她慢慢地咀嚼、吞咽，感受着平时不会注意到的食材之间细微的口感和调味差异。"
             }
-        ]
+        ],
+        "atts": []
     },
     "30": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "食物的营养似乎正通过一种可被感知的方式慢慢填补着自己的缺口。"
             }
-        ]
+        ],
+        "atts": []
     },
     "31": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "已经多久没有这样吃过一餐饭了呢。"
             }
-        ]
+        ],
+        "atts": []
     },
     "32": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希并非厨艺不佳，只是一个人独处的时候，她很难有心情，也不愿把时间浪费在烹饪和进食上。"
             }
-        ]
+        ],
+        "atts": []
     },
     "33": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "随着年龄的增长，她有时不禁冒出一个想法：既然营养果冻、蛋白棒和维他命冲剂可以满足人的一天所需，那么人们花长时间烹饪又花长时间进食的意义又在哪呢？"
             }
-        ]
+        ],
+        "atts": []
     },
     "34": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "当然，这也只是在脑海中偶尔浮现的迷思，立希并不是那种不近人情的禁欲主义者。"
             }
-        ]
+        ],
+        "atts": []
     },
     "35": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "她也有喜欢吃的东西，手艺也不算差，和MyGO!!!!!的大家出去聚餐的时候，无论是烤肉还是火锅，负责烹饪的人好像也总是她……"
             }
-        ]
+        ],
+        "atts": []
     },
     "36": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "那个时候的东西真好吃啊。"
             }
-        ]
+        ],
+        "atts": []
     },
     "37": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "和爱音抢来的肉好吃，灯给自己夹的好吃，乐奈挑食丢给她处理的，甚至素世坚持要点的蔬菜都……"
             }
-        ]
+        ],
+        "atts": []
     },
     "38": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "…………好吃。"
             }
-        ]
+        ],
+        "atts": []
     },
     "39": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "吃过饭后心情平静了不少，补充的能量又支撑着她处理了一些杂事。"
             }
-        ]
+        ],
+        "atts": []
     },
     "40": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "上一次在十二点前上床是什么时候，立希已经记不清了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "41": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "但今天肯定是今年的第一次。"
             }
-        ]
+        ],
+        "atts": []
     },
     "42": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "洗漱的时候她刻意没去注视镜子，余光瞟到浴室玻璃上的倒影，她没在意。"
             }
-        ]
+        ],
+        "atts": []
     },
     "43": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "昨夜过度的睡眠并没有带来休息的实感，疲劳和精神衰弱有时会带来幻觉。好好吃一顿，睡一觉就没事了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "44": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "带着这样的想法，她躺在床上，双眼比她预想的还要疲惫，阖上眼睑的时候带着干涩的刺痛，一旦闭上就不想再睁开。"
             }
-        ]
+        ],
+        "atts": []
     },
     "45": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "剩下的事明天再想吧………"
             }
-        ]
+        ],
+        "atts": []
     },
     "46": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "............"
             }
-        ]
+        ],
+        "atts": []
     },
     "47": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "........."
             }
-        ]
+        ],
+        "atts": []
     },
     "48": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": []
     },
     "49": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "？！"
             }
-        ]
+        ],
+        "atts": []
     },
     "50": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "她猛地坐起。"
             }
-        ]
+        ],
+        "atts": []
     },
     "51": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "睡不着。"
             }
-        ]
+        ],
+        "atts": []
     },
     "52": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希发现她完全睡不着。"
             }
-        ]
+        ],
+        "atts": []
     },
     "53": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "尽管已经累到眼皮黏在一起，可她就是难以入睡。"
             }
-        ]
+        ],
+        "atts": []
     },
     "54": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "怎么回事？她明明已经没有再去胡思乱想。"
             }
-        ]
+        ],
+        "atts": []
     },
     "55": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "好热，这房间原本有这么热的吗？"
             }
-        ]
+        ],
+        "atts": []
     },
     "56": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（怎么回事？哪里不对劲……）"
             }
-        ]
+        ],
+        "atts": []
     },
     "57": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "原本的不安和异样感再次揪紧了心脏，她下意识抓住胸前的布料，止不住大口喘气。"
             }
-        ]
+        ],
+        "atts": []
     },
     "58": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "——而在这时她才意识到胸腔下方传来的阵阵鼓动。"
             }
-        ]
+        ],
+        "atts": []
     },
     "59": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（心跳……是一直这么快的吗？）"
             }
-        ]
+        ],
+        "atts": []
     },
     "60": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "恐惧驱使着她跳下床，跌跌撞撞冲向电脑桌，差点崴到脚。"
             }
-        ]
+        ],
+        "atts": []
     },
     "61": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "她几乎是扑在桌上，笔筒里的笔哗啦啦洒了一桌子，有两只笔尖朝下，掉在脚背上，留下一黑一红两个血洞般的墨印。"
             }
-        ]
+        ],
+        "atts": []
     },
     "62": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "而她浑然不觉地拉开抽屉，在零碎的小物件间胡乱翻找，终于在杂物的最下层掏出了一个运动手环。"
             }
-        ]
+        ],
+        "atts": []
     },
     "63": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "迅速套上手腕，屏幕却迟迟没有亮起，摁了两下，还是没反应。她这才意识到手环已经很久没用过，早就没电了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "64": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "啧。"
             }
-        ]
+        ],
+        "atts": []
     },
     "65": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希泄气地坐回床边，给手环充电。"
             }
-        ]
+        ],
+        "atts": []
     },
     "66": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "手环就那么戴着，她盯着侧边闪烁的红灯，想起这玩意好像是哪年的生日礼物——不过自从知道某个人会通过看手环上的睡眠信息获取她的作息情况后就没用过了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "67": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "“不看不就行了？”但立希自己也总归心虚。"
             }
-        ]
+        ],
+        "atts": []
     },
     "68": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "屏幕上每天提示的睡眠健康看着总感觉不吉利，像是好意的医生又像是恶趣味的死神。"
             }
-        ]
+        ],
+        "atts": []
     },
     "69": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "等待充电这段时间，立希缓了口气，逐渐又开始萌生退意。"
             }
-        ]
+        ],
+        "atts": []
     },
     "70": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "万一……"
             }
-        ]
+        ],
+        "atts": []
     },
     "71": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "滴——"
             }
-        ]
+        ],
+        "atts": []
     },
     "72": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "不给她后悔的时机，手环上的屏幕亮起，Logo出现后的主界面显示着当下的时间——23:58。"
             }
-        ]
+        ],
+        "atts": []
     },
     "73": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（已经快要零点了啊。）"
             }
-        ]
+        ],
+        "atts": []
     },
     "74": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希打开手环的心率监测——就算不借助设备，向来对节奏敏感的鼓手也完全能判断目前的心跳频率。"
             }
-        ]
+        ],
+        "atts": []
     },
     "75": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "但是为什么直到睡前都没注意到呢？"
             }
-        ]
+        ],
+        "atts": []
     },
     "76": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "等待片刻，一个比她预想中低的数字出现在一颗红心的旁边。"
             }
-        ]
+        ],
+        "atts": []
     },
     "77": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "——100？"
             }
-        ]
+        ],
+        "atts": []
     },
     "78": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "一分钟100次，是成年人心跳正常范围的界限。"
             }
-        ]
+        ],
+        "atts": []
     },
     "79": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希在运动或打鼓时心率能轻易超过这个界限，但在日常生活时，心率又会远低于此，更别提疲惫状态下在床上的时候了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "80": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "不过这个数字并不算什么极度危险的信号，当下充其量也就只是影响睡眠罢了，立希悬着的心又放下一点。"
             }
-        ]
+        ],
+        "atts": []
     },
     "81": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（还是这两天疑神疑鬼太多了吗……）"
             }
-        ]
+        ],
+        "atts": []
     },
     "82": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（不管了，总之先睡觉吧。）"
             }
-        ]
+        ],
+        "atts": []
     },
     "83": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "她关掉灯，最后看了眼手环上的时间。"
             }
-        ]
+        ],
+        "atts": []
     },
     "84": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "数字正好从23:59变动到0:00。已经是第二天了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "85": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "然后——"
             }
-        ]
+        ],
+        "atts": []
     },
     "86": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "红心旁的数字，也随之从"
@@ -796,38 +882,42 @@
                 "html": "style='color:#FfFffF'",
                 "text": "。"
             }
-        ]
+        ],
+        "atts": []
     },
     "87": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "…………"
             }
-        ]
+        ],
+        "atts": []
     },
     "88": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "………………"
             }
-        ]
+        ],
+        "atts": []
     },
     "89": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希等了一会又一会。"
             }
-        ]
+        ],
+        "atts": []
     },
     "90": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "时间是0:06，红心旁的数字一直是"
@@ -840,20 +930,22 @@
                 "html": "style='color:#FfFffF'",
                 "text": "。"
             }
-        ]
+        ],
+        "atts": []
     },
     "91": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "她屏住呼吸，憋到头昏脑涨。"
             }
-        ]
+        ],
+        "atts": []
     },
     "92": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "时间是0:08，红心旁的数字一直是"
@@ -866,47 +958,52 @@
                 "html": "style='color:#FfFffF'",
                 "text": "。"
             }
-        ]
+        ],
+        "atts": []
     },
     "93": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "她冲出房间，在玄关蹬上运动鞋，在无人的街道上跑出百米远。"
             }
-        ]
+        ],
+        "atts": []
     },
     "94": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "静悄悄的，无月之夜。"
             }
-        ]
+        ],
+        "atts": []
     },
     "95": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "哈、哈…………哈……"
             }
-        ]
+        ],
+        "atts": []
     },
     "96": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "她靠着电线杆，余光瞥向手腕，时间是0:14——"
             }
-        ]
+        ],
+        "atts": []
     },
     "97": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "红心旁的数字一直是"
@@ -919,6 +1016,7 @@
                 "html": "style='color:#FfFffF'",
                 "text": "。"
             }
-        ]
+        ],
+        "atts": []
     }
 }

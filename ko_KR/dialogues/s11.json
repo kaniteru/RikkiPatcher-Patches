@@ -1,479 +1,532 @@
 {
     "0": {
         "speaker": "점원",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "어서 오세요~~~~~ 아, 시이나 씨! 오랜만이에요."
             }
-        ]
+        ],
+        "atts": []
     },
     "1": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "응? 오늘 평일 아닌가? 왜 네가 여기있어?"
             }
-        ]
+        ],
+        "atts": []
     },
     "2": {
         "speaker": "점원",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "원래 이 시간대에 일하시던 선배가 아프다고 휴가를 내셔서, 제가 대신 나왔어요."
             }
-        ]
+        ],
+        "atts": []
     },
     "3": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그렇구나, 요즘따라 아픈 사람들이 정말 많네…… 많이 안좋으시대?"
             }
-        ]
+        ],
+        "atts": []
     },
     "4": {
         "speaker": "점원",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아까 전화해 봤는데, 목소리가 좀 풀린 걸 보니 많이 괜찮아지신 거 같아요. 독감이 유행이라 그런지 많이들 걸리나봐요. 시이나 씨도 조심하세요."
             }
-        ]
+        ],
+        "atts": []
     },
     "5": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "응, 고마워. 바구니 하나 주세요."
             }
-        ]
+        ],
+        "atts": []
     },
     "6": {
         "speaker": "점원",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "헤헤~ 전에 사셨던 것들도 벌써 다 드신건가요? 아사히 맥주 열 캔이랑 영양 젤리 36개도 준비할게요!"
             }
-        ]
+        ],
+        "atts": []
     },
     "7": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "한 번에 그렇게 많이 살 정도로 중독되진 않았어..."
             }
-        ]
+        ],
+        "atts": []
     },
     "8": {
         "speaker": "점원",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "농담이에요, 천천히 구경하세요~"
             }
-        ]
+        ],
+        "atts": []
     },
     "9": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그녀는 말을 마치자 팔꿈치를 계산대에 올리고 벽 면에 걸려있는 TV로 시선을 옮겼다."
             }
-        ]
+        ],
+        "atts": []
     },
     "10": {
         "speaker": "TV",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "“……최근, XX 거리에서 피해자가 경상을 입은 폭행 사건이 발생했습니다. 현재 경찰은 순찰인력을 증원하고 있으며, 인근 주민 여러분들은 늦은 밤에 외출 시 조심하시기 바랍니다……”"
             }
-        ]
+        ],
+        "atts": []
     },
     "11": {
         "speaker": "점원",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "와, 요즘 정말 사건사고가 많네요. 그런데 화면에 나오는 저 거리, 바로 여기 근처 아닌가요……"
             }
-        ]
+        ],
+        "atts": []
     },
     "12": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이것들 좀 계산해 줘."
             }
-        ]
+        ],
+        "atts": []
     },
     "13": {
         "speaker": "점원",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "네. 어? 오늘은 담배 사탕 안 사세요? 항상 꼭 사가셨잖아요."
             }
-        ]
+        ],
+        "atts": []
     },
     "14": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "최근에 너무 많이 먹은 것 같아서 좀 자제하려고."
             }
-        ]
+        ],
+        "atts": []
     },
     "15": {
         "speaker": "점원",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "정말 중독된 것 처럼 말씀하시네요."
             }
-        ]
+        ],
+        "atts": []
     },
     "16": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "어떤 사람은 설탕에 중독될 수도 있고, 어떤 고양이는 말차에 중독될 수도 있는 것 처럼 말이야."
             }
-        ]
+        ],
+        "atts": []
     },
     "17": {
         "speaker": "점원",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "풉, 그게 무슨 비유예요. 게다가 고양이는 녹차를 먹으면 안 된다구요!"
             }
-        ]
+        ],
+        "atts": []
     },
     "18": {
         "speaker": "점원",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그리고 사탕보다 술을 더 줄여야 하는 거 아니에요?"
             }
-        ]
+        ],
+        "atts": []
     },
     "19": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "술이 각성제마냥 기운을 차리게 해주는 것도 아니고, 일할 때는 일절 마시지 않으니 괜찮아."
             }
-        ]
+        ],
+        "atts": []
     },
     "20": {
         "speaker": "점원",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "세상에나, 야생의 자제력 괴물이 나타났네요!! 음, 근데 시이나 씨는 분명 어떤 면에서는 또 비교적으로…"
             }
-        ]
+        ],
+        "atts": []
     },
     "21": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "응?"
             }
-        ]
+        ],
+        "atts": []
     },
     "22": {
         "speaker": "점원",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "다크서클이 그 정도로 짙게 내려온 걸 보면, 잘 주무시지도 못하고 밤을 새신거 같은데요, 그렇죠?"
             }
-        ]
+        ],
+        "atts": []
     },
     "23": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "어? 그 정도로 잘 보여?"
             }
-        ]
+        ],
+        "atts": []
     },
     "24": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(분명 컨실러로 잘 가렸을텐데.)"
             }
-        ]
+        ],
+        "atts": []
     },
     "25": {
         "speaker": "점원",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "너무 티 나요! 더 이상 시간 뺏지 않을테니 빨리 집에 가서 좀 쉬세요!"
             }
-        ]
+        ],
+        "atts": []
     },
     "26": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "…고마워."
             }
-        ]
+        ],
+        "atts": []
     },
     "27": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……역시 담배 사탕도 하나 사가야겠어."
             }
-        ]
+        ],
+        "atts": []
     },
     "28": {
         "speaker": "점원",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "좋아요~ 그런데 시이나 씨, 항상 궁금했는데 왜 그렇게 담배 사탕을 좋아하시는거에요?"
             }
-        ]
+        ],
+        "atts": []
     },
     "29": {
         "speaker": "점원",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "전에 한 번 먹어봤는데, 향신료도 진하고 설탕 맛이 너무 강해서 맛이 하나도 없더라구요."
             }
-        ]
+        ],
+        "atts": []
     },
     "30": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "확실히 맛은 별로지… 하지만 외형이나 느낌이 진짜 담배의 그거랑 비슷해서… 그래서…"
             }
-        ]
+        ],
+        "atts": []
     },
     "31": {
         "speaker": "점원",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그 정도로 간절하다면, 그냥 진짜 담배를 한 번 피워보시는 건 어떠세요?"
             }
-        ]
+        ],
+        "atts": []
     },
     "32": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "음… 사실 대학생때 피웠었는데, 나중에 끊었어."
             }
-        ]
+        ],
+        "atts": []
     },
     "33": {
         "speaker": "카나메 라나",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "리키, 냄새 나."
             }
-        ]
+        ],
+        "atts": []
     },
     "34": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "으!"
             }
-        ]
+        ],
+        "atts": []
     },
     "35": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "리키, 또 몰래 나가서 담배 피우고 온거야? 안~ 돼~"
             }
-        ]
+        ],
+        "atts": []
     },
     "36": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "하아?"
             }
-        ]
+        ],
+        "atts": []
     },
     "37": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "헤헤, 그럼 전에 약속한 대로 오늘은 집에 돌아갈 때 타키쨩은 혼자 가는 걸로 하자."
             }
-        ]
+        ],
+        "atts": []
     },
     "38": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "야!"
             }
-        ]
+        ],
+        "atts": []
     },
     "39": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "…응… 미안, 그래도 타키가 건강했으면 좋겠어…"
             }
-        ]
+        ],
+        "atts": []
     },
     "40": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "흑… 미안해, 토모리."
             }
-        ]
+        ],
+        "atts": []
     },
     "41": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "음, 역시 안 피는게 좋겠어."
             }
-        ]
+        ],
+        "atts": []
     },
     "42": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（…………）"
             }
-        ]
+        ],
+        "atts": []
     },
     "43": {
         "speaker": "점원",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "당연히 안 피는게 좋죠. 곁에서 금연하라고 말해주는 사람들을 소중히 여겨야 한다구요."
             }
-        ]
+        ],
+        "atts": []
     },
     "44": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "…응."
             }
-        ]
+        ],
+        "atts": []
     },
     "45": {
         "speaker": "점원",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "좋아요, 여기 거스름돈이요. 감사합니다~"
             }
-        ]
+        ],
+        "atts": []
     },
     "46": {
         "speaker": "점원",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아, 그리고 이건 증정품으로 드릴게요. 단골 고객 특전이에요. 계속 영양 젤리로만 끼니를 떼우면 몸이 상한다구요!"
             }
-        ]
+        ],
+        "atts": []
     },
     "47": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……오뎅 된장 볶음밥 도시락, 이게 무슨 특전이야. 그냥 안 팔리니 끼워 주는 거 아니야?"
             }
-        ]
+        ],
+        "atts": []
     },
     "48": {
         "speaker": "점원",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아이 참, 이거 정말 맛있어요. 이게 마지막 재고라구요. 오늘 만난 것도 인연이니까, 받아요 받아~"
             }
-        ]
+        ],
+        "atts": []
     },
     "49": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "…알겠어, 고마워."
             }
-        ]
+        ],
+        "atts": []
     },
     "50": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "자동문이 열리고, 차가운 밤바람이 실내로 밀려 들어오자, 갑작스러운 큰 온도 차로 인해 타키는 잠시 전기 충격을 받은 것 처럼 움찔했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "51": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "왠지 모르게, 발 밑에서부터 불길한 한기가 올라오는 것이 느껴졌다. 타키가 곁눈질로 카운터를 살펴보았으나, 점원은 그녀의 이상을 눈치채지 못한 것 같았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "52": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 편의점 밖으로 걸음을 옮겼다."
             }
-        ]
+        ],
+        "atts": []
     }
 }

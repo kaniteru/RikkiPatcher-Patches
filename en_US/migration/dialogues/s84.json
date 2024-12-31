@@ -1,120 +1,177 @@
 {
-    "hash": "1760f6e0a791a19ca5f512220a576a062b6fdedc833e0ff4cc18c221be53b7b1ccdf3c7ac8e8ffb7dbeb06545813b9d7ac02b86e1b94d46d97e2f42223e72ad4",
-    "list": {
-        "0": {
-            "speaker": "",
-            "dialogue": [
+    "0": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "拎着所剩不多的食材和灯一定要自己打包上的奶油炖菜，椎名立希在黄昏的阳光中走上了千登世步道桥。"
+            }
+        ],
+        "atts": []
+    },
+    "1": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "初春的风吹来夜晚的寒意，她把自己的大衣裹紧。"
+            }
+        ],
+        "atts": []
+    },
+    "2": {
+        "speaker": "高松灯",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "小立希！"
+            }
+        ],
+        "atts": []
+    },
+    "3": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "循声望去，灯站在阳台上向她招手道别。"
+            }
+        ],
+        "atts": []
+    },
+    "4": {
+        "speaker": "高松灯",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "要好好吃饭，多保重呀！"
+            }
+        ],
+        "atts": []
+    },
+    "5": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "这本来是句寻常的问候，她却突然眼睛一酸，只好仰着头对着那户阳台的方向胡乱地挥舞着手臂。"
+            }
+        ],
+        "atts": []
+    },
+    "6": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "灯也快回去吧，风、风太大啦！"
+            }
+        ],
+        "atts": []
+    },
+    "7": {
+        "speaker": "高松灯",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "再见，再见！"
+            }
+        ],
+        "atts": []
+    },
+    "8": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "她没能看清灯是什么时候转过身回到家里的，整个阳台连着高楼和街道在她视野里都变幻了通常的形状。"
+            }
+        ],
+        "atts": []
+    },
+    "9": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "黄昏里的一切都像是发生在电影胶卷里一样，带着湿乎乎的气息。"
+            }
+        ],
+        "atts": []
+    },
+    "10": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "她终于收回手，伸进大衣口袋里时又摸到了那朵土豆皮围成的，串着牙签的花朵。"
+            }
+        ],
+        "atts": []
+    },
+    "11": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "那朵花也是湿乎乎的。"
+            }
+        ],
+        "atts": []
+    },
+    "12": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "解锁CG：四季虫歌"
+            }
+        ],
+        "atts": {
+            "dialog": [
                 {
-                    "html": "style='color:#FfFffF'",
-                    "text": "拎着所剩不多的食材和灯一定要自己打包上的奶油炖菜，椎名立希在黄昏的阳光中走上了千登世步道桥。"
+                    "alpha": 0,
+                    "fontSize": 30,
+                    "height": 34,
+                    "shadowEnabled": false,
+                    "strokeColor": "#d57fdf",
+                    "width": 413,
+                    "x": 1284,
+                    "y": 1102
+                },
+                {
+                    "alpha": {},
+                    "fontSize": {},
+                    "height": {},
+                    "shadowEnabled": {},
+                    "strokeColor": {},
+                    "width": {},
+                    "x": {},
+                    "y": {}
                 }
-            ]
-        },
-        "1": {
-            "speaker": "",
-            "dialogue": [
+            ],
+            "nameBox": [
                 {
-                    "html": "style='color:#FfFffF'",
-                    "text": "初春的风吹来夜晚的寒意，她把自己的大衣裹紧。"
+                    "height": 156,
+                    "x": -240,
+                    "y": 586
+                },
+                {
+                    "height": {},
+                    "x": {},
+                    "y": {}
                 }
-            ]
-        },
-        "2": {
-            "speaker": "高松灯",
-            "dialogue": [
+            ],
+            "skipBox": [
                 {
-                    "html": "style='color:#FfFffF'",
-                    "text": "小立希！"
-                }
-            ]
-        },
-        "3": {
-            "speaker": "",
-            "dialogue": [
+                    "alpha": 0,
+                    "x": 1546,
+                    "y": 1074
+                },
                 {
-                    "html": "style='color:#FfFffF'",
-                    "text": "循声望去，灯站在阳台上向她招手道别。"
-                }
-            ]
-        },
-        "4": {
-            "speaker": "高松灯",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "要好好吃饭，多保重呀！"
-                }
-            ]
-        },
-        "5": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "这本来是句寻常的问候，她却突然眼睛一酸，只好仰着头对着那户阳台的方向胡乱地挥舞着手臂。"
-                }
-            ]
-        },
-        "6": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "灯也快回去吧，风、风太大啦！"
-                }
-            ]
-        },
-        "7": {
-            "speaker": "高松灯",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "再见，再见！"
-                }
-            ]
-        },
-        "8": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "她没能看清灯是什么时候转过身回到家里的，整个阳台连着高楼和街道在她视野里都变幻了通常的形状。"
-                }
-            ]
-        },
-        "9": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "黄昏里的一切都像是发生在电影胶卷里一样，带着湿乎乎的气息。"
-                }
-            ]
-        },
-        "10": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "她终于收回手，伸进大衣口袋里时又摸到了那朵土豆皮围成的，串着牙签的花朵。"
-                }
-            ]
-        },
-        "11": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "那朵花也是湿乎乎的。"
-                }
-            ]
-        },
-        "12": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "解锁CG：四季虫歌"
+                    "alpha": {},
+                    "x": {},
+                    "y": {}
                 }
             ]
         }

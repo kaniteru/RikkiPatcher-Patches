@@ -1,335 +1,419 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "回到摩托车旁，海铃将头盔递给立希。"
             }
-        ]
+        ],
+        "atts": []
     },
     "1": {
         "speaker": "八幡海铃",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "给，头盔。"
             }
-        ]
+        ],
+        "atts": []
     },
     "2": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "今晚对海铃的说教实在太过频繁，恐怕只有自己也照做，才能对得起那些叮嘱和啰嗦。"
             }
-        ]
+        ],
+        "atts": []
     },
     "3": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "好。"
             }
-        ]
+        ],
+        "atts": []
     },
     "4": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（大海的声音越来越远了。）"
             }
-        ]
+        ],
+        "atts": []
     },
     "5": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（相同的旋律，能时而温柔，时而凶暴，甚至寂静……）"
             }
-        ]
+        ],
+        "atts": []
     },
     "6": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（究竟是海的声音也有灵魂……还是我把自己的灵魂投射到了大海里呢？）"
             }
-        ]
+        ],
+        "atts": []
     },
     "7": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": []
     },
     "8": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（我会与那个倒计时抗争到底，继续用我的灵魂呐喊一支支新曲子。）"
             }
-        ]
+        ],
+        "atts": []
     },
     "9": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（到时候，请再来读懂我的呐喊吧。）"
             }
-        ]
+        ],
+        "atts": []
     },
     "10": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（……谢谢你，海铃。）"
             }
-        ]
+        ],
+        "atts": []
     },
     "11": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……不用了，我想吹吹风。"
             }
-        ]
+        ],
+        "atts": []
     },
     "12": {
         "speaker": "八幡海铃",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "那刚才零碎的健康与安全讲座还算数吗。"
             }
-        ]
+        ],
+        "atts": []
     },
     "13": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "算数——前提是海铃打算活很久的话。"
             }
-        ]
+        ],
+        "atts": []
     },
     "14": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "所以我想，这个头盔注定今晚没人会戴上它了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "15": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（大海的声音越来越远了。）"
             }
-        ]
+        ],
+        "atts": []
     },
     "16": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（相同的旋律，能时而温柔，时而凶暴，甚至寂静……）"
             }
-        ]
+        ],
+        "atts": []
     },
     "17": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（究竟是海的声音也有灵魂……还是我把自己的灵魂投射到了大海里呢？）"
             }
-        ]
+        ],
+        "atts": []
     },
     "18": {
         "speaker": "八幡海铃",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希，你冷的话，我可以把防风巾给你。"
             }
-        ]
+        ],
+        "atts": []
     },
     "19": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "不用了，我不冷。"
             }
-        ]
+        ],
+        "atts": []
     },
     "20": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": []
     },
     "21": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "不过，我有点累了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "22": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "海铃，可以让我靠一会儿吗？"
             }
-        ]
+        ],
+        "atts": []
     },
     "23": {
         "speaker": "八幡海铃",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "随时都可以。"
             }
-        ]
+        ],
+        "atts": []
     },
     "24": {
         "speaker": "八幡海铃",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "...多久都可以。"
             }
-        ]
+        ],
+        "atts": []
     },
     "25": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "谢谢。"
             }
-        ]
+        ],
+        "atts": []
     },
     "26": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "解锁CG：海鸣"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "alpha": 0,
+                    "fontSize": 30,
+                    "height": 34,
+                    "shadowEnabled": false,
+                    "strokeColor": "#d57fdf",
+                    "width": 413,
+                    "x": 1284,
+                    "y": 1102
+                },
+                {
+                    "alpha": {},
+                    "fontSize": {},
+                    "height": {},
+                    "shadowEnabled": {},
+                    "strokeColor": {},
+                    "width": {},
+                    "x": {},
+                    "y": {}
+                }
+            ],
+            "nameBox": [
+                {
+                    "height": 156,
+                    "x": -240,
+                    "y": 586
+                },
+                {
+                    "height": {},
+                    "x": {},
+                    "y": {}
+                }
+            ],
+            "skipBox": [
+                {
+                    "alpha": 0,
+                    "x": 1546,
+                    "y": 1074
+                },
+                {
+                    "alpha": {},
+                    "x": {},
+                    "y": {}
+                }
+            ]
+        }
     },
     "27": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希前倾身体，额头抵在海铃背上，手臂顺便收紧了些。"
             }
-        ]
+        ],
+        "atts": []
     },
     "28": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "不再惧怕心跳会透过友人的脊背出卖自己，因为她知道今晚的问答已经结束，所有的疑虑和不安都被海潮冲刷而去。"
             }
-        ]
+        ],
+        "atts": []
     },
     "29": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（拥抱朋友的感觉，真是久违了……）"
             }
-        ]
+        ],
+        "atts": []
     },
     "30": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（早该这么做的，就像今晚的旅行一样。）"
             }
-        ]
+        ],
+        "atts": []
     },
     "31": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（如果旅行能永远漫无目的地继续下去就好了。）"
             }
-        ]
+        ],
+        "atts": []
     },
     "32": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（但是，我还有必须完成的事。）"
             }
-        ]
+        ],
+        "atts": []
     },
     "33": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": []
     },
     "34": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（我会与那个倒计时抗争到底，继续用我的灵魂呐喊一支支新曲子。）"
             }
-        ]
+        ],
+        "atts": []
     },
     "35": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（到时候，请再来读懂我的呐喊吧。）"
             }
-        ]
+        ],
+        "atts": []
     },
     "36": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（……谢谢你，海铃。）"
             }
-        ]
+        ],
+        "atts": []
     }
 }

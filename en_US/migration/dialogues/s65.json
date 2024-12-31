@@ -1,86 +1,92 @@
 {
-    "hash": "7894660bc62ba28e9709b8116569dad787cf2b7e1187e82e7e4d908dae95a3226393305678aea35f2df398f0fdf8945d96918ee590eb3eadb51c1231e621e76c",
-    "list": {
-        "0": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "姐姐要走了吗？"
-                }
-            ]
-        },
-        "1": {
-            "speaker": "椎名真希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "嗯。"
-                }
-            ]
-        },
-        "2": {
-            "speaker": "椎名真希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "安心工作，多保重。"
-                }
-            ]
-        },
-        "3": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "我知道了。"
-                }
-            ]
-        },
-        "4": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "久别之后是最后一次见面，而相聚的时光却这样短暂，立希的心揪作一团。心脏还是不紧不慢地跳动着，唯有胸口的憋闷传达着情绪。"
-                }
-            ]
-        },
-        "5": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "面对这个她用了生命的大半时间来追逐的女性，或许她永远算不上成熟。"
-                }
-            ]
-        },
-        "6": {
-            "speaker": "椎名真希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "礼物记得要拆。"
-                }
-            ]
-        },
-        "7": {
-            "speaker": "椎名真希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "再见，立希。"
-                }
-            ]
-        },
-        "8": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "……再见。"
-                }
-            ]
-        }
+    "0": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "姐姐要走了吗？"
+            }
+        ],
+        "atts": {}
+    },
+    "1": {
+        "speaker": "椎名真希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "嗯。"
+            }
+        ],
+        "atts": []
+    },
+    "2": {
+        "speaker": "椎名真希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "安心工作，多保重。"
+            }
+        ],
+        "atts": []
+    },
+    "3": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我知道了。"
+            }
+        ],
+        "atts": {}
+    },
+    "4": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "久别之后是最后一次见面，而相聚的时光却这样短暂，立希的心揪作一团。心脏还是不紧不慢地跳动着，唯有胸口的憋闷传达着情绪。"
+            }
+        ],
+        "atts": []
+    },
+    "5": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "面对这个她用了生命的大半时间来追逐的女性，或许她永远算不上成熟。"
+            }
+        ],
+        "atts": []
+    },
+    "6": {
+        "speaker": "椎名真希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "礼物记得要拆。"
+            }
+        ],
+        "atts": []
+    },
+    "7": {
+        "speaker": "椎名真希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "再见，立希。"
+            }
+        ],
+        "atts": []
+    },
+    "8": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……再见。"
+            }
+        ],
+        "atts": {}
     }
 }

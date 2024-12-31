@@ -1,347 +1,382 @@
 {
-    "hash": "43b34a5153db5e22540febe75f0c618a4da76e72508d95b131acbcbac77e9643f72b4c9d25c851a9f6d6e965e85877281b591e98cc140c82c0a376d0ba924917",
-    "list": {
-        "0": {
-            "speaker": "丰川祥子",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "立希你，一直是这么好心的人吗？"
-                }
-            ]
-        },
-        "1": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "什么？"
-                }
-            ]
-        },
-        "2": {
-            "speaker": "丰川祥子",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "对每个人都是？"
-                }
-            ]
-        },
-        "3": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "祥子站在玄关前，立希换下了鞋，躬下身帮她解开鞋带。"
-                }
-            ]
-        },
-        "4": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "丰川小姐，你一直这么会说话吗？"
-                }
-            ]
-        },
-        "5": {
-            "speaker": "丰川祥子",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "......"
-                }
-            ]
-        },
-        "6": {
-            "speaker": "丰川祥子",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "......谢谢。"
-                }
-            ]
-        },
-        "7": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "家里只有一双姐姐穿过的拖鞋。"
-                }
-            ]
-        },
-        "8": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "立希放到祥子脚边，让她扶着自己的肩膀进来。"
-                }
-            ]
-        },
-        "9": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "祥子的手心很烫。"
-                }
-            ]
-        },
-        "10": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "……祥子，你一直在出虚汗。"
-                }
-            ]
-        },
-        "11": {
-            "speaker": "丰川祥子",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "离死不远了？"
-                }
-            ]
-        },
-        "12": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "喂，别开这种玩笑。"
-                }
-            ]
-        },
-        "13": {
-            "speaker": "丰川祥子",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "今天我们两个人都很奇怪。"
-                }
-            ]
-        },
-        "14": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "祥子挺直脊背从玄关走向客厅。"
-                }
-            ]
-        },
-        "15": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#8b8b8b'",
-                    "text": "…只是手部受伤。但听说是从事演奏的职业，也很难说是万幸…世事无常……"
-                }
-            ]
-        },
-        "16": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（她看上去一点都不在乎。）"
-                }
-            ]
-        },
-        "17": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "......"
-                }
-            ]
-        },
-        "18": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（她长高了，也瘦了。）"
-                }
-            ]
-        },
-        "19": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（上次见面是什么时候……）"
-                }
-            ]
-        },
-        "20": {
-            "speaker": "丰川祥子",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "怎么了？"
-                }
-            ]
-        },
-        "21": {
-            "speaker": "丰川祥子",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "啊，这里的乐谱吗……"
-                }
-            ]
-        },
-        "22": {
-            "speaker": "丰川祥子",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "无论有什么问题都可以告诉我。"
-                }
-            ]
-        },
-        "23": {
-            "speaker": "丰川祥子",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "这是写出这首歌的我应尽的责任。"
-                }
-            ]
-        },
-        "24": {
-            "speaker": "八幡海铃",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "别找了，没有来哦。"
-                }
-            ]
-        },
-        "25": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "什么？"
-                }
-            ]
-        },
-        "26": {
-            "speaker": "八幡海铃",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "一直都不参与的，庆功宴。"
-                }
-            ]
-        },
-        "27": {
-            "speaker": "八幡海铃",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "结束别的应酬才会来结账。"
-                }
-            ]
-        },
-        "28": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "......"
-                }
-            ]
-        },
-        "29": {
-            "speaker": "八幡海铃",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "哎呀，是我会错意了吗？"
-                }
-            ]
-        },
-        "30": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "你会错意了。"
-                }
-            ]
-        },
-        "31": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（越不去想的时候反而会遇见吗？）"
-                }
-            ]
-        },
-        "32": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "......"
-                }
-            ]
-        },
-        "33": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "祥子，你要喝什么？"
-                }
-            ]
-        },
-        "34": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "咖啡？还是茶？"
-                }
-            ]
-        },
-        "35": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "丰川祥子的回应从房间深处传过来。"
-                }
-            ]
-        },
-        "36": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "经过厨房前的试衣镜，立希看向镜中的自己。"
-                }
-            ]
-        },
-        "37": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#ffffff'",
-                    "text": "冰冷的倒计时闪烁着。"
-                }
-            ]
-        }
+    "0": {
+        "speaker": "丰川祥子",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希你，一直是这么好心的人吗？"
+            }
+        ],
+        "atts": {}
+    },
+    "1": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "什么？"
+            }
+        ],
+        "atts": {}
+    },
+    "2": {
+        "speaker": "丰川祥子",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "对每个人都是？"
+            }
+        ],
+        "atts": {}
+    },
+    "3": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "祥子站在玄关前，立希换下了鞋，躬下身帮她解开鞋带。"
+            }
+        ],
+        "atts": []
+    },
+    "4": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "丰川小姐，你一直这么会说话吗？"
+            }
+        ],
+        "atts": {}
+    },
+    "5": {
+        "speaker": "丰川祥子",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ],
+        "atts": {}
+    },
+    "6": {
+        "speaker": "丰川祥子",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......谢谢。"
+            }
+        ],
+        "atts": {}
+    },
+    "7": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "家里只有一双姐姐穿过的拖鞋。"
+            }
+        ],
+        "atts": []
+    },
+    "8": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希放到祥子脚边，让她扶着自己的肩膀进来。"
+            }
+        ],
+        "atts": []
+    },
+    "9": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "祥子的手心很烫。"
+            }
+        ],
+        "atts": []
+    },
+    "10": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……祥子，你一直在出虚汗。"
+            }
+        ],
+        "atts": {}
+    },
+    "11": {
+        "speaker": "丰川祥子",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "离死不远了？"
+            }
+        ],
+        "atts": {}
+    },
+    "12": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "喂，别开这种玩笑。"
+            }
+        ],
+        "atts": {}
+    },
+    "13": {
+        "speaker": "丰川祥子",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "今天我们两个人都很奇怪。"
+            }
+        ],
+        "atts": {}
+    },
+    "14": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "祥子挺直脊背从玄关走向客厅。"
+            }
+        ],
+        "atts": []
+    },
+    "15": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#8b8b8b'",
+                "text": "…只是手部受伤。但听说是从事演奏的职业，也很难说是万幸…世事无常……"
+            }
+        ],
+        "atts": []
+    },
+    "16": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（她看上去一点都不在乎。）"
+            }
+        ],
+        "atts": {}
+    },
+    "17": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ],
+        "atts": {}
+    },
+    "18": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（她长高了，也瘦了。）"
+            }
+        ],
+        "atts": {}
+    },
+    "19": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（上次见面是什么时候……）"
+            }
+        ],
+        "atts": {}
+    },
+    "20": {
+        "speaker": "丰川祥子",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "怎么了？"
+            }
+        ],
+        "atts": {}
+    },
+    "21": {
+        "speaker": "丰川祥子",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "啊，这里的乐谱吗……"
+            }
+        ],
+        "atts": {}
+    },
+    "22": {
+        "speaker": "丰川祥子",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "无论有什么问题都可以告诉我。"
+            }
+        ],
+        "atts": {}
+    },
+    "23": {
+        "speaker": "丰川祥子",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "这是写出这首歌的我应尽的责任。"
+            }
+        ],
+        "atts": {}
+    },
+    "24": {
+        "speaker": "八幡海铃",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "别找了，没有来哦。"
+            }
+        ],
+        "atts": []
+    },
+    "25": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "什么？"
+            }
+        ],
+        "atts": {}
+    },
+    "26": {
+        "speaker": "八幡海铃",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "一直都不参与的，庆功宴。"
+            }
+        ],
+        "atts": []
+    },
+    "27": {
+        "speaker": "八幡海铃",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "结束别的应酬才会来结账。"
+            }
+        ],
+        "atts": []
+    },
+    "28": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ],
+        "atts": {}
+    },
+    "29": {
+        "speaker": "八幡海铃",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "哎呀，是我会错意了吗？"
+            }
+        ],
+        "atts": []
+    },
+    "30": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "你会错意了。"
+            }
+        ],
+        "atts": {}
+    },
+    "31": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（越不去想的时候反而会遇见吗？）"
+            }
+        ],
+        "atts": {}
+    },
+    "32": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ],
+        "atts": {}
+    },
+    "33": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "祥子，你要喝什么？"
+            }
+        ],
+        "atts": {}
+    },
+    "34": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "咖啡？还是茶？"
+            }
+        ],
+        "atts": {}
+    },
+    "35": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "丰川祥子的回应从房间深处传过来。"
+            }
+        ],
+        "atts": []
+    },
+    "36": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "经过厨房前的试衣镜，立希看向镜中的自己。"
+            }
+        ],
+        "atts": []
+    },
+    "37": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#ffffff'",
+                "text": "冰冷的倒计时闪烁着。"
+            }
+        ],
+        "atts": []
     }
 }

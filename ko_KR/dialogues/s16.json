@@ -1,578 +1,642 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "번화가. 점점 얕아지던 태양의 마지막 빛이 사라지고, 전기가 들어오는 깜깜한 밤에 귀가하는 사람은 없었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "1": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "낯선 가게들이 그녀를 둘러싸며 따뜻한 음식 냄새, 화려한 불빛등으로 유혹하고자 했지만 그녀가 가고 싶은 곳은 오직 자신의 보금자리 뿐이였다. 그곳에는 그녀가 필요로 하는 모든 것이 있었고, 겁에 질린 늑대가 자신의 둥지를 그리워하는 그 것과 같았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "2": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "제길... 그 검은 고양이는 뭐지?"
             }
-        ]
+        ],
+        "atts": []
     },
     "3": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 길가를 향해 걸음을 재촉하였다. 비가 오지 않아서 정말 다행이였다, 그렇지 않았으면 물에 빠진 생쥐 꼴이 됐겠지..."
             }
-        ]
+        ],
+        "atts": []
     },
     "4": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "혼이 나간 음악 교사의 발걸음이 느려지고, 결국 인도 가장자리에 멈춰 섰다. 고개를 들어보니, 페인트가 벗겨진 가로등의 기둥이 그녀의 앞에 서 있었다. 그녀의 불안이 그녀를 구해준 셈이였다. 시이나 타키는 자신의 얼굴을 세게 때렸다."
             }
-        ]
+        ],
+        "atts": []
     },
     "5": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이런 터무니없는 일에 이정도까지 놀랄 필요가 있나? 점점 더 나약해지네."
             }
-        ]
+        ],
+        "atts": []
     },
     "6": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "6시가 지났다. 전구가 두 번 깜박였고, 마침내 그녀가 낸 세금 덕분에 전기가 흘러 불이 들어왔다. 무엇이 두려운 걸까? 그녀는 현대 사회의 시민이지, 숲 속의 길 잃은 야생 동물이 아니다. 세상은 여전히 그녀가 살아왔던 익숙한 방식대로 돌아가고 있었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "7": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 고개를 숙여 눈을 감았다. 이미 영혼이 현실로 돌아왔으니, 더 이상 전구를 바라볼 필요가 없었다. 계속 앞으로 나아가야 한다."
             }
-        ]
+        ],
+        "atts": []
     },
     "8": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "물론 다른 이유도 있다. 전구가 너무 눈부셔더다."
             }
-        ]
+        ],
+        "atts": []
     },
     "9": {
         "speaker": "？？？",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "여기서 뭐 해?"
             }
-        ]
+        ],
+        "atts": []
     },
     "10": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "어, 소…"
             }
-        ]
+        ],
+        "atts": []
     },
     "11": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "익숙한 목소리, 비록 영업용이지만."
             }
-        ]
+        ],
+        "atts": []
     },
     "12": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그러나 어떤 친숙함도 시간이 지나면 희미해진다. 비사교적인 시이나 타키도 대로에서 누군가의 이름을 잘못 부르고 싶지는 않았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "13": {
         "speaker": "？？？",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "길거리 한복판에서 멍하니 서서 뭐 해?"
             }
-        ]
+        ],
+        "atts": []
     },
     "14": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "…소요."
             }
-        ]
+        ],
+        "atts": []
     },
     "15": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "다행히 이 귀찮은 여자는 어떤 불길한 징조나 상징 등의 미묘한 '감각'에 속하지 않았다. 하이힐, 여성용 셔츠, 값비싼 외투... 이 사람은 분명히 타키가 알고 있던 정상적인 세계에 속한다."
             }
-        ]
+        ],
+        "atts": []
     },
     "16": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "시이나 타키는 갑자기 먼저 말을 하고 싶어졌다."
             }
-        ]
+        ],
+        "atts": []
     },
     "17": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "오늘은 차 안 타?"
             }
-        ]
+        ],
+        "atts": []
     },
     "18": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이름이 소요인 여자는 눈살을 찌푸렸지만, 결국 질문에 대답했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "19": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "차는 저쪽에 있어. 그냥 물건 좀 사러 내려온거야."
             }
-        ]
+        ],
+        "atts": []
     },
     "20": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 고개를 끄덕였다. 그리고는 더 할 말이 없었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "21": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "정말로 할 얘기가 없었던 것은 아니지만, 어쨌든 그냥 우연히 만났을 뿐이었다. 나가사키 소요가 그녀의 밴드 이야기를 길게 들을 시간은 없을 것이였다."
             }
-        ]
+        ],
+        "atts": []
     },
     "22": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "어째서인지 그녀의 얼굴이 약간 서늘하게도 느껴졌다. 대화 주제가 성공적으로 변경되었기를 바라며 나가사키 소요가 그녀를 놓아주기를 바랐다."
             }
-        ]
+        ],
+        "atts": []
     },
     "23": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "너 계속 이자카야에서 저녁 먹는 줄 알았어. 라나가 말하길 널 거기서 4일 연속으로 봤다고 하던데."
             }
-        ]
+        ],
+        "atts": []
     },
     "24": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "라나, 이 길 고양이… 그녀의 감각이 이토록 무디게 되었단 말인가?"
             }
-        ]
+        ],
+        "atts": []
     },
     "25": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 무의식적으로 빈 손을 자신의 얼굴을 향해 가져가 만졌다. 차갑고 건조했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "26": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "걔가 언제... 걔가 네 말에 그렇게 맞장구칠 줄도 알아?"
             }
-        ]
+        ],
+        "atts": []
     },
     "27": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "메시지 여러 번 보내보고, 이리저리 맞춰보니 라나가 무슨 말을 하고 싶은지 알아내는 건 어렵지 않았어. 오랜 시간 알고 지낸 만큼 라나의 성격도 조금은 파악할 수 있잖아. 일 관련이 아니더라도 친구들과 자주 연락해봐."
             }
-        ]
+        ],
+        "atts": []
     },
     "28": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 대답하지 않았다. 친구들과 자주 연락하는 것은 당연한 일인데... 하지만 그녀는 남과 공유할 만한 이야기가 없었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "29": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "치하야 아논처럼 7년째 그룹 채팅방에 쓰레기를 올리는 것도 재능이라면 재능일 것이다. 게다가 소요도 그런 메시지에는 잘 답장하지 않는다."
             }
-        ]
+        ],
+        "atts": []
     },
     "30": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "공기는 다시 고요해졌다. 타키는 소요가 자신의 손에 든 봉투를 바라보는 것을 느꼈고, 이에 대답하듯 팔을 들어올리자 편의점 로고가 그려진 봉투면이 그녀의 힘을 따라 반 바퀴 돌았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "31": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "비."
             }
-        ]
+        ],
+        "atts": []
     },
     "32": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키의 감각은 무뎌지지 않았다. 단지 지금 내리는 비가 길 안쪽을 걷고 있는 나가사키 소요에게 닿지 않았을 뿐이었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "33": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "항상 이동 중에는 누군가가 자연스럽게 처마 밑으로 밀려나기 마련이다. 비록 그녀 자신이 꼭 동의하는 것은 아니지만."
             }
-        ]
+        ],
+        "atts": []
     },
     "34": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "유일한 좋은 소식은, 더 이상 대화 주제를 고민할 필요가 없다는 것이다."
             }
-        ]
+        ],
+        "atts": []
     },
     "35": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "세상의 그 어떤 동물이라도 자신의 털이 비에 흠뻑 젖는 것을 좋아하지 않는다. 비록 그 털이 원래 자신의 것이 아닐지라도, 이것이 그녀들이 인간으로서 가진 특권이다. 그것의 대가로 공기중의 축축한 냄새를 맡지는 못하지만."
             }
-        ]
+        ],
+        "atts": []
     },
     "36": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……소요, 너 아직도 비 싫어해?"
             }
-        ]
+        ],
+        "atts": []
     },
     "37": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "내 차에 우산 있어. 가자."
             }
-        ]
+        ],
+        "atts": []
     },
     "38": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "응."
             }
-        ]
+        ],
+        "atts": []
     },
     "39": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아스팔트 도로는 부츠의 발자취를 감출 수 있지만, 하이힐이 남기는 흔적은 감출 수 없었다. 생각해보면 오늘도 고급차의 뒷자석에서 눈을 감고 편히 쉬고 있었야 했을것이다. 우아함은 유지비용이 많이 들어가니까. 그러나 이렇게 얻은 후천적인 우아함은 물에 쉽게 녹는다."
             }
-        ]
+        ],
+        "atts": []
     },
     "40": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키가 차 옆에 도착했을 때, 차 주인은 아직 그녀의 뒤쪽으로 다섯 걸음 정도 떨어져 있었다. 운전석에 앉아 기다리고 있던 운전기사는 소리를 듣고 고개를 돌렸지만, 어둠 속에서 죽은 것 같은 얼굴을 보고는 깜짝 놀라 흐트러졌던 자세를 고쳐 앉았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "41": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……정말 그렇게 무서운가."
             }
-        ]
+        ],
+        "atts": []
     },
     "42": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "조수석, 글로브박스 안에!"
             }
-        ]
+        ],
+        "atts": []
     },
     "43": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "갑자기 비가 세차게 내리기 시작했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "44": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "고용주의 얼굴이 시야에 들어오자 운전기사의 표정이 조금 나아졌다. 차 문이 열리고 타키는 몸을 숙여 글로브박스를 뒤져 소요의 소지품을 찾기 시작했다. 아직도 겁에 질린 눈빛을 보내는 젊은 운전기사의 눈길을 피하며."
             }
-        ]
+        ],
+        "atts": []
     },
     "45": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "흰색, 회색, 분홍색, 노란색…… 검정색."
             }
-        ]
+        ],
+        "atts": []
     },
     "46": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "누가 차 안에 우산을 이렇게 많이 넣어놓고 다녀? 인공 무지개라도 만들 생각인가?"
             }
-        ]
+        ],
+        "atts": []
     },
     "47": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "거의 무의식적으로, 타키는 제일 끝 부분에 위치한 검은 우산을 꺼냈다. 농담과 함께 감사의 인사를 전할 생각으로 소요를 바라보자, 그녀는 멍한 눈빛을 보았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "48": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "지금 이 순간, 직감은 그녀에게 농담을 꺼내서는 안 된다고 말해주었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "49": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이해할 수 있다. 그녀와 소요는 인정하기 부끄러운 일들이 있었다. 비록 그것들이 나쁜 것이 아닐지라도, 예를 들어 관심과 걱정, 관심과 걱정, 그리고 또 관심과 걱정."
             }
-        ]
+        ],
+        "atts": []
     },
     "50": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "하지만 입을 벌리고 멍하니 있는 것은 정말 어리석어 보였다. 타키는 우산 손잡이를 꽉 잡고, 그것을 반 바퀴 돌려서 허리 쪽에 꽉 붙여 매달았다. 마치 검을 차고 있는 것처럼."
             }
-        ]
+        ],
+        "atts": []
     },
     "51": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "갑자기 농담을 하고 싶다는 생각이 떠오르고, 이 욕구가 사라지는 데는 시간이 걸렸다. 타키는 조용한 공기 속에서 드물게 농담을 하고 싶었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "52": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "비가 꽤 많이 오네... 나도 같이 타도 돼?"
             }
-        ]
+        ],
+        "atts": []
     },
     "53": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": []
     },
     "54": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "미안해, 밤에 약속이 있어서 시간이 안될 거 같아……"
             }
-        ]
+        ],
+        "atts": []
     },
     "55": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "농담에 실패했다. 비록 밤의 폭우 속에서라도 타키는 자신을 집에 데려다 줄 사람을 딱히 원하지 않았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "56": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "선택지는 많다. 택시를 타거나, 전철을 타거나, 심지어 비를 맞고 걸어가는 방법도 있다. 23살의 젊은이에게 장시간의 빗물 샤워 정도는 큰 문제가 되지 않았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "57": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "하지만 진심으로 당황스러운 거절은 언제나 슬프기 마련."
             }
-        ]
+        ],
+        "atts": []
     },
     "58": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "낙담할 때 가장 쉽게 떠오르는 것은 여전히 걱정이다. 왼팔에 걸린 비닐봉지의 무게가 무겁게 늘어나고, 타키는 자신의 부담을 덜기로 했다. 분명, 오늘 밤에 누군가는 배부르게 먹지 못할 것이였다."
             }
-        ]
+        ],
+        "atts": []
     },
     "59": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "여기 사탕, 담배 아니야. 배고프면 이걸로 참아."
             }
-        ]
+        ],
+        "atts": []
     },
     "60": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……고마워."
             }
-        ]
+        ],
+        "atts": []
     },
     "61": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "접이식 우산은 손잡이를 따라 매끄럽게 펼쳐졌고, 우산의 표면은 빛이 일절 통하지 않을 만큼 정교했다. 타키는 이 고급져 보이는 우산의 가격을 추측할 마음이 없었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "62": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "차는 부드럽게 출발했고, 우산을 든 사람이 짧은 만남에 대해 손을 흔들며 작별을 고했다. 밀폐된 공간에서 빌려온 온기는 한 번 불면 사라졌고, 바람은 차가우며, 비에 젖어 있었지만 그녀는 잠시나마 꺼지지 않은 불꽃이었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "63": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "얼른 집에 가."
             }
-        ]
+        ],
+        "atts": []
     }
 }

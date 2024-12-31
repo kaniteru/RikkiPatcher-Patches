@@ -1,713 +1,792 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "갈색 머리의 여자가 아이를 데리고 올라갔다."
             }
-        ]
+        ],
+        "atts": []
     },
     "1": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "어둠이 점점 짙어지면서, 주거 건물의 불빛은 매우 제한적으로 켜졌다. 분명 모든 사람이 지금 퇴근할 수 있는 것은 아니다."
             }
-        ]
+        ],
+        "atts": []
     },
     "2": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（정말 바쁘네.）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "3": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "말은 그렇게 했지만, 성실하게 아래에서 기다리던 운전사는 별로 느끼는 바가 없었다. 대신 신속하게 휴대전화를 꺼냈다."
             }
-        ]
+        ],
+        "atts": []
     },
     "4": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "풍경을 보며 시를 짓거나 계절에 감상에 젖는 것은 그녀의 특기가 아니다. 그녀를 감동시키는 단어를 만드는 것은 일종의 특권이다."
             }
-        ]
+        ],
+        "atts": []
     },
     "5": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "화면이 켜지자, 그녀는 구독 메시지를 힐끗 보고 이어폰을 꽂고 익숙하게 링크를 클릭했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "6": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "잠시 후, 금색 머리카락의 그림자가 아래층에 다시 나타났다."
             }
-        ]
+        ],
+        "atts": []
     },
     "7": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "차 어디다 세웠더라..."
             }
-        ]
+        ],
+        "atts": []
     },
     "8": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "토요타 센추리의 색상은 은은하여 저녁 무렵에 조용히 잠겼다. 그러나 그녀의 시력은 좋지 않았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "9": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "다행히도, 밝은 분홍색은 아이가 없는 공간에서 너무 눈에 띄었다. 나가사키 소요는 눈을 가늘게 뜨고 주위를 둘러보다가 마침내 그 독특한 밝은 색과 24시간 중 20시간은 찡그린 친구를 포착했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "10": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "..."
             }
-        ]
+        ],
+        "atts": []
     },
     "11": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "뭘 보고 있는 거야, 타키?"
             }
-        ]
+        ],
+        "atts": []
     },
     "12": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "!!!"
             }
-        ]
+        ],
+        "atts": {}
     },
     "13": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "하- 어, 아무것도 아니야."
             }
-        ]
+        ],
+        "atts": {}
     },
     "14": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "숨기에는 이미 늦었다. 밝은 분홍색은 아이가 없는 공간에서 너무 눈에 띄었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "15": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "왜 항상 이렇게 등장하는 거야."
             }
-        ]
+        ],
+        "atts": {}
     },
     "16": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "역시 아논 방송을 보고 있었네. 그럼 왜 그렇게 심각한 표정을 짓고 있어? 또 무슨 일을 저질렀어?"
             }
-        ]
+        ],
+        "atts": []
     },
     "17": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（또 무슨 일이라니? 소요가 이 사람의 방송 사고 모음을 본 적이 있나?)"
             }
-        ]
+        ],
+        "atts": {}
     },
     "18": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "마음속으로는 투덜거리면서도, 충실한 친구는 여전히 급격하게 떠오르는 댓글을 긁어모아 드물게 호기심을 보이는 친구에게 보여주었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "19": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "드러머의 동작은 매우 빨랐으며, 빠르게 지나가는 댓글을 보기도 어려웠다. 더구나 관찰자의 시력도 좋지 않았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "20": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그럼에도 불구하고, 일부 사항을 이해하는 데 눈이 전부는 아니다. MyGO!!!!!의 베이시스트는 여전히 꽤 많은 라이브 독촉 댓글을 보았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "21": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "직장인은 자신이 어제 갓 예약한 비행기 티켓을 떠올렸다. 다음 주에 홋카이도로 갈 것이다."
             }
-        ]
+        ],
+        "atts": []
     },
     "22": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이 점에서, 시이나 타키는 그녀들 중 가장 무고한 사람이었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "23": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "..."
             }
-        ]
+        ],
+        "atts": []
     },
     "24": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "기억 속에는 이렇지 않았다. 예전에 치하야 아논의 방송에서 MyGO!!!!!에 대해 언급한 사람이 없는 것은 아니었지만, 한 번의 방송에서 한두 명 있으면 많다고 생각했다. 결국 그녀들의 활동 빈도는 곧 죽은 화산과 같았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "25": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "하지만 이유를 추측하기는 어렵지 않았다. 드러머와 함께 있을 때 베이시스트는 베이시스트의 표정을 유심히 살폈다. 오늘 그녀는 화장을 하지 않았고, 더블 쇼트에서처럼 활기차지 않았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "26": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아마 강제로 활기를 띄었을 것이다. 결국 그녀는 영업에 끌려왔다."
             }
-        ]
+        ],
+        "atts": []
     },
     "27": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "평소에 그녀의 방송을 봐?"
             }
-        ]
+        ],
+        "atts": {}
     },
     "28": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아니."
             }
-        ]
+        ],
+        "atts": []
     },
     "29": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이 사람의 별명, ‘바보 분홍머리’. 아논 방송에서 그녀는 이런 별명을 싫어한다고 말했어. 돈을 줘도 매우 무례해."
             }
-        ]
+        ],
+        "atts": {}
     },
     "30": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "확실히 매우 무례하지... 그러나 아논는 스트리머로서 아마도 직접 말하기 어려울 것이다. 그냥 못 본 척할 것이다."
             }
-        ]
+        ],
+        "atts": []
     },
     "31": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이게 어떻게 가능해?"
             }
-        ]
+        ],
+        "atts": {}
     },
     "32": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "베이시스트는 그녀를 힐끗 보고, 휴대전화를 꺼냈다. 오랜 친구는 그녀의 분노에 이미 익숙해져 있었다 — 거의 싸움과 같은 대화가 그들의 의사소통의 일부였다."
             }
-        ]
+        ],
+        "atts": []
     },
     "33": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그럼 빨간색 SC를 덮어버릴게."
             }
-        ]
+        ],
+        "atts": []
     },
     "34": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 그녀의 손목을 재빨리 잡아, 강압적인 행동을 멈추려 했다. 긴장할 때 말로는 잘 표현하지 못하지만, 적어도 사춘기 때처럼 급히 붙잡는 것은 아니다."
             }
-        ]
+        ],
+        "atts": []
     },
     "35": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "나가사키 소요는 순순히 휴대전화를 내려놓았다, 심지어 화면도 켜지지 않았다."
             }
-        ]
+        ],
+        "atts": {}
     },
     "36": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키, 오늘 수업은 어땠어? 학생들이 많이 장난치지 않아? 아침에 지각하지는 않았어?"
             }
-        ]
+        ],
+        "atts": []
     },
     "37": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "...응?"
             }
-        ]
+        ],
+        "atts": {}
     },
     "38": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "왜 갑자기 이런 얘기를 하는 거야?"
             }
-        ]
+        ],
+        "atts": {}
     },
     "39": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "다 괜찮아."
             }
-        ]
+        ],
+        "atts": {}
     },
     "40": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그래. 타키는 정말 대단해. 어떤 일도 잘 처리하고, 항상 시간을 잘 지켜."
             }
-        ]
+        ],
+        "atts": []
     },
     "41": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "우리 회사에는 지각해서 보너스를 까이는 신입사원이 자주 있어. 항상 누군가가 급여가 부족하다고 불평해."
             }
-        ]
+        ],
+        "atts": []
     },
     "42": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "멀리서 보이는 낯익은 토요타 센츄리, 양복 입은 사람이 아이를 데리고 걸어가고, 그녀에게는 뒷모습만 보였다."
             }
-        ]
+        ],
+        "atts": {}
     },
     "43": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 소요가 앞장서는 모습을 거의 본 적이 없다는 걸 깨달았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "44": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "시이나 선생님, 낯선 사람이 아이를 단독으로 데려가게 하시겠어요?"
             }
-        ]
+        ],
+        "atts": []
     },
     "45": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "오후 내내 수업을 들은 Hina는 뒷자리에서 이미 잠들어 있었고, 어른들의 대화 소리도 낮아졌다."
             }
-        ]
+        ],
+        "atts": []
     },
     "46": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "차 안에는 소요가 직접 넣은 재생 목록이 나오고 있었다. 인정할 수밖에 없는 건, 그녀는 대다수 일에 뛰어난 취향을 지니고 있고, 음악도 그 예외는 아니다."
             }
-        ]
+        ],
+        "atts": []
     },
     "47": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "작은 코골이로 끊긴 대화는 음악처럼 귀에서 흘러나가고, 지난 문장이 무엇인지 아무도 기억하지 못한다. 이는 대화의 내용이 무미건조하다는 것을 의미했다."
             }
-        ]
+        ],
+        "atts": {}
     },
     "48": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "하지만 신뢰하는 사람과 함께하는 시간은 이렇게 흘러간다."
             }
-        ]
+        ],
+        "atts": {}
     },
     "49": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "...정말 서툴러요."
             }
-        ]
+        ],
+        "atts": {}
     },
     "50": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "...그렇죠?"
             }
-        ]
+        ],
+        "atts": []
     },
     "51": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "베이시스트의 말처럼 그녀가 들고 다니지 않는 악기처럼 조용했고, 말은 합주 속에서 잠겨 있었다. 드러머는 분명히 듣지 못했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "52": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "...뭐?"
             }
-        ]
+        ],
+        "atts": {}
     },
     "53": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키, 너의 스카프 매는 솜씨는 정말 서툴러."
             }
-        ]
+        ],
+        "atts": []
     },
     "54": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키, 또 감기 걸릴 것 같아, 그렇지?"
             }
-        ]
+        ],
+        "atts": []
     },
     "55": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "갈색 머리의 여자가 아이를 데리고 올라갔다."
             }
-        ]
+        ],
+        "atts": []
     },
     "56": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "어둠이 점점 짙어지면서, 주거 건물의 불빛은 매우 제한적으로 켜졌다. 분명 모든 사람이 지금 퇴근할 수 있는 것은 아니다."
             }
-        ]
+        ],
+        "atts": []
     },
     "57": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（정말 바쁘네.）"
             }
-        ]
+        ],
+        "atts": []
     },
     "58": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "말은 그렇게 했지만, 성실하게 아래에서 기다리던 운전사는 별로 느끼는 바가 없었다. 대신 신속하게 휴대전화를 꺼냈다."
             }
-        ]
+        ],
+        "atts": []
     },
     "59": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "풍경을 보며 시를 짓거나 계절에 감상에 젖는 것은 그녀의 특기가 아니다. 그녀를 감동시키는 단어를 만드는 것은 일종의 특권이다."
             }
-        ]
+        ],
+        "atts": []
     },
     "60": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "화면이 켜지자, 그녀는 구독 메시지를 힐끗 보고 이어폰을 꽂고 익숙하게 링크를 클릭했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "61": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "잠시 후, 금색 머리카락의 그림자가 아래층에 다시 나타났다."
             }
-        ]
+        ],
+        "atts": []
     },
     "62": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "차 어디다 세웠더라..."
             }
-        ]
+        ],
+        "atts": []
     },
     "63": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "토요타 센추리의 색상은 은은하여 저녁 무렵에 조용히 잠겼다. 그러나 그녀의 시력은 좋지 않았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "64": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "다행히도, 밝은 분홍색은 아이가 없는 공간에서 너무 눈에 띄었다. 나가사키 소요는 눈을 가늘게 뜨고 주위를 둘러보다가 마침내 그 독특한 밝은 색과 24시간 중 20시간은 찡그린 친구를 포착했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "65": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "..."
             }
-        ]
+        ],
+        "atts": {}
     },
     "66": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "뭘 보고 있는 거야, 타키?"
             }
-        ]
+        ],
+        "atts": []
     },
     "67": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "!!!"
             }
-        ]
+        ],
+        "atts": []
     },
     "68": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "하- 어, 아무것도 아니야."
             }
-        ]
+        ],
+        "atts": {}
     },
     "69": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "숨기에는 이미 늦었다. 밝은 분홍색은 아이가 없는 공간에서 너무 눈에 띄었다."
             }
-        ]
+        ],
+        "atts": {}
     },
     "70": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "왜 항상 이렇게 등장하는 거야."
             }
-        ]
+        ],
+        "atts": []
     },
     "71": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "역시 아논 방송을 보고 있었네. 그럼 왜 그렇게 심각한 표정을 짓고 있어? 또 무슨 일을 저질렀어?"
             }
-        ]
+        ],
+        "atts": {}
     },
     "72": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（또 무슨 일이라니? 소요가 아논의 방송 사고 모음을 본 적이 있나?)"
             }
-        ]
+        ],
+        "atts": []
     },
     "73": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "마음속으로는 투덜거리면서도, 충실한 친구는 여전히 급격하게 떠오르는 댓글을 긁어모아 드물게 호기심을 보이는 친구에게 보여주었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "74": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "드러머의 동작은 매우 빨랐으며, 빠르게 지나가는 댓글을 보기도 어려웠다. 더구나 관찰자의 시력도 좋지 않았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "75": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그럼에도 불구하고, 일부 사항을 이해하는 데 눈이 전부는 아니다. MyGO!!!!!의 베이시스트는 여전히 꽤 많은 라이브 독촉 댓글을 보았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "76": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "직장인은 자신이 어제 갓 예약한 비행기 티켓을 떠올렸다. 다음 주에 홋카이도로 갈 것이다."
             }
-        ]
+        ],
+        "atts": {}
     },
     "77": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이 점에서, 시이나 타키는 그녀들 중 가장 무고한 사람이었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "78": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "..."
             }
-        ]
+        ],
+        "atts": []
     }
 }

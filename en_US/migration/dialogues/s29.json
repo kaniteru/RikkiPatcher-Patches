@@ -1,12 +1,57 @@
 {
-    "hash": "684ab0d44a4d8cd62eb15b9ac8d807e79a1ce456e42099d96c3e95bc6f8ba45075b5b4fabe01c07063424dade610f7c209532db646ab9f8f995661c5fdf8c7ef",
-    "list": {
-        "0": {
-            "speaker": "",
-            "dialogue": [
+    "0": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "解锁CG：Stream of Love"
+            }
+        ],
+        "atts": {
+            "dialog": [
                 {
-                    "html": "style='color:#FfFffF'",
-                    "text": "解锁CG：Stream of Love"
+                    "alpha": 0,
+                    "fontSize": 30,
+                    "height": 34,
+                    "shadowEnabled": false,
+                    "strokeColor": "#d57fdf",
+                    "width": 413,
+                    "x": 1284,
+                    "y": 1102
+                },
+                {
+                    "alpha": {},
+                    "fontSize": {},
+                    "height": {},
+                    "shadowEnabled": {},
+                    "strokeColor": {},
+                    "width": {},
+                    "x": {},
+                    "y": {}
+                }
+            ],
+            "nameBox": [
+                {
+                    "height": 156,
+                    "x": -240,
+                    "y": 586
+                },
+                {
+                    "height": {},
+                    "x": {},
+                    "y": {}
+                }
+            ],
+            "skipBox": [
+                {
+                    "alpha": 0,
+                    "x": 1546,
+                    "y": 1074
+                },
+                {
+                    "alpha": {},
+                    "x": {},
+                    "y": {}
                 }
             ]
         }

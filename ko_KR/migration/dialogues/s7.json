@@ -1,176 +1,192 @@
 {
-    "hash": "3cc18bcabc33c586f59c437c976b40ed7b7688bcd917834318d65a90f37682a3204a8415bf4e10a650bb22c20132606011b3214b69335dae4a3150bd60e71c84",
-    "list": {
-        "0": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "像是一个长达一生的、漫长的梦。"
-                }
-            ]
-        },
-        "1": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "自己的人生被以一种超脱于客观视角之外的视角，从熟知的过去，到还未知的未来，循环往复地流动。"
-                }
-            ]
-        },
-        "2": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "但立希记不住其中的任何事情，所有事情都很熟悉，却又极其陌生。"
-                }
-            ]
-        },
-        "3": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "唔……嗯……"
-                }
-            ]
-        },
-        "4": {
-            "speaker": "？？？",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "………………"
-                }
-            ]
-        },
-        "5": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "浑身充斥着儿时高烧般的疼痛，记忆的激流在眼前涌过，汇入一片无水的死海。"
-                }
-            ]
-        },
-        "6": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "远处的地平线上，一艘轮船吐着飘渺的烟。"
-                }
-            ]
-        },
-        "7": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "而她在风浪里独自漂泊。"
-                }
-            ]
-        },
-        "8": {
-            "speaker": "？？？",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "……时间…………"
-                }
-            ]
-        },
-        "9": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "漂啊漂，像是一点点在向地平线靠近。忽然有什么东西在眼角闪过——"
-                }
-            ]
-        },
-        "10": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "是小时候曾想抓住的某个转瞬即逝的场景。"
-                }
-            ]
-        },
-        "11": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "她急忙回过头，但它已经消失了。取而代之的，是一只黑色的猫。"
-                }
-            ]
-        },
-        "12": {
-            "speaker": "？？？",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "……时间…………"
-                }
-            ]
-        },
-        "13": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "它的嘴唇在动，却听不见声音。"
-                }
-            ]
-        },
-        "14": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "立希终于知道它在说什么了。"
-                }
-            ]
-        },
-        "15": {
-            "speaker": "？？？",
-            "dialogue": [
-                {
-                    "html": "style='color:#ff0000'",
-                    "text": "——时间，已经不多了。"
-                }
-            ]
-        },
-        "16": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "疼痛已然消失，而它正在逝去。"
-                }
-            ]
-        },
-        "17": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "……………………………………"
-                }
-            ]
-        },
-        "18": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "……"
-                }
-            ]
-        }
+    "0": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "像是一个长达一生的、漫长的梦。"
+            }
+        ],
+        "atts": []
+    },
+    "1": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "自己的人生被以一种超脱于客观视角之外的视角，从熟知的过去，到还未知的未来，循环往复地流动。"
+            }
+        ],
+        "atts": []
+    },
+    "2": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "但立希记不住其中的任何事情，所有事情都很熟悉，却又极其陌生。"
+            }
+        ],
+        "atts": []
+    },
+    "3": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "唔……嗯……"
+            }
+        ],
+        "atts": []
+    },
+    "4": {
+        "speaker": "？？？",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "………………"
+            }
+        ],
+        "atts": []
+    },
+    "5": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "浑身充斥着儿时高烧般的疼痛，记忆的激流在眼前涌过，汇入一片无水的死海。"
+            }
+        ],
+        "atts": []
+    },
+    "6": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "远处的地平线上，一艘轮船吐着飘渺的烟。"
+            }
+        ],
+        "atts": []
+    },
+    "7": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "而她在风浪里独自漂泊。"
+            }
+        ],
+        "atts": []
+    },
+    "8": {
+        "speaker": "？？？",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……时间…………"
+            }
+        ],
+        "atts": []
+    },
+    "9": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "漂啊漂，像是一点点在向地平线靠近。忽然有什么东西在眼角闪过——"
+            }
+        ],
+        "atts": []
+    },
+    "10": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "是小时候曾想抓住的某个转瞬即逝的场景。"
+            }
+        ],
+        "atts": []
+    },
+    "11": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "她急忙回过头，但它已经消失了。取而代之的，是一只黑色的猫。"
+            }
+        ],
+        "atts": []
+    },
+    "12": {
+        "speaker": "？？？",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……时间…………"
+            }
+        ],
+        "atts": []
+    },
+    "13": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "它的嘴唇在动，却听不见声音。"
+            }
+        ],
+        "atts": []
+    },
+    "14": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希终于知道它在说什么了。"
+            }
+        ],
+        "atts": []
+    },
+    "15": {
+        "speaker": "？？？",
+        "spans": [
+            {
+                "html": "style='color:#ff0000'",
+                "text": "——时间，已经不多了。"
+            }
+        ],
+        "atts": []
+    },
+    "16": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "疼痛已然消失，而它正在逝去。"
+            }
+        ],
+        "atts": []
+    },
+    "17": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……………………………………"
+            }
+        ],
+        "atts": []
+    },
+    "18": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……"
+            }
+        ],
+        "atts": []
     }
 }

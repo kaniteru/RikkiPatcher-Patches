@@ -1,598 +1,660 @@
 {
-    "hash": "accf74ae19ccbc918ea3b3c0607a55e330f5ddf0dfcf4ada6e1683b2f17bda15a0eaf826fb19e52effd7f3359de5d223a9e2608949d1639cedbb102dc37b7863",
-    "list": {
-        "0": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "月亮逐渐从云后探出。"
-                }
-            ]
-        },
-        "1": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "乌黑的云层压近地面，周围泛起一股泥土的腥臭。"
-                }
-            ]
-        },
-        "2": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "立希不由得加快了脚步。"
-                }
-            ]
-        },
-        "3": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "长长的商业街终于快要走到尽头，可雨还是毫不留情地降了下来。"
-                }
-            ]
-        },
-        "4": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "雨势来得很猛，迅速在地面上泛起涟漪。"
-                }
-            ]
-        },
-        "5": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "即便出了商业街，离家仍是有一段距离，要一口气冒雨冲回去也不太现实。"
-                }
-            ]
-        },
-        "6": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "无奈之下，立希只得赶紧拐进沿边的一家茶餐厅——"
-                }
-            ]
-        },
-        "7": {
-            "speaker": "椎名立希 & 路人",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "哎呦——"
-                }
-            ]
-        },
-        "8": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "立希和餐厅里冲出来的人撞了个满怀，双双跌坐在地。"
-                }
-            ]
-        },
-        "9": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "啧，那么大个自动门，出门不带眼睛的吗？"
-                }
-            ]
-        },
-        "10": {
-            "speaker": "路人",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "明明是你一股脑往里冲的吧？！啊啊人家宝贵的挺翘的鼻子……疼死了！"
-                }
-            ]
-        },
-        "11": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（这烦人的声音……怎么这么耳熟。）"
-                }
-            ]
-        },
-        "12": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "雨声太吵，立希也不敢确定。"
-                }
-            ]
-        },
-        "13": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "那人一边小声抱怨着，一边蹲起身低头捡拾从挎包内散落的东西。"
-                }
-            ]
-        },
-        "14": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "毕竟自己也有部分责任，立希也扶着腰蹲起身，帮对方一起收拾起掉落的物件。"
-                }
-            ]
-        },
-        "15": {
-            "speaker": "路人",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "钥匙，口红，自拍杆，会员卡……假睫毛也掉了一个——哎呀——！"
-                }
-            ]
-        },
-        "16": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "大概是被脸上的墨镜遮盖了光线，对方没注意到身后的立着的广告牌，半蹲着的身体挪动间，屈起的后腰便结结实实撞向了那里，叫不久前才拍着屁股爬起来的人，再一次重重摔倒在地。"
-                }
-            ]
-        },
-        "17": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "喂，你没事吧？"
-                }
-            ]
-        },
-        "18": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "立希赶紧踱过去，朝她伸出手。"
-                }
-            ]
-        },
-        "19": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "她这才第一次正视对方。"
-                }
-            ]
-        },
-        "20": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "然后她发现——"
-                }
-            ]
-        },
-        "21": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "——帽檐之下，有一头亮得恼人的粉色长发。"
-                }
-            ]
-        },
-        "22": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "哈？！"
-                }
-            ]
-        },
-        "23": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "千早爱音？！？"
-                }
-            ]
-        },
-        "24": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "手中力道骤然加深，她一把将对方拉起身。"
-                }
-            ]
-        },
-        "25": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "站起来后更加确信了。"
-                }
-            ]
-        },
-        "26": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "对方盯着忽然出现在面前的，熟悉的臭脸，只剩半边的浓密睫毛在墨镜后迟疑地扇了两下，然后——"
-                }
-            ]
-        },
-        "27": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "————啊啊啊啊啊啊啊啊啊啊！！"
-                }
-            ]
-        },
-        "28": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "爱音像只被踩了尾巴的狗，猛地朝后躲。"
-                }
-            ]
-        },
-        "29": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "吵死了！喂、小心啊！！"
-                }
-            ]
-        },
-        "30": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "立希眼疾手快地托住对方的腰侧，避免第三次跌倒。"
-                }
-            ]
-        },
-        "31": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "你好好看清楚我是谁啊。"
-                }
-            ]
-        },
-        "32": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "啊啊啊啊——！！！！！！！"
-                }
-            ]
-        },
-        "33": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "是Rikki啊啊啊啊————！！！"
-                }
-            ]
-        },
-        "34": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "好吵！！！！"
-                }
-            ]
-        },
-        "35": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "餐厅屋檐下躲雨的路人纷纷投来困惑的目光。"
-                }
-            ]
-        },
-        "36": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "尴尬到手足无措，立希一边小声向周围的人道歉，一边把爱音拽进了店内。"
-                }
-            ]
-        },
-        "37": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "哎哟哟，Rikki你轻点。"
-                }
-            ]
-        },
-        "38": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "衣服都被你扯皱了。"
-                }
-            ]
-        },
-        "39": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "都说了小声一点。"
-                }
-            ]
-        },
-        "40": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "你忽然间干嘛啊！"
-                }
-            ]
-        },
-        "41": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "大晚上在毫无心理准备的前提下忽然撞见Rikki——这恐怖程度简直不亚于都内十大灵异事件…不、在学校以外的地方偶遇班主任都没有这么吓人啊啊啊啊——"
-                }
-            ]
-        },
-        "42": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "想找茬直说。"
-                }
-            ]
-        },
-        "43": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "哈……所以说你大晚上来这边干嘛？不马上就要到你直——"
-                }
-            ]
-        },
-        "44": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "呃，挺晚的了。"
-                }
-            ]
-        },
-        "45": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "这家茶餐厅是最近新开的连锁，以前在伦敦有吃过，就来做个直播探店追忆一下英伦往事啦~~"
-                }
-            ]
-        },
-        "46": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "那不就是在题材上炒冷饭吗。"
-                }
-            ]
-        },
-        "47": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "是呢……等等！直播！现在几点了Rikki？？我的手机刚刚好像摔关机了——"
-                }
-            ]
-        },
-        "48": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "立希重新按亮手机屏幕，将屏保上的数字展示在千早爱音的面前。"
-                }
-            ]
-        },
-        "49": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "啊————！！！！！"
-                }
-            ]
-        },
-        "50": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "立希下意识捂住了自己的耳朵。"
-                }
-            ]
-        },
-        "51": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "没时间了Rikki！！下次再聊吧！"
-                }
-            ]
-        },
-        "52": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "现在一路不停地跑回去的话——好，应该还有——"
-                }
-            ]
-        },
-        "53": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "根本不待立希再多说什么，像风一样出现的粉毛，也像风一样消失在雨后的街道里，带走了刚才所有的吵闹与喧嚣，只于晚风中留下已经飘远的寥寥数语。"
-                }
-            ]
-        },
-        "54": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "下次练习的时候见了——Rikki————"
-                }
-            ]
-        },
-        "55": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "立希转过身，顺着爱音消失的方向站定，凝视着重新恢复成一团模糊色彩的夜景。"
-                }
-            ]
-        },
-        "56": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（下次……又是什么时候呢）"
-                }
-            ]
-        },
-        "57": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "雨快停了，立希却感到冷得厉害。"
-                }
-            ]
-        },
-        "58": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "意识游离，立希在纷乱中触摸不到边界，正当她于朦胧中沉沦，熄灭许久的手机屏幕忽然亮起，特殊的闹铃声伴着震动，将主人从昏暗里短暂地唤醒。"
-                }
-            ]
-        },
-        "59": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "立希举起手机，屏幕上弹出的是来自视频网站的通知页面。"
-                }
-            ]
-        },
-        "60": {
-            "speaker": "观看提示",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "「您预约的来自"
-                },
-                {
-                    "html": "style='color:#ff8899'",
-                    "text": "Anon Tokyo"
-                },
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "的直播即将在三十分钟后开始，请提前做好观看准备。」"
-                }
-            ]
-        },
-        "61": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "立希回头望了一眼餐厅。"
-                }
-            ]
-        },
-        "62": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "先前还人满为患的餐厅，已留有些空荡的座位。"
-                }
-            ]
-        },
-        "63": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "人们逐渐离开临时的庇护所，回家了。"
-                }
-            ]
-        },
-        "64": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "回家吧。"
-                }
-            ]
-        }
+    "0": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "月亮逐渐从云后探出。"
+            }
+        ],
+        "atts": []
+    },
+    "1": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "乌黑的云层压近地面，周围泛起一股泥土的腥臭。"
+            }
+        ],
+        "atts": []
+    },
+    "2": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希不由得加快了脚步。"
+            }
+        ],
+        "atts": []
+    },
+    "3": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "长长的商业街终于快要走到尽头，可雨还是毫不留情地降了下来。"
+            }
+        ],
+        "atts": []
+    },
+    "4": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "雨势来得很猛，迅速在地面上泛起涟漪。"
+            }
+        ],
+        "atts": []
+    },
+    "5": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "即便出了商业街，离家仍是有一段距离，要一口气冒雨冲回去也不太现实。"
+            }
+        ],
+        "atts": []
+    },
+    "6": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "无奈之下，立希只得赶紧拐进沿边的一家茶餐厅——"
+            }
+        ],
+        "atts": []
+    },
+    "7": {
+        "speaker": "椎名立希 & 路人",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "哎呦——"
+            }
+        ],
+        "atts": []
+    },
+    "8": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希和餐厅里冲出来的人撞了个满怀，双双跌坐在地。"
+            }
+        ],
+        "atts": []
+    },
+    "9": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "啧，那么大个自动门，出门不带眼睛的吗？"
+            }
+        ],
+        "atts": []
+    },
+    "10": {
+        "speaker": "路人",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "明明是你一股脑往里冲的吧？！啊啊人家宝贵的挺翘的鼻子……疼死了！"
+            }
+        ],
+        "atts": []
+    },
+    "11": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（这烦人的声音……怎么这么耳熟。）"
+            }
+        ],
+        "atts": []
+    },
+    "12": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "雨声太吵，立希也不敢确定。"
+            }
+        ],
+        "atts": []
+    },
+    "13": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "那人一边小声抱怨着，一边蹲起身低头捡拾从挎包内散落的东西。"
+            }
+        ],
+        "atts": []
+    },
+    "14": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "毕竟自己也有部分责任，立希也扶着腰蹲起身，帮对方一起收拾起掉落的物件。"
+            }
+        ],
+        "atts": []
+    },
+    "15": {
+        "speaker": "路人",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "钥匙，口红，自拍杆，会员卡……假睫毛也掉了一个——哎呀——！"
+            }
+        ],
+        "atts": []
+    },
+    "16": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "大概是被脸上的墨镜遮盖了光线，对方没注意到身后的立着的广告牌，半蹲着的身体挪动间，屈起的后腰便结结实实撞向了那里，叫不久前才拍着屁股爬起来的人，再一次重重摔倒在地。"
+            }
+        ],
+        "atts": []
+    },
+    "17": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "喂，你没事吧？"
+            }
+        ],
+        "atts": []
+    },
+    "18": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希赶紧踱过去，朝她伸出手。"
+            }
+        ],
+        "atts": []
+    },
+    "19": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "她这才第一次正视对方。"
+            }
+        ],
+        "atts": []
+    },
+    "20": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "然后她发现——"
+            }
+        ],
+        "atts": []
+    },
+    "21": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "——帽檐之下，有一头亮得恼人的粉色长发。"
+            }
+        ],
+        "atts": []
+    },
+    "22": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "哈？！"
+            }
+        ],
+        "atts": []
+    },
+    "23": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "千早爱音？！？"
+            }
+        ],
+        "atts": []
+    },
+    "24": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "手中力道骤然加深，她一把将对方拉起身。"
+            }
+        ],
+        "atts": []
+    },
+    "25": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "站起来后更加确信了。"
+            }
+        ],
+        "atts": []
+    },
+    "26": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "对方盯着忽然出现在面前的，熟悉的臭脸，只剩半边的浓密睫毛在墨镜后迟疑地扇了两下，然后——"
+            }
+        ],
+        "atts": []
+    },
+    "27": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "————啊啊啊啊啊啊啊啊啊啊！！"
+            }
+        ],
+        "atts": []
+    },
+    "28": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "爱音像只被踩了尾巴的狗，猛地朝后躲。"
+            }
+        ],
+        "atts": []
+    },
+    "29": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "吵死了！喂、小心啊！！"
+            }
+        ],
+        "atts": []
+    },
+    "30": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希眼疾手快地托住对方的腰侧，避免第三次跌倒。"
+            }
+        ],
+        "atts": []
+    },
+    "31": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "你好好看清楚我是谁啊。"
+            }
+        ],
+        "atts": []
+    },
+    "32": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "啊啊啊啊——！！！！！！！"
+            }
+        ],
+        "atts": []
+    },
+    "33": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "是Rikki啊啊啊啊————！！！"
+            }
+        ],
+        "atts": []
+    },
+    "34": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "好吵！！！！"
+            }
+        ],
+        "atts": []
+    },
+    "35": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "餐厅屋檐下躲雨的路人纷纷投来困惑的目光。"
+            }
+        ],
+        "atts": []
+    },
+    "36": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "尴尬到手足无措，立希一边小声向周围的人道歉，一边把爱音拽进了店内。"
+            }
+        ],
+        "atts": []
+    },
+    "37": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "哎哟哟，Rikki你轻点。"
+            }
+        ],
+        "atts": []
+    },
+    "38": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "衣服都被你扯皱了。"
+            }
+        ],
+        "atts": []
+    },
+    "39": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "都说了小声一点。"
+            }
+        ],
+        "atts": []
+    },
+    "40": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "你忽然间干嘛啊！"
+            }
+        ],
+        "atts": []
+    },
+    "41": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "大晚上在毫无心理准备的前提下忽然撞见Rikki——这恐怖程度简直不亚于都内十大灵异事件…不、在学校以外的地方偶遇班主任都没有这么吓人啊啊啊啊——"
+            }
+        ],
+        "atts": []
+    },
+    "42": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "想找茬直说。"
+            }
+        ],
+        "atts": []
+    },
+    "43": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "哈……所以说你大晚上来这边干嘛？不马上就要到你直——"
+            }
+        ],
+        "atts": []
+    },
+    "44": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "呃，挺晚的了。"
+            }
+        ],
+        "atts": []
+    },
+    "45": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "这家茶餐厅是最近新开的连锁，以前在伦敦有吃过，就来做个直播探店追忆一下英伦往事啦~~"
+            }
+        ],
+        "atts": []
+    },
+    "46": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "那不就是在题材上炒冷饭吗。"
+            }
+        ],
+        "atts": []
+    },
+    "47": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "是呢……等等！直播！现在几点了Rikki？？我的手机刚刚好像摔关机了——"
+            }
+        ],
+        "atts": []
+    },
+    "48": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希重新按亮手机屏幕，将屏保上的数字展示在千早爱音的面前。"
+            }
+        ],
+        "atts": []
+    },
+    "49": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "啊————！！！！！"
+            }
+        ],
+        "atts": []
+    },
+    "50": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希下意识捂住了自己的耳朵。"
+            }
+        ],
+        "atts": []
+    },
+    "51": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "没时间了Rikki！！下次再聊吧！"
+            }
+        ],
+        "atts": []
+    },
+    "52": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "现在一路不停地跑回去的话——好，应该还有——"
+            }
+        ],
+        "atts": []
+    },
+    "53": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "根本不待立希再多说什么，像风一样出现的粉毛，也像风一样消失在雨后的街道里，带走了刚才所有的吵闹与喧嚣，只于晚风中留下已经飘远的寥寥数语。"
+            }
+        ],
+        "atts": []
+    },
+    "54": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "下次练习的时候见了——Rikki————"
+            }
+        ],
+        "atts": []
+    },
+    "55": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希转过身，顺着爱音消失的方向站定，凝视着重新恢复成一团模糊色彩的夜景。"
+            }
+        ],
+        "atts": []
+    },
+    "56": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（下次……又是什么时候呢）"
+            }
+        ],
+        "atts": []
+    },
+    "57": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "雨快停了，立希却感到冷得厉害。"
+            }
+        ],
+        "atts": []
+    },
+    "58": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "意识游离，立希在纷乱中触摸不到边界，正当她于朦胧中沉沦，熄灭许久的手机屏幕忽然亮起，特殊的闹铃声伴着震动，将主人从昏暗里短暂地唤醒。"
+            }
+        ],
+        "atts": []
+    },
+    "59": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希举起手机，屏幕上弹出的是来自视频网站的通知页面。"
+            }
+        ],
+        "atts": []
+    },
+    "60": {
+        "speaker": "观看提示",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "「您预约的来自"
+            },
+            {
+                "html": "style='color:#ff8899'",
+                "text": "Anon Tokyo"
+            },
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "的直播即将在三十分钟后开始，请提前做好观看准备。」"
+            }
+        ],
+        "atts": []
+    },
+    "61": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希回头望了一眼餐厅。"
+            }
+        ],
+        "atts": []
+    },
+    "62": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "先前还人满为患的餐厅，已留有些空荡的座位。"
+            }
+        ],
+        "atts": []
+    },
+    "63": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "人们逐渐离开临时的庇护所，回家了。"
+            }
+        ],
+        "atts": []
+    },
+    "64": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "回家吧。"
+            }
+        ],
+        "atts": []
     }
 }

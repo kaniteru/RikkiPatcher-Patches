@@ -1,83 +1,92 @@
 {
     "0": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "언니 가려고?"
             }
-        ]
+        ],
+        "atts": {}
     },
     "1": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "응."
             }
-        ]
+        ],
+        "atts": []
     },
     "2": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "일 열심히 하고, 건강 잘 챙겨."
             }
-        ]
+        ],
+        "atts": []
     },
     "3": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "알았어."
             }
-        ]
+        ],
+        "atts": {}
     },
     "4": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "오랜만에 만난 후의 마지막 만남, 그리고 짧은 만남의 시간에 타키의 마음은 찢어질 듯했다. 심장은 여전히 일정하게 뛰고 있었지만, 가슴의 답답함만이 감정을 전달하고 있었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "5": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "생애 대부분을 쫓아온 이 여성을 마주하면서, 그녀는 아마도 영원히 성숙해지지 않을 것이다."
             }
-        ]
+        ],
+        "atts": []
     },
     "6": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "선물 잊지 말고 풀어."
             }
-        ]
+        ],
+        "atts": []
     },
     "7": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "잘 가, 타키."
             }
-        ]
+        ],
+        "atts": []
     },
     "8": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……잘 가."
             }
-        ]
+        ],
+        "atts": {}
     }
 }

@@ -1,304 +1,406 @@
 {
     "0": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "我……"
             }
-        ]
+        ],
+        "atts": []
     },
     "1": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "我死了吗？"
             }
-        ]
+        ],
+        "atts": []
     },
     "2": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": []
     },
     "3": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "这是……谁的呼吸。"
             }
-        ]
+        ],
+        "atts": []
     },
     "4": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "吸气，吐气。吸气，吐气。"
             }
-        ]
+        ],
+        "atts": []
     },
     "5": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "现如今一切仍然混乱。却已经隐约找得到自己的节奏。"
             }
-        ]
+        ],
+        "atts": []
     },
     "6": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "哪怕四面八方都没有出口……记得坚持呼吸，否则便会在黑暗中溺毙。"
             }
-        ]
+        ],
+        "atts": []
     },
     "7": {
         "speaker": "......",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "小立希！"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "alpha": 0.12,
+                    "fontSize": 20
+                },
+                {
+                    "alpha": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "8": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......谁？"
             }
-        ]
+        ],
+        "atts": []
     },
     "9": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……有谁…有人在喊吗？"
             }
-        ]
+        ],
+        "atts": []
     },
     "10": {
         "speaker": "......",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "小立希！"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "alpha": 0.2,
+                    "fontSize": 24
+                },
+                {
+                    "alpha": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "11": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "我听不清……"
             }
-        ]
+        ],
+        "atts": []
     },
     "12": {
         "speaker": "高松灯",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "小立希！"
             }
-        ]
+        ],
+        "atts": []
     },
     "13": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "啊……我……"
             }
-        ]
+        ],
+        "atts": []
     },
     "14": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "我在……"
             }
-        ]
+        ],
+        "atts": []
     },
     "15": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "解锁CG：面影桥花见"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "alpha": 0,
+                    "fontSize": 30,
+                    "height": 34,
+                    "shadowEnabled": false,
+                    "strokeColor": "#d57fdf",
+                    "width": 413,
+                    "x": 1284,
+                    "y": 1102
+                },
+                {
+                    "alpha": {},
+                    "fontSize": {},
+                    "height": {},
+                    "shadowEnabled": {},
+                    "strokeColor": {},
+                    "width": {},
+                    "x": {},
+                    "y": {}
+                }
+            ],
+            "nameBox": [
+                {
+                    "height": 156,
+                    "x": -240,
+                    "y": 586
+                },
+                {
+                    "height": {},
+                    "x": {},
+                    "y": {}
+                }
+            ],
+            "skipBox": [
+                {
+                    "alpha": 0,
+                    "x": 1546,
+                    "y": 1074
+                },
+                {
+                    "alpha": {},
+                    "x": {},
+                    "y": {}
+                }
+            ]
+        }
     },
     "16": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "站立的膝盖僵硬微微发抖。"
             }
-        ]
+        ],
+        "atts": []
     },
     "17": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "出声呼唤自己的人就站在身边喘气，她是跑过来的吗？"
             }
-        ]
+        ],
+        "atts": []
     },
     "18": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "眼前闪过一抹白，被紧紧抱住了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "19": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "难得着急的乐奈埋在胸口，温暖却也硌得胸口发疼。"
             }
-        ]
+        ],
+        "atts": []
     },
     "20": {
         "speaker": "高松灯",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希！立希！哈、哈……你…你还好吗？"
             }
-        ]
+        ],
+        "atts": []
     },
     "21": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "灯……"
             }
-        ]
+        ],
+        "atts": []
     },
     "22": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "乐、乐奈你松开点，好疼……"
             }
-        ]
+        ],
+        "atts": []
     },
     "23": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "呼、你在发什么呆？"
             }
-        ]
+        ],
+        "atts": []
     },
     "24": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Rikki！！你怎么了？！我们老远就看到你站在河边一动不动的，还以为你要、你要……讨厌下次别这样了吓得我小心脏都要跳出来了！"
             }
-        ]
+        ],
+        "atts": []
     },
     "25": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "我……"
             }
-        ]
+        ],
+        "atts": []
     },
     "26": {
         "speaker": "八幡海铃",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "我作证。"
             }
-        ]
+        ],
+        "atts": []
     },
     "27": {
         "speaker": "八幡海铃",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "还有那边那一位。"
             }
-        ]
+        ],
+        "atts": []
     },
     "28": {
         "speaker": "丰川祥子",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": []
     },
     "29": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……是梦吗？"
             }
-        ]
+        ],
+        "atts": []
     },
     "30": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "阳光随樱花洒落，想见的人都在身边。"
             }
-        ]
+        ],
+        "atts": []
     },
     "31": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希吸了吸鼻子，藏在喉咙的话语再次哽住。"
             }
-        ]
+        ],
+        "atts": []
     },
     "32": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……你们怎么会在这里？"
             }
-        ]
+        ],
+        "atts": []
     },
     "33": {
         "speaker": "长崎素世&八幡海铃",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "上班。\n"
@@ -307,20 +409,22 @@
                 "html": "style='color:#FfFffF'",
                 "text": "下班。"
             }
-        ]
+        ],
+        "atts": []
     },
     "34": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "天气这么好，又差不多是赏樱的时候，还以为大家都没空我就自己来了，没想到这么巧！！早知道就提前约一下了！"
             }
-        ]
+        ],
+        "atts": []
     },
     "35": {
         "speaker": "要乐奈&高松灯",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "想来就来了。\n"
@@ -329,69 +433,124 @@
                 "html": "style='color:#FfFffF'",
                 "text": "忽然想起立希家外面的樱花，想看，就来了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "36": {
         "speaker": "高松灯",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "樱花……真美啊。"
             }
-        ]
+        ],
+        "atts": []
     },
     "37": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "嗯……"
             }
-        ]
+        ],
+        "atts": []
     },
     "38": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希，你想要说什么？"
             }
-        ]
+        ],
+        "atts": []
     },
     "39": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "很多想说的话，很多想实现的愿望，很多想去往的地方。"
             }
-        ]
+        ],
+        "atts": []
     },
     "40": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "请不要着急，慢慢来。这一路上有伙伴和音乐。"
             }
-        ]
+        ],
+        "atts": []
     },
     "41": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "一辈子还很长。"
             }
-        ]
+        ],
+        "atts": []
     },
     "42": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "报幕"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "alpha": 0,
+                    "fontSize": 30,
+                    "height": 34,
+                    "shadowEnabled": false,
+                    "strokeColor": "#d57fdf",
+                    "width": 413,
+                    "x": 1284,
+                    "y": 1102
+                },
+                {
+                    "alpha": {},
+                    "fontSize": {},
+                    "height": {},
+                    "shadowEnabled": {},
+                    "strokeColor": {},
+                    "width": {},
+                    "x": {},
+                    "y": {}
+                }
+            ],
+            "nameBox": [
+                {
+                    "height": 156,
+                    "x": -240,
+                    "y": 586
+                },
+                {
+                    "height": {},
+                    "x": {},
+                    "y": {}
+                }
+            ],
+            "skipBox": [
+                {
+                    "alpha": 0,
+                    "x": 1546,
+                    "y": 1074
+                },
+                {
+                    "alpha": {},
+                    "x": {},
+                    "y": {}
+                }
+            ]
+        }
     }
 }

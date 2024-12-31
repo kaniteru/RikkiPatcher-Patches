@@ -1,479 +1,532 @@
 {
     "0": {
         "speaker": "店员",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "欢迎光临~~~~~啊！椎名小姐，好久不见。"
             }
-        ]
+        ],
+        "atts": []
     },
     "1": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "嗯？今天不是工作日吗？怎么是你值班？"
             }
-        ]
+        ],
+        "atts": []
     },
     "2": {
         "speaker": "店员",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "前辈生病了，今天请假，所以只能由我来顶上啦。"
             }
-        ]
+        ],
+        "atts": []
     },
     "3": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "这样啊，最近还真多呢……不严重吧？"
             }
-        ]
+        ],
+        "atts": []
     },
     "4": {
         "speaker": "店员",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "听她声音蛮精神的应该还好。流感季嘛，很多人都中招了，椎名小姐也要注意防护哦。"
             }
-        ]
+        ],
+        "atts": []
     },
     "5": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "嗯，谢谢。给我一个篮子吧。"
             }
-        ]
+        ],
+        "atts": []
     },
     "6": {
         "speaker": "店员",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "嚯嚯~今天又是进货日？好的辛口朝日十罐外加营养果冻三打！"
             }
-        ]
+        ],
+        "atts": []
     },
     "7": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "哪会一次买这么多啊。"
             }
-        ]
+        ],
+        "atts": []
     },
     "8": {
         "speaker": "店员",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "开玩笑的，您慢慢挑选~"
             }
-        ]
+        ],
+        "atts": []
     },
     "9": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "她说着就把双肘撑在收银台上，看起了上方的悬挂电视。"
             }
-        ]
+        ],
+        "atts": []
     },
     "10": {
         "speaker": "电视机",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "“……近日，XX街区内发生了一起暴力事件，袭击致受害者轻伤。目前警方已加大巡逻力度，望附近居民夜晚谨慎出行……”"
             }
-        ]
+        ],
+        "atts": []
     },
     "11": {
         "speaker": "店员",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "哇，最近真是不太平啊，话说这条街不就是我们这附近的吗……"
             }
-        ]
+        ],
+        "atts": []
     },
     "12": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "就这些，麻烦结下账。"
             }
-        ]
+        ],
+        "atts": []
     },
     "13": {
         "speaker": "店员",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "好嘞。诶？今天居然不要香烟糖吗？真是少见呢。"
             }
-        ]
+        ],
+        "atts": []
     },
     "14": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "感觉最近吃的有点过量了，需要克制一下。"
             }
-        ]
+        ],
+        "atts": []
     },
     "15": {
         "speaker": "店员",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "说得就好像真的会上瘾一样。"
             }
-        ]
+        ],
+        "atts": []
     },
     "16": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "有些人的确会对糖分成瘾，就像有些猫会对抹茶上瘾一样。"
             }
-        ]
+        ],
+        "atts": []
     },
     "17": {
         "speaker": "店员",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "噗，什么鬼比喻啦，话说猫不能吃抹茶的吧！"
             }
-        ]
+        ],
+        "atts": []
     },
     "18": {
         "speaker": "店员",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "而且比起香烟糖果，酒难道不是更该被克制一下的吗。"
             }
-        ]
+        ],
+        "atts": []
     },
     "19": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "酒提不了神，还会影响注意力，要工作的时候都不会喝。"
             }
-        ]
+        ],
+        "atts": []
     },
     "20": {
         "speaker": "店员",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "天呐，野生的自律怪人出现了！！唔，但椎名小姐明明在某些方面又比较……"
             }
-        ]
+        ],
+        "atts": []
     },
     "21": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "哈？"
             }
-        ]
+        ],
+        "atts": []
     },
     "22": {
         "speaker": "店员",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "谁叫你的黑眼圈那么重，一看就是没好好睡觉、总是熬夜导致的吧？"
             }
-        ]
+        ],
+        "atts": []
     },
     "23": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "欸、有这么明显吗？"
             }
-        ]
+        ],
+        "atts": []
     },
     "24": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（明明每天都有好好上遮瑕）"
             }
-        ]
+        ],
+        "atts": []
     },
     "25": {
         "speaker": "店员",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "明显得不能再明显了！好啦，所以就不占用你的时间了，赶紧买完回家好好休息吧！"
             }
-        ]
+        ],
+        "atts": []
     },
     "26": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "…谢谢。"
             }
-        ]
+        ],
+        "atts": []
     },
     "27": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……还是再来一包香烟糖吧。"
             }
-        ]
+        ],
+        "atts": []
     },
     "28": {
         "speaker": "店员",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Ok~不过话说回来，其实我一直很想知道椎名小姐你为什么会这么执着于香烟糖果。"
             }
-        ]
+        ],
+        "atts": []
     },
     "29": {
         "speaker": "店员",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "我之前尝过一次，满满的香精和白砂糖味，一点也不好吃。"
             }
-        ]
+        ],
+        "atts": []
     },
     "30": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "味道确实很差……不过毕竟样子和那种感觉都很像……所以……"
             }
-        ]
+        ],
+        "atts": []
     },
     "31": {
         "speaker": "店员",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "既然真的需要，那干嘛不真的抽抽看呢？"
             }
-        ]
+        ],
+        "atts": []
     },
     "32": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "呃…其实大学的时候也抽过，不过后来戒掉了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "33": {
         "speaker": "要乐奈",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Rikki，好臭"
             }
-        ]
+        ],
+        "atts": []
     },
     "34": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "呃！"
             }
-        ]
+        ],
+        "atts": []
     },
     "35": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Rikki你又出去偷偷抽烟了？不～良～"
             }
-        ]
+        ],
+        "atts": []
     },
     "36": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "哈？"
             }
-        ]
+        ],
+        "atts": []
     },
     "37": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "呵呵，那就和之前说好的一样，小灯，今天不要和小立希一起回家了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "38": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "喂！"
             }
-        ]
+        ],
+        "atts": []
     },
     "39": {
         "speaker": "高松灯",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……嗯…抱歉，果然还是希望小立希能健康……"
             }
-        ]
+        ],
+        "atts": []
     },
     "40": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "呜…灯，对不起…"
             }
-        ]
+        ],
+        "atts": []
     },
     "41": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "嗯，被，戒掉吧。"
             }
-        ]
+        ],
+        "atts": []
     },
     "42": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（…………）"
             }
-        ]
+        ],
+        "atts": []
     },
     "43": {
         "speaker": "店员",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "能戒掉当然是件好事啦，可要珍惜会逼着你戒烟的人啊。"
             }
-        ]
+        ],
+        "atts": []
     },
     "44": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……嗯。"
             }
-        ]
+        ],
+        "atts": []
     },
     "45": {
         "speaker": "店员",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "好的，这是找零，多谢惠顾~"
             }
-        ]
+        ],
+        "atts": []
     },
     "46": {
         "speaker": "店员",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "啊，还有这个，是免费送的，老顾客福利，别天天吃营养果冻啦，身子会垮掉的！"
             }
-        ]
+        ],
+        "atts": []
     },
     "47": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "…………关东煮味噌炒饭便当，什么福利啊你这就是太奇葩卖不出去打发处理了吧！"
             }
-        ]
+        ],
+        "atts": []
     },
     "48": {
         "speaker": "店员",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "哎呀这个可好吃了，这可是最后一份，今后就绝版了！今天你来了算是缘分，收下吧收下吧~"
             }
-        ]
+        ],
+        "atts": []
     },
     "49": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "…好吧好吧，还是多谢你。"
             }
-        ]
+        ],
+        "atts": []
     },
     "50": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "自动门在身前打开，寒冷的夜风灌进室内，强烈的温差令立希触电般猛颤了一下。"
             }
-        ]
+        ],
+        "atts": []
     },
     "51": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "不知为何，她感到一股不祥的凉意从脚底升起。她用余光瞥了眼店员，对方似乎并没有察觉到她的异样。"
             }
-        ]
+        ],
+        "atts": []
     },
     "52": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希很快出去了。"
             }
-        ]
+        ],
+        "atts": []
     }
 }

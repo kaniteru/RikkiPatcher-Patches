@@ -1,1226 +1,1362 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "손님이 왔음을 알리는 벨 소리가 울렸다."
             }
-        ]
+        ],
+        "atts": []
     },
     "1": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "졸업한 지 이렇게 오래됐는데, 왜 이 소리를 들으면 아직도 환영합니다라고 외칠 뻔하는 거지……"
             }
-        ]
+        ],
+        "atts": []
     },
     "2": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "눈앞의 모든 것이 너무나도 익숙하면서도 타키에게는 아주 낯설게 느껴졌다."
             }
-        ]
+        ],
+        "atts": []
     },
     "3": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（아마도 새로 인테리어를 해서 그런가… 어디가 조금 다른 것 같아.）"
             }
-        ]
+        ],
+        "atts": []
     },
     "4": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "분명 많은 곳이 달라졌다."
             }
-        ]
+        ],
+        "atts": []
     },
     "5": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "RiNG, 이 카페는 타키의 절반 학생 시절을 지탱해준 장소로, 그녀들의 언제 해체될지 모르는 밴드와는 달리, 수년이 지난 지금도 활기를 띠고 있다."
             }
-        ]
+        ],
+        "atts": []
     },
     "6": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（한때 장사가 안 돼서 린린코 씨가 망한다고 소리쳤던 게 기억나…）"
             }
-        ]
+        ],
+        "atts": []
     },
     "7": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（아, 그러고 보니, 린린코 씨도 몇 년 전에 시내 새 지점으로 전근 갔었지.）"
             }
-        ]
+        ],
+        "atts": []
     },
     "8": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（지금 보니, 이 가게가 나보다 더 오래 갈 것 같네……）"
             }
-        ]
+        ],
+        "atts": []
     },
     "9": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "여기 주문이요."
             }
-        ]
+        ],
+        "atts": []
     },
     "10": {
         "speaker": "점원",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아…아! 잠시만요!"
             }
-        ]
+        ],
+        "atts": []
     },
     "11": {
         "speaker": "점원",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "안녕하세요, 주문하시겠어요?"
             }
-        ]
+        ],
+        "atts": []
     },
     "12": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "신입이에요?"
             }
-        ]
+        ],
+        "atts": []
     },
     "13": {
         "speaker": "점원",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "에…그렇게 티 나나요?"
             }
-        ]
+        ],
+        "atts": []
     },
     "14": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "잔 닦는 방법이 잘못됐어요——씻은 후에 먼저 거꾸로 놓고, 대부분의 물기를 빼고 나머지 물방울을 스펀지로 흡수한 다음, 마른 수건으로 내부는 세 바퀴, 외부는 한 바퀴 돌려서 닦고 나서 수납장에 넣어야 해요."
             }
-        ]
+        ],
+        "atts": []
     },
     "15": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그리고 접시도 잘못 배치했어요. 크기별로 정리해야 하는데, 섞여 있으면 식사 시간에 잘못 꺼내게 되고, 그러면 음식 나오는 속도에 영향을 줄 거예요——입사 전에 교육 안 받았어요?"
             }
-        ]
+        ],
+        "atts": []
     },
     "16": {
         "speaker": "점원",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "에!! 그렇군요——여러 가지 이유로 아직 교육이 끝나기 전에 억지로 투입됐어요……"
             }
-        ]
+        ],
+        "atts": []
     },
     "17": {
         "speaker": "점원",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "잠시만요, 다시 정리할게요——"
             }
-        ]
+        ],
+        "atts": []
     },
     "18": {
         "speaker": "점원",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이전에 이런 일을 해보셨어요? 저는 첫 아르바이트라서!! 정말 대단하시네요——"
             }
-        ]
+        ],
+        "atts": []
     },
     "19": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（이 사람에게서 왜 이렇게 익숙한 귀찮음이 느껴지지……）"
             }
-        ]
+        ],
+        "atts": []
     },
     "20": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "음…굳이 말하자면, 내가 그만두지 않았다면 지금쯤 네 상사일지도 몰라——그래서 주문해도 돼요?"
             }
-        ]
+        ],
+        "atts": []
     },
     "21": {
         "speaker": "점원",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아아 죄송해요! 주문하시겠어요? 저희 최근에 새로운 계절 한정 디저트가 나왔어요~~ 메뉴에 새로 추가된 페이지에 있고, 아직 광고는 못 했지만, 한번 드셔보세요!"
             }
-        ]
+        ],
+        "atts": []
     },
     "22": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "안 봐도 돼요, 방금 입구에서 새로운 커피 맛을 봤어요."
             }
-        ]
+        ],
+        "atts": []
     },
     "23": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "어…말츠 아이스 아메리카노? 그거 주세요."
             }
-        ]
+        ],
+        "atts": []
     },
     "24": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 예전보다 두꺼워진 메뉴를 넘겼다."
             }
-        ]
+        ],
+        "atts": []
     },
     "25": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（어…과장된 세트 메뉴…세상 모든 시럽과 크림을 다 올린 것 같아……）"
             }
-        ]
+        ],
+        "atts": []
     },
     "26": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（이렇게 번거로운 메뉴는 번거로운 사람만 좋아할 것 같아……）"
             }
-        ]
+        ],
+        "atts": []
     },
     "27": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（잠깐, 이 팬케이크에 팬더 그림이 있어? 세트 커피에도 라떼 아트가——팬더 펜던트도 준다고??）"
             }
-        ]
+        ],
+        "atts": []
     },
     "28": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（안 돼! 내가 RiNG에서 일할 때는 왜 이런 이벤트가 없었지??!!!）"
             }
-        ]
+        ],
+        "atts": []
     },
     "29": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "내심으로는 격렬했지만, 타키는 겉으로는 성인의 고집과 고수를 유지했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "30": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "안녕하세요, 이 계절 한정 세트 하나 주세요, 감사합니다."
             }
-        ]
+        ],
+        "atts": []
     },
     "31": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아마도 시간대 때문인지, 바 뒤에는 그 신입 하나만이 바쁘게 음식을 준비하고 있었고, 과정은 타키가 예상한 것보다 훨씬 길었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "32": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "하지만 그녀는 의외로 이전처럼 급하지 않았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "33": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（이상한 기분이야。）"
             }
-        ]
+        ],
+        "atts": []
     },
     "34": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（남은 날을 엿볼 수 있어서 오히려 조금 여유로워졌어.）"
             }
-        ]
+        ],
+        "atts": []
     },
     "35": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（이게 뭐지…）"
             }
-        ]
+        ],
+        "atts": []
     },
     "36": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（안도감…인가?）"
             }
-        ]
+        ],
+        "atts": []
     },
     "37": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 오랜만에 무언가를 할 수 없는 여유로운 시간을 이용해 주위를 둘러보기 시작했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "38": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "간판은 여전히 그 간판이고, 카페도 여전히 그 카페였다. 바의 위치에서 고개를 돌리면, 여전히 커다란 가라오케 간판이 걸려 있는 건물이 보였다."
             }
-        ]
+        ],
+        "atts": []
     },
     "39": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "하지만 분명히 무엇인가가 바뀌었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "40": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（분위기 때문인가?）"
             }
-        ]
+        ],
+        "atts": []
     },
     "41": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "비록 새로 인테리어를 했지만, 실내의 전체 분위기는 크게 변하지 않았다. 시이나 타키는 카페 안을 둘러보며 자신에게 낯설게 느껴지는 이유를 찾으려고 했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "42": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "바 뒤에서 일하는 사람은 더 이상 자신과 린린코가 아니었고, 연주 구역에서 기타를 치는 사람은 야생 고양이가 아니었다. 손님들은 계속 바뀌었고, 홀 안에는 낯선 얼굴들로 가득했다. 소세와 램이 자주 앉던 테이블 앞에는 개정된 월의 숲 교복을 입은 몇 명의 학생들이 작은 목소리로 과제를 논의하고 있었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "43": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（바로 이거야, 익숙한 모든 것이 낯선 사람들 속에서 사라져 가고 있어, 그 짜증나는 분홍머리까지…）"
             }
-        ]
+        ],
+        "atts": []
     },
     "44": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "짜증나는 분홍머리??!!!"
             }
-        ]
+        ],
+        "atts": []
     },
     "45": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "커피숍 문을 들어서자마자 익숙한 목소리가 들려왔다. 치하야 아논은 소리가 나는 쪽을 바라보며 셀카봉을 들고 있던 손을 돌렸고, 셀카봉의 카메라가 자연스럽게 시이나 타키를 비췄다."
             }
-        ]
+        ],
+        "atts": []
     },
     "46": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "리키——！！！！！！"
             }
-        ]
+        ],
+        "atts": []
     },
     "47": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이렇게 사람이 많은 공공장소에서, 그것도 홀의 반대편에 있는 거리에서, 아무리 타키가 깐깐하다고 해도, 갑자기 나타난 팀원에게만 책임을 돌릴 수는 없었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "48": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "심지어 그 사람이 공기를 읽는 데 가장 능한 치하야 아논이라 할지라도."
             }
-        ]
+        ],
+        "atts": []
     },
     "49": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "하지만 지금 상태로는 카메라에 잡히기에 적합하지 않다……"
             }
-        ]
+        ],
+        "atts": []
     },
     "50": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "카메라 꺼——아니면 찍히지 않는 곳으로 가!"
             }
-        ]
+        ],
+        "atts": []
     },
     "51": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "얼마 전만 해도 만났던 사람인데, 재회한 흥분은 하늘을 찌를 듯했다. 아논은 타키에게 가서 포옹을 하려고 했지만, 타키의 갑작스런 호통에 몸이 얼어붙어 도중에 발걸음을 멈춰야 했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "52": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아논은 조심스럽게 타키의 손가락 사이로 보이는 얼굴 부분을 살피며, 셀카봉을 접고 촬영 모드를 껐다."
             }
-        ]
+        ],
+        "atts": []
     },
     "53": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "알겠어…리키, 카메라 껐어……너 정말 흥을 깨네."
             }
-        ]
+        ],
+        "atts": []
     },
     "54": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "손가락 사이로 작은 틈이 열리고, 그 틈 사이로 눈이 살짝 보였다. 타키는 한참을 들여다보며 앞에 있는 분홍머리의 말이 진실인지 확인했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "55": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그리고 나서야 마침내 얼굴 전체를 다시 드러냈다."
             }
-        ]
+        ],
+        "atts": []
     },
     "56": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "뭐? 네가 하는 짓이야말로 흥을 깨는 거지."
             }
-        ]
+        ],
+        "atts": []
     },
     "57": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이상하다, 리키가 오늘 RiNG에 오다니? 아, 바에 앉아 있는 걸 보면…리키 너 혼자구나? 여기 앉아도 돼?"
             }
-        ]
+        ],
+        "atts": []
     },
     "58": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "전부터 팬들이 밴드 연습에 대해 궁금해했는데, 오늘 RiNG 소개를 찍으러 왔어. 곧 나올 계절 한정 디저트를 소개할 탐방 소재로도 찍고——가끔 과거를 회상하는 것도 나쁘지 않잖아, 안 그래?"
             }
-        ]
+        ],
+        "atts": []
     },
     "59": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "하지만 혼자 카메라 앞에서 독백하는 건 너무 지루하잖아……여기서 리키를 만난 건 정말 다행이야!"
             }
-        ]
+        ],
+        "atts": []
     },
     "60": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "리키와 나라면…RiNG에서 일했던 추억이든 연습과 공연이든, 아니면 신제품에 대한 의견이든, 분명 서로 다른 생각을 가질 텐데, 그런 소재가 많으면 더 좋잖아——"
             }
-        ]
+        ],
+        "atts": []
     },
     "61": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（이 직업에 오염된 건가）"
             }
-        ]
+        ],
+        "atts": []
     },
     "62": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……됐어, 네 말이 점점 많아지는구나."
             }
-        ]
+        ],
+        "atts": []
     },
     "63": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "어느새 많은 말을 늘어놓은 아논을 바라보며, 타키는 갑자기 약간 불안해지고 머리도 은근히 아프기 시작했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "64": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "흠……넌 정말 여전히 귀찮구나."
             }
-        ]
+        ],
+        "atts": []
     },
     "65": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "같이 앉으려면, 저쪽 테이블로 가자."
             }
-        ]
+        ],
+        "atts": []
     },
     "66": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "두 사람은 바에서 가까운 창가의 평범한 2인용 테이블로 자리를 옮겼다."
             }
-        ]
+        ],
+        "atts": []
     },
     "67": {
         "speaker": "점원",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아…아! 여기로 옮기셨군요, 바에서 찾고 있었어요——여기 주문하신 음식입니다. 오래 기다리게 해서 죄송해요, 즐거운 식사 되세요."
             }
-        ]
+        ],
+        "atts": []
     },
     "68": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "점원은 금방 오고 금방 떠났다. 타키는 혼자 바를 지키는 것이 얼마나 고된 일인지 알았지만, 맞은편에 앉은 분홍머리는 다른 생각을 하고 있었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "69": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "저 사람 날 못 알아봤어? 나를 못 알아봤다고??! 날 못 알아보다니?!!!"
             }
-        ]
+        ],
+        "atts": []
     },
     "70": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "리키~~봐봐——"
             }
-        ]
+        ],
+        "atts": []
     },
     "71": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "제발 좀 그만해…세상의 모든 사람이 널 알 수는 없잖아?"
             }
-        ]
+        ],
+        "atts": []
     },
     "72": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "제발 그만 좀 해——나라고!! 바로 나잖아! 유명한 MyGO!!!!! 밴드의 리듬 기타리스트, 유튜브 신인 스트리머, 개인 계정 팔로워가 12만 명이나 되고, 라이브 방송 시 최대 동시 시청자 수가 37,205명…"
             }
-        ]
+        ],
+        "atts": []
     },
     "73": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "한 번에 최고 한도로 빨간 SC를 20개 받은 적 있는——나! 이런 나를! 알아보지 못하다니! 고객으로서 이 정도 무시당하면 안 되지!"
             }
-        ]
+        ],
+        "atts": []
     },
     "74": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（여기 오기로 한 게 잘못된 선택이었어.）"
             }
-        ]
+        ],
+        "atts": []
     },
     "75": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "만약 지금 나와 함께 쫓겨나고 싶다면, 그냥 말하면 돼."
             }
-        ]
+        ],
+        "atts": []
     },
     "76": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "첫 만남 때보다 더 안 좋네……"
             }
-        ]
+        ],
+        "atts": []
     },
     "77": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "어? 이거? 네가 고른 게 이거야?"
             }
-        ]
+        ],
+        "atts": []
     },
     "78": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "맥아 아이스 아메리카노… 이름만 들어도 별로야……"
             }
-        ]
+        ],
+        "atts": []
     },
     "79": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "커피만 한 잔 시킨 거야? 커피만?? 다른 건 없고?"
             }
-        ]
+        ],
+        "atts": []
     },
     "80": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그럼 뭐? 카페에 왔으면 커피 마시는 거지."
             }
-        ]
+        ],
+        "atts": []
     },
     "81": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "넌 정말 커피 광이구나…… 됐어!"
             }
-        ]
+        ],
+        "atts": []
     },
     "82": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "안녕하세요! 저 계절 한정 팬더 세트 하나 주세요——"
             }
-        ]
+        ],
+        "atts": []
     },
     "83": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "뭐——팬더 세트?! 신제품이 이거라고???"
             }
-        ]
+        ],
+        "atts": []
     },
     "84": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "잠시 후 리키가 나랑 같이 먹어야 해!"
             }
-        ]
+        ],
+        "atts": []
     },
     "85": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이거 봐, 리키! 너도 취향이 좋아지는 날이 오다니——이 세트 얼마나 다양한 게 들어있고, 얼마나 귀여운지 봐봐!"
             }
-        ]
+        ],
+        "atts": []
     },
     "86": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "전에는 커피만 마시는 모습이 얼마나 단조로웠는지!! 어른의 생활은 좀 더 다채로워야 해——맞다, 먹기 전에 사진 좀 찍어도 될까? 짧은 영상도 하나 찍어도 될까? 그리고 맛 좀 보게 해주면 더 좋고!"
             }
-        ]
+        ],
+        "atts": []
     },
     "87": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "맘대로 해."
             }
-        ]
+        ],
+        "atts": []
     },
     "88": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그렇게 말하며, 타키는 일부러 무심한 듯 메뉴를 꺼내 신제품 홍보 페이지를 넘기면서 시간을 때우는 듯했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "89": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（잠깐, 이 팬케이크에 팬더 그림이 있어? 세트 커피에도 라떼 아트가——팬더 펜던트도 준다고??）"
             }
-        ]
+        ],
+        "atts": []
     },
     "90": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "젠장! 알았으면 그거 시켰을 텐데!!"
             }
-        ]
+        ],
+        "atts": []
     },
     "91": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "에~~~ 리키 너무 무뚝뚝해! 너 팬더 좋아하잖아!"
             }
-        ]
+        ],
+        "atts": []
     },
     "92": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "마음속으로는 격한 감정을 느끼면서도, 타키는 표면적으로는 성인의 침착함을 유지했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "93": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "에~~~ 리키 너무 무뚝뚝해!"
             }
-        ]
+        ],
+        "atts": []
     },
     "94": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "나도 MyGO!!!!!를 위해 고생하면서 여기서 촬영하는 거야! 계정을 운영하는 게 얼마나 힘든지 알아?"
             }
-        ]
+        ],
+        "atts": []
     },
     "95": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "어제 우리 밴드 계정에서 팔로워가 세 명 줄었어! 그중 두 명은 3년 이상 팔로우한 오래된 팬이었어!!! 너무 큰 패배야! 우리의 일상 업데이트가 너무 적어서 그래!"
             }
-        ]
+        ],
+        "atts": []
     },
     "96": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그러고 보니, 다들 지금 너무 바빠서 연습 일정도 운에 맡겨야 할 정도야. 그렇지 않으면 이렇게 큰 디저트를 혼자 시켜놓고 카메라 앞에서 바보같이 자꾸 얘기하게 될 줄이야. 결국 다 못 먹고 포장해가서 집에서 또 3일 동안 먹어야 해."
             }
-        ]
+        ],
+        "atts": []
     },
     "97": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "다 같이 있으면 소재 분량을 걱정할 필요가 없는데."
             }
-        ]
+        ],
+        "atts": []
     },
     "98": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "오늘은 운이 좋아서……! 리키가 있어! 혼자 큰 걸 해결할 필요가 없어! 제발 부탁해…리키만 도와준다면……"
             }
-        ]
+        ],
+        "atts": []
     },
     "99": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "세트에 포함된 팬더 펜던트는 리키 줄게, 어때?!!"
             }
-        ]
+        ],
+        "atts": []
     },
     "100": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "정말 엄청난 양이었다——서버는 때맞춰 추가 주문한 음식을 테이블로 가져왔다."
             }
-        ]
+        ],
+        "atts": []
     },
     "101": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "하지만 오늘은 운이 좋네! 리키가 있어서 혼자 큰 걸 해결할 필요가 없어!"
             }
-        ]
+        ],
+        "atts": []
     },
     "102": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "보니……확실히 양이 좀 많긴 하네."
             }
-        ]
+        ],
+        "atts": []
     },
     "103": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "사진 예쁘게 찍어서 나한테 보내. 세트는……먼저 최대한 먹어봐."
             }
-        ]
+        ],
+        "atts": []
     },
     "104": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "다 못 먹으면 말해."
             }
-        ]
+        ],
+        "atts": []
     },
     "105": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "물론…물론 팬던트를 원해서가 아니야, 적어도 전부는 아니야.)"
             }
-        ]
+        ],
+        "atts": []
     },
     "106": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "리키……"
             }
-        ]
+        ],
+        "atts": []
     },
     "107": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "분홍머리 소녀의 눈에 감동이 비쳤다."
             }
-        ]
+        ],
+        "atts": []
     },
     "108": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그러나 그녀가 다음에 한 말은 타키의 예상과는 달랐다."
             }
-        ]
+        ],
+        "atts": []
     },
     "109": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그래서 리키는 정말 한가한가 봐?"
             }
-        ]
+        ],
+        "atts": []
     },
     "110": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "오늘 이 시간에 카페에 앉아 있고."
             }
-        ]
+        ],
+        "atts": []
     },
     "111": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그날 저녁에도 찻집에 갔었지……"
             }
-        ]
+        ],
+        "atts": []
     },
     "112": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……"
             }
-        ]
+        ],
+        "atts": []
     },
     "113": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "내가 말하는데, 사진 빨리 안 찍으면 팬케이크 옆의 크림이 무너질걸."
             }
-        ]
+        ],
+        "atts": []
     },
     "114": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아아아! 왜 일찍 말 안 했어!"
             }
-        ]
+        ],
+        "atts": []
     },
     "115": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "치하야 아논은 투덜거리며 자신이 가져온 장비를 꺼내고, 각도를 계속 조정하면서 사진을 여러 장 찍은 후, 카메라를 조정하여 여러 번 촬영한 끝에 충분한 편집용 영상을 확보했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "116": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "귀여움을 강조한 세트는 이제 출고 당시의 빛을 잃었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "117": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키가 아논이 '인플루언서 작업'을 하는 모습을 가까이에서 보는 것은 이번이 처음이었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "118": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "사실 대학교 때 거의 매주 새로운 취미를 시도하던 아논이 밴드 멤버들에게 'Anon Tokyo'의 악명을 씻기 위해 인플루언서계에 진출하겠다고 처음 발표했을 때, 램조차도 그녀의 3분 열정이 이길 것이라고 믿지 않았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "119": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（하지만 아논은 성공했어. 성공적으로 그 관심사를 생계의 수단으로 만들었어.）"
             }
-        ]
+        ],
+        "atts": []
     },
     "120": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（그럼 당시 그녀를 비웃던 나는……내가 좋아하는 건, 내가 필요한 건, 내가 지키는 건 대체 무엇일까……）"
             }
-        ]
+        ],
+        "atts": []
     },
     "121": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 열정적으로 녹화를 하면서 일의 재미와 어려움을 이야기하던 아논의 말을 끊었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "122": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아논, 넌 이 일을 좋아해?"
             }
-        ]
+        ],
+        "atts": []
     },
     "123": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아니면, 평소에 소재나 방송 주제를 찾을 때 영감이 고갈되어서 정말 힘들 때는 없어? 어느 순간 지겹다는 생각이 들지 않아?"
             }
-        ]
+        ],
+        "atts": []
     },
     "124": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "치하야 아논은 자료를 점검하다 고개를 들었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "125": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아논은 타키가 이런 질문을 할 줄 몰랐다——그녀는 항상 조용하고, 마치 멍하니 있는 것 같았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "126": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아논은 타키가 자신이 한 말을 여전히 신경 쓰지 않는다고 생각했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "127": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "리키……네가 나를 걱정하는 거야?"
             }
-        ]
+        ],
+        "atts": []
     },
     "128": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "누가 너를 걱정한대?! 요점을 잘못 짚지 마!"
             }
-        ]
+        ],
+        "atts": []
     },
     "129": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "네가 방송에 대해 물어볼 줄 몰랐어——난 네가 정말로 관심 없다고 생각했어."
             }
-        ]
+        ],
+        "atts": []
     },
     "130": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이 질문……지금은 답하기 어려울 것 같아."
             }
-        ]
+        ],
+        "atts": []
     },
     "131": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "답하기 어렵다면, 답하지 않아도 돼……"
             }
-        ]
+        ],
+        "atts": []
     },
     "132": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "하지만, 네가 정말 내 감정을 알고 싶다면——나중에 방송이 하나 더 있는데, 내 방송을 보러 올래?"
             }
-        ]
+        ],
+        "atts": []
     },
     "133": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "오! 내 말은, 내 집에 와서 내가 어떻게 방송하는지 볼래?"
             }
-        ]
+        ],
+        "atts": []
     },
     "134": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": []
     },
     "135": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 거절하지 않았다."
             }
-        ]
+        ],
+        "atts": []
     }
 }

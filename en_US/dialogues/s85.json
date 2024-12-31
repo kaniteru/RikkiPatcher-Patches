@@ -1,155 +1,172 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希木讷地走上玄关，才想起连门都忘了锁。"
             }
-        ]
+        ],
+        "atts": []
     },
     "1": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "唉……"
             }
-        ]
+        ],
+        "atts": []
     },
     "2": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "海铃……！"
             }
-        ]
+        ],
+        "atts": []
     },
     "3": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "海铃伸手抵住门。月光下，她的脸上透着难言的悲伤。"
             }
-        ]
+        ],
+        "atts": []
     },
     "4": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "她们从不主动踏入彼此的领地，但这一次，有人犯规了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "5": {
         "speaker": "八幡海铃",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希，我们还能再见面吗？"
             }
-        ]
+        ],
+        "atts": []
     },
     "6": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......."
             }
-        ]
+        ],
+        "atts": []
     },
     "7": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "当然。"
             }
-        ]
+        ],
+        "atts": []
     },
     "8": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "都这么晚了，海铃也早点回去休息吧。"
             }
-        ]
+        ],
+        "atts": []
     },
     "9": {
         "speaker": "八幡海铃",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "嗯。"
             }
-        ]
+        ],
+        "atts": []
     },
     "10": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "多保重，海铃。"
             }
-        ]
+        ],
+        "atts": []
     },
     "11": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "再会。"
             }
-        ]
+        ],
+        "atts": []
     },
     "12": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希合上门。"
             }
-        ]
+        ],
+        "atts": []
     },
     "13": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "她没急着打开灯，就这么背靠着冰冷的门板，静静伫立在玄关前。"
             }
-        ]
+        ],
+        "atts": []
     },
     "14": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "她知道海铃正靠在门的另一侧，她的心脏距离友人只有十公分，比在摩托车上还近一些。"
             }
-        ]
+        ],
+        "atts": []
     },
     "15": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "但也足够远到，藏起那个或许早已被看穿的秘密。"
             }
-        ]
+        ],
+        "atts": []
     },
     "16": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（……抱歉，海铃。）"
             }
-        ]
+        ],
+        "atts": []
     }
 }

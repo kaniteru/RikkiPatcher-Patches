@@ -1,290 +1,358 @@
 {
     "0": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "哈、哈……哈……"
             }
-        ]
+        ],
+        "atts": []
     },
     "1": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "敲击、敲击、敲击。"
             }
-        ]
+        ],
+        "atts": []
     },
     "2": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "狂躁的鼓声在房间内冲撞。"
             }
-        ]
+        ],
+        "atts": []
     },
     "3": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "擦片、筒鼓、军鼓、底鼓，本应有序的声部全都毫无章法地冲出，又迅速被环绕四周的隔音板捕捉吸收，像全力一击的重拳打在软绵无骨的东西上，一切不甘、愤怒、暴烈终究都是徒劳。"
             }
-        ]
+        ],
+        "atts": []
     },
     "4": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "——鼓棒要用手腕和小臂的力量控制。某位音乐机构的架子鼓老师是这么教导学生的。"
             }
-        ]
+        ],
+        "atts": []
     },
     "5": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "不过现在的老师，正试图用全身每一寸肌肉冲击面前这座牢固的音乐堡垒。"
             }
-        ]
+        ],
+        "atts": []
     },
     "6": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "哪怕是一片漆黑，立希也能感到自己两眼发昏。她的双耳嗡鸣得听不见自己的喘气声，剧烈收缩的肺部以及被冷空气剐蹭的喉道传来的痛楚都阻止不了平稳的心跳通过骨传导阴魂不散地通知她。"
             }
-        ]
+        ],
+        "atts": []
     },
     "7": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#ff0000'",
                 "text": "90"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "fontSize": 43
+                },
+                {
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "8": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "为什么、为什么、为什么。"
             }
-        ]
+        ],
+        "atts": []
     },
     "9": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "现在的心率根本不可能支撑起如此巨大的运动量，但她的心脏就像是被锁在了别的次元，无论她怎么歇斯底里地消耗自己，心脏都在一旁冷漠地、匀速地跳动着。"
             }
-        ]
+        ],
+        "atts": []
     },
     "10": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "像是在嘲笑她的徒劳无功。"
             }
-        ]
+        ],
+        "atts": []
     },
     "11": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "哈、哈、哈啊啊啊啊啊——！！"
             }
-        ]
+        ],
+        "atts": []
     },
     "12": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "密不透风的鼓点内，轻微的咔嚓声根本无法被听到。"
             }
-        ]
+        ],
+        "atts": []
     },
     "13": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "鼓棒折断了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "14": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "第二根。"
             }
-        ]
+        ],
+        "atts": []
     },
     "15": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "第三根。"
             }
-        ]
+        ],
+        "atts": []
     },
     "16": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "........."
             }
-        ]
+        ],
+        "atts": []
     },
     "17": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "在折断第四根的时候，立希的手已经彻底抬不起来了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "18": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "血色滴在她才换不久的鼓面上，一、二、三，像一张流泪的脸。"
             }
-        ]
+        ],
+        "atts": []
     },
     "19": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#ff0000'",
                 "text": "——没用的。"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "fontSize": 43
+                },
+                {
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "20": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "那张脸对她说。"
             }
-        ]
+        ],
+        "atts": []
     },
     "21": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "————！！"
             }
-        ]
+        ],
+        "atts": []
     },
     "22": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "带血的拳头瞬间击破了鼓面，冲入内部，里面很阴、很凉，什么都没有。"
             }
-        ]
+        ],
+        "atts": []
     },
     "23": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#ff0000'",
                 "text": "——你知道没用的。"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "fontSize": 43
+                },
+                {
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "24": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#ff0000'",
                 "text": "——你不是早就想这么做了吗？"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "fontSize": 43
+                },
+                {
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "25": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希跌坐在地。"
             }
-        ]
+        ],
+        "atts": []
     },
     "26": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "然后蜷缩在破损的架子鼓下。"
             }
-        ]
+        ],
+        "atts": []
     },
     "27": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "鼓房空间很大，鼓摆在角落显得空旷。"
             }
-        ]
+        ],
+        "atts": []
     },
     "28": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "它足以容纳下一整只乐队——四只麦架两个音响，三个效果器槽，或许还有乐谱架，完全放得下。"
             }
-        ]
+        ],
+        "atts": []
     },
     "29": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "但现在只有鼓。"
             }
-        ]
+        ],
+        "atts": []
     },
     "30": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "以及蜷缩在下面的，被疲劳、饥饿、寒意与绝望压垮的鼓手。"
             }
-        ]
+        ],
+        "atts": []
     },
     "31": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "真是…………糟透了。"
             }
-        ]
+        ],
+        "atts": []
     }
 }

@@ -1,137 +1,152 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "몇 달 만의 합주가 이렇게 의미없게 끝이 났다."
             }
-        ]
+        ],
+        "atts": []
     },
     "1": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "전철에 힘없이 앉아있는 타키의 마음 속은 매우 혼란스러웠다."
             }
-        ]
+        ],
+        "atts": []
     },
     "2": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그녀는 오늘 연습이 이렇게 엉망으로 끝 마치게 된 것이 전적으로 그녀 자신의 책임이라 생각했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "3": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "——몸이 제대로 말을 듣지도 않았고, 제대로 된 곡을 만들지도 못했는데, 그렇게 무리하게까지 굴었으니……"
             }
-        ]
+        ],
+        "atts": []
     },
     "4": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "분명 동료들이 자신을 걱정하고 있다는 걸 알면서도, 성급하게 화를 내며 날카로운 말들만을 쏟아냈다……"
             }
-        ]
+        ],
+        "atts": []
     },
     "5": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "객실 내부에는 아무도 없었고, 이 고요한 분위기는 타키의 기분에 적절했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "6": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그녀는 다른 사람들에게 자신의 우울해진 모습을 보이고 싶지 않았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "7": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "창밖의 햇빛은 눈부시게 빛났고, 정오가 지났음에도 불구하고 흐린 구름 뒤에서 비치는 햇빛은 여전히 눈부시고 뜨거웠다. 정말 시기적절하지 않은 날씨였다."
             }
-        ]
+        ],
+        "atts": []
     },
     "8": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "강렬한 햇빛이 타키의 팔을 스치며 데웠지만, 그녀는 조금도 반응하지 않았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "9": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "흔들리는 전철 속에서 의자와 하나가 된 듯, 미동조차 하지 않았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "10": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "수많은 생각둘이 그녀의 마음을 휘감았고, 지금은 단단히 얽혀 있었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "11": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(알고 있어. 모두 할 일이 있고, 더 이상 밴드가 최우선 순위로 될 수 없다는 거.)"
             }
-        ]
+        ],
+        "atts": []
     },
     "12": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(하지만 왜, 왜 모두가 그렇게 신경 쓰지 않는 것처럼 보이지?)"
             }
-        ]
+        ],
+        "atts": []
     },
     "13": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(오랜만에 모두가 모인거였는데… 왜 이렇게 된 걸까……)"
             }
-        ]
+        ],
+        "atts": []
     },
     "14": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "전철이 역에 멈추고, 스피커에서 흘러나오는 여성의 목소리가 그녀에게 빨리 이 곳에서 떠나라고 재촉하는 듯 했다."
             }
-        ]
+        ],
+        "atts": []
     }
 }

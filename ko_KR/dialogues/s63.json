@@ -1,596 +1,662 @@
 {
     "0": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "너무 피곤해……"
             }
-        ]
+        ],
+        "atts": {}
     },
     "1": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（집이 큰 단점은 청소가 힘들다는 거지……）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "2": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（평소에는 드럼 연습이나 작곡만 하니까 다른 방은 거의 사용하지 않지.）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "3": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（어쨌든, 이제 다시 일해야지.）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "4": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 컴퓨터 앞에 앉아 모니터 헤드폰으로 바깥의 화이트 노이즈를 차단했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "5": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（드럼 비트가 여전히 너무 꽉 차네…… 기타 코드도 좀 단조롭고.）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "6": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（근데 이 bpm에서 연주할 수 있을까?）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "7": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "일에 몰두하자 쌓였던 피로와 졸음이 사라진 것처럼 느껴졌다."
             }
-        ]
+        ],
+        "atts": []
     },
     "8": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "비 소리가 끊임없이 이어지고, 구름이 달빛을 가려 시간의 흐름이 모호해졌다."
             }
-        ]
+        ],
+        "atts": []
     },
     "9": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 하품을 하며, 생리적인 눈물이 시야를 흐리게 하자 힘껏 눈을 깜빡였다."
             }
-        ]
+        ],
+        "atts": []
     },
     "10": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "쩝."
             }
-        ]
+        ],
+        "atts": {}
     },
     "11": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（오후 내내 '쉬었는데', 여전히 부족한가……）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "12": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（이렇게 끝없이 수정하다간 시간 안에 못 마칠 거야.）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "13": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키."
             }
-        ]
+        ],
+        "atts": []
     },
     "14": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "!"
             }
-        ]
+        ],
+        "atts": {}
     },
     "15": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "언니, 언니?!"
             }
-        ]
+        ],
+        "atts": {}
     },
     "16": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "역시 아직도 일하고 있었네."
             }
-        ]
+        ],
+        "atts": []
     },
     "17": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이 노래…… 너무 오래 끌고 싶지 않아."
             }
-        ]
+        ],
+        "atts": {}
     },
     "18": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "기한을 정했어?"
             }
-        ]
+        ],
+        "atts": []
     },
     "19": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……그럴지도."
             }
-        ]
+        ],
+        "atts": {}
     },
     "20": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（내가 정한 건 아니지만.）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "21": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "불안감이 얼굴에 다 드러나 있네."
             }
-        ]
+        ],
+        "atts": []
     },
     "22": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이런 상태에서 창작이 효율적일까?"
             }
-        ]
+        ],
+        "atts": []
     },
     "23": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……"
             }
-        ]
+        ],
+        "atts": {}
     },
     "24": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "설령 네가 정한 시간 안에 곡을 완성해도, 곡 발표는 아직 한참 멀었잖아."
             }
-        ]
+        ],
+        "atts": []
     },
     "25": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "MyGO는 상업화할 계획이 없잖아?"
             }
-        ]
+        ],
+        "atts": []
     },
     "26": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "음, 다들 연습할 시간을 주고 싶어서……"
             }
-        ]
+        ],
+        "atts": {}
     },
     "27": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（발표 여부와는 상관없어, 사람들이 계속 연주할지 말지와도 관련 없어.）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "28": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（이건 내가 남기는 마지막 곡이니까 반드시 완성해야 돼, 그뿐이야.）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "29": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "마키는 한숨을 쉬며 여동생과 진지한 대화를 할 자세를 취했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "30": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키, 이렇게 자신을 억지로 몰아붙일 필요는 없어."
             }
-        ]
+        ],
+        "atts": []
     },
     "31": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "억지로라니……"
             }
-        ]
+        ],
+        "atts": {}
     },
     "32": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（이 말을 언니가 하다니, 정말 속상하네……）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "33": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "네 능력을 믿어, 그러니 서두르지 마."
             }
-        ]
+        ],
+        "atts": []
     },
     "34": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이미 아주 잘하고 있어."
             }
-        ]
+        ],
+        "atts": []
     },
     "35": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아니."
             }
-        ]
+        ],
+        "atts": {}
     },
     "36": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（내가 원하는 건 단순히 언니가 '믿게' 하는 정도가 아니야.）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "37": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（내 능력을 보여주고 싶어, 언니에게 증명하고 싶어……）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "38": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키?"
             }
-        ]
+        ],
+        "atts": []
     },
     "39": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "어, 그냥……"
             }
-        ]
+        ],
+        "atts": {}
     },
     "40": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "나 좀 급했어."
             }
-        ]
+        ],
+        "atts": {}
     },
     "41": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "분명 아침에는 영감이 없을 때는 다른 일을 해야 한다는 걸 알았잖아. 낮에 영감을 찾지 못했다고 해서 바로 초조해진 거야?"
             }
-        ]
+        ],
+        "atts": []
     },
     "42": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "나……"
             }
-        ]
+        ],
+        "atts": {}
     },
     "43": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "영감을 찾지 못했다면, 지금은 쉴 시간이지."
             }
-        ]
+        ],
+        "atts": []
     },
     "44": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "마키는 침대에 앉아 타키를 손짓해 불렀다."
             }
-        ]
+        ],
+        "atts": []
     },
     "45": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키, 넌 정말 강하고 단호하지만, 항상 스스로를 가둬두는 것 같아."
             }
-        ]
+        ],
+        "atts": []
     },
     "46": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……이건 예술가의 공통된 문제일까?"
             }
-        ]
+        ],
+        "atts": []
     },
     "47": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "나는 예술가가 아니야."
             }
-        ]
+        ],
+        "atts": {}
     },
     "48": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "너는 예술가야."
             }
-        ]
+        ],
+        "atts": []
     },
     "49": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "하……"
             }
-        ]
+        ],
+        "atts": {}
     },
     "50": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（언니가 이렇게 말하는 건 정말 듣기 싫어……）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "51": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "자신감을 가져, 너의 곡은 정말 훌륭해."
             }
-        ]
+        ],
+        "atts": []
     },
     "52": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "하지만 예술가도 잠이 필요해."
             }
-        ]
+        ],
+        "atts": []
     },
     "53": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "마키는 타키의 어깨를 감쌌고, 놀란 타키는 반응하지 못했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "54": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "언니?!"
             }
-        ]
+        ],
+        "atts": {}
     },
     "55": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "어릴 때는 자주 그랬잖아?"
             }
-        ]
+        ],
+        "atts": []
     },
     "56": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그, 그게 몇 년 전인데! 나 지금은……"
             }
-        ]
+        ],
+        "atts": {}
     },
     "57": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그래, 몇 년 전부터 나에게 의지하지 않고, 주변 사람들에게도 의지하지 않았잖아?"
             }
-        ]
+        ],
+        "atts": []
     },
     "58": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "나……"
             }
-        ]
+        ],
+        "atts": {}
     },
     "59": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 더 이상 저항하지 않았다. 반박하고 싶었지만, 결국 입을 다물었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "60": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그래, 이제 쉬어야지."
             }
-        ]
+        ],
+        "atts": []
     },
     "61": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "마키는 옛날처럼 타키의 팔을 부드럽게 두드렸다."
             }
-        ]
+        ],
+        "atts": []
     },
     "62": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "잊혀진 피로가 다시 나타났기 때문일지도, 창밖의 화이트 노이즈 덕분일지도 모른다. 23살의 시이나 타키는 언니의 품에서 졸음이 몰려왔다."
             }
-        ]
+        ],
+        "atts": []
     },
     "63": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "동생의 호흡이 안정되는 것을 느끼며, 마키는 타키의 머리를 만지고 침대 옆 램프를 껐다."
             }
-        ]
+        ],
+        "atts": []
     },
     "64": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "나는…… 네가 생각한 만큼 널 잘 모르는 것 같아."
             }
-        ]
+        ],
+        "atts": []
     },
     "65": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……잘 자, 타키."
             }
-        ]
+        ],
+        "atts": []
     }
 }

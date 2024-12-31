@@ -1,785 +1,872 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "밤하늘을 천천히 물들여가는 어둠 속에서 빠른 발걸음 소리가 개발 중인 폐건물 상업 지구의 경계에 울려 퍼진다. 따뜻한 물로 몸을 씻어내리고 침대에 드러눕고 싶다는 생각이 얼마 남지 않은 거리를 더욱 짧게 느끼게 만들었다. 시이나 타키는 빠른 걸음으로 집을 향해 나아갔다."
             }
-        ]
+        ],
+        "atts": []
     },
     "1": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이 작은 공원만 지나치면 곧이다.."
             }
-        ]
+        ],
+        "atts": []
     },
     "2": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이 사실에 그녀는 조금 안도했다. 저녁의 황혼이 서서히 물러가고, 아직 도로의 양쪽에 위치한 가로등이 켜지지 않았지만 충분히 어두운 시간이였다."
             }
-        ]
+        ],
+        "atts": []
     },
     "3": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(황혼 전 몇 시간은 귀신이 출몰하는 시간이라지만, 이런 시간대는 분명 이상한 사람이 돌아 다닐거란 말이지.)"
             }
-        ]
+        ],
+        "atts": []
     },
     "4": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그녀는 경계하며 길가의 풍경을 바라보았다. 이미 노숙자들이 모여 있던 폐건물 상업 지구를 벗어났지만, 반쯤 폐쇄된 공원도 밤에 지나기엔 으스스한 장소였다."
             }
-        ]
+        ],
+        "atts": []
     },
     "5": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "머리 속에는 자연스레 며칠 전, 집 앞에서 무언가를 조사 하고 있던 경찰을 마주쳤던 일이 떠올랐다."
             }
-        ]
+        ],
+        "atts": []
     },
     "6": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아이들이 부모에게 인계되는 것을 확인하기 위해 그녀는 일반 직장인들보다 조금 더 늦게 퇴근했다. 머나먼 귀갓길을 지나고 집 문을 열면 대부분 저녁이 지난 밤이였다."
             }
-        ]
+        ],
+        "atts": []
     },
     "7": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "집에서 저녁 식사를 마친 뒤, 소화를 위해 간단히 산책로를 돌던 사람들도 이미 사라진지 오래였다. 이 시간대의 도로에서는 사람의 모습을 보기 힘들었지만 오늘은 달랐다."
             }
-        ]
+        ],
+        "atts": []
     },
     "8": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(가로등 아래에 서 있는 저 사람은……)"
             }
-        ]
+        ],
+        "atts": []
     },
     "9": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(경찰? 이런 시간에 여기서 뭐하는 거지?)"
             }
-        ]
+        ],
+        "atts": []
     },
     "10": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(……옆 길로 돌아서 가야겠다.)"
             }
-        ]
+        ],
+        "atts": []
     },
     "11": {
         "speaker": "경찰",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "저기, 저기 아가씨, 잠시만요."
             }
-        ]
+        ],
+        "atts": []
     },
     "12": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키를 불러 세운 덩치 큰 경찰관은 검은색 우비를 입고는 가로등의 불빛을 거의 가리며 서 있었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "13": {
         "speaker": "경찰",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "혹시 여기 근처에 사세요?"
             }
-        ]
+        ],
+        "atts": []
     },
     "14": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "네, 그런데요."
             }
-        ]
+        ],
+        "atts": []
     },
     "15": {
         "speaker": "경찰",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "혹시 어제 저녁 8시쯤 댁에 계셨나요?"
             }
-        ]
+        ],
+        "atts": []
     },
     "16": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아, 저는……"
             }
-        ]
+        ],
+        "atts": []
     },
     "17": {
         "speaker": "경찰",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그때 밖에서 무슨 이상한 소리를 들으신 적이 있으십니까?"
             }
-        ]
+        ],
+        "atts": []
     },
     "18": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(어제 나는 저녁 내내 책상 앞에서 다음 수업을 위한 교안을 준비하며 마시마 마사토시의 《사람에게는 각자의 사정이 있다》를 반복 재생해 들었지.)"
             }
-        ]
+        ],
+        "atts": []
     },
     "19": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "죄송해요, 제가 그때 헤드폰을 끼고 있어서 밖에서 무슨 일이 있었는지는 잘 모르겠어요."
             }
-        ]
+        ],
+        "atts": []
     },
     "20": {
         "speaker": "경찰",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그렇군요……"
             }
-        ]
+        ],
+        "atts": []
     },
     "21": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "무슨 일이라도 있었나요?"
             }
-        ]
+        ],
+        "atts": []
     },
     "22": {
         "speaker": "경찰",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "최근 이 주변에서 습격 사건이 발생해서요."
             }
-        ]
+        ],
+        "atts": []
     },
     "23": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……"
             }
-        ]
+        ],
+        "atts": []
     },
     "24": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "피해자는… 괜찮나요?"
             }
-        ]
+        ],
+        "atts": []
     },
     "25": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "경찰은 타키에게 길을 내어 주었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "26": {
         "speaker": "경찰",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "손에 상처를 입은걸로 그쳤지만, 연주를 직업으로 하고 있다고 하더군요. 손만 다쳤으니 운이 좋았다라 할 수는 없겠네요."
             }
-        ]
+        ],
+        "atts": []
     },
     "27": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(연주를 직업으로 하고 있다고? 악재도 이런 악재가..)"
             }
-        ]
+        ],
+        "atts": []
     },
     "28": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "경찰은 불안해 하는 시민을 안심시키기 위해 그들이 취하고 있는 보완 조치를 이야기하기 시작했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "29": {
         "speaker": "경찰",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "어쨌든 최근에는 이 근방의 순찰을 강화하고 있고, 각 도로에 감시 카메라를 설치해 감시 범위를 늘릴 예정입니다……"
             }
-        ]
+        ],
+        "atts": []
     },
     "30": {
         "speaker": "경찰",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "하, 비가 그치질 않네요."
             }
-        ]
+        ],
+        "atts": []
     },
     "31": {
         "speaker": "경찰",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "참, 세상 일은 알 수가 없네요…… 그래도 저희는 시민 여러분의 안전을 위하여 최대한 노력할 겁니다. 협조해 주셔서 감사합니다. 이제 그만 집으로 돌아가세요."
             }
-        ]
+        ],
+        "atts": []
     },
     "32": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그의 마지막 말은 힘차게 마무리되었지만, 타키는 이유 없는 한숨을 쉬며 지친 발걸음을 집으로 향했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "33": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "세상 일은 절대 예측할 수가 없는 건가?"
             }
-        ]
+        ],
+        "atts": []
     },
     "34": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그 누구도 “삶이 예기치 않은 사건으로 망가질 수 있다”는 재앙을 좋아하지는 않듯이, 갑자기 길가의 풀숲에서 튀어나와 사람을 공격하는 술 취한 사람을 기다리지 않는 것처럼..."
             }
-        ]
+        ],
+        "atts": []
     },
     "35": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 그 사건에 대해 생각하며 생각에 빠졌다. 의식이 현실로 돌아오자, 어느새 작은 공원의 입구에 도착했다는 걸 깨달았다. 공원 안에는 나무들의 그림자가 드리워졌고, 길가의 덤불은 손질되지 않아 성인 한 명이 숨을 수 있을 정도로 길쭉하게 자랐다."
             }
-        ]
+        ],
+        "atts": []
     },
     "36": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "어둡고 알 수 없는 환경은 상상력을 자극한다. 다행히 굽어지는 도로 쪽의 나무 사이에서 밝은 손전등 빛이 하나 나타났다."
             }
-        ]
+        ],
+        "atts": []
     },
     "37": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "?!"
             }
-        ]
+        ],
+        "atts": []
     },
     "38": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(아직 나를 알아보진 못한 것 같은데, 지금 바로 돌아가면……)"
             }
-        ]
+        ],
+        "atts": []
     },
     "39": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그녀는 거의 돌아서서 발걸음을 떼려 했지만, 상대방은 드디어 원하던 것을 찾은 듯, 손전등의 빛이 나뭇가지를 스치며 땅을 비췄다. 짧게 나타났던 친숙한 머리카락의 색깔이 그녀의 발걸음을 멈추게 했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "40": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "궁금증과 부적절한 호기심이 두려움을 희석시키자 타키는 뒤로 돌아갈 생각이 사라졌다. 거리가 점차 가까워지자 보이는 그 그림자 속의 어두운 녹색 목도리가 그녀의 판단을 더욱 확고히 하였다."
             }
-        ]
+        ],
+        "atts": []
     },
     "41": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "토모리!"
             }
-        ]
+        ],
+        "atts": []
     },
     "42": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "상대방은 자신의 이름이 불림과 동시에 손전등의 방향을 소리의 근원으로 돌렸고, 갑작스럽게 쏟아지는 빛 줄기에 타키는 무의식적으로 손을 들어올려 눈을 가렸다. 그 순간, 가장 묻고 싶었던 것을 상대방이 먼저 물었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "43": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키쨩...? 여기서 뭐해?"
             }
-        ]
+        ],
+        "atts": []
     },
     "44": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "오늘 퇴근이 좀 늦어져서, 지름길로 오다 보니 여기를 지나치게 됐어."
             }
-        ]
+        ],
+        "atts": []
     },
     "45": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그건 그렇고, 토모리 너는 어쩌다 이런 위험한 곳에 혼자 오게 된 거야? 최근 이 근처에서..."
             }
-        ]
+        ],
+        "atts": []
     },
     "46": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이 근처는 얼마 전에 사건이 발생해서 별로 안전하지 않아, 토모리. 여길 오려면 적어도 나한테는 연락해 줘, 토모리. 나랑 같이 오자."
             }
-        ]
+        ],
+        "atts": []
     },
     "47": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그녀는 잠시 망설였고, 사건의 구체적인 내용을 말하지는 않았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "48": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "가슴을 쓸어내린 후의 두려움과 토모리에 대한 걱정으로 인해 이 말은 다소 급박하게 느껴졌다. 타키는 토모리의 옆을 향해 몇 걸음 더 걸어갔다."
             }
-        ]
+        ],
+        "atts": []
     },
     "49": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "토모리, 뭘 찾고 있는 거야? 내가 도와줄게, 빨리 찾고 같이 돌아가자."
             }
-        ]
+        ],
+        "atts": []
     },
     "50": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아... 이거. 이미 찾았어."
             }
-        ]
+        ],
+        "atts": []
     },
     "51": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "토모리는 가볍게 손에 쥐고 있던 두 마리의 연한 노란색 곤충의 배를 보여주더니 조용히 손바닥을 펼쳤다."
             }
-        ]
+        ],
+        "atts": []
     },
     "52": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "토모리가 곤충을 좋아하는 건 오래전부터 알고 있었지만, 타키는 여전히 가까이서 곤충을 보는 것에 익숙하지 않았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "53": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이건... 매미?"
             }
-        ]
+        ],
+        "atts": []
     },
     "54": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "응. 출판사에서 곤충을 주제로 한 아동 동화책을 만들고 싶어 해. 매미 이야기를 쓰고 싶은데..."
             }
-        ]
+        ],
+        "atts": []
     },
     "55": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "오랫동안 생각해 보았지만, 구체적인 내용이 잘 떠오르지 않았어서, 그래서..."
             }
-        ]
+        ],
+        "atts": []
     },
     "56": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "토모리는 손바닥에 있는 두 마리의 작은 곤충을 뒤집었고, 타키는 그제서야 그것들의 등 부분이 찢어진 것을 볼 수 있었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "57": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(매미 허물이었구나.)"
             }
-        ]
+        ],
+        "atts": []
     },
     "58": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "매미는 여름 곤충이야. 여름에 태어나서 번식하고, 죽지. 매미의 모든 삶은 여름에 속해 있어."
             }
-        ]
+        ],
+        "atts": []
     },
     "59": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그럼 매미는 자신이 본 적 없는 계절에 대해 궁금해하지 않을까? 만약 겨울을 본다면 어떤 생각을 할까?"
             }
-        ]
+        ],
+        "atts": []
     },
     "60": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "토모리다운 이야기네."
             }
-        ]
+        ],
+        "atts": []
     },
     "61": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그런데 지금 스토리 진행이 막혀 어려워져서, 오늘 오후에 거의 반나절 동안 책상 앞에만 앉아 있었지만 몇 문장밖에 쓰질 못했어. 그래서..."
             }
-        ]
+        ],
+        "atts": []
     },
     "62": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "현실에서 매미를 보면 영감이 떠오를지도 모른다고 생각했어."
             }
-        ]
+        ],
+        "atts": []
     },
     "63": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그렇지만 여름은 이미 지난지 오래고, 매미 허물이 남아 있을 법한 나무들이 있는 공간은 공원뿐이야. 하지만 도심쪽 공원에는 경비원들이 순찰을 다니기도 하고, 거기서 흙을 파는 것도 문제가 될 수 있으니깐..."
             }
-        ]
+        ],
+        "atts": []
     },
     "64": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "다른 익숙한 곳... 타키쨩의 집 근처 공원 뿐이였어."
             }
-        ]
+        ],
+        "atts": []
     },
     "65": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그렇구나……"
             }
-        ]
+        ],
+        "atts": []
     },
     "66": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 한숨을 쉬고 싶었지만, 토모리가 처음 만났을 때에 비해 행동력이 크게 발전한 것을 느끼고 들여 삼켰다. 때때로 타키는 그녀의 추진력을 감당하기에 벅찼다."
             }
-        ]
+        ],
+        "atts": []
     },
     "67": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "토모리, 그 생각이 떠오르자마자 바로 여기로 나온거야?"
             }
-        ]
+        ],
+        "atts": []
     },
     "68": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "여기서 찾지 못한다면 남쪽 숲을 한 번 찾아가볼까 했어..."
             }
-        ]
+        ],
+        "atts": []
     },
     "69": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "내 말은, 요즘 비가 자주 내리잖아. 나올 때 우산을 챙겼어야지."
             }
-        ]
+        ],
+        "atts": []
     },
     "70": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키의 말을 입증하듯, 머리 위의 나뭇잎에서 빗방울이 떨어지는 소리가 들려오기 시작했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "71": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "큰일이다..."
             }
-        ]
+        ],
+        "atts": []
     },
     "72": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 휴대폰을 꺼내 화면을 눌렀다."
             }
-        ]
+        ],
+        "atts": []
     },
     "73": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "비가 진짜 갑작스럽게 오네, 다행히 근처에 택시가 있어. 토모리, 나를 따라와."
             }
-        ]
+        ],
+        "atts": []
     },
     "74": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "응."
             }
-        ]
+        ],
+        "atts": []
     },
     "75": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "가로등이 하나둘씩 켜지기 시작하자 빗줄기도 점점 더 강해져 택시의 본넷에 둔탁한 소리를 내며 떨어졌다."
             }
-        ]
+        ],
+        "atts": []
     },
     "76": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "두 사람은 잠깐이나마 비를 막아주던 나무 그늘을 벗어나 도로로 위의 택시로 다가갔고, 타키가 뒷좌석의 문을 열자 토모리가 자연스럽게 타키를 지나쳐 안쪽에 자리 잡았고, 이를 본 타키는 문을 닫았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "77": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "고마워, 타키쨩."
             }
-        ]
+        ],
+        "atts": []
     },
     "78": {
         "speaker": "운전사",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이 주소로 가면 될 까요?"
             }
-        ]
+        ],
+        "atts": []
     },
     "79": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "네, 문 앞까지 부탁드려요."
             }
-        ]
+        ],
+        "atts": []
     },
     "80": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 고개를 끄덕이자, 택시 문이 찰칵 소리를 내며 잠겼고, 차량이 앞으로 움직이기 시작했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "81": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "토모리, 집에 도착하면 연락해!"
             }
-        ]
+        ],
+        "atts": []
     },
     "82": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "알겠어!"
             }
-        ]
+        ],
+        "atts": []
     },
     "83": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "택시의 엔진이 거친 소리를 내며 속력을 올리자 토모리는 창문 밖으로 반쯤 머리를 내밀고 손을 흔들며 인사를 했다. 타키도 가만히 서 손을 흔들어주었고, 창문 밖으로 빼꼼 삐져 나온 회색 머리가 멀어지며 빗물에 젖은 콘크리트 도로의 모퉁이에서 사라질 때까지 쭉 지켜보았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "84": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "정말 예상치 못한 만남이었네……"
             }
-        ]
+        ],
+        "atts": []
     },
     "85": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 이 행운에 더 감탄하고 싶었지만, 거세게 내리는 빗줄기가 그녀를 더 이상 이곳에 여유롭게 서있을 수 없게 했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "86": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "빨리 집에 가기나 하자."
             }
-        ]
+        ],
+        "atts": []
     }
 }

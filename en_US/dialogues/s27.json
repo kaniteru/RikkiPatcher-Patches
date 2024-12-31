@@ -1,817 +1,907 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "这是立希第一次到爱音目前居住的公寓。"
             }
-        ]
+        ],
+        "atts": []
     },
     "1": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "当然，这并不是说她们的关系不好……"
             }
-        ]
+        ],
+        "atts": []
     },
     "2": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "毕竟之前的聚会大多安排在空间更大的长崎家。"
             }
-        ]
+        ],
+        "atts": []
     },
     "3": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "完全没有注意到立希的想法，爱音从二人离家尚有百米的时候就保持着显而易见的兴致勃勃。"
             }
-        ]
+        ],
+        "atts": []
     },
     "4": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "直到现在——"
             }
-        ]
+        ],
+        "atts": []
     },
     "5": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（不要心虚，你和她的关系其实还是不错的——相较于某些人来说。）"
             }
-        ]
+        ],
+        "atts": []
     },
     "6": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "哼哼——准备好了吗！进入伟大主播小爱音的世界——！！！"
             }
-        ]
+        ],
+        "atts": []
     },
     "7": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "好啦好啦，快开门，别浪费时间。"
             }
-        ]
+        ],
+        "atts": []
     },
     "8": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "爱音掏出门卡，在电子锁前轻轻扫过。"
             }
-        ]
+        ],
+        "atts": []
     },
     "9": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Rikki还真是不会捧场呢……"
             }
-        ]
+        ],
+        "atts": []
     },
     "10": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "谁让你一天到晚都那么浮夸。"
             }
-        ]
+        ],
+        "atts": []
     },
     "11": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "偶尔也对人家说两句好听的话啦……"
             }
-        ]
+        ],
+        "atts": []
     },
     "12": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "这样吵吵闹闹着，立希随着爱音踏进了她未曾造访的公寓。"
             }
-        ]
+        ],
+        "atts": []
     },
     "13": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "换上爱音递给她的一次性拖鞋，立希跟上主人的脚步，一边朝内走，一边开始四处打量室内的布置。"
             }
-        ]
+        ],
+        "atts": []
     },
     "14": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "很简单的装饰，简单到完全不符合印象中千早爱音的风格。"
             }
-        ]
+        ],
+        "atts": []
     },
     "15": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希有些诧异。"
             }
-        ]
+        ],
+        "atts": []
     },
     "16": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "好在这份情绪与公寓的纵深一样短。"
             }
-        ]
+        ],
+        "atts": []
     },
     "17": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "没几步就走到了尽头，爱音一只手握住门把，另一只手神秘兮兮地朝立希招了招。"
             }
-        ]
+        ],
+        "atts": []
     },
     "18": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "哼哼——这一次才是真的哦——Rikki你准备好了吗？"
             }
-        ]
+        ],
+        "atts": []
     },
     "19": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "说到底，只是看一下你的工作室而已，到底要准备些什么啊？"
             }
-        ]
+        ],
+        "atts": []
     },
     "20": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "千早爱音露出个颇为得意的笑容，伸出食指摆了一摆。"
             }
-        ]
+        ],
+        "atts": []
     },
     "21": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "下一秒，门把转动。"
             }
-        ]
+        ],
+        "atts": []
     },
     "22": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "神秘的空间终于展现在椎名立希的面前。"
             }
-        ]
+        ],
+        "atts": []
     },
     "23": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "欢迎来到——Anon Tokyo的世界——！！！！！"
             }
-        ]
+        ],
+        "atts": []
     },
     "24": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……"
             }
-        ]
+        ],
+        "atts": []
     },
     "25": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "爱音张开双臂，结结实实堵在了门口。"
             }
-        ]
+        ],
+        "atts": []
     },
     "26": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "以至于过了好半天，立希才意识到什么。"
             }
-        ]
+        ],
+        "atts": []
     },
     "27": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "我说，真的有必要吗？真的要我说那种话才……我可以现在就回去吗？"
             }
-        ]
+        ],
+        "atts": []
     },
     "28": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "粉色头发的少女，情绪转换的功力并非吹嘘，登时，两滴泪珠就凝聚在眼角处，一派楚楚可怜的样子。"
             }
-        ]
+        ],
+        "atts": []
     },
     "29": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "我真是服了——好吧好吧好吧——！！"
             }
-        ]
+        ],
+        "atts": []
     },
     "30": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希动作僵硬地捧住了脸。"
             }
-        ]
+        ],
+        "atts": []
     },
     "31": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "天哪——我可真是荣幸啊——可以看见大名鼎鼎的主播，阿农透酷游的直播室——"
             }
-        ]
+        ],
+        "atts": []
     },
     "32": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（这下满意了吗？？？）"
             }
-        ]
+        ],
+        "atts": []
     },
     "33": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "棒读一般全然没有起伏的话语，敷衍的意味明显，而妥协之后，立希的眼神也朝着粉毛发出无声的威胁。"
             }
-        ]
+        ],
+        "atts": []
     },
     "34": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "然而爱音全然不惧怕。"
             }
-        ]
+        ],
+        "atts": []
     },
     "35": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "或许是在前几次的交锋中逐步试探出了立希今天那意外灵活的底线，也可能是本身就笃定了这人的心软。"
             }
-        ]
+        ],
+        "atts": []
     },
     "36": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "嘻嘻，人家就知道Rikki最好了——请进吧！初来乍到的椎名小姐！"
             }
-        ]
+        ],
+        "atts": []
     },
     "37": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "椎名立希终于得以窥见小小直播间的全貌。"
             }
-        ]
+        ],
+        "atts": []
     },
     "38": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "麻雀虽小，五脏俱全。灯光、麦克风、镜子……一切的配置非常齐全，衣柜、桌子、灯光甚至沙发上的杂物都经过了精心的设置——当然，这些全部都难逃爱音那谜一般的装饰品味。"
             }
-        ]
+        ],
+        "atts": []
     },
     "39": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希忽然安下心来。"
             }
-        ]
+        ],
+        "atts": []
     },
     "40": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（果然还是这样才对。这样才是爱音的风格。）"
             }
-        ]
+        ],
+        "atts": []
     },
     "41": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Rikki还是第一次来呢！既然如此，就让小爱音我亲自给你好好介绍一下吧！"
             }
-        ]
+        ],
+        "atts": []
     },
     "42": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "爱音确实没有客套。"
             }
-        ]
+        ],
+        "atts": []
     },
     "43": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "她如数家珍，十分耐心地给立希挨个介绍房间的布局，时不时还会举起某个物品，详细说明它的作用抑或是特殊意义。"
             }
-        ]
+        ],
+        "atts": []
     },
     "44": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "比如现在。"
             }
-        ]
+        ],
+        "atts": []
     },
     "45": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Rikki—Rikki~~~!看看这个！"
             }
-        ]
+        ],
+        "atts": []
     },
     "46": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "这是……"
             }
-        ]
+        ],
+        "atts": []
     },
     "47": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "是立希熟悉得不能再熟悉的海报，与她在家中的珍藏相同。"
             }
-        ]
+        ],
+        "atts": []
     },
     "48": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "彩印的纸面稍稍泛黄，一看就上了年头，被所有者裱起来塞进了镜框，挂在正对着的直播摄像头的背景墙上。"
             }
-        ]
+        ],
+        "atts": []
     },
     "49": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "而那清晰透明的镜面，在灯光照耀下所散发出的光辉，完全不逊色于周围的各色金属制奖牌。"
             }
-        ]
+        ],
+        "atts": []
     },
     "50": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "就在正中心的位置。"
             }
-        ]
+        ],
+        "atts": []
     },
     "51": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希一时忘记了说话。"
             }
-        ]
+        ],
+        "atts": []
     },
     "52": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "你可别告诉我你忘了——这是我们MyGO第一次演出时的海报和门票票根呀！"
             }
-        ]
+        ],
+        "atts": []
     },
     "53": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "不，我只是没想到你……"
             }
-        ]
+        ],
+        "atts": []
     },
     "54": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "这么重要——是大家第一次聚在一起设计的欸！人家当然保护得很好！"
             }
-        ]
+        ],
+        "atts": []
     },
     "55": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "你没想到的事情可多了去了……谁叫Rikki平常都不怎么来找我！"
             }
-        ]
+        ],
+        "atts": []
     },
     "56": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "………"
             }
-        ]
+        ],
+        "atts": []
     },
     "57": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "椎名立希无可辩驳。"
             }
-        ]
+        ],
+        "atts": []
     },
     "58": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "你说得或许是对的。"
             }
-        ]
+        ],
+        "atts": []
     },
     "59": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希忽然意识到，这好像是她这些年来第一次真正了解爱音的工作和生活。"
             }
-        ]
+        ],
+        "atts": []
     },
     "60": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（或许正因为我就是这样的人……）"
             }
-        ]
+        ],
+        "atts": []
     },
     "61": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希抬眼看向仍旧兴奋地对自己介绍直播设备和粉丝礼物的爱音。"
             }
-        ]
+        ],
+        "atts": []
     },
     "62": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……还有这个和这个！我真的很喜欢——我还特意给她们写了回信……"
             }
-        ]
+        ],
+        "atts": []
     },
     "63": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "聊起这些的少女，浑身上下都满溢着柔和的光芒，而这些小小的，星星点点的光，无一遗漏地，全部倒映进立希的瞳孔中。"
             }
-        ]
+        ],
+        "atts": []
     },
     "64": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（真的……让人感到厌烦。）"
             }
-        ]
+        ],
+        "atts": []
     },
     "65": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "好了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "66": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "她轻轻打断了爱音的未尽的话语。"
             }
-        ]
+        ],
+        "atts": []
     },
     "67": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "我知道我问了一个多么傻的问题了——你真的很爱这份工作，很爱你的观众。"
             }
-        ]
+        ],
+        "atts": []
     },
     "68": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（是的，我早就该知道。）"
             }
-        ]
+        ],
+        "atts": []
     },
     "69": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（没有人可以永远怀抱着最大的热情去持之以恒地做什么事。）"
             }
-        ]
+        ],
+        "atts": []
     },
     "70": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（除非她的付出收到了应有的回报。）"
             }
-        ]
+        ],
+        "atts": []
     },
     "71": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（不管那回报究竟是金钱，权力，名声亦或是……爱。）"
             }
-        ]
+        ],
+        "atts": []
     },
     "72": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "你的观众也都很爱你。"
             }
-        ]
+        ],
+        "atts": []
     },
     "73": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "你接住这些爱了，对吗？"
             }
-        ]
+        ],
+        "atts": []
     },
     "74": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希的话说得真心实意。"
             }
-        ]
+        ],
+        "atts": []
     },
     "75": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "爱音的脸色却渐渐变得严肃起来。"
             }
-        ]
+        ],
+        "atts": []
     },
     "76": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "爱音隐隐感到有些慌张。"
             }
-        ]
+        ],
+        "atts": []
     },
     "77": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "那种心跳突然漏拍的感觉，让她不由自主拉住了对方的衣袖，喊出那个她甚少喊出的名字。"
             }
-        ]
+        ],
+        "atts": []
     },
     "78": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希。"
             }
-        ]
+        ],
+        "atts": []
     },
     "79": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "没关系的，我没事。"
             }
-        ]
+        ],
+        "atts": []
     },
     "80": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "只是有感而发。"
             }
-        ]
+        ],
+        "atts": []
     },
     "81": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "是的。"
             }
-        ]
+        ],
+        "atts": []
     },
     "82": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "椎名立希只是刚刚发现了自己又一个卑劣的弱点罢了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "83": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "是的。或许就是这样……"
             }
-        ]
+        ],
+        "atts": []
     },
     "84": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "其实你比我更早地看清楚这一点，是吗，爱音？"
             }
-        ]
+        ],
+        "atts": []
     },
     "85": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "爱音没有回答。"
             }
-        ]
+        ],
+        "atts": []
     },
     "86": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "她只是呆呆看着立希。"
             }
-        ]
+        ],
+        "atts": []
     },
     "87": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "我一直以来……似乎都在逃避，都在，嗯…在刻意地忽视我获得的东西，单单陷入在自己的情绪里。"
             }
-        ]
+        ],
+        "atts": []
     },
     "88": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "以至于，我好像从来也没有回馈过大家什么……"
             }
-        ]
+        ],
+        "atts": []
     },
     "89": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "正因为是这样的我……"
             }
-        ]
+        ],
+        "atts": []
     },
     "90": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "所以即使有一天，我作为人的部分被这个世界抛弃了，也没什么好意外的，\n"
@@ -820,996 +910,1163 @@
                 "html": "style='color:#FfFffF'",
                 "text": "对吗？"
             }
-        ]
+        ],
+        "atts": []
     },
     "91": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希——！"
             }
-        ]
+        ],
+        "atts": []
     },
     "92": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "足够尖利的叫声。"
             }
-        ]
+        ],
+        "atts": []
     },
     "93": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "来自一贯好脾气示人的爱音。"
             }
-        ]
+        ],
+        "atts": []
     },
     "94": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "你怎么可以说出这样的话！你…你…你……"
             }
-        ]
+        ],
+        "atts": []
     },
     "95": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "总之你不可以说这种话！！！"
             }
-        ]
+        ],
+        "atts": []
     },
     "96": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "不同于爱音惶惶的急躁，立希却意外的好脾气起来。"
             }
-        ]
+        ],
+        "atts": []
     },
     "97": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "倒不如说，爱音终于意识到，从今天在RiNG相遇开始，对方的脾气就好得反常。"
             }
-        ]
+        ],
+        "atts": []
     },
     "98": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希，你到底怎么了？你遇到什么困难了吗？你生病了？还是家里遇到了什么事情？是我可以帮到你的吗？你需要什么？钱？我可以给你钱的立希，我可是世界第一的Anon Tokyo！"
             }
-        ]
+        ],
+        "atts": []
     },
     "99": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "我的频道还是赚了不少钱的，我一直都有攒着，本来是想给我们MyGO也好好开一场顶级Live的，你有需要我可以马上就转——"
             }
-        ]
+        ],
+        "atts": []
     },
     "100": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希按住了爱音突然攥紧自己袖口的手。"
             }
-        ]
+        ],
+        "atts": []
     },
     "101": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "她一时不知道该说些什么，抿着唇想了半晌，最后还是只能挤出一个笑来。"
             }
-        ]
+        ],
+        "atts": []
     },
     "102": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（呃……）"
             }
-        ]
+        ],
+        "atts": []
     },
     "103": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（她肯定有什么事情瞒着我。）"
             }
-        ]
+        ],
+        "atts": []
     },
     "104": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（不然不至于笑成这样——比哭都要难看。）"
             }
-        ]
+        ],
+        "atts": []
     },
     "105": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "不过爱音说到底也没胆子把这几句话说出来。"
             }
-        ]
+        ],
+        "atts": []
     },
     "106": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "好啦。"
             }
-        ]
+        ],
+        "atts": []
     },
     "107": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "我真的没事。"
             }
-        ]
+        ],
+        "atts": []
     },
     "108": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "只是最近写歌一直没什么灵感，废稿堆了太多，心情有些郁闷。"
             }
-        ]
+        ],
+        "atts": []
     },
     "109": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "真的？"
             }
-        ]
+        ],
+        "atts": []
     },
     "110": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "真的。"
             }
-        ]
+        ],
+        "atts": []
     },
     "111": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "真的真的真的真的？"
             }
-        ]
+        ],
+        "atts": []
     },
     "112": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "真的真的真的真的……我像是会在这种事情上骗你的人吗？"
             }
-        ]
+        ],
+        "atts": []
     },
     "113": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "………"
             }
-        ]
+        ],
+        "atts": []
     },
     "114": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "难说。"
             }
-        ]
+        ],
+        "atts": []
     },
     "115": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "喂——"
             }
-        ]
+        ],
+        "atts": []
     },
     "116": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "幸好来自手机的震动提醒拯救了立希。"
             }
-        ]
+        ],
+        "atts": []
     },
     "117": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "拌嘴暂停，立希低头去看收到的信息。"
             }
-        ]
+        ],
+        "atts": []
     },
     "118": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（订阅通……谢天谢地——进门前怕打扰到她录制所以给手机开了震动。）"
             }
-        ]
+        ],
+        "atts": []
     },
     "119": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希的脸色十分不对。"
             }
-        ]
+        ],
+        "atts": []
     },
     "120": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "这是爱音立刻发现的事情。"
             }
-        ]
+        ],
+        "atts": []
     },
     "121": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "什么什么，你收到什么了——该不会是催债短信吧？让我——"
             }
-        ]
+        ],
+        "atts": []
     },
     "122": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "等等。"
             }
-        ]
+        ],
+        "atts": []
     },
     "123": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "伸手推开爱音凑过来的脸，立希快速划走了消息框，将只剩时间界面的手机主页展示到对方的眼前。"
             }
-        ]
+        ],
+        "atts": []
     },
     "124": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "我记得……你说你几点钟要开播来着？"
             }
-        ]
+        ],
+        "atts": []
     },
     "125": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……"
             }
-        ]
+        ],
+        "atts": []
     },
     "126": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "爱音手忙脚乱地去准备直播要用的设备了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "127": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希悄悄松口气，站在一边看了会儿，见爱音已经全然投入进工作，无暇顾及先前的话题，立刻决定趁热打铁，向主播辞行。"
             }
-        ]
+        ],
+        "atts": []
     },
     "128": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（她这时候应该没心思听我说了什么，打个招呼就走吧。）"
             }
-        ]
+        ],
+        "atts": []
     },
     "129": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（再留下来，也不知道我这万中无一的倒霉事会不会对直播有影响……）"
             }
-        ]
+        ],
+        "atts": []
     },
     "130": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "什么？不行——不可以！"
             }
-        ]
+        ],
+        "atts": []
     },
     "131": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Rikki~~~~~~"
             }
-        ]
+        ],
+        "atts": []
     },
     "132": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "与立希所想不同，听见她要告辞，爱音当即从散乱的物品中横跨过来，直接抱住了转身将走的立希的后腰。"
             }
-        ]
+        ],
+        "atts": []
     },
     "133": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "紧接而来的，是尾音转出十八个弯，直逼秋名山跑道的撒娇。"
             }
-        ]
+        ],
+        "atts": []
     },
     "134": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "明明穿着足够多的衣服，椎名立希还是打了个冷战。"
             }
-        ]
+        ],
+        "atts": []
     },
     "135": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "留下来，留下来嘛！"
             }
-        ]
+        ],
+        "atts": []
     },
     "136": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "你都呆了这么久了，也不差直播这一点时间——而且一开始不就说好了，你要到我的直播间一起——你都没有看过人家的频道！"
             }
-        ]
+        ],
+        "atts": []
     },
     "137": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "你刚刚还说不会骗我！"
             }
-        ]
+        ],
+        "atts": []
     },
     "138": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "意料之外的坚持。"
             }
-        ]
+        ],
+        "atts": []
     },
     "139": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "意料之内的胡搅蛮缠。"
             }
-        ]
+        ],
+        "atts": []
     },
     "140": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "我刚刚说的是那个意思吗？？！！"
             }
-        ]
+        ],
+        "atts": []
     },
     "141": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "而且谁说我没看过你的频道了！"
             }
-        ]
+        ],
+        "atts": []
     },
     "142": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "你看过？你看过？！你居然看过？！明明连关注都是我抢了你的手机自己点上的——你倒是说说你看了什么啊！"
             }
-        ]
+        ],
+        "atts": []
     },
     "143": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "就是那个啊，让你一炮而红的那个系列。"
             }
-        ]
+        ],
+        "atts": []
     },
     "144": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "呃……叫什么来着……"
             }
-        ]
+        ],
+        "atts": []
     },
     "145": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "“Anon London”，我想起来了，“Anon London”，你的那个重返伦敦系列——我那天一点进去就看见你趴在泰晤士河边上呕吐——之后那一周每次的直播和切片我都有在看，直到你苟延残喘地拄着拐回来。"
             }
-        ]
+        ],
+        "atts": []
     },
     "146": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "我甚至还给你打了几个SC呢！"
             }
-        ]
+        ],
+        "atts": []
     },
     "147": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "这确实是Anon Tokyo频道下最著名，最出圈的视频系列。"
             }
-        ]
+        ],
+        "atts": []
     },
     "148": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "也是让爱音从寂寂无名的小游戏主播鱼跃龙门，转型生活分享，跻身中层主播的最关键节点，一度被网友评价为“综艺之神下界干直播”。"
             }
-        ]
+        ],
+        "atts": []
     },
     "149": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "——因为主播几乎每一分钟都在倒霉。"
             }
-        ]
+        ],
+        "atts": []
     },
     "150": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "你要是还不信，我可以继续说的。"
             }
-        ]
+        ],
+        "atts": []
     },
     "151": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "你第一天去就赶上暴雨飞机延误，被困机场六小时，下飞机后因为化妆太浓和护照长得不一样被海关带进小黑屋，好不容易出来，打车时候说错了地址，多走六公里的路才到旅馆，去探店的时候还被甜品齁到嗓子连灌三杯水……"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "fontSize": 36
+                },
+                {
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "152": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "………"
             }
-        ]
+        ],
+        "atts": []
     },
     "153": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "够了，真的够了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "154": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "能不能别让我想起来，我已经发誓这辈子再也不踏足大不列颠群岛了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "155": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "可你不是还很开心地开了一个【Anon xxx】的旅游系列。"
             }
-        ]
+        ],
+        "atts": []
     },
     "156": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "我说实话，都不如伦敦——你要不移民到英国去吧，感觉能赚不少呢。"
             }
-        ]
+        ],
+        "atts": []
     },
     "157": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "说出来你可能不信，我本来准备干完那一票就宣布退出网红届的。"
             }
-        ]
+        ],
+        "atts": []
     },
     "158": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "啊呀不要转移话题——人家不管啦！！人家就要你来和人家一起播！！！！！"
             }
-        ]
+        ],
+        "atts": []
     },
     "159": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "再说了人家的频道都好久没有MyGO的大家来了！上一次还是灯在黄金周的时候来——人家不想大家只记得网红主播小爱音不记得人家引以为豪的MyGO吉他手身份嘛~~~~~"
             }
-        ]
+        ],
+        "atts": []
     },
     "160": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "亏你还好意思提这件事——你是忘记灯当时看到多少乱七八糟的留言吗！"
             }
-        ]
+        ],
+        "atts": []
     },
     "161": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "那确实是我的不对……但是人家当时就让房管处理了啊——而且Tomorin是Tomorin，Rikki是Rikki嘛！"
             }
-        ]
+        ],
+        "atts": []
     },
     "162": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Rikki只要别让我的直播间像你的对线小号一样被封掉就好了！毕竟Rikki的小号有很多，人家的直播间可只有这一个！"
             }
-        ]
+        ],
+        "atts": []
     },
     "163": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "爱音似乎说出了什么不得了的东西。"
             }
-        ]
+        ],
+        "atts": []
     },
     "164": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "甚至连爱音自己也在说完后才后知后觉捂住了嘴。"
             }
-        ]
+        ],
+        "atts": []
     },
     "165": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "不算宽敞的空间里，本就不够通畅的气流，在这时似乎全都凝固起来，重重砸到了地上。"
             }
-        ]
+        ],
+        "atts": []
     },
     "166": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希的脸陡然涨红了，她把脸挪开到一边。"
             }
-        ]
+        ],
+        "atts": []
     },
     "167": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "其实立希并未如同爱音所想那般生气。"
             }
-        ]
+        ],
+        "atts": []
     },
     "168": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "或许原本她是将要吼出些什么的。"
             }
-        ]
+        ],
+        "atts": []
     },
     "169": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "但当她望见无意间映入一旁化妆镜的面孔时，那些由于被捅破秘密而生出的暴躁忽然间全都消失了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "170": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（这个人……这个镜子里的人，是我吗？）"
             }
-        ]
+        ],
+        "atts": []
     },
     "171": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希看见了一张不知该如何形容的，枯瘦的，憔悴而阴沉的脸。"
             }
-        ]
+        ],
+        "atts": []
     },
     "172": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "即使面上的红晕仍未完全褪去，这也绝对不是一张可以用水润健康之类的褒义词来形容的脸。"
             }
-        ]
+        ],
+        "atts": []
     },
     "173": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "倒不如说，因情绪起伏而产生的薄红，反而更衬托出这个人的不健康。"
             }
-        ]
+        ],
+        "atts": []
     },
     "174": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "我…我还是先走吧。"
             }
-        ]
+        ],
+        "atts": []
     },
     "175": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "爱音机敏地随着立希的视线望向一边的化妆镜——她立刻意识到了对方情绪转变的缘由。"
             }
-        ]
+        ],
+        "atts": []
     },
     "176": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "爱音不由分说地拉着立希，将人按到那扇化妆镜前坐下。"
             }
-        ]
+        ],
+        "atts": []
     },
     "177": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "好啦！不就是没化妆嘛！"
             }
-        ]
+        ],
+        "atts": []
     },
     "178": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "让无敌的小爱音来帮你化不就好了嘛——我这里可是有很多品牌方寄来的好货的！"
             }
-        ]
+        ],
+        "atts": []
     },
     "179": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "哎呀！不准乱动!"
             }
-        ]
+        ],
+        "atts": []
     },
     "180": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "不要用那种眼神看我！我知道你们质疑我的品味——但是平心而论！我的化妆技术还是不错的吧！不然我哪来那么多化妆品广告接啊！"
             }
-        ]
+        ],
+        "atts": []
     },
     "181": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "谁知道是不是品牌方想出奇制——哎呦好了我不说了你住手！"
             }
-        ]
+        ],
+        "atts": []
     },
     "182": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Rikki，你的脸现在可掌握在我的手里。"
             }
-        ]
+        ],
+        "atts": []
     },
     "183": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "再多嘴小心我真的给你画成猴子！"
             }
-        ]
+        ],
+        "atts": []
     },
     "184": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "话是这么说，爱音还是仔仔细细地，给立希画起妆来。"
             }
-        ]
+        ],
+        "atts": []
     },
     "185": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（明明有一张这么好看的脸……）"
             }
-        ]
+        ],
+        "atts": []
     },
     "186": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（真不知道你到底在害怕什么……）"
             }
-        ]
+        ],
+        "atts": []
     },
     "187": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "解锁CG：Stream of Love"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "alpha": 0,
+                    "fontSize": 30,
+                    "height": 34,
+                    "shadowEnabled": false,
+                    "strokeColor": "#d57fdf",
+                    "width": 413,
+                    "x": 1284,
+                    "y": 1102
+                },
+                {
+                    "alpha": {},
+                    "fontSize": {},
+                    "height": {},
+                    "shadowEnabled": {},
+                    "strokeColor": {},
+                    "width": {},
+                    "x": {},
+                    "y": {}
+                }
+            ],
+            "nameBox": [
+                {
+                    "height": 156,
+                    "x": -240,
+                    "y": 586
+                },
+                {
+                    "height": {},
+                    "x": {},
+                    "y": {}
+                }
+            ],
+            "skipBox": [
+                {
+                    "alpha": 0,
+                    "x": 1546,
+                    "y": 1074
+                },
+                {
+                    "alpha": {},
+                    "x": {},
+                    "y": {}
+                }
+            ]
+        }
     },
     "188": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "说起来，Tomorin和Soyorin有说起过，第一次见到Rikki的时候，你就有化妆呢……"
             }
-        ]
+        ],
+        "atts": []
     },
     "189": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "你们背着我的时候，就在聊这种——嘶，轻一点，拜托你，我的睫毛也很宝贵的。"
             }
-        ]
+        ],
+        "atts": []
     },
     "190": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "都说了吧，你的脸现在掌握在我手里……唉，真是讨厌，不管怎么看五官都这么精致，要不是直播打光可能有影响，对比得太突兀，我都恨不得你素颜上镜……"
             }
-        ]
+        ],
+        "atts": []
     },
     "191": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "那个绝对不行——所以灯和素世还说了什么？"
             }
-        ]
+        ],
+        "atts": []
     },
     "192": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "当然是夸你好看啊——一张特别帅气的脸，配上一个同样帅气的名字，加上熟练的技术和周到的态度。"
             }
-        ]
+        ],
+        "atts": []
     },
     "193": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "幸好脾气臭得不得了——这是素世说的，老天还是比较公平，不然真不知道要有多少人爱你爱得死去活来。"
             }
-        ]
+        ],
+        "atts": []
     },
     "194": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "活来可以，死去就免了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "195": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "哎呀，形容嘛！你怎么这么忌讳啊！好古板……这么一想Rikki你岂不是也在初中就开始化妆了？"
             }
-        ]
+        ],
+        "atts": []
     },
     "196": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……"
             }
-        ]
+        ],
+        "atts": []
     },
     "197": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "我好歹也在吹奏部待过……"
             }
-        ]
+        ],
+        "atts": []
     },
     "198": {
         "speaker": "千早爱音",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "啊呀，是哦。你们演出也需要化妆的……怪不得…立希是从哪里学的呢？老师？还是杂志和网络教程呢？"
             }
-        ]
+        ],
+        "atts": []
     },
     "199": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "嗯……"
             }
-        ]
+        ],
+        "atts": []
     },
     "200": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......是姐姐。"
             }
-        ]
+        ],
+        "atts": []
     }
 }

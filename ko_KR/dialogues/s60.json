@@ -1,1271 +1,1553 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "다리 위의 이른 벚꽃. 남풍의 온도. 흙냄새."
             }
-        ]
+        ],
+        "atts": []
     },
     "1": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이 모든 것이 타키에게 처음으로 좋아했던 그 노래를 떠올리게 했다……"
             }
-        ]
+        ],
+        "atts": []
     },
     "2": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "14살의 꿈속에서 여행의 시작은 부드럽게 두드리는 스네어 드럼이었고, 심벌의 경쾌한 리듬이 그녀를 계속해서 더 높고 더 먼 구름으로 이끌었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "3": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "——“더 빨리 날아가, 타키!”"
             }
-        ]
+        ],
+        "atts": []
     },
     "4": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이제 제비들이 돌아왔고, 여행의 종착역도 그녀에게 손짓하고 있었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "5": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……완성됐다."
             }
-        ]
+        ],
+        "atts": {}
     },
     "6": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（이렇게 끝난 건가요.）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "7": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（레나가 이 부분을 어떻게 연주할지 기대되네.）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "8": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（소요는 모르겠지만, 아이온은 아마 너무 어렵다고 투덜댈 거야.）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "9": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（람프는 어떤 가사를 쓸까……）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "10": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（가능하다면, 하이링과 그 사람에게도 들려주고 싶어.）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "11": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（……모두가 좋아할까?）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "12": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": {}
     },
     "13": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "적어도 난 정말 좋아해."
             }
-        ]
+        ],
+        "atts": {}
     },
     "14": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "연습실로 향하는 발걸음이 어느 때보다도 급했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "15": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아, 이 악보……국민학교 3학년 때 선생님이 손으로 써서 스캔해주신 거야."
             }
-        ]
+        ],
+        "atts": {}
     },
     "16": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "곡명도 없었어. 그리고는……"
             }
-        ]
+        ],
+        "atts": {}
     },
     "17": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "블루 하트와 은행보이즈. 하, 이것도 손글씨로, 기호들이 다 지워져서 완전히 보이지 않아."
             }
-        ]
+        ],
+        "atts": {}
     },
     "18": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "상관없어, 눈을 감고도 칠 수 있어."
             }
-        ]
+        ],
+        "atts": {}
     },
     "19": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이 책자는 처음 재즈 드럼을 배울 때, 스네어에서 하이햇을 밟는 데 익숙해지기까지 정말 오랜 시간이 걸렸어……연습하다가 왼발이 쥐가 날 정도로."
             }
-        ]
+        ],
+        "atts": {}
     },
     "20": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "다음 책자는……"
             }
-        ]
+        ],
+        "atts": {}
     },
     "21": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……찾았다."
             }
-        ]
+        ],
+        "atts": {}
     },
     "22": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "힘차게 드럼 스틱을 두드리며, 연주는 숨을 차지하고 뇌를 비우게 만든다."
             }
-        ]
+        ],
+        "atts": []
     },
     "23": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（만약 가능하다면, 세상에서 알고 있는 것과 모르는 모든 리프를 다 연주해보고 싶어.）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "24": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "시간이 없어, 시간이 없어."
             }
-        ]
+        ],
+        "atts": []
     },
     "25": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（연습실에 거울이 없어서 다행이야, 폭발의 카운트다운을 볼 필요가 없으니까.）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "26": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（아침까지 계속 치다가 쓰러질 때까지……）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "27": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（과로로 사망한 드러머 사건이 될까?）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "28": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……마지막으로 누가 '첫 목격자'가 될까."
             }
-        ]
+        ],
+        "atts": {}
     },
     "29": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "“정말 다른 사람에게 폐를 끼치고 싶지 않다”라는 다소 황당한 생각이 갑자기 떠올랐다."
             }
-        ]
+        ],
+        "atts": []
     },
     "30": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "내가 죽고 나서, 유산은 어떻게 되는 거지? 누가 모두에게 설명해야 하지?"
             }
-        ]
+        ],
+        "atts": []
     },
     "31": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "엄마는 건강이 안 좋아, 딸이 죽었다는 소식을 알려드려야 해서 정말 미안해……"
             }
-        ]
+        ],
+        "atts": []
     },
     "32": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "‘마지막 작품’을 완성했어, 마지막 곡을 완성했어, 하지만……"
             }
-        ]
+        ],
+        "atts": []
     },
     "33": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "——타키는 뒤늦게 깨달았다, 준비할 시간이 너무 많고, 너무 많은 일들이 기다리고 있었다는 것을."
             }
-        ]
+        ],
+        "atts": []
     },
     "34": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "유언장은 편지 쓰는 형식으로 쓰는 건가……"
             }
-        ]
+        ],
+        "atts": {}
     },
     "35": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "장면 설명"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "alpha": 0,
+                    "fontSize": 30,
+                    "height": 34,
+                    "shadowEnabled": false,
+                    "strokeColor": "#d57fdf",
+                    "width": 413,
+                    "x": 1284,
+                    "y": 1102
+                },
+                {
+                    "alpha": {},
+                    "fontSize": {},
+                    "height": {},
+                    "shadowEnabled": {},
+                    "strokeColor": {},
+                    "width": {},
+                    "x": {},
+                    "y": {}
+                }
+            ],
+            "nameBox": [
+                {
+                    "height": 156,
+                    "x": -240,
+                    "y": 586
+                },
+                {
+                    "height": {},
+                    "x": {},
+                    "y": {}
+                }
+            ],
+            "skipBox": [
+                {
+                    "alpha": 0,
+                    "x": 1546,
+                    "y": 1074
+                },
+                {
+                    "alpha": {},
+                    "x": {},
+                    "y": {}
+                }
+            ]
+        }
     },
     "36": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": {}
     },
     "37": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "여보세요, 거기……누구세요?"
             }
-        ]
+        ],
+        "atts": {}
     },
     "38": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "언니?"
             }
-        ]
+        ],
+        "atts": {}
     },
     "39": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키!"
             }
-        ]
+        ],
+        "atts": []
     },
     "40": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "어……"
             }
-        ]
+        ],
+        "atts": {}
     },
     "41": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "무슨 일이야, 무슨 일 생겼어?"
             }
-        ]
+        ],
+        "atts": {}
     },
     "42": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "너 계속 문을 안 열어서……"
             }
-        ]
+        ],
+        "atts": []
     },
     "43": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": {}
     },
     "44": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "드럼 연습하고 있었어."
             }
-        ]
+        ],
+        "atts": {}
     },
     "45": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（새벽 5시에 누가 문을 두드릴 거라고는 상상도 못했어.）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "46": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "드럼 연습? 그렇구나……방해한 건 아니지?"
             }
-        ]
+        ],
+        "atts": []
     },
     "47": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……아니."
             }
-        ]
+        ],
+        "atts": {}
     },
     "48": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": {}
     },
     "49": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（미안해, 언니. 마지막에 온 사람이 언니라니……）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "50": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키, 너 왜 그래? 어디 아파?"
             }
-        ]
+        ],
+        "atts": []
     },
     "51": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "얼굴 색이 안 좋아, 어디 아픈 건 아니지……"
             }
-        ]
+        ],
+        "atts": []
     },
     "52": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아니야."
             }
-        ]
+        ],
+        "atts": {}
     },
     "53": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……근데 거의 울 것 같은 얼굴이야."
             }
-        ]
+        ],
+        "atts": []
     },
     "54": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "드럼 연습하다가 땀 좀 흘렸어."
             }
-        ]
+        ],
+        "atts": {}
     },
     "55": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "언니 먼저 들어와."
             }
-        ]
+        ],
+        "atts": {}
     },
     "56": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "미안해, 언니. 네가 좋아하는 팬더 컵이 방금 깨졌어."
             }
-        ]
+        ],
+        "atts": {}
     },
     "57": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "종이컵에 차 따라줄까?"
             }
-        ]
+        ],
+        "atts": {}
     },
     "58": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아무거나 상관없어, 몇 번이나 말했잖아 그렇게 신경 쓰지 말라고……"
             }
-        ]
+        ],
+        "atts": []
     },
     "59": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "내가 언니잖아, 그렇지?"
             }
-        ]
+        ],
+        "atts": []
     },
     "60": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……응."
             }
-        ]
+        ],
+        "atts": {}
     },
     "61": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "차가운 녹차가 컵에 천천히 따르며, 마키는 아무 말 없이 타키의 행동을 지켜보았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "62": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "역시 타키가 고른 거라면 녹차네."
             }
-        ]
+        ],
+        "atts": []
     },
     "63": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "마침 그저께 편의점에서 샀어……"
             }
-        ]
+        ],
+        "atts": {}
     },
     "64": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키 너, 어릴 때부터 어른들이 좋아하는 걸 좋아했네, 녹차, 록, 아르바이트……물론 팬더는 제외."
             }
-        ]
+        ],
+        "atts": []
     },
     "65": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "언니 뭔 소리야……록과 아르바이트도 제외지."
             }
-        ]
+        ],
+        "atts": {}
     },
     "66": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "내가 하고 싶은 말은……"
             }
-        ]
+        ],
+        "atts": []
     },
     "67": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "마키는 잠시 침묵하며 타키의 얼굴을 바라보았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "68": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "동생이 내가 모르는 사이에 자란 것 같아."
             }
-        ]
+        ],
+        "atts": []
     },
     "69": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "안 울고, 애교도 없고. 어릴 때부터 다른 아이들보다 빨리 자란 것 같아."
             }
-        ]
+        ],
+        "atts": []
     },
     "70": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……이제서야 깨달았어."
             }
-        ]
+        ],
+        "atts": []
     },
     "71": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키, 내가 형편없는 언니지?"
             }
-        ]
+        ],
+        "atts": []
     },
     "72": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……왜 갑자기 그런 말을 해."
             }
-        ]
+        ],
+        "atts": {}
     },
     "73": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "안 돼?"
             }
-        ]
+        ],
+        "atts": []
     },
     "74": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아니……그냥 언니가 이런 말 한 적 없잖아."
             }
-        ]
+        ],
+        "atts": {}
     },
     "75": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "서로 마주 앉은 식탁 건너편에서 마키의 얼굴은 마치 5년 후의 자신을 보는 것 같았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "76": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "차가운 컵을 꽉 쥐며, 과거의 기억과 미래에 대한 생각이 침묵의 시간을 길게 만들었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "77": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키, 어젯밤에 꿈을 꿨어."
             }
-        ]
+        ],
+        "atts": []
     },
     "78": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": {}
     },
     "79": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "왜 이렇게 긴장해. 나쁜 꿈은 아니야."
             }
-        ]
+        ],
+        "atts": []
     },
     "80": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "어릴 때 네가 내가 리코더 수업 마치고 공원에서 너랑 미끄럼틀 타는 꿈을 꿨어."
             }
-        ]
+        ],
+        "atts": []
     },
     "81": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "너 정말 즐겁게 웃었고, 계속해서 올라가고, 내려가고, 또 올라가고."
             }
-        ]
+        ],
+        "atts": []
     },
     "82": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "왜인지 모르겠는데, 미끄럼틀을 타고 있는데 뒤의 작은 네가 어른이 됐어……"
             }
-        ]
+        ],
+        "atts": []
     },
     "83": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그리고 나서, 고개를 돌리니 네가 없어. 어디를 가도 널 찾을 수가 없었어."
             }
-        ]
+        ],
+        "atts": []
     },
     "84": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "미안해……아직도 나쁜 꿈인 것 같아."
             }
-        ]
+        ],
+        "atts": []
     },
     "85": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": {}
     },
     "86": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "우리가 함께 미끄럼틀을 탄 적이 있나?"
             }
-        ]
+        ],
+        "atts": {}
     },
     "87": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "마키가 고개를 저었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "88": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그러니까 꿈은 가짜야, 걱정하지 마."
             }
-        ]
+        ],
+        "atts": {}
     },
     "89": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그래도 난 타키를 한번 찾아와야겠다고 생각했어."
             }
-        ]
+        ],
+        "atts": []
     },
     "90": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "네가 괜찮은 걸 보니 안심이 돼."
             }
-        ]
+        ],
+        "atts": []
     },
     "91": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": {}
     },
     "92": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "너는 항상 찡그린 얼굴을 하고 있네……"
             }
-        ]
+        ],
+        "atts": []
     },
     "93": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "곡은 다 썼어?"
             }
-        ]
+        ],
+        "atts": []
     },
     "94": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "다 썼어."
             }
-        ]
+        ],
+        "atts": {}
     },
     "95": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "잘했어. 내가 뭐랬어?"
             }
-        ]
+        ],
+        "atts": []
     },
     "96": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "넌 할 수 있을 거야."
             }
-        ]
+        ],
+        "atts": []
     },
     "97": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키, 잠깐만 기다릴래? 밴드 친구들에게 연락해보면……"
             }
-        ]
+        ],
+        "atts": []
     },
     "98": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "내가 첫 번째로 들어봐도 괜찮겠어?"
             }
-        ]
+        ],
+        "atts": []
     },
     "99": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "응……"
             }
-        ]
+        ],
+        "atts": {}
     },
     "100": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "언니에게 들려주고 싶어."
             }
-        ]
+        ],
+        "atts": {}
     },
     "101": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "창밖을 보니, 하얀 달이 조금씩 내려가고 해가 떠오르고 있었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "102": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "거울 앞에 서지 않아도, 남은 시간을 셀 수 있다."
             }
-        ]
+        ],
+        "atts": []
     },
     "103": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": {}
     },
     "104": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "언니……"
             }
-        ]
+        ],
+        "atts": {}
     },
     "105": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "음악이 헤드폰에서 재생되고 있었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "106": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "“뭐라고 했어?”, 마키가 입 모양으로 물었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "107": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 천천히 고개를 저었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "108": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（역시, 아무리 해도 말할 수가 없어……）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "109": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（“나 곧 죽을 거야”라는 말을.）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "110": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（널 걱정시키고 싶지 않아, 슬프게 하고 싶지 않아. 내가 멋진 모습 더 보여주고 싶어.）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "111": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（심장 박동이……）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "112": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "——."
             }
-        ]
+        ],
+        "atts": []
     },
     "113": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "언니, 너……"
             }
-        ]
+        ],
+        "atts": {}
     },
     "114": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키의 목소리가 약간 떨렸다."
             }
-        ]
+        ],
+        "atts": []
     },
     "115": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "여기서 나랑 조금만 있어줄래?"
             }
-        ]
+        ],
+        "atts": {}
     },
     "116": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "어젯밤에 잠을 못 잤어, 언니. 나 금방 잠들 것 같아."
             }
-        ]
+        ],
+        "atts": {}
     },
     "117": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......물론이지."
             }
-        ]
+        ],
+        "atts": []
     },
     "118": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "언니, 이 곡 좋아?"
             }
-        ]
+        ],
+        "atts": {}
     },
     "119": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "정말 좋아."
             }
-        ]
+        ],
+        "atts": []
     },
     "120": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "정말 다행이다……나도 정말 좋아하거든."
             }
-        ]
+        ],
+        "atts": {}
     },
     "121": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "언니?"
             }
-        ]
+        ],
+        "atts": {}
     },
     "122": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "응?"
             }
-        ]
+        ],
+        "atts": []
     },
     "123": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "내가 말하고 싶은 건……언니, 언니는 절대 형편없지 않아."
             }
-        ]
+        ],
+        "atts": {}
     },
     "124": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（우리는 함께 놀아본 적도 없고, 밤새도록 이야기해본 적도 없어……다른 사람들의 언니는 그럴지도 모르지만.）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "125": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（……그런 게 없어도.）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "126": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "언니, 나에게는 언제나 최고야."
             }
-        ]
+        ],
+        "atts": {}
     },
     "127": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": []
     },
     "128": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이런 때는 찡그리지 마."
             }
-        ]
+        ],
+        "atts": {}
     },
     "129": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……타키 눈 감고도 알 수 있어?"
             }
-        ]
+        ],
+        "atts": []
     },
     "130": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "물론이지."
             }
-        ]
+        ],
+        "atts": {}
     },
     "131": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "왜냐하면 난……"
             }
-        ]
+        ],
+        "atts": {}
     },
     "132": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（늘 너희들이 높이 나는 뒷모습을 지켜보고 있었으니까.）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "133": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（마지막 순간에……나도 내 구름 위로 갈 거야.）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "134": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "언니?"
             }
-        ]
+        ],
+        "atts": {}
     },
     "135": {
         "speaker": "시이나 마키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……왜 그러니, 타키?"
             }
-        ]
+        ],
+        "atts": []
     },
     "136": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아이처럼 계속해서 부르는 것을 용서해 주세요, 그녀에게는 마지막으로 물어볼 질문이 하나 더 있어요."
             }
-        ]
+        ],
+        "atts": []
     },
     "137": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（언니, 천국에도 록 음악이 있을까……）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "138": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "오모카게 다리 위의 벚꽃이 피었고, 제비가 둥지로 돌아왔으며, 음악은 구름을 따라 달까지 닿았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "139": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "장면 설명"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "alpha": 0,
+                    "fontSize": 30,
+                    "height": 34,
+                    "shadowEnabled": false,
+                    "strokeColor": "#d57fdf",
+                    "width": 413,
+                    "x": 1284,
+                    "y": 1102
+                },
+                {
+                    "alpha": {},
+                    "fontSize": {},
+                    "height": {},
+                    "shadowEnabled": {},
+                    "strokeColor": {},
+                    "width": {},
+                    "x": {},
+                    "y": {}
+                }
+            ],
+            "nameBox": [
+                {
+                    "height": 156,
+                    "x": -240,
+                    "y": 586
+                },
+                {
+                    "height": {},
+                    "x": {},
+                    "y": {}
+                }
+            ],
+            "skipBox": [
+                {
+                    "alpha": 0,
+                    "x": 1546,
+                    "y": 1074
+                },
+                {
+                    "alpha": {},
+                    "x": {},
+                    "y": {}
+                }
+            ]
+        }
     },
     "140": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "장면 설명"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "alpha": 0,
+                    "fontSize": 30,
+                    "height": 34,
+                    "shadowEnabled": false,
+                    "strokeColor": "#d57fdf",
+                    "width": 413,
+                    "x": 1284,
+                    "y": 1102
+                },
+                {
+                    "alpha": {},
+                    "fontSize": {},
+                    "height": {},
+                    "shadowEnabled": {},
+                    "strokeColor": {},
+                    "width": {},
+                    "x": {},
+                    "y": {}
+                }
+            ],
+            "nameBox": [
+                {
+                    "height": 156,
+                    "x": -240,
+                    "y": 586
+                },
+                {
+                    "height": {},
+                    "x": {},
+                    "y": {}
+                }
+            ],
+            "skipBox": [
+                {
+                    "alpha": 0,
+                    "x": 1546,
+                    "y": 1074
+                },
+                {
+                    "alpha": {},
+                    "x": {},
+                    "y": {}
+                }
+            ]
+        }
     }
 }

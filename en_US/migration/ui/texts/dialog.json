@@ -1,11 +1,11 @@
 {
-    "back_to_title_alert": {
-        "system": "系统提示",
-        "text": "是否回到标题界面？"
-    },
     "delete_save_file": {
         "system": "系统提示",
         "text": "是否删除「档案-[@p0]」？"
+    },
+    "back_to_title_alert": {
+        "system": "系统提示",
+        "text": "是否回到标题界面？"
     },
     "save_file_read_error": {
         "system": "系统提示",

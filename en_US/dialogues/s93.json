@@ -1,767 +1,899 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "五分钟之后。"
             }
-        ]
+        ],
+        "atts": []
     },
     "1": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": []
     },
     "2": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "............"
             }
-        ]
+        ],
+        "atts": []
     },
     "3": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希抱着乐奈的吉他站在了停车场的招牌边上，而在她的背后，乐奈刚刚把所有东西全部塞回接待台下的柜子里。"
             }
-        ]
+        ],
+        "atts": []
     },
     "4": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "背着吉他的少女嘎吱一声甩上玻璃门，只拎着那个卡宏鼓朝外走来。"
             }
-        ]
+        ],
+        "atts": []
     },
     "5": {
         "speaker": "要乐奈",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Rikki，给。"
             }
-        ]
+        ],
+        "atts": []
     },
     "6": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "噢、哦……"
             }
-        ]
+        ],
+        "atts": []
     },
     "7": {
         "speaker": "要乐奈",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "你好像很喜欢这个鼓，给你。"
             }
-        ]
+        ],
+        "atts": []
     },
     "8": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "谢……不是！"
             }
-        ]
+        ],
+        "atts": []
     },
     "9": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "现在重要的是这个吗？！"
             }
-        ]
+        ],
+        "atts": []
     },
     "10": {
         "speaker": "要乐奈",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "？"
             }
-        ]
+        ],
+        "atts": []
     },
     "11": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希压抑许久的吐槽欲望还是爆发了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "12": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "既然接待台上有正门的钥匙……既然你可以拿到正门的钥匙……"
             }
-        ]
+        ],
+        "atts": []
     },
     "13": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "为什么你不直接把钥匙拿出来，开正门进去，为什么要从脏兮兮又黑乎乎的后门偷溜进去......"
             }
-        ]
+        ],
+        "atts": []
     },
     "14": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "啊——怪不得以前你的衣服经常灰扑扑的……"
             }
-        ]
+        ],
+        "atts": []
     },
     "15": {
         "speaker": "要乐奈",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "走正门，没意思。"
             }
-        ]
+        ],
+        "atts": []
     },
     "16": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": []
     },
     "17": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "我早该知道不能用常识来要求你。"
             }
-        ]
+        ],
+        "atts": []
     },
     "18": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "无视了暗自咬牙的立希，乐奈若无其事地从立希手中拿过自己的琴包，取出自己的宝贝吉他，大大咧咧靠坐在停车场招牌前的栏杆上。"
             }
-        ]
+        ],
+        "atts": []
     },
     "19": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "表情轻松，动作随意，加上那把连琴箱外壁都磨损出了大片原木毛边的吉他，怎么看都不太靠谱，可下一秒，这人手中便飞扬出如流水般清澈连贯的音符。"
             }
-        ]
+        ],
+        "atts": []
     },
     "20": {
         "speaker": "要乐奈",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "♪♪"
             }
-        ]
+        ],
+        "atts": []
     },
     "21": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "吉他手沉浸在这场毫无预告的演奏里，就连鼓手也不得不从郁闷的情绪中抽离。"
             }
-        ]
+        ],
+        "atts": []
     },
     "22": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希盯着招牌前的人，眉头微微皱起，完全被泠泠的乐声吸引。"
             }
-        ]
+        ],
+        "atts": []
     },
     "23": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "乐奈的吉他演奏水准高超得毫无争议，但完美发挥的前提是她能够获得最适合她的编曲——这一向是立希的工作，可当她选择进行系统化的深造后，自我创作就成了她不得不接受的试炼。"
             }
-        ]
+        ],
+        "atts": []
     },
     "24": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "在上一年，立希听过乐奈作的曲，那飞扬跋扈的吉他配上来自免费素材库的节奏乐器，违和感强烈得过分。"
             }
-        ]
+        ],
+        "atts": []
     },
     "25": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "可现在这段旋律存在的情绪明显不一样。"
             }
-        ]
+        ],
+        "atts": []
     },
     "26": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "不再那样地华丽，只使用了几组相对基础的和弦，柔软，温和，甚至可以说是...节制。"
             }
-        ]
+        ],
+        "atts": []
     },
     "27": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "最后一个音符从琴弦中跃出，轻飘飘游往夕阳的方向，立希的眉头却皱得更紧，表情里颇有些惊讶。"
             }
-        ]
+        ],
+        "atts": []
     },
     "28": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "乐奈，这是…？"
             }
-        ]
+        ],
+        "atts": []
     },
     "29": {
         "speaker": "要乐奈",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "是我的结课作业。"
             }
-        ]
+        ],
+        "atts": []
     },
     "30": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "这…不是很好吗。"
             }
-        ]
+        ],
+        "atts": []
     },
     "31": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "教授怎么说的？"
             }
-        ]
+        ],
+        "atts": []
     },
     "32": {
         "speaker": "要乐奈",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……还没有给教授听。"
             }
-        ]
+        ],
+        "atts": []
     },
     "33": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": []
     },
     "34": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "那一反常态的旋律中充盈着的，淡淡的告别之意。"
             }
-        ]
+        ],
+        "atts": []
     },
     "35": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "连作为听众的立希都轻易察觉，如猫一般敏锐的少女又怎会不心知肚明。"
             }
-        ]
+        ],
+        "atts": []
     },
     "36": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "弹完这首，故事就结束了吧。"
             }
-        ]
+        ],
+        "atts": []
     },
     "37": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "停车场会被推平，黑猫将要离去，而坚守在原地的小猫，也终会找到新的归宿。"
             }
-        ]
+        ],
+        "atts": []
     },
     "38": {
         "speaker": "要乐奈",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Rikki，怎么样？"
             }
-        ]
+        ],
+        "atts": []
     },
     "39": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "少女的目光灼灼，烧得立希有点慌，不太敢继续对视下去，只得低头去看自己的鞋尖。乐奈刚刚塞过来的卡宏鼓被她死死捏着，指甲抵着木面，几乎要重新嵌回肉里。"
             }
-        ]
+        ],
+        "atts": []
     },
     "40": {
         "speaker": "要乐奈",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希。"
             }
-        ]
+        ],
+        "atts": []
     },
     "41": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "吉他手少见地喊出这个名字。"
             }
-        ]
+        ],
+        "atts": []
     },
     "42": {
         "speaker": "要乐奈",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "死了一百万次的猫，真的再也不能复活了吗？"
             }
-        ]
+        ],
+        "atts": []
     },
     "43": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": []
     },
     "44": {
         "speaker": "要乐奈",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "停车场的小猫，真的不能再呆在停车场晒太阳了吗？"
             }
-        ]
+        ],
+        "atts": []
     },
     "45": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希深深吸了一口气。"
             }
-        ]
+        ],
+        "atts": []
     },
     "46": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "是啊，都是黑猫的错。"
             }
-        ]
+        ],
+        "atts": []
     },
     "47": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "擅自出现，和小猫分享空气和阳光，又擅自离去。"
             }
-        ]
+        ],
+        "atts": []
     },
     "48": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......果然是这世界上最差劲的猫。"
             }
-        ]
+        ],
+        "atts": []
     },
     "49": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "——猫死了一百万次。"
             }
-        ]
+        ],
+        "atts": []
     },
     "50": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希的双颊为接下来要说的话而发烧。"
             }
-        ]
+        ],
+        "atts": []
     },
     "51": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "但第一百万零一次，如果黑猫能第一百万零一次复活……"
             }
-        ]
+        ],
+        "atts": []
     },
     "52": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "请停车场的小猫先不要离开。"
             }
-        ]
+        ],
+        "atts": []
     },
     "53": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "如果你不想面对抉择，那就不面对。"
             }
-        ]
+        ],
+        "atts": []
     },
     "54": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "黑猫说，它会负起责任。"
             }
-        ]
+        ],
+        "atts": []
     },
     "55": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "我会去做。"
             }
-        ]
+        ],
+        "atts": []
     },
     "56": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "——为小猫打造一个全世界最棒的停车场。"
             }
-        ]
+        ],
+        "atts": []
     },
     "57": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "我会让这里能容纳下那时的你。"
             }
-        ]
+        ],
+        "atts": []
     },
     "58": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "所以，再等等吧，再等等我。"
             }
-        ]
+        ],
+        "atts": []
     },
     "59": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "到那一天，到了那一天的话——"
             }
-        ]
+        ],
+        "atts": []
     },
     "60": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "请尽情呼吸吧，让我们再次存活的空气。"
             }
-        ]
+        ],
+        "atts": []
     },
     "61": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": []
     },
     "62": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "明明是毫无依据的话，说出来却并不感到心虚。"
             }
-        ]
+        ],
+        "atts": []
     },
     "63": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "就像是她确信，这样的未来真的会到来一样。"
             }
-        ]
+        ],
+        "atts": []
     },
     "64": {
         "speaker": "要乐奈",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……真的？"
             }
-        ]
+        ],
+        "atts": []
     },
     "65": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "真的。"
             }
-        ]
+        ],
+        "atts": []
     },
     "66": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "我什么时候骗过你。"
             }
-        ]
+        ],
+        "atts": []
     },
     "67": {
         "speaker": "要乐奈",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......嗯。"
             }
-        ]
+        ],
+        "atts": []
     },
     "68": {
         "speaker": "要乐奈",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "毕竟是死了一百万次的猫，很厉害。"
             }
-        ]
+        ],
+        "atts": []
     },
     "69": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "哈哈。"
             }
-        ]
+        ],
+        "atts": []
     },
     "70": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "是的，当然...很厉害。"
             }
-        ]
+        ],
+        "atts": []
     },
     "71": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "所以，乐奈。"
             }
-        ]
+        ],
+        "atts": []
     },
     "72": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希在乐奈身边坐下，扬了扬手中的箱鼓。"
             }
-        ]
+        ],
+        "atts": []
     },
     "73": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "要给你的作业，加点节奏吗？"
             }
-        ]
+        ],
+        "atts": []
     },
     "74": {
         "speaker": "要乐奈",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "不是作业了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "75": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "乐奈摇了摇头。"
             }
-        ]
+        ],
+        "atts": []
     },
     "76": {
         "speaker": "要乐奈",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "这是，绘本的现场配乐。"
             }
-        ]
+        ],
+        "atts": []
     },
     "77": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "解锁CG：和歌同奏"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "alpha": 0,
+                    "fontSize": 30,
+                    "height": 34,
+                    "shadowEnabled": false,
+                    "strokeColor": "#d57fdf",
+                    "width": 413,
+                    "x": 1284,
+                    "y": 1102
+                },
+                {
+                    "alpha": {},
+                    "fontSize": {},
+                    "height": {},
+                    "shadowEnabled": {},
+                    "strokeColor": {},
+                    "width": {},
+                    "x": {},
+                    "y": {}
+                }
+            ],
+            "nameBox": [
+                {
+                    "height": 156,
+                    "x": -240,
+                    "y": 586
+                },
+                {
+                    "height": {},
+                    "x": {},
+                    "y": {}
+                }
+            ],
+            "skipBox": [
+                {
+                    "alpha": 0,
+                    "x": 1546,
+                    "y": 1074
+                },
+                {
+                    "alpha": {},
+                    "x": {},
+                    "y": {}
+                }
+            ]
+        }
     },
     "78": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "这原本是一首离别之曲。只有孤独的吉他和弦在空中飘荡。"
             }
-        ]
+        ],
+        "atts": []
     },
     "79": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "但，它现在不是了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "80": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "它欢快、优雅、洒脱，雀跃，就像一百万只猫猫在你的脑海中跳舞，又朝着相同的方向狂奔。"
             }
-        ]
+        ],
+        "atts": []
     },
     "81": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "它属于那个并非完全虚构的绘本。"
             }
-        ]
+        ],
+        "atts": []
     },
     "82": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "属于讲述者描绘的那个并不一定会到来，但在到来时必定充满耀眼而温暖的阳光的未来。"
             }
-        ]
+        ],
+        "atts": []
     },
     "83": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "属于那只死了一百万零一次的黑猫。"
             }
-        ]
+        ],
+        "atts": []
     },
     "84": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "——以及停车场的小猫。"
             }
-        ]
+        ],
+        "atts": []
     }
 }

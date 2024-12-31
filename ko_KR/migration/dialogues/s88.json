@@ -1,599 +1,662 @@
 {
-    "hash": "b0d024101135479d64ca90e30b31de309f1d03a3cf074f04e397a48899bce8b6e064c93c135e36fa1c70b4c5025c698682b4b53da5a3ace1ab129ca309939c6c",
-    "list": {
-        "0": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "房间被我翻得有点乱，你随便坐吧。"
-                }
-            ]
-        },
-        "1": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "啊，难道说你是来要签名的吗？"
-                }
-            ]
-        },
-        "2": {
-            "speaker": "要乐奈",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "签名？"
-                }
-            ]
-        },
-        "3": {
-            "speaker": "要乐奈",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "唔……"
-                }
-            ]
-        },
-        "4": {
-            "speaker": "要乐奈",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "好像是有这么一回事。"
-                }
-            ]
-        },
-        "5": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "你不是还专门为这个跑了一趟吗？！"
-                }
-            ]
-        },
-        "6": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "真是的……"
-                }
-            ]
-        },
-        "7": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（也好，现在的我……还是不要留下更多痕迹了吧。）"
-                }
-            ]
-        },
-        "8": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "话说你到底是来干嘛的，毕业季不是很忙吗？"
-                }
-            ]
-        },
-        "9": {
-            "speaker": "要乐奈",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "上次来找Rikki，你不在。"
-                }
-            ]
-        },
-        "10": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "啊？什么时候？有什么事吗。"
-                }
-            ]
-        },
-        "11": {
-            "speaker": "要乐奈",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "唔……"
-                }
-            ]
-        },
-        "12": {
-            "speaker": "要乐奈",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "没什么。"
-                }
-            ]
-        },
-        "13": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "哈？？"
-                }
-            ]
-        },
-        "14": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "你这家伙……唉，算了。"
-                }
-            ]
-        },
-        "15": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "立希本就不喜欢刨根问底，尤其是对捉摸不定的要乐奈。更何况对熊猫的热情才刚刚燃起——"
-                }
-            ]
-        },
-        "16": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "她只想尽快找到门票。"
-                }
-            ]
-        },
-        "17": {
-            "speaker": "要乐奈",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "........."
-                }
-            ]
-        },
-        "18": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "乐奈并没有坐下，她好奇地打量起立希的房间，四处走动。"
-                }
-            ]
-        },
-        "19": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（奇怪，整理房间的时候放哪去了来着……）"
-                }
-            ]
-        },
-        "20": {
-            "speaker": "要乐奈",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "Rikki。"
-                }
-            ]
-        },
-        "21": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "嗯？"
-                }
-            ]
-        },
-        "22": {
-            "speaker": "要乐奈",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "这是什么？"
-                }
-            ]
-        },
-        "23": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "立希回过头，乐奈正指着被她弄亮的屏幕，上面是作曲软件和密密麻麻的素材。"
-                }
-            ]
-        },
-        "24": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "不要随便动别人的电脑啊。那些是之前积攒的作曲素材。"
-                }
-            ]
-        },
-        "25": {
-            "speaker": "要乐奈",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "什么素材？"
-                }
-            ]
-        },
-        "26": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "就是没采用的歌曲小样之类的，有的曲子被我编了几十个版本，因为太多了想着要清理一下。"
-                }
-            ]
-        },
-        "27": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "但是想到自己为这些编曲苦恼的时候，又有点舍不得就这么删了。"
-                }
-            ]
-        },
-        "28": {
-            "speaker": "要乐奈",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "几十个？"
-                }
-            ]
-        },
-        "29": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "是啊。"
-                }
-            ]
-        },
-        "30": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "说来有不少还是因为你每次电吉他弹得都不一样，我又觉得不错就全留下来了……"
-                }
-            ]
-        },
-        "31": {
-            "speaker": "要乐奈",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "这样。"
-                }
-            ]
-        },
-        "32": {
-            "speaker": "要乐奈",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "......"
-                }
-            ]
-        },
-        "33": {
-            "speaker": "要乐奈",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "是工作？"
-                }
-            ]
-        },
-        "34": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "不是……这都是MyGO的曲子啊。"
-                }
-            ]
-        },
-        "35": {
-            "speaker": "要乐奈",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "MyGO，不是工作吗?"
-                }
-            ]
-        },
-        "36": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "欸…"
-                }
-            ]
-        },
-        "37": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "从未预想过。"
-                }
-            ]
-        },
-        "38": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "无论是问这话的人，还是问题本身。"
-                }
-            ]
-        },
-        "39": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "不……"
-                }
-            ]
-        },
-        "40": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "……当然，不是…"
-                }
-            ]
-        },
-        "41": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "明明只是事实，立希却没由来感到一阵心虚，仿佛说出真相就会伤害眼前的人。"
-                }
-            ]
-        },
-        "42": {
-            "speaker": "要乐奈",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "...那为什么。"
-                }
-            ]
-        },
-        "43": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "乐奈指向屏幕上密密麻麻的作曲素材。"
-                }
-            ]
-        },
-        "44": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "——为什么每首曲子还要做几十版？"
-                }
-            ]
-        },
-        "45": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "乐奈的眼神透露出迫切，立希知道每当这种时候，固执的猫便一定会追问出个结论。"
-                }
-            ]
-        },
-        "46": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "立希被逼得下意识朝后退了一步，不小心碰倒了摆在桌角的笔记本。"
-                }
-            ]
-        },
-        "47": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "……！抱歉。"
-                }
-            ]
-        },
-        "48": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "立希慌忙弯腰捡起笔记本，纸页间掉出两张门票。"
-                }
-            ]
-        },
-        "49": {
-            "speaker": "要乐奈",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "呐，为什么——"
-                }
-            ]
-        },
-        "50": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "唔哦哦哦————！！！！找到了！！"
-                }
-            ]
-        },
-        "51": {
-            "speaker": "要乐奈",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "？"
-                }
-            ]
-        },
-        "52": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "上野动物园期间限定熊猫宝宝展——！！原来订了两张票啊。"
-                }
-            ]
-        },
-        "53": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "展览截止……是下周啊……"
-                }
-            ]
-        },
-        "54": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "......"
-                }
-            ]
-        },
-        "55": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "立希摇了摇手中的票。"
-                }
-            ]
-        },
-        "56": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "怎么样，来都来了，一起去？"
-                }
-            ]
-        },
-        "57": {
-            "speaker": "要乐奈",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "哼嗯——"
-                }
-            ]
-        },
-        "58": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "乐奈伸出三根手指。"
-                }
-            ]
-        },
-        "59": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "不行，1。"
-                }
-            ]
-        },
-        "60": {
-            "speaker": "要乐奈",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "2。"
-                }
-            ]
-        },
-        "61": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "1。"
-                }
-            ]
-        },
-        "62": {
-            "speaker": "要乐奈",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "1.5。"
-                }
-            ]
-        },
-        "63": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "1.5是什么鬼……"
-                }
-            ]
-        },
-        "64": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "行吧行吧，等我收拾一下就走。"
-                }
-            ]
-        },
-        "65": {
-            "speaker": "要乐奈",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "哼哼，成交。"
-                }
-            ]
-        }
+    "0": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "房间被我翻得有点乱，你随便坐吧。"
+            }
+        ],
+        "atts": []
+    },
+    "1": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "啊，难道说你是来要签名的吗？"
+            }
+        ],
+        "atts": []
+    },
+    "2": {
+        "speaker": "要乐奈",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "签名？"
+            }
+        ],
+        "atts": []
+    },
+    "3": {
+        "speaker": "要乐奈",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "唔……"
+            }
+        ],
+        "atts": []
+    },
+    "4": {
+        "speaker": "要乐奈",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "好像是有这么一回事。"
+            }
+        ],
+        "atts": []
+    },
+    "5": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "你不是还专门为这个跑了一趟吗？！"
+            }
+        ],
+        "atts": []
+    },
+    "6": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "真是的……"
+            }
+        ],
+        "atts": []
+    },
+    "7": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（也好，现在的我……还是不要留下更多痕迹了吧。）"
+            }
+        ],
+        "atts": []
+    },
+    "8": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "话说你到底是来干嘛的，毕业季不是很忙吗？"
+            }
+        ],
+        "atts": []
+    },
+    "9": {
+        "speaker": "要乐奈",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "上次来找Rikki，你不在。"
+            }
+        ],
+        "atts": []
+    },
+    "10": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "啊？什么时候？有什么事吗。"
+            }
+        ],
+        "atts": []
+    },
+    "11": {
+        "speaker": "要乐奈",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "唔……"
+            }
+        ],
+        "atts": []
+    },
+    "12": {
+        "speaker": "要乐奈",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "没什么。"
+            }
+        ],
+        "atts": []
+    },
+    "13": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "哈？？"
+            }
+        ],
+        "atts": []
+    },
+    "14": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "你这家伙……唉，算了。"
+            }
+        ],
+        "atts": []
+    },
+    "15": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希本就不喜欢刨根问底，尤其是对捉摸不定的要乐奈。更何况对熊猫的热情才刚刚燃起——"
+            }
+        ],
+        "atts": []
+    },
+    "16": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "她只想尽快找到门票。"
+            }
+        ],
+        "atts": []
+    },
+    "17": {
+        "speaker": "要乐奈",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "........."
+            }
+        ],
+        "atts": []
+    },
+    "18": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "乐奈并没有坐下，她好奇地打量起立希的房间，四处走动。"
+            }
+        ],
+        "atts": []
+    },
+    "19": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（奇怪，整理房间的时候放哪去了来着……）"
+            }
+        ],
+        "atts": []
+    },
+    "20": {
+        "speaker": "要乐奈",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "Rikki。"
+            }
+        ],
+        "atts": []
+    },
+    "21": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "嗯？"
+            }
+        ],
+        "atts": []
+    },
+    "22": {
+        "speaker": "要乐奈",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "这是什么？"
+            }
+        ],
+        "atts": []
+    },
+    "23": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希回过头，乐奈正指着被她弄亮的屏幕，上面是作曲软件和密密麻麻的素材。"
+            }
+        ],
+        "atts": []
+    },
+    "24": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "不要随便动别人的电脑啊。那些是之前积攒的作曲素材。"
+            }
+        ],
+        "atts": []
+    },
+    "25": {
+        "speaker": "要乐奈",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "什么素材？"
+            }
+        ],
+        "atts": []
+    },
+    "26": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "就是没采用的歌曲小样之类的，有的曲子被我编了几十个版本，因为太多了想着要清理一下。"
+            }
+        ],
+        "atts": []
+    },
+    "27": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "但是想到自己为这些编曲苦恼的时候，又有点舍不得就这么删了。"
+            }
+        ],
+        "atts": []
+    },
+    "28": {
+        "speaker": "要乐奈",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "几十个？"
+            }
+        ],
+        "atts": []
+    },
+    "29": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "是啊。"
+            }
+        ],
+        "atts": []
+    },
+    "30": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "说来有不少还是因为你每次电吉他弹得都不一样，我又觉得不错就全留下来了……"
+            }
+        ],
+        "atts": []
+    },
+    "31": {
+        "speaker": "要乐奈",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "这样。"
+            }
+        ],
+        "atts": []
+    },
+    "32": {
+        "speaker": "要乐奈",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ],
+        "atts": []
+    },
+    "33": {
+        "speaker": "要乐奈",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "是工作？"
+            }
+        ],
+        "atts": []
+    },
+    "34": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "不是……这都是MyGO的曲子啊。"
+            }
+        ],
+        "atts": []
+    },
+    "35": {
+        "speaker": "要乐奈",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "MyGO，不是工作吗?"
+            }
+        ],
+        "atts": []
+    },
+    "36": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "欸…"
+            }
+        ],
+        "atts": []
+    },
+    "37": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "从未预想过。"
+            }
+        ],
+        "atts": []
+    },
+    "38": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "无论是问这话的人，还是问题本身。"
+            }
+        ],
+        "atts": []
+    },
+    "39": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "不……"
+            }
+        ],
+        "atts": []
+    },
+    "40": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……当然，不是…"
+            }
+        ],
+        "atts": []
+    },
+    "41": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "明明只是事实，立希却没由来感到一阵心虚，仿佛说出真相就会伤害眼前的人。"
+            }
+        ],
+        "atts": []
+    },
+    "42": {
+        "speaker": "要乐奈",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "...那为什么。"
+            }
+        ],
+        "atts": []
+    },
+    "43": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "乐奈指向屏幕上密密麻麻的作曲素材。"
+            }
+        ],
+        "atts": []
+    },
+    "44": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "——为什么每首曲子还要做几十版？"
+            }
+        ],
+        "atts": []
+    },
+    "45": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "乐奈的眼神透露出迫切，立希知道每当这种时候，固执的猫便一定会追问出个结论。"
+            }
+        ],
+        "atts": []
+    },
+    "46": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希被逼得下意识朝后退了一步，不小心碰倒了摆在桌角的笔记本。"
+            }
+        ],
+        "atts": []
+    },
+    "47": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……！抱歉。"
+            }
+        ],
+        "atts": []
+    },
+    "48": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希慌忙弯腰捡起笔记本，纸页间掉出两张门票。"
+            }
+        ],
+        "atts": []
+    },
+    "49": {
+        "speaker": "要乐奈",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "呐，为什么——"
+            }
+        ],
+        "atts": []
+    },
+    "50": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "唔哦哦哦————！！！！找到了！！"
+            }
+        ],
+        "atts": []
+    },
+    "51": {
+        "speaker": "要乐奈",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "？"
+            }
+        ],
+        "atts": []
+    },
+    "52": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "上野动物园期间限定熊猫宝宝展——！！原来订了两张票啊。"
+            }
+        ],
+        "atts": []
+    },
+    "53": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "展览截止……是下周啊……"
+            }
+        ],
+        "atts": []
+    },
+    "54": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ],
+        "atts": []
+    },
+    "55": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希摇了摇手中的票。"
+            }
+        ],
+        "atts": []
+    },
+    "56": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "怎么样，来都来了，一起去？"
+            }
+        ],
+        "atts": []
+    },
+    "57": {
+        "speaker": "要乐奈",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "哼嗯——"
+            }
+        ],
+        "atts": []
+    },
+    "58": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "乐奈伸出三根手指。"
+            }
+        ],
+        "atts": []
+    },
+    "59": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "不行，1。"
+            }
+        ],
+        "atts": []
+    },
+    "60": {
+        "speaker": "要乐奈",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "2。"
+            }
+        ],
+        "atts": []
+    },
+    "61": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "1。"
+            }
+        ],
+        "atts": []
+    },
+    "62": {
+        "speaker": "要乐奈",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "1.5。"
+            }
+        ],
+        "atts": []
+    },
+    "63": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "1.5是什么鬼……"
+            }
+        ],
+        "atts": []
+    },
+    "64": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "行吧行吧，等我收拾一下就走。"
+            }
+        ],
+        "atts": []
+    },
+    "65": {
+        "speaker": "要乐奈",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "哼哼，成交。"
+            }
+        ],
+        "atts": []
     }
 }

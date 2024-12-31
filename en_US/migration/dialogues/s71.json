@@ -1,77 +1,82 @@
 {
-    "hash": "2c31a3a3dfd3e4c8f8d4e80e78c62862f9ad74e7961ec64c9ced4904e3d9eb15ca85cce059e0c5f068af48bfa27537134b533437f6c8681ecd675a31cbb44430",
-    "list": {
-        "0": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "和祥子道别，穿过早晨的阳光回到住所。"
-                }
-            ]
-        },
-        "1": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "电脑屏幕回到立希未完成的作品，工程文件和备份都删除得干干净净。"
-                }
-            ]
-        },
-        "2": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "好像什么都没有发生过。"
-                }
-            ]
-        },
-        "3": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "什么都不留下，真是谨慎。"
-                }
-            ]
-        },
-        "4": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "......"
-                }
-            ]
-        },
-        "5": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（不，也许已经留下了许多。）"
-                }
-            ]
-        },
-        "6": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（从七年前开始。）"
-                }
-            ]
-        },
-        "7": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "立希躬下身，小心地从地面捡起最后一块玻璃碎片。"
-                }
-            ]
-        }
+    "0": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "和祥子道别，穿过早晨的阳光回到住所。"
+            }
+        ],
+        "atts": []
+    },
+    "1": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "电脑屏幕回到立希未完成的作品，工程文件和备份都删除得干干净净。"
+            }
+        ],
+        "atts": []
+    },
+    "2": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "好像什么都没有发生过。"
+            }
+        ],
+        "atts": []
+    },
+    "3": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "什么都不留下，真是谨慎。"
+            }
+        ],
+        "atts": {}
+    },
+    "4": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ],
+        "atts": {}
+    },
+    "5": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（不，也许已经留下了许多。）"
+            }
+        ],
+        "atts": {}
+    },
+    "6": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（从七年前开始。）"
+            }
+        ],
+        "atts": {}
+    },
+    "7": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希躬下身，小心地从地面捡起最后一块玻璃碎片。"
+            }
+        ],
+        "atts": []
     }
 }

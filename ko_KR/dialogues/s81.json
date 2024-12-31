@@ -1,164 +1,182 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "동화는 항상 독자들이 사회를 이해하고 인생을 깨닫는 데 도움을 준다."
             }
-        ]
+        ],
+        "atts": []
     },
     "1": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "토모리의 이야기는 아직 완성되지 않았지만, 그녀는 이미 이야기의 메시지를 어렴풋이 느꼈다."
             }
-        ]
+        ],
+        "atts": []
     },
     "2": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（매미는 자신의 생명이 끝나가고 있을 때, 모든 에너지를 자신의 소원을 이루는 준비에 쏟아부었다.）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "3": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（나의 소원은 무엇일까? 눈앞의 곡일까, 아니면……？）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "4": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그녀는 마음속에 희미하게 답을 알고 있었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "5": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "나도 좋은 결말을 만들 수 있을까?"
             }
-        ]
+        ],
+        "atts": {}
     },
     "6": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그녀는 기지개를 켜고 드물게 충만한 에너지를 느꼈다. 어젯밤 꿈 없는 밤을 보내며 동화를 듣고 만족스러운 잠을 잔 어린 시절을 떠올렸고, 거울 속 자신의 모습도 다크서클이 조금 옅어 보였다."
             }
-        ]
+        ],
+        "atts": []
     },
     "7": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "일단 시도해보자."
             }
-        ]
+        ],
+        "atts": {}
     },
     "8": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "가능하다면, 그녀는 자신이 어제 한 일을 잊고 싶었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "9": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "“카운트다운이 0이 될 때…… 내 심장 박동도 초당 0회가 될 거야.”"
             }
-        ]
+        ],
+        "atts": []
     },
     "10": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그녀는 휴대폰을 켰고, 밤늦게 토모리가 그녀에게 보낸 '죽음의 카운트다운'에 관한 몇 개의 포럼 게시물이 대화창에 남아 있어 그녀에게 잔인하게 경고하고 있었다——"
             }
-        ]
+        ],
+        "atts": []
     },
     "11": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "“그전에……잠시, 타키를 보고 싶지 않아.”"
             }
-        ]
+        ],
+        "atts": []
     },
     "12": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "토모리가 자신을 보고 싶지 않다는 말은 거짓이었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "13": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "하지만 그로 인해 토모리가 겪는 고통, 그리고 '평생'이라는 시간을 초과한 약속……"
             }
-        ]
+        ],
+        "atts": []
     },
     "14": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그 모든 것은 실제로 존재했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "15": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그녀는 게시물 중 하나를 열었지만, 눈길이 화면의 내용에 집중되지 않았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "16": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "지금 뭘 할 수 있을까?"
             }
-        ]
+        ],
+        "atts": {}
     },
     "17": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "거울 속의 흔들리는 현실 앞에서, 그녀는 흐릿한 머릿속으로 오늘의 일정을 생각하기 시작했다. 상태가 아무리 나빠도 계속해야 했다. 마감일은 그녀가 말한 것처럼 정말로 하루 연기되지 않았다."
             }
-        ]
+        ],
+        "atts": []
     }
 }

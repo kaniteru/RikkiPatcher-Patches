@@ -1,124 +1,124 @@
 {
-    "auto_play_dialogue_speed": {
-        "color": "#ffffff",
-        "font": "SourceHanSerifCN-Light-5",
-        "size": 28,
-        "text": "自动播放速度"
-    },
-    "bgm_volume": {
-        "color": "#ffffff",
-        "font": "SourceHanSerifCN-Light-5",
-        "size": 28,
-        "text": "背景音乐音量"
-    },
-    "controls": {
-        "color": "#ffffff",
-        "font": "SourceHanSerifCN-SemiBold-7",
-        "size": 24,
-        "text": "操作说明"
-    },
-    "controls_usage": {
-        "line_1": {
-            "color": "#ffffff",
-            "font": "SourceHanSerifCN-SemiBold-7",
-            "size": 40,
-            "text": "ESC 系统设置菜单   F5 直接返回主菜单"
-        },
-        "line_2": {
-            "color": "#ffffff",
-            "font": "SourceHanSerifCN-SemiBold-7",
-            "size": 40,
-            "text": "Q/O 保存游戏   E/P 读取存档"
-        },
-        "line_3": {
-            "color": "#ffffff",
-            "font": "SourceHanSerifCN-SemiBold-7",
-            "size": 40,
-            "text": "Ctrl/R/U 快进   T/I 切换自动播放   H/C 返回标题界面"
-        },
-        "line_4": {
-            "color": "#ffffff",
-            "font": "SourceHanSerifCN-SemiBold-7",
-            "size": 40,
-            "text": "鼠标左键/滚轮↓/Enter/Space 播放下一句"
-        },
-        "line_5": {
-            "color": "#ffffff",
-            "font": "SourceHanSerifCN-SemiBold-7",
-            "size": 40,
-            "text": "鼠标右键/L/X 隐藏对话或界面   滚轮↑/V 历史对话"
-        },
-        "line_6": {
-            "color": "#ffffff",
-            "font": "SourceHanSerifCN-SemiBold-7",
-            "size": 40,
-            "text": "鼠标移动至右下角可呼出功能菜单/单击CG可查看差分"
-        },
-        "title": {
-            "color": "#ffffff",
-            "font": "SourceHanSerifCN-SemiBold-7",
-            "size": 50,
-            "text": "操作说明"
-        }
-    },
-    "dialogue_ui_opacity": {
-        "color": "#ffffff",
-        "font": "SourceHanSerifCN-Light-5",
-        "size": 30,
-        "text": "文本框界面透明度"
-    },
-    "dialogue_ui_opacity_preview": {
-        "color": "#ffffff",
-        "font": "JCYT500W",
-        "size": 37,
-        "text": "这是一句对话台词。"
-    },
     "fullscreen": {
-        "color": "#ffffff",
         "font": "SourceHanSerifCN-Light-5",
+        "color": "#ffffff",
         "size": 30,
         "text": "全屏"
     },
-    "reverse_mouse_wheel": {
-        "color": "#ffffff",
+    "skip_seen_dialogues": {
         "font": "SourceHanSerifCN-Light-5",
+        "color": "#ffffff",
+        "size": 30,
+        "text": "仅快进已读内容"
+    },
+    "reverse_mouse_wheel": {
+        "font": "SourceHanSerifCN-Light-5",
+        "color": "#ffffff",
         "size": 30,
         "text": "鼠标滚轮推进"
     },
-    "se_volume": {
-        "color": "#ffffff",
+    "bgm_volume": {
         "font": "SourceHanSerifCN-Light-5",
+        "color": "#ffffff",
+        "size": 28,
+        "text": "背景音乐音量"
+    },
+    "se_volume": {
+        "font": "SourceHanSerifCN-Light-5",
+        "color": "#ffffff",
         "size": 28,
         "text": "环境音效音量"
     },
     "sfx_volume": {
-        "color": "#ffffff",
         "font": "SourceHanSerifCN-Light-5",
+        "color": "#ffffff",
         "size": 28,
         "text": "音效音量"
     },
-    "skip_seen_dialogues": {
-        "color": "#ffffff",
+    "voice_volume": {
         "font": "SourceHanSerifCN-Light-5",
+        "color": "#ffffff",
+        "size": 28,
+        "text": "语音音量"
+    },
+    "controls": {
+        "font": "SourceHanSerifCN-SemiBold-7",
+        "color": "#ffffff",
+        "size": 24,
+        "text": "操作说明"
+    },
+    "dialogue_ui_opacity": {
+        "font": "SourceHanSerifCN-Light-5",
+        "color": "#ffffff",
         "size": 30,
-        "text": "仅快进已读内容"
+        "text": "文本框界面透明度"
+    },
+    "dialogue_ui_opacity_preview": {
+        "font": "JCYT500W",
+        "color": "#ffffff",
+        "size": 37,
+        "text": "这是一句对话台词。"
     },
     "text_speed": {
-        "color": "#ffffff",
         "font": "SourceHanSerifCN-Light-5",
+        "color": "#ffffff",
         "size": 28,
         "text": "文本播放速度"
     },
-    "text_speed_preview": {
+    "auto_play_dialogue_speed": {
+        "font": "SourceHanSerifCN-Light-5",
         "color": "#ffffff",
+        "size": 28,
+        "text": "自动播放速度"
+    },
+    "text_speed_preview": {
         "font": "JCYT500W",
+        "color": "#ffffff",
         "size": 31,
         "text": "这是一段文本播放速度预览效果。"
     },
-    "voice_volume": {
-        "color": "#ffffff",
-        "font": "SourceHanSerifCN-Light-5",
-        "size": 28,
-        "text": "语音音量"
+    "controls_usage": {
+        "title": {
+            "font": "SourceHanSerifCN-SemiBold-7",
+            "color": "#ffffff",
+            "size": 50,
+            "text": "操作说明"
+        },
+        "line_1": {
+            "font": "SourceHanSerifCN-SemiBold-7",
+            "color": "#ffffff",
+            "size": 40,
+            "text": "ESC 系统设置菜单   F5 直接返回主菜单"
+        },
+        "line_2": {
+            "font": "SourceHanSerifCN-SemiBold-7",
+            "color": "#ffffff",
+            "size": 40,
+            "text": "Q/O 保存游戏   E/P 读取存档"
+        },
+        "line_3": {
+            "font": "SourceHanSerifCN-SemiBold-7",
+            "color": "#ffffff",
+            "size": 40,
+            "text": "Ctrl/R/U 快进   T/I 切换自动播放   H/C 返回标题界面"
+        },
+        "line_4": {
+            "font": "SourceHanSerifCN-SemiBold-7",
+            "color": "#ffffff",
+            "size": 40,
+            "text": "鼠标左键/滚轮↓/Enter/Space 播放下一句"
+        },
+        "line_5": {
+            "font": "SourceHanSerifCN-SemiBold-7",
+            "color": "#ffffff",
+            "size": 40,
+            "text": "鼠标右键/L/X 隐藏对话或界面   滚轮↑/V 历史对话"
+        },
+        "line_6": {
+            "font": "SourceHanSerifCN-SemiBold-7",
+            "color": "#ffffff",
+            "size": 40,
+            "text": "鼠标移动至右下角可呼出功能菜单/单击CG可查看差分"
+        }
     }
 }

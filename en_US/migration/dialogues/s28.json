@@ -1,1697 +1,1882 @@
 {
-    "hash": "940636cb349900f1a7125c468514cef7eba968ea8e5952be84ac4042ab4165a17248b60878f95e4b46918b9e72177e531c515d7e85a53d289e8446073adb4dbe",
-    "list": {
-        "0": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "在化妆水平这方面，爱音确实有吹嘘的底气。"
-                }
-            ]
-        },
-        "1": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "等到立希重新睁开眼，那面化妆镜里再次倒映出她的脸时，立希发现自己的气色果真比先前好了不少。"
-                }
-            ]
-        },
-        "2": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "明明只是最便捷的淡妆。"
-                }
-            ]
-        },
-        "3": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "哼哼！我说什么来着！"
-                }
-            ]
-        },
-        "4": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "以后可不许小瞧我！"
-                }
-            ]
-        },
-        "5": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "是，是，你最厉害……哎——！"
-                }
-            ]
-        },
-        "6": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "眼神还没来得及从镜子上挪开便被直接拉入了直播镜头，在那对于立希而言稍有些陌生的主播页面内，侧边的评论栏里，已经冒出了许多字符，不断向上更新，带着视频界面内的评论滚动。"
-                }
-            ]
-        },
-        "7": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "立希皱着眉凑近，意外地发现除了照旧与主播打招呼的，还有不少人在询问她是谁，而更令她意外的是，即使爱音还未进入介绍环节，已经有不少新的留言打出了她的名字。"
-                }
-            ]
-        },
-        "8": {
-            "speaker": "评论",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "【wwww居然是我们立希】【 TAKI~~】【 喂喂这可是主播乐队的队长兼鼓手啊，还有新人不知道吗？】【 居然是立希！我看还有谁说我们节奏组的关系不好啊！】【  节奏组关系不好——除非你们立刻打电话把贝斯也叫来www】"
-                }
-            ]
-        },
-        "9": {
-            "speaker": "评论",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "【Live超级牛！上次偶尔拿到的票，鼓点实在给我听爽了！】【 什么？你们说真的啊？Anon没骗人啊？】【 她真的有乐队？？我一直以为她说着玩儿的呢！】【 我的天立希……我要赶紧打电话叫我朋友来看……】"
-                }
-            ]
-        },
-        "10": {
-            "speaker": "评论",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "【前面的你们但凡看看non之前投稿的吉他练习视频都该知道是真的wwww】【 我的天non你们乐队的鼓手居然是这么帅的美女！背着我们吃这么好是吧！】【 怎么突然多了这么多人啊？我看不过来评论了……】"
-                }
-            ]
-        },
-        "11": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "当然，在这些与立希有关的乱七八糟的弹幕里，出现的最频繁，最显眼，也是最多的，不是立希的名字，而是——Rikki。"
-                }
-            ]
-        },
-        "12": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "立希怔怔看着那个曾经被她抗拒的字眼，如今成为她这个人对外印象的一部分，疯狂地刷过屏幕，而始作俑者一边念着那些留言，一边在桌子下用膝盖轻轻碰了碰她的腿。"
-                }
-            ]
-        },
-        "13": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "没有收到对方的回应，爱音挑选了几条有关立希的留言读完，扭头看了再次陷入呆滞的人一眼，她笑得很开心。"
-                }
-            ]
-        },
-        "14": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "好啦好啦，大家的热情我们都收到啦——都怪你们啦，一次性发这么多奇怪的评论，万一把我们家Rikki吓傻了怎么办——你们看，这就已经一动不动了。"
-                }
-            ]
-        },
-        "15": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "说着，为了证明自己的话，爱音还真就伸手去，朝着立希的腰侧戳了戳。"
-                }
-            ]
-        },
-        "16": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "啊！啊……"
-                }
-            ]
-        },
-        "17": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "那个……"
-                }
-            ]
-        },
-        "18": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "啊什么啊呀，介绍，自我介绍啊。"
-                }
-            ]
-        },
-        "19": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "啊……那个，大家好，我叫做椎名立希。"
-                }
-            ]
-        },
-        "20": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "是千……是小爱音所在的乐队的鼓手。"
-                }
-            ]
-        },
-        "21": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "你们看！我就说你们吓到她了！"
-                }
-            ]
-        },
-        "22": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "把我宝贵的鼓手和编曲吓傻了你们怎么赔啊！"
-                }
-            ]
-        },
-        "23": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "什么一个SC够不够啊，这是能用SC来衡量的吗？"
-                }
-            ]
-        },
-        "24": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "拜托！这可是Rikki欸！"
-                }
-            ]
-        },
-        "25": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "顶格SC最起码给我来200个吧！"
-                }
-            ]
-        },
-        "26": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "咕……"
-                }
-            ]
-        },
-        "27": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "是立希悄悄掐了一下爱音的后腰。"
-                }
-            ]
-        },
-        "28": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "评论一下又热闹起来。"
-                }
-            ]
-        },
-        "29": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "全是得到立希出现的消息后，大量涌进来的MyGO!!!!!的粉丝在调侃她俩。"
-                }
-            ]
-        },
-        "30": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "哎呀！好多人啊现在——都怪你们吵吵闹闹的！今天的开场词人家还没说呢！"
-                }
-            ]
-        },
-        "31": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（爱音的直播开场词吗……）"
-                }
-            ]
-        },
-        "32": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "立希抬眼去看屏幕上持续更新的留言。"
-                }
-            ]
-        },
-        "33": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "果不其然看见了许多与她的想法如出一辙的评论。"
-                }
-            ]
-        },
-        "34": {
-            "speaker": "评论",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "【既然如此我们就跳过这一Part吧！】【 不要浪费我生命中宝贵的十五秒！】【 所以non还是不准备换开场词吗？？？换一个吧我求你了……】【 都几几年了，为什么还能听见和世纪初的谈话综艺一样的开场啊wwwww】"
-                }
-            ]
-        },
-        "35": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（这直播间果然还是好人多——）"
-                }
-            ]
-        },
-        "36": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（除去之前对灯不礼貌的那几个。）"
-                }
-            ]
-        },
-        "37": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "但是小爱音是全然不在乎的。"
-                }
-            ]
-        },
-        "38": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "小爱音还是坚持着说出了那句话。"
-                }
-            ]
-        },
-        "39": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "欢迎各位准时参加小爱音的淑女茶话会——"
-                }
-            ]
-        },
-        "40": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "(这种奶油一样轻飘飘滑腻腻的糖分过度的声调……)"
-                }
-            ]
-        },
-        "41": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "(果然无论如何都是现场直击更加吓人……)"
-                }
-            ]
-        },
-        "42": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "好恶…唔——"
-                }
-            ]
-        },
-        "43": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "爱音在桌下用力踹了立希一脚。"
-                }
-            ]
-        },
-        "44": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "总之！既然今天Rikki来了，就难得地让大家看看我们上次Live的录像吧！"
-                }
-            ]
-        },
-        "45": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "以迅雷不及掩耳之势，爱音将直播界面切到了屏幕共享，趁着利用Live录像打发观众的时间，她一把拉过立希，二人背过身去，叫立希不得不与她额头碰额头地贴到一起，窃窃私语。"
-                }
-            ]
-        },
-        "46": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "又怎么了我的大主播？"
-                }
-            ]
-        },
-        "47": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "哎呀！直播间里的MyGO粉丝越来越多了，Rikki你说话注意一点影响！"
-                }
-            ]
-        },
-        "48": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "我没说脏话吧？我连“哈？”都没有说吧！"
-                }
-            ]
-        },
-        "49": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "啊~~~~不是~~~~不是这个影响啦——"
-                }
-            ]
-        },
-        "50": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "那你倒是把话说清楚啊！"
-                }
-            ]
-        },
-        "51": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "立希挣脱了爱音的束缚。"
-                }
-            ]
-        },
-        "52": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "爱音眨了眨眼，咬牙切齿的样子，脸上写满了恨铁不成钢。"
-                }
-            ]
-        },
-        "53": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "爱音揉了揉自己的太阳穴，扶额招手，示意立希凑近些。"
-                }
-            ]
-        },
-        "54": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "Rikki呀……"
-                }
-            ]
-        },
-        "55": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "你到底知不知道，这世界上除了单推和团厨，还有一种类型的粉丝，叫作CP粉啊？"
-                }
-            ]
-        },
-        "56": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "废话——"
-                }
-            ]
-        },
-        "57": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "等等，你什么意思？"
-                }
-            ]
-        },
-        "58": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "人家的意思就是……人家和Rikki的CP粉其实还蛮多的啦……"
-                }
-            ]
-        },
-        "59": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "？"
-                }
-            ]
-        },
-        "60": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "虽然好像也没那么多——但是她们存在!你理解我的意思吗？多和少不重要，重要的是存在！所以对人家态度好一点啦!"
-                }
-            ]
-        },
-        "61": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "不是，我们两个到底有什么地方让她们觉得般配啊？"
-                }
-            ]
-        },
-        "62": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "对对对，就是这种地方。"
-                }
-            ]
-        },
-        "63": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "……真是意味不明。"
-                }
-            ]
-        },
-        "64": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "求求你啦，毕竟人家就是吃这口饭的——人家这种类型的网红不搞CP营业还能赚到什么钱啊？赚不到钱就攒不到钱，攒不到钱就不能租场地和设备，租不了好的场地和设备我们MyGO还怎——"
-                }
-            ]
-        },
-        "65": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "够了够了够了——打住！"
-                }
-            ]
-        },
-        "66": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "幸好我不是今天就会死。"
-                }
-            ]
-        },
-        "67": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "怎么了嘛？！"
-                }
-            ]
-        },
-        "68": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "如果我死前做的最后一件事是和你在直播间里扮蕾丝……"
-                }
-            ]
-        },
-        "69": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "老天啊，我一定会死不瞑目的。"
-                }
-            ]
-        },
-        "70": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "哪有这么离谱——再说什么叫扮蕾丝！多难听!我们这明明是坦坦荡荡队友情谊！"
-                }
-            ]
-        },
-        "71": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "欸，等等。"
-                }
-            ]
-        },
-        "72": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "你的意思是你同意了？你同意了是吗~~~~"
-                }
-            ]
-        },
-        "73": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "我就知道Rikki最好了啦~~~！！！！"
-                }
-            ]
-        },
-        "74": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "爱音八爪鱼一样扑了过去，被立希伸出手臂隔开。"
-                }
-            ]
-        },
-        "75": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "下不为例……"
-                }
-            ]
-        },
-        "76": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "吼~~真小气！人家一直都很尽力好吗！你要不要看看到底是谁在运营MyGO的账号，谁在设计衣服，谁在——"
-                }
-            ]
-        },
-        "77": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "立希把又凑上来的爱音推开一臂远。"
-                }
-            ]
-        },
-        "78": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "好啦。"
-                }
-            ]
-        },
-        "79": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "谢谢你。"
-                }
-            ]
-        },
-        "80": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "简短的感谢。"
-                }
-            ]
-        },
-        "81": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "立希没有敢直视爱音的眼睛。"
-                }
-            ]
-        },
-        "82": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "同样的，她也没有注意到站立在原地一动不动的爱音正陷入与先前的她相似的呆滞。"
-                }
-            ]
-        },
-        "83": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "立希只是重新回到了座位上，静静地开始看那场尚未结束的Live录像。"
-                }
-            ]
-        },
-        "84": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "又过了一会，立希的余光瞥见隔壁的椅子被拉开。"
-                }
-            ]
-        },
-        "85": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "这一次，爱音没有多说话，只同立希一样，沉默地坐下，望向屏幕。"
-                }
-            ]
-        },
-        "86": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "望向屏幕中的对方。"
-                }
-            ]
-        },
-        "87": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "Live的时间不长，经过主播十分成熟的剪辑后，更是只留下精华。"
-                }
-            ]
-        },
-        "88": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "而随着视频播放结束，涌入的粉丝更是将屏幕铺满了显示界面，几乎挡住了爱音与立希的上半张脸。"
-                }
-            ]
-        },
-        "89": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "察觉到身边人的紧张，爱音安抚地拍了拍立希的手背，抛过去一个鼓励的眼神，无声地做出几个口型。"
-                }
-            ]
-        },
-        "90": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（别担心，看我。）"
-                }
-            ]
-        },
-        "91": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "我的天……今天居然来了这么多的人吗？"
-                }
-            ]
-        },
-        "92": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "等等，我们MyGO的粉丝有这么多的吗？在线人数甚至已经超过MyGO账号的粉丝数了——我说你们，既然是MyGO的粉丝的话，赶紧给人家去关注MyGO的账号啊！人家每天看见降低的关注人数，心都在滴血好不好！"
-                }
-            ]
-        },
-        "93": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "评论再次疯狂地滚动起来，甚至时不时就有几个红色SC刷新置顶，而爱音立刻便会念出对方的ID与留言，简短回答后再表示感谢。"
-                }
-            ]
-        },
-        "94": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "立希不免对这样的爱音感到陌生与新奇。"
-                }
-            ]
-        },
-        "95": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "即使立希平常也会偷偷观看爱音的直播，对这一套已经刻在主播技能树上的流程本应该再熟悉不过。"
-                }
-            ]
-        },
-        "96": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "这到底是怎样的一种心情呢。"
-                }
-            ]
-        },
-        "97": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "立希不愿意承认。"
-                }
-            ]
-        },
-        "98": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "就在这样的恍惚中，她看见了面前逐渐放大的一张脸。"
-                }
-            ]
-        },
-        "99": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "爱音？"
-                }
-            ]
-        },
-        "100": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "爱音立刻将移动摄像头对准了立希。"
-                }
-            ]
-        },
-        "101": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "你们看吧！我都说了不要吓到她!完了呀我宝贵的鼓手和编曲这下真的变成笨——啊！"
-                }
-            ]
-        },
-        "102": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "忍无可忍的立希朝着爱音的额头上敲了一击。"
-                }
-            ]
-        },
-        "103": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "不许胡说八道。"
-                }
-            ]
-        },
-        "104": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "好啦……你快看看留言啦，有好多专门问你的问题要回答——好好回答哦！大家打了钱的！"
-                }
-            ]
-        },
-        "105": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "我知道了啦！"
-                }
-            ]
-        },
-        "106": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "立希扭头朝屏幕上看过去。"
-                }
-            ]
-        },
-        "107": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "除了最顶端叠加了无数层的红色SC，下面不断滚动着更多的鼓励，赞赏与提问。"
-                }
-            ]
-        },
-        "108": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "正常一些的，在询问新曲的创作进度抑或是下次Live的举办时间，对乐队的专辑和歌曲表达喜爱或者意见。"
-                }
-            ]
-        },
-        "109": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "稍有些轻松的，是询问立希与爱音今天的日程，最近的生活，或者问候健康。"
-                }
-            ]
-        },
-        "110": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "而再下一层的，就是有些无厘头的成员关系调侃乃至更赤裸的表白。"
-                }
-            ]
-        },
-        "111": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "而爱音还看热闹不嫌事大地挑挑拣拣，念出那些离谱的语句。"
-                }
-            ]
-        },
-        "112": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "哦哦感谢这位，嗯，呃……叫做【想做立希的底鼓】的朋友送出的SC留言，嗯，这位朋友留言说“立希我爱你我要和你结婚”，嗯嗯好的感谢您的留言但是结婚不可以呢，毕竟我们MyGO的大家说好了要在一起乐队一辈子呢——"
-                }
-            ]
-        },
-        "113": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "你说是吧，Rikki？"
-                }
-            ]
-        },
-        "114": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "还陷入在大片大片的夸赞里转不过弯，被爱音突然杵了一下，立希捂着手臂点头。"
-                }
-            ]
-        },
-        "115": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "是……是的。"
-                }
-            ]
-        },
-        "116": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "嗯嗯就是这样，那么下一个……我看看，唔，这一位，感谢【低音精油】送出的SC留言，这位的留言是“你居然能把小立希拉来直播？难不成你真的去上野动物园偷了熊猫吗？立希也太没骨气了。”"
-                }
-            ]
-        },
-        "117": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "哼哼，这位朋友未免太小看小爱音的魅力了——再说了，Rikki一直都很宠人家的好不好，嘻嘻，Rikki你说呢？"
-                }
-            ]
-        },
-        "118": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "立希只是笑了笑。"
-                }
-            ]
-        },
-        "119": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "所以你真的不吐槽一下之前那个朋友的ID吗？"
-                }
-            ]
-        },
-        "120": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "少见多怪，之前我直播间里还有一个叫【极巨化胖丁使用了暴音】的家伙呢——对了，你笑得真的比哭都要难看——我们来看下一位的——"
-                }
-            ]
-        },
-        "121": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "哎呀怎么又是给Rikki的问题，我的粉丝呢！？你们都去哪里了！你们就没什么要问我的吗——不准问我什么时候改开场白和视频OP——也不准说除了这两个问题没有别的问题了！"
-                }
-            ]
-        },
-        "122": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "在爱音的主持和引导下，立希总算没有一开始那么紧绷了。"
-                }
-            ]
-        },
-        "123": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "她逐渐也可以较为流畅地回答一些问题，偶尔还能说几个有关爱音的糗事，让爱音的粉丝也能会心一笑。"
-                }
-            ]
-        },
-        "124": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "……是的，她起的队名因为太土被大家全票否决，谁知道后来她还是不放弃地用这个名字开了频道……"
-                }
-            ]
-        },
-        "125": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "喂喂，爆料够了哈，不要再赶跑我本来就所剩无几的粉丝了。"
-                }
-            ]
-        },
-        "126": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "没关系，反正乐队的大家不会取关你的。"
-                }
-            ]
-        },
-        "127": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "哦~~~乐队的大家哦~~~~包括Rikki吗？"
-                }
-            ]
-        },
-        "128": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "我也不会取关你的。"
-                }
-            ]
-        },
-        "129": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "所以你再怎么样也会有四个，呃，九个……吧，那五个家伙应该也不会……？"
-                }
-            ]
-        },
-        "130": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "哼哼，那人家只要四个就够了啦。"
-                }
-            ]
-        },
-        "131": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "是，是。"
-                }
-            ]
-        },
-        "132": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "爱音有些得意地扭过头去，重新面对镜头。"
-                }
-            ]
-        },
-        "133": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "哦，对了，今天的直播间里来了这么多的朋友，小爱音知道有大家是因为喜欢我，喜欢立希，或者喜欢MyGO这支乐队和乐队的歌曲，才相聚在这里。"
-                }
-            ]
-        },
-        "134": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "所以小爱音在这边也要再次提醒第一次来小爱音的直播间的大家哦~~"
-                }
-            ]
-        },
-        "135": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "不要因为喜欢看小爱音的直播而特意去关注MyGO，也不要因为喜欢MyGO所以才来看小爱音的直播。"
-                }
-            ]
-        },
-        "136": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "不要因为喜欢而接受不喜欢。"
-                }
-            ]
-        },
-        "137": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "如果有因为今天的直播而对MyGO产生兴趣的新朋友，请去关注MyGO的官方账号吧，乐队资讯都会在那边放出的。"
-                }
-            ]
-        },
-        "138": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "请大家都更加纯粹的喜爱音乐吧。"
-                }
-            ]
-        },
-        "139": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "镜头照不到的角落，立希悄悄转过头，望向爱音的侧脸。"
-                }
-            ]
-        },
-        "140": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "似乎有什么她第一次注意到的宝物在闪闪发光。"
-                }
-            ]
-        },
-        "141": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "大约是为了掩饰自己的情绪，爱音很迅速地擦了下眼角，露出个与平常一样的灿烂的营业笑容。"
-                }
-            ]
-        },
-        "142": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "当然！也要更纯粹地喜欢小爱音！"
-                }
-            ]
-        },
-        "143": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "哎呀~主要人家还是希望主播和乐队的事业分开嘛——可不能让乐队白白蹭到我世界第一预定的Anon Tokyo的频道热度——你们知不知道我现在广告费有多贵啊！"
-                }
-            ]
-        },
-        "144": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "气氛变得有些不一样。"
-                }
-            ]
-        },
-        "145": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "像是被放进温暖气候下，逐渐融化的黄油。"
-                }
-            ]
-        },
-        "146": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "立希突然觉得整个世界都变得柔软，柔软而舒适，温和的香气包裹着自己，而那一切叫自己安心的感触，全都来自于同一个方向。"
-                }
-            ]
-        },
-        "147": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "爱音。"
-                }
-            ]
-        },
-        "148": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "立希认真地呼喊这个名字。"
-                }
-            ]
-        },
-        "149": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "爱音朝立希的方向看过去。"
-                }
-            ]
-        },
-        "150": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "话是这么说，但是私下还是会疯狂刷新乐队账号的主页数粉丝的吧？"
-                }
-            ]
-        },
-        "151": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "哎呀！你这个家伙让人好讨厌啊！"
-                }
-            ]
-        },
-        "152": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "人家好不容易才说出那么帅气的话来！"
-                }
-            ]
-        },
-        "153": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "好吧！就这一回——求求大家了！喜欢MyGO的各位！请点击关注一下我们MyGO的官方账号吧！我知道最近营业的太少了才会掉粉但是我发誓很快！很快就会恢复稳定的更新的！是吧？Rikki！你说话呀Rikki！"
-                }
-            ]
-        },
-        "154": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "爱音扯了扯立希的衣服，似乎在用立希向观众做担保。"
-                }
-            ]
-        },
-        "155": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "评论果然变成了一片wwwww的大草原。"
-                }
-            ]
-        },
-        "156": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "受到评论气氛的感染，立希也笑起来。"
-                }
-            ]
-        },
-        "157": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "这样好吗？MyGO的收益可付不起Anon Tokyo的广告费啊。"
-                }
-            ]
-        },
-        "158": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "哎呀！你好烦——"
-                }
-            ]
-        },
-        "159": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "但是就是这个！Rikki！就是要这样笑起来才好看啊！"
-                }
-            ]
-        },
-        "160": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "立希将眼角渗出的泪水拭去。"
-                }
-            ]
-        },
-        "161": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "是吗。"
-                }
-            ]
-        },
-        "162": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "是的呀——哦，时间快到了哦！让我看看……"
-                }
-            ]
-        },
-        "163": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "啊，有一个新的SC——好吧，这是最后一个提问名额！后面的朋友不要再打SC提问了哦！"
-                }
-            ]
-        },
-        "164": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "最后一个提问，感谢名叫【RikkiLove】的这位朋友！这位朋友的问题是……"
-                }
-            ]
-        },
-        "165": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "“请问，MyGO什么时候再开Live呢？”"
-                }
-            ]
-        },
-        "166": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "立希与爱音不由得共同凑近了那行醒目无比的文字以及……"
-                }
-            ]
-        },
-        "167": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "立希敏锐地注意到了对方使用的头像——那是一个略带滑稽的卡通小号。"
-                }
-            ]
-        },
-        "168": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "咳咳……问你呢，Rikki。"
-                }
-            ]
-        },
-        "169": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "自诩是MyGO队长的家伙，为什么不回答？"
-                }
-            ]
-        },
-        "170": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "这种时候你就别——"
-                }
-            ]
-        },
-        "171": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "爱音看见了立希脸上没有收回的淡淡的笑容。"
-                }
-            ]
-        },
-        "172": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "哼，果然还是不能对你太好了。"
-                }
-            ]
-        },
-        "173": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "这话该我来说才对吧？"
-                }
-            ]
-        },
-        "174": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "……关于什么时候再开Live这个问题，其实现在我已经开始新曲的创作了，我想应该很快。"
-                }
-            ]
-        },
-        "175": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "很快的。很快就会有下一场Live了。"
-                }
-            ]
-        },
-        "176": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "说不定就在下周呢？"
-                }
-            ]
-        },
-        "177": {
-            "speaker": "千早爱音",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "这就快得有点太超过了——喂！"
-                }
-            ]
-        },
-        "178": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "立希没有回应爱音的吐槽。"
-                }
-            ]
-        },
-        "179": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "相反的，她的表情逐渐严肃而郑重起来。"
-                }
-            ]
-        },
-        "180": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "总之，感谢各位一直以来对我，对MyGO，还有对爱音的支持。"
-                }
-            ]
-        },
-        "181": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "感谢大家还愿意对MyGO保持期待，对我们的Live保持期待。"
-                }
-            ]
-        },
-        "182": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "非常……非常地感谢大家，还有邀请我一起直播的爱音。"
-                }
-            ]
-        },
-        "183": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "能在这个时刻，让我也触摸到真实的温度。"
-                }
-            ]
-        },
-        "184": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "谢谢。"
-                }
-            ]
-        },
-        "185": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "立希侧头看向爱音，对方一如既往地笑着，跟观众挥手道别。"
-                }
-            ]
-        },
-        "186": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "拜拜，拜拜。"
-                }
-            ]
-        },
-        "187": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "再见。"
-                }
-            ]
-        }
+    "0": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "在化妆水平这方面，爱音确实有吹嘘的底气。"
+            }
+        ],
+        "atts": []
+    },
+    "1": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "等到立希重新睁开眼，那面化妆镜里再次倒映出她的脸时，立希发现自己的气色果真比先前好了不少。"
+            }
+        ],
+        "atts": []
+    },
+    "2": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "明明只是最便捷的淡妆。"
+            }
+        ],
+        "atts": []
+    },
+    "3": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "哼哼！我说什么来着！"
+            }
+        ],
+        "atts": []
+    },
+    "4": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "以后可不许小瞧我！"
+            }
+        ],
+        "atts": []
+    },
+    "5": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "是，是，你最厉害……哎——！"
+            }
+        ],
+        "atts": []
+    },
+    "6": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "眼神还没来得及从镜子上挪开便被直接拉入了直播镜头，在那对于立希而言稍有些陌生的主播页面内，侧边的评论栏里，已经冒出了许多字符，不断向上更新，带着视频界面内的评论滚动。"
+            }
+        ],
+        "atts": []
+    },
+    "7": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希皱着眉凑近，意外地发现除了照旧与主播打招呼的，还有不少人在询问她是谁，而更令她意外的是，即使爱音还未进入介绍环节，已经有不少新的留言打出了她的名字。"
+            }
+        ],
+        "atts": []
+    },
+    "8": {
+        "speaker": "评论",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "【wwww居然是我们立希】【 TAKI~~】【 喂喂这可是主播乐队的队长兼鼓手啊，还有新人不知道吗？】【 居然是立希！我看还有谁说我们节奏组的关系不好啊！】【  节奏组关系不好——除非你们立刻打电话把贝斯也叫来www】"
+            }
+        ],
+        "atts": []
+    },
+    "9": {
+        "speaker": "评论",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "【Live超级牛！上次偶尔拿到的票，鼓点实在给我听爽了！】【 什么？你们说真的啊？Anon没骗人啊？】【 她真的有乐队？？我一直以为她说着玩儿的呢！】【 我的天立希……我要赶紧打电话叫我朋友来看……】"
+            }
+        ],
+        "atts": []
+    },
+    "10": {
+        "speaker": "评论",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "【前面的你们但凡看看non之前投稿的吉他练习视频都该知道是真的wwww】【 我的天non你们乐队的鼓手居然是这么帅的美女！背着我们吃这么好是吧！】【 怎么突然多了这么多人啊？我看不过来评论了……】"
+            }
+        ],
+        "atts": []
+    },
+    "11": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "当然，在这些与立希有关的乱七八糟的弹幕里，出现的最频繁，最显眼，也是最多的，不是立希的名字，而是——Rikki。"
+            }
+        ],
+        "atts": []
+    },
+    "12": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希怔怔看着那个曾经被她抗拒的字眼，如今成为她这个人对外印象的一部分，疯狂地刷过屏幕，而始作俑者一边念着那些留言，一边在桌子下用膝盖轻轻碰了碰她的腿。"
+            }
+        ],
+        "atts": []
+    },
+    "13": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "没有收到对方的回应，爱音挑选了几条有关立希的留言读完，扭头看了再次陷入呆滞的人一眼，她笑得很开心。"
+            }
+        ],
+        "atts": []
+    },
+    "14": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "好啦好啦，大家的热情我们都收到啦——都怪你们啦，一次性发这么多奇怪的评论，万一把我们家Rikki吓傻了怎么办——你们看，这就已经一动不动了。"
+            }
+        ],
+        "atts": []
+    },
+    "15": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "说着，为了证明自己的话，爱音还真就伸手去，朝着立希的腰侧戳了戳。"
+            }
+        ],
+        "atts": []
+    },
+    "16": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "啊！啊……"
+            }
+        ],
+        "atts": []
+    },
+    "17": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "那个……"
+            }
+        ],
+        "atts": []
+    },
+    "18": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "啊什么啊呀，介绍，自我介绍啊。"
+            }
+        ],
+        "atts": []
+    },
+    "19": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "啊……那个，大家好，我叫做椎名立希。"
+            }
+        ],
+        "atts": []
+    },
+    "20": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "是千……是小爱音所在的乐队的鼓手。"
+            }
+        ],
+        "atts": []
+    },
+    "21": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "你们看！我就说你们吓到她了！"
+            }
+        ],
+        "atts": []
+    },
+    "22": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "把我宝贵的鼓手和编曲吓傻了你们怎么赔啊！"
+            }
+        ],
+        "atts": []
+    },
+    "23": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "什么一个SC够不够啊，这是能用SC来衡量的吗？"
+            }
+        ],
+        "atts": []
+    },
+    "24": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "拜托！这可是Rikki欸！"
+            }
+        ],
+        "atts": []
+    },
+    "25": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "顶格SC最起码给我来200个吧！"
+            }
+        ],
+        "atts": []
+    },
+    "26": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "咕……"
+            }
+        ],
+        "atts": []
+    },
+    "27": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "是立希悄悄掐了一下爱音的后腰。"
+            }
+        ],
+        "atts": []
+    },
+    "28": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "评论一下又热闹起来。"
+            }
+        ],
+        "atts": []
+    },
+    "29": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "全是得到立希出现的消息后，大量涌进来的MyGO!!!!!的粉丝在调侃她俩。"
+            }
+        ],
+        "atts": []
+    },
+    "30": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "哎呀！好多人啊现在——都怪你们吵吵闹闹的！今天的开场词人家还没说呢！"
+            }
+        ],
+        "atts": []
+    },
+    "31": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（爱音的直播开场词吗……）"
+            }
+        ],
+        "atts": []
+    },
+    "32": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希抬眼去看屏幕上持续更新的留言。"
+            }
+        ],
+        "atts": []
+    },
+    "33": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "果不其然看见了许多与她的想法如出一辙的评论。"
+            }
+        ],
+        "atts": []
+    },
+    "34": {
+        "speaker": "评论",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "【既然如此我们就跳过这一Part吧！】【 不要浪费我生命中宝贵的十五秒！】【 所以non还是不准备换开场词吗？？？换一个吧我求你了……】【 都几几年了，为什么还能听见和世纪初的谈话综艺一样的开场啊wwwww】"
+            }
+        ],
+        "atts": []
+    },
+    "35": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（这直播间果然还是好人多——）"
+            }
+        ],
+        "atts": []
+    },
+    "36": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（除去之前对灯不礼貌的那几个。）"
+            }
+        ],
+        "atts": []
+    },
+    "37": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "但是小爱音是全然不在乎的。"
+            }
+        ],
+        "atts": []
+    },
+    "38": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "小爱音还是坚持着说出了那句话。"
+            }
+        ],
+        "atts": []
+    },
+    "39": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "欢迎各位准时参加小爱音的淑女茶话会——"
+            }
+        ],
+        "atts": []
+    },
+    "40": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "(这种奶油一样轻飘飘滑腻腻的糖分过度的声调……)"
+            }
+        ],
+        "atts": []
+    },
+    "41": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "(果然无论如何都是现场直击更加吓人……)"
+            }
+        ],
+        "atts": []
+    },
+    "42": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "好恶…唔——"
+            }
+        ],
+        "atts": []
+    },
+    "43": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "爱音在桌下用力踹了立希一脚。"
+            }
+        ],
+        "atts": []
+    },
+    "44": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "总之！既然今天Rikki来了，就难得地让大家看看我们上次Live的录像吧！"
+            }
+        ],
+        "atts": []
+    },
+    "45": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "以迅雷不及掩耳之势，爱音将直播界面切到了屏幕共享，趁着利用Live录像打发观众的时间，她一把拉过立希，二人背过身去，叫立希不得不与她额头碰额头地贴到一起，窃窃私语。"
+            }
+        ],
+        "atts": []
+    },
+    "46": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "又怎么了我的大主播？"
+            }
+        ],
+        "atts": []
+    },
+    "47": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "哎呀！直播间里的MyGO粉丝越来越多了，Rikki你说话注意一点影响！"
+            }
+        ],
+        "atts": []
+    },
+    "48": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我没说脏话吧？我连“哈？”都没有说吧！"
+            }
+        ],
+        "atts": []
+    },
+    "49": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "啊~~~~不是~~~~不是这个影响啦——"
+            }
+        ],
+        "atts": []
+    },
+    "50": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "那你倒是把话说清楚啊！"
+            }
+        ],
+        "atts": []
+    },
+    "51": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希挣脱了爱音的束缚。"
+            }
+        ],
+        "atts": []
+    },
+    "52": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "爱音眨了眨眼，咬牙切齿的样子，脸上写满了恨铁不成钢。"
+            }
+        ],
+        "atts": []
+    },
+    "53": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "爱音揉了揉自己的太阳穴，扶额招手，示意立希凑近些。"
+            }
+        ],
+        "atts": []
+    },
+    "54": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "Rikki呀……"
+            }
+        ],
+        "atts": []
+    },
+    "55": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "你到底知不知道，这世界上除了单推和团厨，还有一种类型的粉丝，叫作CP粉啊？"
+            }
+        ],
+        "atts": []
+    },
+    "56": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "废话——"
+            }
+        ],
+        "atts": []
+    },
+    "57": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "等等，你什么意思？"
+            }
+        ],
+        "atts": []
+    },
+    "58": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "人家的意思就是……人家和Rikki的CP粉其实还蛮多的啦……"
+            }
+        ],
+        "atts": []
+    },
+    "59": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "？"
+            }
+        ],
+        "atts": []
+    },
+    "60": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "虽然好像也没那么多——但是她们存在!你理解我的意思吗？多和少不重要，重要的是存在！所以对人家态度好一点啦!"
+            }
+        ],
+        "atts": []
+    },
+    "61": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "不是，我们两个到底有什么地方让她们觉得般配啊？"
+            }
+        ],
+        "atts": []
+    },
+    "62": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "对对对，就是这种地方。"
+            }
+        ],
+        "atts": []
+    },
+    "63": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……真是意味不明。"
+            }
+        ],
+        "atts": []
+    },
+    "64": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "求求你啦，毕竟人家就是吃这口饭的——人家这种类型的网红不搞CP营业还能赚到什么钱啊？赚不到钱就攒不到钱，攒不到钱就不能租场地和设备，租不了好的场地和设备我们MyGO还怎——"
+            }
+        ],
+        "atts": []
+    },
+    "65": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "够了够了够了——打住！"
+            }
+        ],
+        "atts": []
+    },
+    "66": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "幸好我不是今天就会死。"
+            }
+        ],
+        "atts": []
+    },
+    "67": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "怎么了嘛？！"
+            }
+        ],
+        "atts": []
+    },
+    "68": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "如果我死前做的最后一件事是和你在直播间里扮蕾丝……"
+            }
+        ],
+        "atts": []
+    },
+    "69": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "老天啊，我一定会死不瞑目的。"
+            }
+        ],
+        "atts": []
+    },
+    "70": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "哪有这么离谱——再说什么叫扮蕾丝！多难听!我们这明明是坦坦荡荡队友情谊！"
+            }
+        ],
+        "atts": []
+    },
+    "71": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "欸，等等。"
+            }
+        ],
+        "atts": []
+    },
+    "72": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "你的意思是你同意了？你同意了是吗~~~~"
+            }
+        ],
+        "atts": []
+    },
+    "73": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我就知道Rikki最好了啦~~~！！！！"
+            }
+        ],
+        "atts": []
+    },
+    "74": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "爱音八爪鱼一样扑了过去，被立希伸出手臂隔开。"
+            }
+        ],
+        "atts": []
+    },
+    "75": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "下不为例……"
+            }
+        ],
+        "atts": []
+    },
+    "76": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "吼~~真小气！人家一直都很尽力好吗！你要不要看看到底是谁在运营MyGO的账号，谁在设计衣服，谁在——"
+            }
+        ],
+        "atts": []
+    },
+    "77": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希把又凑上来的爱音推开一臂远。"
+            }
+        ],
+        "atts": []
+    },
+    "78": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "好啦。"
+            }
+        ],
+        "atts": []
+    },
+    "79": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "谢谢你。"
+            }
+        ],
+        "atts": []
+    },
+    "80": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "简短的感谢。"
+            }
+        ],
+        "atts": []
+    },
+    "81": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希没有敢直视爱音的眼睛。"
+            }
+        ],
+        "atts": []
+    },
+    "82": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "同样的，她也没有注意到站立在原地一动不动的爱音正陷入与先前的她相似的呆滞。"
+            }
+        ],
+        "atts": []
+    },
+    "83": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希只是重新回到了座位上，静静地开始看那场尚未结束的Live录像。"
+            }
+        ],
+        "atts": []
+    },
+    "84": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "又过了一会，立希的余光瞥见隔壁的椅子被拉开。"
+            }
+        ],
+        "atts": []
+    },
+    "85": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "这一次，爱音没有多说话，只同立希一样，沉默地坐下，望向屏幕。"
+            }
+        ],
+        "atts": []
+    },
+    "86": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "望向屏幕中的对方。"
+            }
+        ],
+        "atts": []
+    },
+    "87": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "Live的时间不长，经过主播十分成熟的剪辑后，更是只留下精华。"
+            }
+        ],
+        "atts": []
+    },
+    "88": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "而随着视频播放结束，涌入的粉丝更是将屏幕铺满了显示界面，几乎挡住了爱音与立希的上半张脸。"
+            }
+        ],
+        "atts": []
+    },
+    "89": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "察觉到身边人的紧张，爱音安抚地拍了拍立希的手背，抛过去一个鼓励的眼神，无声地做出几个口型。"
+            }
+        ],
+        "atts": []
+    },
+    "90": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（别担心，看我。）"
+            }
+        ],
+        "atts": []
+    },
+    "91": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我的天……今天居然来了这么多的人吗？"
+            }
+        ],
+        "atts": []
+    },
+    "92": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "等等，我们MyGO的粉丝有这么多的吗？在线人数甚至已经超过MyGO账号的粉丝数了——我说你们，既然是MyGO的粉丝的话，赶紧给人家去关注MyGO的账号啊！人家每天看见降低的关注人数，心都在滴血好不好！"
+            }
+        ],
+        "atts": []
+    },
+    "93": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "评论再次疯狂地滚动起来，甚至时不时就有几个红色SC刷新置顶，而爱音立刻便会念出对方的ID与留言，简短回答后再表示感谢。"
+            }
+        ],
+        "atts": []
+    },
+    "94": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希不免对这样的爱音感到陌生与新奇。"
+            }
+        ],
+        "atts": []
+    },
+    "95": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "即使立希平常也会偷偷观看爱音的直播，对这一套已经刻在主播技能树上的流程本应该再熟悉不过。"
+            }
+        ],
+        "atts": []
+    },
+    "96": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "这到底是怎样的一种心情呢。"
+            }
+        ],
+        "atts": []
+    },
+    "97": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希不愿意承认。"
+            }
+        ],
+        "atts": []
+    },
+    "98": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "就在这样的恍惚中，她看见了面前逐渐放大的一张脸。"
+            }
+        ],
+        "atts": []
+    },
+    "99": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "爱音？"
+            }
+        ],
+        "atts": []
+    },
+    "100": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "爱音立刻将移动摄像头对准了立希。"
+            }
+        ],
+        "atts": []
+    },
+    "101": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "你们看吧！我都说了不要吓到她!完了呀我宝贵的鼓手和编曲这下真的变成笨——啊！"
+            }
+        ],
+        "atts": []
+    },
+    "102": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "忍无可忍的立希朝着爱音的额头上敲了一击。"
+            }
+        ],
+        "atts": []
+    },
+    "103": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "不许胡说八道。"
+            }
+        ],
+        "atts": []
+    },
+    "104": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "好啦……你快看看留言啦，有好多专门问你的问题要回答——好好回答哦！大家打了钱的！"
+            }
+        ],
+        "atts": []
+    },
+    "105": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我知道了啦！"
+            }
+        ],
+        "atts": []
+    },
+    "106": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希扭头朝屏幕上看过去。"
+            }
+        ],
+        "atts": []
+    },
+    "107": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "除了最顶端叠加了无数层的红色SC，下面不断滚动着更多的鼓励，赞赏与提问。"
+            }
+        ],
+        "atts": []
+    },
+    "108": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "正常一些的，在询问新曲的创作进度抑或是下次Live的举办时间，对乐队的专辑和歌曲表达喜爱或者意见。"
+            }
+        ],
+        "atts": []
+    },
+    "109": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "稍有些轻松的，是询问立希与爱音今天的日程，最近的生活，或者问候健康。"
+            }
+        ],
+        "atts": []
+    },
+    "110": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "而再下一层的，就是有些无厘头的成员关系调侃乃至更赤裸的表白。"
+            }
+        ],
+        "atts": []
+    },
+    "111": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "而爱音还看热闹不嫌事大地挑挑拣拣，念出那些离谱的语句。"
+            }
+        ],
+        "atts": []
+    },
+    "112": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "哦哦感谢这位，嗯，呃……叫做【想做立希的底鼓】的朋友送出的SC留言，嗯，这位朋友留言说“立希我爱你我要和你结婚”，嗯嗯好的感谢您的留言但是结婚不可以呢，毕竟我们MyGO的大家说好了要在一起乐队一辈子呢——"
+            }
+        ],
+        "atts": []
+    },
+    "113": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "你说是吧，Rikki？"
+            }
+        ],
+        "atts": []
+    },
+    "114": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "还陷入在大片大片的夸赞里转不过弯，被爱音突然杵了一下，立希捂着手臂点头。"
+            }
+        ],
+        "atts": []
+    },
+    "115": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "是……是的。"
+            }
+        ],
+        "atts": []
+    },
+    "116": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "嗯嗯就是这样，那么下一个……我看看，唔，这一位，感谢【低音精油】送出的SC留言，这位的留言是“你居然能把小立希拉来直播？难不成你真的去上野动物园偷了熊猫吗？立希也太没骨气了。”"
+            }
+        ],
+        "atts": []
+    },
+    "117": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "哼哼，这位朋友未免太小看小爱音的魅力了——再说了，Rikki一直都很宠人家的好不好，嘻嘻，Rikki你说呢？"
+            }
+        ],
+        "atts": []
+    },
+    "118": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希只是笑了笑。"
+            }
+        ],
+        "atts": []
+    },
+    "119": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "所以你真的不吐槽一下之前那个朋友的ID吗？"
+            }
+        ],
+        "atts": []
+    },
+    "120": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "少见多怪，之前我直播间里还有一个叫【极巨化胖丁使用了暴音】的家伙呢——对了，你笑得真的比哭都要难看——我们来看下一位的——"
+            }
+        ],
+        "atts": []
+    },
+    "121": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "哎呀怎么又是给Rikki的问题，我的粉丝呢！？你们都去哪里了！你们就没什么要问我的吗——不准问我什么时候改开场白和视频OP——也不准说除了这两个问题没有别的问题了！"
+            }
+        ],
+        "atts": []
+    },
+    "122": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "在爱音的主持和引导下，立希总算没有一开始那么紧绷了。"
+            }
+        ],
+        "atts": []
+    },
+    "123": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "她逐渐也可以较为流畅地回答一些问题，偶尔还能说几个有关爱音的糗事，让爱音的粉丝也能会心一笑。"
+            }
+        ],
+        "atts": []
+    },
+    "124": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……是的，她起的队名因为太土被大家全票否决，谁知道后来她还是不放弃地用这个名字开了频道……"
+            }
+        ],
+        "atts": []
+    },
+    "125": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "喂喂，爆料够了哈，不要再赶跑我本来就所剩无几的粉丝了。"
+            }
+        ],
+        "atts": []
+    },
+    "126": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "没关系，反正乐队的大家不会取关你的。"
+            }
+        ],
+        "atts": []
+    },
+    "127": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "哦~~~乐队的大家哦~~~~包括Rikki吗？"
+            }
+        ],
+        "atts": []
+    },
+    "128": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我也不会取关你的。"
+            }
+        ],
+        "atts": []
+    },
+    "129": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "所以你再怎么样也会有四个，呃，九个……吧，那五个家伙应该也不会……？"
+            }
+        ],
+        "atts": []
+    },
+    "130": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "哼哼，那人家只要四个就够了啦。"
+            }
+        ],
+        "atts": []
+    },
+    "131": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "是，是。"
+            }
+        ],
+        "atts": []
+    },
+    "132": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "爱音有些得意地扭过头去，重新面对镜头。"
+            }
+        ],
+        "atts": []
+    },
+    "133": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "哦，对了，今天的直播间里来了这么多的朋友，小爱音知道有大家是因为喜欢我，喜欢立希，或者喜欢MyGO这支乐队和乐队的歌曲，才相聚在这里。"
+            }
+        ],
+        "atts": []
+    },
+    "134": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "所以小爱音在这边也要再次提醒第一次来小爱音的直播间的大家哦~~"
+            }
+        ],
+        "atts": []
+    },
+    "135": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "不要因为喜欢看小爱音的直播而特意去关注MyGO，也不要因为喜欢MyGO所以才来看小爱音的直播。"
+            }
+        ],
+        "atts": []
+    },
+    "136": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "不要因为喜欢而接受不喜欢。"
+            }
+        ],
+        "atts": []
+    },
+    "137": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "如果有因为今天的直播而对MyGO产生兴趣的新朋友，请去关注MyGO的官方账号吧，乐队资讯都会在那边放出的。"
+            }
+        ],
+        "atts": []
+    },
+    "138": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "请大家都更加纯粹的喜爱音乐吧。"
+            }
+        ],
+        "atts": []
+    },
+    "139": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "镜头照不到的角落，立希悄悄转过头，望向爱音的侧脸。"
+            }
+        ],
+        "atts": []
+    },
+    "140": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "似乎有什么她第一次注意到的宝物在闪闪发光。"
+            }
+        ],
+        "atts": []
+    },
+    "141": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "大约是为了掩饰自己的情绪，爱音很迅速地擦了下眼角，露出个与平常一样的灿烂的营业笑容。"
+            }
+        ],
+        "atts": []
+    },
+    "142": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "当然！也要更纯粹地喜欢小爱音！"
+            }
+        ],
+        "atts": []
+    },
+    "143": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "哎呀~主要人家还是希望主播和乐队的事业分开嘛——可不能让乐队白白蹭到我世界第一预定的Anon Tokyo的频道热度——你们知不知道我现在广告费有多贵啊！"
+            }
+        ],
+        "atts": []
+    },
+    "144": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "气氛变得有些不一样。"
+            }
+        ],
+        "atts": []
+    },
+    "145": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "像是被放进温暖气候下，逐渐融化的黄油。"
+            }
+        ],
+        "atts": []
+    },
+    "146": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希突然觉得整个世界都变得柔软，柔软而舒适，温和的香气包裹着自己，而那一切叫自己安心的感触，全都来自于同一个方向。"
+            }
+        ],
+        "atts": []
+    },
+    "147": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "爱音。"
+            }
+        ],
+        "atts": []
+    },
+    "148": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希认真地呼喊这个名字。"
+            }
+        ],
+        "atts": []
+    },
+    "149": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "爱音朝立希的方向看过去。"
+            }
+        ],
+        "atts": []
+    },
+    "150": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "话是这么说，但是私下还是会疯狂刷新乐队账号的主页数粉丝的吧？"
+            }
+        ],
+        "atts": []
+    },
+    "151": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "哎呀！你这个家伙让人好讨厌啊！"
+            }
+        ],
+        "atts": []
+    },
+    "152": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "人家好不容易才说出那么帅气的话来！"
+            }
+        ],
+        "atts": []
+    },
+    "153": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "好吧！就这一回——求求大家了！喜欢MyGO的各位！请点击关注一下我们MyGO的官方账号吧！我知道最近营业的太少了才会掉粉但是我发誓很快！很快就会恢复稳定的更新的！是吧？Rikki！你说话呀Rikki！"
+            }
+        ],
+        "atts": []
+    },
+    "154": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "爱音扯了扯立希的衣服，似乎在用立希向观众做担保。"
+            }
+        ],
+        "atts": []
+    },
+    "155": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "评论果然变成了一片wwwww的大草原。"
+            }
+        ],
+        "atts": []
+    },
+    "156": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "受到评论气氛的感染，立希也笑起来。"
+            }
+        ],
+        "atts": []
+    },
+    "157": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "这样好吗？MyGO的收益可付不起Anon Tokyo的广告费啊。"
+            }
+        ],
+        "atts": []
+    },
+    "158": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "哎呀！你好烦——"
+            }
+        ],
+        "atts": []
+    },
+    "159": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "但是就是这个！Rikki！就是要这样笑起来才好看啊！"
+            }
+        ],
+        "atts": []
+    },
+    "160": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希将眼角渗出的泪水拭去。"
+            }
+        ],
+        "atts": []
+    },
+    "161": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "是吗。"
+            }
+        ],
+        "atts": []
+    },
+    "162": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "是的呀——哦，时间快到了哦！让我看看……"
+            }
+        ],
+        "atts": []
+    },
+    "163": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "啊，有一个新的SC——好吧，这是最后一个提问名额！后面的朋友不要再打SC提问了哦！"
+            }
+        ],
+        "atts": []
+    },
+    "164": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "最后一个提问，感谢名叫【RikkiLove】的这位朋友！这位朋友的问题是……"
+            }
+        ],
+        "atts": []
+    },
+    "165": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "“请问，MyGO什么时候再开Live呢？”"
+            }
+        ],
+        "atts": []
+    },
+    "166": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希与爱音不由得共同凑近了那行醒目无比的文字以及……"
+            }
+        ],
+        "atts": []
+    },
+    "167": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希敏锐地注意到了对方使用的头像——那是一个略带滑稽的卡通小号。"
+            }
+        ],
+        "atts": []
+    },
+    "168": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "咳咳……问你呢，Rikki。"
+            }
+        ],
+        "atts": []
+    },
+    "169": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "自诩是MyGO队长的家伙，为什么不回答？"
+            }
+        ],
+        "atts": []
+    },
+    "170": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "这种时候你就别——"
+            }
+        ],
+        "atts": []
+    },
+    "171": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "爱音看见了立希脸上没有收回的淡淡的笑容。"
+            }
+        ],
+        "atts": []
+    },
+    "172": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "哼，果然还是不能对你太好了。"
+            }
+        ],
+        "atts": []
+    },
+    "173": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "这话该我来说才对吧？"
+            }
+        ],
+        "atts": []
+    },
+    "174": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……关于什么时候再开Live这个问题，其实现在我已经开始新曲的创作了，我想应该很快。"
+            }
+        ],
+        "atts": []
+    },
+    "175": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "很快的。很快就会有下一场Live了。"
+            }
+        ],
+        "atts": []
+    },
+    "176": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "说不定就在下周呢？"
+            }
+        ],
+        "atts": []
+    },
+    "177": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "这就快得有点太超过了——喂！"
+            }
+        ],
+        "atts": []
+    },
+    "178": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希没有回应爱音的吐槽。"
+            }
+        ],
+        "atts": []
+    },
+    "179": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "相反的，她的表情逐渐严肃而郑重起来。"
+            }
+        ],
+        "atts": []
+    },
+    "180": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "总之，感谢各位一直以来对我，对MyGO，还有对爱音的支持。"
+            }
+        ],
+        "atts": []
+    },
+    "181": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "感谢大家还愿意对MyGO保持期待，对我们的Live保持期待。"
+            }
+        ],
+        "atts": []
+    },
+    "182": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "非常……非常地感谢大家，还有邀请我一起直播的爱音。"
+            }
+        ],
+        "atts": []
+    },
+    "183": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "能在这个时刻，让我也触摸到真实的温度。"
+            }
+        ],
+        "atts": []
+    },
+    "184": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "谢谢。"
+            }
+        ],
+        "atts": []
+    },
+    "185": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希侧头看向爱音，对方一如既往地笑着，跟观众挥手道别。"
+            }
+        ],
+        "atts": []
+    },
+    "186": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "拜拜，拜拜。"
+            }
+        ],
+        "atts": []
+    },
+    "187": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "再见。"
+            }
+        ],
+        "atts": []
     }
 }

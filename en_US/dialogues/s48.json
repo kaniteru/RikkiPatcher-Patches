@@ -1,119 +1,132 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "底鼓、军鼓、底鼓、军鼓。以稳定的速度反复演奏。课时已经结束了，小家伙还兴致勃勃地坐在架子鼓前，丝毫没有放学的自觉。"
             }
-        ]
+        ],
+        "atts": []
     },
     "1": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "老师漫不经心地靠在一边，只有应和节奏的鞋底暴露她仍在倾听的事实。"
             }
-        ]
+        ],
+        "atts": []
     },
     "2": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "极度简化版的《Billie Jean》，不是她布置的作业，但作为初学者的课后娱乐无可指摘。立希犯不上对所有事都咄咄逼人。"
             }
-        ]
+        ],
+        "atts": []
     },
     "3": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（已经放学半个小时了。Hina家里人还不来吗？）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "4": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "老师瞥了学生一眼，掏出手机。显然这种情况已经司空见惯，连她这个课余活动的音乐教师都加上了家长的联系方式。"
             }
-        ]
+        ],
+        "atts": []
     },
     "5": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（连消息也没有，真够心大的。）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "6": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "空旷的教室回荡着孤单的乐声，节奏开始乱了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "7": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（时间不早了……还是带她去楼下快餐店坐一下，然后发个消息给她家长吧。）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "8": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "鼓声彻底散了。小孩子还藏不好她的渴求，例如想被爸爸妈妈接回家，例如想被严肃的老师夸奖。"
             }
-        ]
+        ],
+        "atts": []
     },
     "9": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "老师还在低头摆弄着电子设备，一道炽热的眼神马上要烧焦她的袖子。"
             }
-        ]
+        ],
+        "atts": []
     },
     "10": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（……顺便也和素世说一声，大概要晚到半个小时了。）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "11": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（……Hina也等不及了。）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "12": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "练得不错，继续保持。今天的练习就到这里吧。老师带你下楼。"
             }
-        ]
+        ],
+        "atts": {}
     }
 }

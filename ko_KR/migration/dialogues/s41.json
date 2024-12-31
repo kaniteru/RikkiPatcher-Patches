@@ -1,995 +1,1102 @@
 {
-    "hash": "7df5695b96b545f5cba3351df3be1ab417070fd3eaacab83418c0542972d519774205e52c081a624a95e076e7bd0f171d8285e7c4ed28c465c076178c38cb193",
-    "list": {
-        "0": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（无法被替代的、打动人心的力量……要怎么在歌曲里具现。）"
-                }
-            ]
-        },
-        "1": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（靠一时情绪上肤浅的鼓动是无法实现的，我需要的是真实的力量——之前习惯失意的我无法孕育的这股力量。）"
-                }
-            ]
-        },
-        "2": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（真实……吗。）"
-                }
-            ]
-        },
-        "3": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（更仔细地观察这个世界？用充满爱的视线？在平常的世界发现不一样的美——以前看到的鸡汤倒是有这么说过，会有用吗？）"
-                }
-            ]
-        },
-        "4": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（现在只能死马当活马医了。）"
-                }
-            ]
-        },
-        "5": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（天都没黑，根本没有星星啊…）"
-                }
-            ]
-        },
-        "6": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（路灯倒是已经亮了，那就看看灯光？还不赖吧。）"
-                }
-            ]
-        },
-        "7": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（看房子？这家店的招牌有些掉漆了。那间咖啡厅铺了地毯，是小猫的拼图呢。不是熊猫啊……）"
-                }
-            ]
-        },
-        "8": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（……不是熊猫也好，就不用被踩了。）"
-                }
-            ]
-        },
-        "9": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（…………）"
-                }
-            ]
-        },
-        "10": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（做这种事果然没用吧。）"
-                }
-            ]
-        },
-        "11": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "咦？"
-                }
-            ]
-        },
-        "12": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "从小巷的阴影里跃出一只黑猫。"
-                }
-            ]
-        },
-        "13": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（啊，黑猫。那对紫瞳，还是那只没错！）"
-                }
-            ]
-        },
-        "14": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（究竟是怎么回事……）"
-                }
-            ]
-        },
-        "15": {
-            "speaker": "猫",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "……"
-                }
-            ]
-        },
-        "16": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "黑猫看了立希一眼，转身回到小巷。"
-                }
-            ]
-        },
-        "17": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "喂！"
-                }
-            ]
-        },
-        "18": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "等到立希冲过去的时候，黑猫早已不见了踪影。"
-                }
-            ]
-        },
-        "19": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "跑哪去了……"
-                }
-            ]
-        },
-        "20": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（那家伙该不会……）"
-                }
-            ]
-        },
-        "21": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "这时，一道黑影携着风压来。"
-                }
-            ]
-        },
-        "22": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "！！？？"
-                }
-            ]
-        },
-        "23": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "被吓到的立希赶紧后退好几步。"
-                }
-            ]
-        },
-        "24": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "引擎的轰鸣声猛得攀升至一个极限，撕裂着立希的耳膜。"
-                }
-            ]
-        },
-        "25": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（要被撞了！）"
-                }
-            ]
-        },
-        "26": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（难道倒计时结束前也有可能死亡？！）"
-                }
-            ]
-        },
-        "27": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "......"
-                }
-            ]
-        },
-        "28": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "........."
-                }
-            ]
-        },
-        "29": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "............"
-                }
-            ]
-        },
-        "30": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "意料中的撞击迟迟没发生。刚刚扑到脸上的劲风和声音都消失了。"
-                }
-            ]
-        },
-        "31": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "立希捂住自己砰砰鼓动的胸膛，确认自己还活着。"
-                }
-            ]
-        },
-        "32": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "随即，她感到无比的愤怒——为最近的经历，也为这个在小巷子里横冲直撞的暴走族。"
-                }
-            ]
-        },
-        "33": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "是谁这么……"
-                }
-            ]
-        },
-        "34": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "……海铃？"
-                }
-            ]
-        },
-        "35": {
-            "speaker": "八幡海铃",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "立希，你怎么在这？"
-                }
-            ]
-        },
-        "36": {
-            "speaker": "八幡海铃",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "你没事吧？"
-                }
-            ]
-        },
-        "37": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "我没事。"
-                }
-            ]
-        },
-        "38": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（……果然，倒计时结束前，还是不会死的吗。）"
-                }
-            ]
-        },
-        "39": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（……换第二个人这么骑车绝对要把她骂得狗血喷头。）"
-                }
-            ]
-        },
-        "40": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "你知不知道你这样骑车很危险！"
-                }
-            ]
-        },
-        "41": {
-            "speaker": "八幡海铃",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "对不起。"
-                }
-            ]
-        },
-        "42": {
-            "speaker": "八幡海铃",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "看你还这么精神，看来是没事了。"
-                }
-            ]
-        },
-        "43": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "海铃抬高墨镜，露出一双平静的湖绿色眼睛。她穿着黑色皮衣、卡其色露脐短款上衣、黑色露膝牛仔裤，脖子围着条防风纯黑三角巾。"
-                }
-            ]
-        },
-        "44": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "在立希印象里并不算高的海铃操控这辆座高795mm、重量168kg的CFMOTO 450SR大型摩托车没有丝毫违和。"
-                }
-            ]
-        },
-        "45": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "事实上，海铃为了单脚撑地从座位正中歪斜出去许多。但她的气质就是给人一切尽在掌握的余裕。"
-                }
-            ]
-        },
-        "46": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（这家伙完全没有反省的意思。不良啊。）"
-                }
-            ]
-        },
-        "47": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（是不是经常和社会上的音乐人混在一起学坏了。）"
-                }
-            ]
-        },
-        "48": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "差点就有事了。"
-                }
-            ]
-        },
-        "49": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "你骑车这么野，哪天真的撞到人怎么办！"
-                }
-            ]
-        },
-        "50": {
-            "speaker": "八幡海铃",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "接近路口我会减速。刚刚我也有闪烁大灯提示有车。"
-                }
-            ]
-        },
-        "51": {
-            "speaker": "八幡海铃",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "其他人一般都注意得到。"
-                }
-            ]
-        },
-        "52": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "…………"
-                }
-            ]
-        },
-        "53": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "……你刚刚闪灯了？"
-                }
-            ]
-        },
-        "54": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（我怎么没看到。）"
-                }
-            ]
-        },
-        "55": {
-            "speaker": "八幡海铃",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "嗯。"
-                }
-            ]
-        },
-        "56": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "…………"
-                }
-            ]
-        },
-        "57": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（难道是我光注意猫了？）"
-                }
-            ]
-        },
-        "58": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（……对哦，猫呢。摩托引擎声这么大，黑猫应该也会被海铃吓一跳逃出来才对。这个距离……）"
-                }
-            ]
-        },
-        "59": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（不过我走进去前别说光了，连摩托车引擎声也没听到……好奇怪。）"
-                }
-            ]
-        },
-        "60": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "海铃，你有看到一只黑猫吗？"
-                }
-            ]
-        },
-        "61": {
-            "speaker": "八幡海铃",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "黑猫？没看到。"
-                }
-            ]
-        },
-        "62": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "……没看到吗？"
-                }
-            ]
-        },
-        "63": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（海铃应该一定看得到才对，刚刚它才窜进这条小巷。）"
-                }
-            ]
-        },
-        "64": {
-            "speaker": "八幡海铃",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "怎么了吗？"
-                }
-            ]
-        },
-        "65": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "可刚刚我才看到它窜进这条巷子，就十几秒。"
-                }
-            ]
-        },
-        "66": {
-            "speaker": "八幡海铃",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "所以你是因为追一只黑猫，才无视了我的打灯和引擎声？"
-                }
-            ]
-        },
-        "67": {
-            "speaker": "八幡海铃",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "我还以为你只喜欢熊猫。原来猫也行吗。"
-                }
-            ]
-        },
-        "68": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "哈？"
-                }
-            ]
-        },
-        "69": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "这个和那个是两回事吧！"
-                }
-            ]
-        },
-        "70": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "我只是问你有没有看到一只黑猫！"
-                }
-            ]
-        },
-        "71": {
-            "speaker": "八幡海铃",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "没看到。"
-                }
-            ]
-        },
-        "72": {
-            "speaker": "八幡海铃",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "那只黑猫很重要吗？这么在意。"
-                }
-            ]
-        },
-        "73": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（说多了感觉只会让事情变得麻烦。）"
-                }
-            ]
-        },
-        "74": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "……没什么，忘了吧。"
-                }
-            ]
-        },
-        "75": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "对了，你为什么来这儿？"
-                }
-            ]
-        },
-        "76": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "我不记得你有什么工作需要特地经过我家附近啊。"
-                }
-            ]
-        },
-        "77": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（还是不对劲……）"
-                }
-            ]
-        },
-        "78": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（黑猫刚进去，海铃就出现了，倒像是猫变成了海铃一样。毛发也都是黑色的呢。）"
-                }
-            ]
-        },
-        "79": {
-            "speaker": "八幡海铃",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "……？"
-                }
-            ]
-        },
-        "80": {
-            "speaker": "八幡海铃",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "立希，你的眼神很奇怪。"
-                }
-            ]
-        },
-        "81": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "？"
-                }
-            ]
-        },
-        "82": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "有吗。错觉吧。"
-                }
-            ]
-        },
-        "83": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（还是这么敏锐。）"
-                }
-            ]
-        },
-        "84": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（敏锐这点也特别像猫呢。）"
-                }
-            ]
-        },
-        "85": {
-            "speaker": "八幡海铃",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "……就当是错觉。"
-                }
-            ]
-        },
-        "86": {
-            "speaker": "八幡海铃",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "倒也没什么大事，只是去我们常去的附近那家居酒屋吃个饭。"
-                }
-            ]
-        },
-        "87": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "我也正准备去那家看看。"
-                }
-            ]
-        },
-        "88": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "不过前几天店主老爷子染病歇业了，要做好不开业的准备喔。"
-                }
-            ]
-        },
-        "89": {
-            "speaker": "八幡海铃",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "……他平时是喝太多酒了。"
-                }
-            ]
-        },
-        "90": {
-            "speaker": "八幡海铃",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "一起？"
-                }
-            ]
-        },
-        "91": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "海铃从车前的钩子取下头盔，递向立希。"
-                }
-            ]
-        },
-        "92": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "立希接下头盔戴上。她最后瞥了眼空荡荡的巷子——没有黑猫，只有外墙上凸起的空调外机架。"
-                }
-            ]
-        },
-        "93": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "海铃向前坐了坐，给立希留出足够的空间。立希扶着海铃的肩，借力轻巧地跨坐好。"
-                }
-            ]
-        },
-        "94": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "她犹豫片刻，单手搭在海铃的肩膀上，另一只手撑住底座侧边。"
-                }
-            ]
-        },
-        "95": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（姿势好别扭……）"
-                }
-            ]
-        },
-        "96": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（海铃这个家伙到底还要多久才能从露脐装毕业。）"
-                }
-            ]
-        },
-        "97": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "（……不过我也看不到那天了。）"
-                }
-            ]
-        },
-        "98": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "......"
-                }
-            ]
-        },
-        "99": {
-            "speaker": "八幡海铃",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "......"
-                }
-            ]
-        },
-        "100": {
-            "speaker": "八幡海铃",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "不抓紧的话，很危险的哦。"
-                }
-            ]
-        },
-        "101": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "你还说我，你自己的头盔呢？"
-                }
-            ]
-        },
-        "102": {
-            "speaker": "八幡海铃",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "......"
-                }
-            ]
-        },
-        "103": {
-            "speaker": "八幡海铃",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "今天没有预期要载人，只带了一个头盔。"
-                }
-            ]
-        },
-        "104": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "但刚刚，你也没有戴头盔啊。"
-                }
-            ]
-        },
-        "105": {
-            "speaker": "八幡海铃",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "看到警察的话，会戴上的。"
-                }
-            ]
-        },
-        "106": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "这是安全问——"
-                }
-            ]
-        },
-        "107": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "引擎轰鸣声突然响起，油门踩得很死，突如其来的加速令立希下意识搂住了海铃的腰。"
-                }
-            ]
-        },
-        "108": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "摩托车疾驰起来。猎猎的风吹动立希的长发，还好有头盔简单固定，发型不会太乱影响视线。"
-                }
-            ]
-        },
-        "109": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "一路上行车很少，车速堪堪在超速线之下，两旁的风景急速后退。"
-                }
-            ]
-        }
+    "0": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（无法被替代的、打动人心的力量……要怎么在歌曲里具现。）"
+            }
+        ],
+        "atts": []
+    },
+    "1": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（靠一时情绪上肤浅的鼓动是无法实现的，我需要的是真实的力量——之前习惯失意的我无法孕育的这股力量。）"
+            }
+        ],
+        "atts": []
+    },
+    "2": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（真实……吗。）"
+            }
+        ],
+        "atts": []
+    },
+    "3": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（更仔细地观察这个世界？用充满爱的视线？在平常的世界发现不一样的美——以前看到的鸡汤倒是有这么说过，会有用吗？）"
+            }
+        ],
+        "atts": []
+    },
+    "4": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（现在只能死马当活马医了。）"
+            }
+        ],
+        "atts": []
+    },
+    "5": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（天都没黑，根本没有星星啊…）"
+            }
+        ],
+        "atts": []
+    },
+    "6": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（路灯倒是已经亮了，那就看看灯光？还不赖吧。）"
+            }
+        ],
+        "atts": []
+    },
+    "7": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（看房子？这家店的招牌有些掉漆了。那间咖啡厅铺了地毯，是小猫的拼图呢。不是熊猫啊……）"
+            }
+        ],
+        "atts": []
+    },
+    "8": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（……不是熊猫也好，就不用被踩了。）"
+            }
+        ],
+        "atts": []
+    },
+    "9": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（…………）"
+            }
+        ],
+        "atts": []
+    },
+    "10": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（做这种事果然没用吧。）"
+            }
+        ],
+        "atts": []
+    },
+    "11": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "咦？"
+            }
+        ],
+        "atts": []
+    },
+    "12": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "从小巷的阴影里跃出一只黑猫。"
+            }
+        ],
+        "atts": []
+    },
+    "13": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（啊，黑猫。那对紫瞳，还是那只没错！）"
+            }
+        ],
+        "atts": []
+    },
+    "14": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（究竟是怎么回事……）"
+            }
+        ],
+        "atts": []
+    },
+    "15": {
+        "speaker": "猫",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……"
+            }
+        ],
+        "atts": []
+    },
+    "16": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "黑猫看了立希一眼，转身回到小巷。"
+            }
+        ],
+        "atts": []
+    },
+    "17": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "喂！"
+            }
+        ],
+        "atts": []
+    },
+    "18": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "等到立希冲过去的时候，黑猫早已不见了踪影。"
+            }
+        ],
+        "atts": []
+    },
+    "19": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "跑哪去了……"
+            }
+        ],
+        "atts": []
+    },
+    "20": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（那家伙该不会……）"
+            }
+        ],
+        "atts": []
+    },
+    "21": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "这时，一道黑影携着风压来。"
+            }
+        ],
+        "atts": []
+    },
+    "22": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "！！？？"
+            }
+        ],
+        "atts": []
+    },
+    "23": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "被吓到的立希赶紧后退好几步。"
+            }
+        ],
+        "atts": []
+    },
+    "24": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "引擎的轰鸣声猛得攀升至一个极限，撕裂着立希的耳膜。"
+            }
+        ],
+        "atts": []
+    },
+    "25": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（要被撞了！）"
+            }
+        ],
+        "atts": []
+    },
+    "26": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（难道倒计时结束前也有可能死亡？！）"
+            }
+        ],
+        "atts": []
+    },
+    "27": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ],
+        "atts": []
+    },
+    "28": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "........."
+            }
+        ],
+        "atts": []
+    },
+    "29": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "............"
+            }
+        ],
+        "atts": []
+    },
+    "30": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "意料中的撞击迟迟没发生。刚刚扑到脸上的劲风和声音都消失了。"
+            }
+        ],
+        "atts": []
+    },
+    "31": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希捂住自己砰砰鼓动的胸膛，确认自己还活着。"
+            }
+        ],
+        "atts": []
+    },
+    "32": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "随即，她感到无比的愤怒——为最近的经历，也为这个在小巷子里横冲直撞的暴走族。"
+            }
+        ],
+        "atts": []
+    },
+    "33": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "是谁这么……"
+            }
+        ],
+        "atts": []
+    },
+    "34": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……海铃？"
+            }
+        ],
+        "atts": []
+    },
+    "35": {
+        "speaker": "八幡海铃",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希，你怎么在这？"
+            }
+        ],
+        "atts": []
+    },
+    "36": {
+        "speaker": "八幡海铃",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "你没事吧？"
+            }
+        ],
+        "atts": []
+    },
+    "37": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我没事。"
+            }
+        ],
+        "atts": []
+    },
+    "38": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（……果然，倒计时结束前，还是不会死的吗。）"
+            }
+        ],
+        "atts": []
+    },
+    "39": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（……换第二个人这么骑车绝对要把她骂得狗血喷头。）"
+            }
+        ],
+        "atts": []
+    },
+    "40": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "你知不知道你这样骑车很危险！"
+            }
+        ],
+        "atts": []
+    },
+    "41": {
+        "speaker": "八幡海铃",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "对不起。"
+            }
+        ],
+        "atts": []
+    },
+    "42": {
+        "speaker": "八幡海铃",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "看你还这么精神，看来是没事了。"
+            }
+        ],
+        "atts": []
+    },
+    "43": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "海铃抬高墨镜，露出一双平静的湖绿色眼睛。她穿着黑色皮衣、卡其色露脐短款上衣、黑色露膝牛仔裤，脖子围着条防风纯黑三角巾。"
+            }
+        ],
+        "atts": []
+    },
+    "44": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "在立希印象里并不算高的海铃操控这辆座高795mm、重量168kg的CFMOTO 450SR大型摩托车没有丝毫违和。"
+            }
+        ],
+        "atts": []
+    },
+    "45": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "事实上，海铃为了单脚撑地从座位正中歪斜出去许多。但她的气质就是给人一切尽在掌握的余裕。"
+            }
+        ],
+        "atts": []
+    },
+    "46": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（这家伙完全没有反省的意思。不良啊。）"
+            }
+        ],
+        "atts": []
+    },
+    "47": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（是不是经常和社会上的音乐人混在一起学坏了。）"
+            }
+        ],
+        "atts": []
+    },
+    "48": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "差点就有事了。"
+            }
+        ],
+        "atts": []
+    },
+    "49": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "你骑车这么野，哪天真的撞到人怎么办！"
+            }
+        ],
+        "atts": []
+    },
+    "50": {
+        "speaker": "八幡海铃",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "接近路口我会减速。刚刚我也有闪烁大灯提示有车。"
+            }
+        ],
+        "atts": []
+    },
+    "51": {
+        "speaker": "八幡海铃",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "其他人一般都注意得到。"
+            }
+        ],
+        "atts": []
+    },
+    "52": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "…………"
+            }
+        ],
+        "atts": []
+    },
+    "53": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……你刚刚闪灯了？"
+            }
+        ],
+        "atts": []
+    },
+    "54": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（我怎么没看到。）"
+            }
+        ],
+        "atts": []
+    },
+    "55": {
+        "speaker": "八幡海铃",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "嗯。"
+            }
+        ],
+        "atts": []
+    },
+    "56": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "…………"
+            }
+        ],
+        "atts": []
+    },
+    "57": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（难道是我光注意猫了？）"
+            }
+        ],
+        "atts": []
+    },
+    "58": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（……对哦，猫呢。摩托引擎声这么大，黑猫应该也会被海铃吓一跳逃出来才对。这个距离……）"
+            }
+        ],
+        "atts": []
+    },
+    "59": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（不过我走进去前别说光了，连摩托车引擎声也没听到……好奇怪。）"
+            }
+        ],
+        "atts": []
+    },
+    "60": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "海铃，你有看到一只黑猫吗？"
+            }
+        ],
+        "atts": []
+    },
+    "61": {
+        "speaker": "八幡海铃",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "黑猫？没看到。"
+            }
+        ],
+        "atts": []
+    },
+    "62": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……没看到吗？"
+            }
+        ],
+        "atts": []
+    },
+    "63": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（海铃应该一定看得到才对，刚刚它才窜进这条小巷。）"
+            }
+        ],
+        "atts": []
+    },
+    "64": {
+        "speaker": "八幡海铃",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "怎么了吗？"
+            }
+        ],
+        "atts": []
+    },
+    "65": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "可刚刚我才看到它窜进这条巷子，就十几秒。"
+            }
+        ],
+        "atts": []
+    },
+    "66": {
+        "speaker": "八幡海铃",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "所以你是因为追一只黑猫，才无视了我的打灯和引擎声？"
+            }
+        ],
+        "atts": []
+    },
+    "67": {
+        "speaker": "八幡海铃",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我还以为你只喜欢熊猫。原来猫也行吗。"
+            }
+        ],
+        "atts": []
+    },
+    "68": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "哈？"
+            }
+        ],
+        "atts": []
+    },
+    "69": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "这个和那个是两回事吧！"
+            }
+        ],
+        "atts": []
+    },
+    "70": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我只是问你有没有看到一只黑猫！"
+            }
+        ],
+        "atts": []
+    },
+    "71": {
+        "speaker": "八幡海铃",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "没看到。"
+            }
+        ],
+        "atts": []
+    },
+    "72": {
+        "speaker": "八幡海铃",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "那只黑猫很重要吗？这么在意。"
+            }
+        ],
+        "atts": []
+    },
+    "73": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（说多了感觉只会让事情变得麻烦。）"
+            }
+        ],
+        "atts": []
+    },
+    "74": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……没什么，忘了吧。"
+            }
+        ],
+        "atts": []
+    },
+    "75": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "对了，你为什么来这儿？"
+            }
+        ],
+        "atts": []
+    },
+    "76": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我不记得你有什么工作需要特地经过我家附近啊。"
+            }
+        ],
+        "atts": []
+    },
+    "77": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（还是不对劲……）"
+            }
+        ],
+        "atts": []
+    },
+    "78": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（黑猫刚进去，海铃就出现了，倒像是猫变成了海铃一样。毛发也都是黑色的呢。）"
+            }
+        ],
+        "atts": []
+    },
+    "79": {
+        "speaker": "八幡海铃",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……？"
+            }
+        ],
+        "atts": []
+    },
+    "80": {
+        "speaker": "八幡海铃",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希，你的眼神很奇怪。"
+            }
+        ],
+        "atts": []
+    },
+    "81": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "？"
+            }
+        ],
+        "atts": []
+    },
+    "82": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "有吗。错觉吧。"
+            }
+        ],
+        "atts": []
+    },
+    "83": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（还是这么敏锐。）"
+            }
+        ],
+        "atts": []
+    },
+    "84": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（敏锐这点也特别像猫呢。）"
+            }
+        ],
+        "atts": []
+    },
+    "85": {
+        "speaker": "八幡海铃",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……就当是错觉。"
+            }
+        ],
+        "atts": []
+    },
+    "86": {
+        "speaker": "八幡海铃",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "倒也没什么大事，只是去我们常去的附近那家居酒屋吃个饭。"
+            }
+        ],
+        "atts": []
+    },
+    "87": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "我也正准备去那家看看。"
+            }
+        ],
+        "atts": []
+    },
+    "88": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "不过前几天店主老爷子染病歇业了，要做好不开业的准备喔。"
+            }
+        ],
+        "atts": []
+    },
+    "89": {
+        "speaker": "八幡海铃",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "……他平时是喝太多酒了。"
+            }
+        ],
+        "atts": []
+    },
+    "90": {
+        "speaker": "八幡海铃",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "一起？"
+            }
+        ],
+        "atts": []
+    },
+    "91": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "海铃从车前的钩子取下头盔，递向立希。"
+            }
+        ],
+        "atts": []
+    },
+    "92": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "立希接下头盔戴上。她最后瞥了眼空荡荡的巷子——没有黑猫，只有外墙上凸起的空调外机架。"
+            }
+        ],
+        "atts": []
+    },
+    "93": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "海铃向前坐了坐，给立希留出足够的空间。立希扶着海铃的肩，借力轻巧地跨坐好。"
+            }
+        ],
+        "atts": []
+    },
+    "94": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "她犹豫片刻，单手搭在海铃的肩膀上，另一只手撑住底座侧边。"
+            }
+        ],
+        "atts": []
+    },
+    "95": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（姿势好别扭……）"
+            }
+        ],
+        "atts": []
+    },
+    "96": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（海铃这个家伙到底还要多久才能从露脐装毕业。）"
+            }
+        ],
+        "atts": []
+    },
+    "97": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（……不过我也看不到那天了。）"
+            }
+        ],
+        "atts": []
+    },
+    "98": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ],
+        "atts": []
+    },
+    "99": {
+        "speaker": "八幡海铃",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ],
+        "atts": []
+    },
+    "100": {
+        "speaker": "八幡海铃",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "不抓紧的话，很危险的哦。"
+            }
+        ],
+        "atts": []
+    },
+    "101": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "你还说我，你自己的头盔呢？"
+            }
+        ],
+        "atts": []
+    },
+    "102": {
+        "speaker": "八幡海铃",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "......"
+            }
+        ],
+        "atts": []
+    },
+    "103": {
+        "speaker": "八幡海铃",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "今天没有预期要载人，只带了一个头盔。"
+            }
+        ],
+        "atts": []
+    },
+    "104": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "但刚刚，你也没有戴头盔啊。"
+            }
+        ],
+        "atts": []
+    },
+    "105": {
+        "speaker": "八幡海铃",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "看到警察的话，会戴上的。"
+            }
+        ],
+        "atts": []
+    },
+    "106": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "这是安全问——"
+            }
+        ],
+        "atts": []
+    },
+    "107": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "引擎轰鸣声突然响起，油门踩得很死，突如其来的加速令立希下意识搂住了海铃的腰。"
+            }
+        ],
+        "atts": []
+    },
+    "108": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "摩托车疾驰起来。猎猎的风吹动立希的长发，还好有头盔简单固定，发型不会太乱影响视线。"
+            }
+        ],
+        "atts": []
+    },
+    "109": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "一路上行车很少，车速堪堪在超速线之下，两旁的风景急速后退。"
+            }
+        ],
+        "atts": []
     }
 }

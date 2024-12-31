@@ -1,77 +1,82 @@
 {
-    "hash": "008af7da85909bd490ef5f622e4f7b7c244a58543cb4c835fa086f6c89673c9ecca413ab164e33b81275b3e5e2e2afc9f625efc659dfe4230e8e6b3d448ce47f",
-    "list": {
-        "0": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "或许是担心晚风凛冽，又或许是不想让后座的人太过紧张，海铃回程的车速并不快。"
-                }
-            ]
-        },
-        "1": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "因此立希到家的时候已是深夜，曲子自然毫无进展。"
-                }
-            ]
-        },
-        "2": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "但她并不觉得遗憾。"
-                }
-            ]
-        },
-        "3": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "——因为只要闭上眼睛，若有若无的海浪声就会在心底响起，带走她的焦躁和不安。"
-                }
-            ]
-        },
-        "4": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "整晚独处并没有帮助曲子的推进，因为几乎每一分钟都有新的杂念从脑海中冒出。"
-                }
-            ]
-        },
-        "5": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "那是她原本准备在饮酒时分享的，却因为不假思索的拒绝而沉寂的一个个话题。"
-                }
-            ]
-        },
-        "6": {
-            "speaker": "",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "椎名立希从不后悔自己的决定，但有那么一瞬间——她发现自己其实很想知道那个目的地。"
-                }
-            ]
-        },
-        "7": {
-            "speaker": "椎名立希",
-            "dialogue": [
-                {
-                    "html": "style='color:#FfFffF'",
-                    "text": "抓紧时间吧…"
-                }
-            ]
-        }
+    "0": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "或许是担心晚风凛冽，又或许是不想让后座的人太过紧张，海铃回程的车速并不快。"
+            }
+        ],
+        "atts": []
+    },
+    "1": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "因此立希到家的时候已是深夜，曲子自然毫无进展。"
+            }
+        ],
+        "atts": []
+    },
+    "2": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "但她并不觉得遗憾。"
+            }
+        ],
+        "atts": []
+    },
+    "3": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "——因为只要闭上眼睛，若有若无的海浪声就会在心底响起，带走她的焦躁和不安。"
+            }
+        ],
+        "atts": []
+    },
+    "4": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "整晚独处并没有帮助曲子的推进，因为几乎每一分钟都有新的杂念从脑海中冒出。"
+            }
+        ],
+        "atts": []
+    },
+    "5": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "那是她原本准备在饮酒时分享的，却因为不假思索的拒绝而沉寂的一个个话题。"
+            }
+        ],
+        "atts": []
+    },
+    "6": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "椎名立希从不后悔自己的决定，但有那么一瞬间——她发现自己其实很想知道那个目的地。"
+            }
+        ],
+        "atts": []
+    },
+    "7": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "抓紧时间吧…"
+            }
+        ],
+        "atts": {}
     }
 }

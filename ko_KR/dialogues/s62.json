@@ -1,151 +1,167 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그녀는 역 내에서 질주하고 있었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "1": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "하이힐이 바닥을 치는 소리가 텅 빈 역 안에서 반복적으로 울려 퍼졌다. 딱딱, 딱딱, 마치 어둠 속에 잠들어 있던 괴물을 깨운 듯 했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "2": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "갑작스런 상상에 그녀는 소름이 돋았고, 허둥지둥 신발을 벗어버리고 맨발로 차가운 콘크리트 바닥을 밟기 시작했다. 뒤에 떨어진 신발은 금세 그림자 속으로 사라졌다."
             }
-        ]
+        ],
+        "atts": []
     },
     "3": {
         "speaker": "？？？",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그녀는 플랫폼에 도착했다. 이 곳은 그녀에게 가장 익숙한 역이었다. 안내판, 자판기, 편의점, 모든 것이 평소와 똑같이 제자리에 있었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "4": {
         "speaker": "？？？",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "단지 여기에는 그녀 외에 아무도 없었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "5": {
         "speaker": "？？？",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "플랫폼에 매달려 있는 고장난 시계의 바늘이 0을 가리키려 하고 있었다. 그녀는 그것이 자신의 남은 수명을 뜻한다는 것을 알고 있었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "6": {
         "speaker": "？？？",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그 끔찍한 존재가 사라지기 전에 남긴 감정 없는 말——평생 여기에 남아 영생과 고독을 맞이할 것인지. 아니면 현실로 돌아가 이미 정해진 결말을 마주할 것인지."
             }
-        ]
+        ],
+        "atts": []
     },
     "7": {
         "speaker": "？？？",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "자신을 사랑하는 사람들이 자신의 마지막을 지켜보는 것을 원치 않아서, 그녀는 병원을 떠나 이 저주받은 역으로 뛰어들었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "8": {
         "speaker": "？？？",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "운명적인 죽음을 미워했기 때문에, 결말이 바뀌지 않을 것을 알면서도 그녀는 이 눈으로 또 다른 선택을 직접 해보고 싶었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "9": {
         "speaker": "？？？",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "어둡고 빈 터널 속에서 불길한 딱딱 소리가 다시 들려왔다. 무언가 거대한 존재가 가장 깊은 곳에서부터 그녀에게 다가오고 있었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "10": {
         "speaker": "？？？",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "딱딱 소리가 점점 귀청이 터질 듯한 굉음으로 변했고, 그녀의 심장 소리는 소음에 덮여 마치 죽은 듯 했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "11": {
         "speaker": "？？？",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이것이 정말 옳은 방법일까?"
             }
-        ]
+        ],
+        "atts": []
     },
     "12": {
         "speaker": "？？？",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "눈이 부실 정도로 빚추는 빛과 함께 전차가 어둠을 뚫고 나와 마치 자아를 가진 듯 그녀 앞에 멈춰섰다."
             }
-        ]
+        ],
+        "atts": []
     },
     "13": {
         "speaker": "？？？",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이것이 마지막으로 선택의 순간을 되돌릴 수 있는 기회였다. 그녀는 결단을 내려야 했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "14": {
         "speaker": "？？？",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그러나 그녀의 두 발은 땅에 박혀 꼼짝할 수 없었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "15": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "열차의 문이 증기 소리와 함께 천천히 열리며, 그녀를 맞이하는 것은 그 끔찍한 존재——낯익은 검은 고양이였다."
             }
-        ]
+        ],
+        "atts": []
     },
     "16": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": " "
@@ -162,459 +178,540 @@
                 "html": "style='color:#db0b0b'",
                 "text": "            내가 벗어날 수 없었던, 악몽의 화신."
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "font": "DGY",
+                    "fontSize": 40,
+                    "leading": 20,
+                    "letterSpacing": 1,
+                    "x": 185,
+                    "y": 625
+                },
+                {
+                    "font": {},
+                    "fontSize": {},
+                    "leading": {},
+                    "letterSpacing": {},
+                    "x": {},
+                    "y": {}
+                }
+            ],
+            "skipBox": [
+                {
+                    "alpha": 0,
+                    "x": 1693,
+                    "y": 1206
+                },
+                {
+                    "alpha": {},
+                    "x": {},
+                    "y": {}
+                }
+            ]
+        }
     },
     "17": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이 순간, 그녀는 자신이 어디로 가게 될지 마침내 깨달을 수 있었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "18": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그녀는 운명적으로 여기에 오게 된 것이다."
             }
-        ]
+        ],
+        "atts": []
     },
     "19": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……음, 이 이야기는 여기서 끝~"
             }
-        ]
+        ],
+        "atts": []
     },
     "20": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "저도 이 소설을 처음부터 끝까지 읽어봤는데, 열린 결말이더라구요."
             }
-        ]
+        ],
+        "atts": []
     },
     "21": {
         "speaker": "댓글",
-        "dialogue": [
+        "spans": [
             {
-                "html": "style='color:#FF7F27'",
+                "html": "style='color:#FfFffF'",
                 "text": "【처음에는 분위기가 꽤 무서웠는데, 왜인진 모르겠지만 논이 읽어주는 걸 들으면 항상 웃기더라...】 \n"
             },
             {
-                "html": "style='color:#FF7F27'",
+                "html": "style='color:#FfFffF'",
                 "text": "【다음번에는 팬픽도 읽어주실 수 있나요?】 \n"
             },
             {
-                "html": "style='color:#FF7F27'",
+                "html": "style='color:#FfFffF'",
                 "text": "【논 마지막에 갑자기 런던 영어 억양 자랑하는 거 대박 웃김】"
             }
-        ]
+        ],
+        "atts": []
     },
     "22": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "왜 다들 날 비웃는거야! 이야기 감상평같은 건 없어요?"
             }
-        ]
+        ],
+        "atts": []
     },
     "23": {
         "speaker": "댓글",
-        "dialogue": [
+        "spans": [
             {
-                "html": "style='color:#FF7F27'",
+                "html": "style='color:#FfFffF'",
                 "text": "【이야기의 검은 고양이가 불길함의 상징이였다기 보다는 일종의 가이드 같은 존재로 느껴짐.】 \n"
             },
             {
-                "html": "style='color:#FF7F27'",
+                "html": "style='color:#FfFffF'",
                 "text": "【공포라기보다는 검은 고양이와 수명 암시 외에는 다른 이상한 현상은 없었죠. 결국 주인공의 심리적 공포가 핵심이었던 거 같습니다.】 【주인공은 단순히 정신병자였던 것 같아요……】"
             }
-        ]
+        ],
+        "atts": []
     },
     "24": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "여러분 정말 잘 들어 주셨네요…… 어쨌든, 인기 공포 소설——《고양이와 기미가츠역》이 판매 중이에요. 이런 장르를 좋아하는 분들은 한 권 사서 읽어보세요, 분명히 다른 느낌일 거예요! 링크는 댓글에 있고, 클릭하면 쿠폰을 받을 수 있어요…………"
             }
-        ]
+        ],
+        "atts": []
     },
     "25": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……"
             }
-        ]
+        ],
+        "atts": []
     },
     "26": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "라이브 창을 닫고, 타키는 깊은 한숨을 쉬며 의자에 기댔다."
             }
-        ]
+        ],
+        "atts": []
     },
     "27": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "방의 커튼은 꼭 닫혀 있었고, 매우 어두웠다. 눈부신 컴퓨터 화면에는 '검은 고양이', '타이머' 등의 검색어로 가득 차 있었고, 너무 많은 탭이 한꺼번에 열려있어 구체적인 제목은 가려졌기에 거의 읽을 수 없었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "28": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(그 타이머…… 도대체 뭐지……)"
             }
-        ]
+        ],
+        "atts": []
     },
     "29": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 욕실에서 그 광경을 본 후에 무슨 일이 있었는지 기억하지 못했다. 그녀가 정신을 차렸을 때는 이미 책상 앞에 앉아서 미친 듯이 그것과 관련된 정보를 검색하고 있었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "30": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "어쨌든, 아논의 스트리밍은 그녀를 혼란에서 끌어내어 주기에 충분했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "31": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그렇게 괴상한 이야기를 마치 잠들기 전 아이에게 읽어주는 동화책 처럼 평온하고 웃기게 읽어주는 건 정말 대단한 재능이었다. 비록 시청자들의 비웃음을 샀지만, 현재 초자연적 현상을 겪고있는 그녀에게는 진정제를 삼킨 것과 같은 느낌이었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "32": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그럼에도 타키의 머릿속은 여전히 뒤죽박죽이었다. 구토와 공포로 인한 끔찍한 여운도 계속해서 그녀를 뒤따라다녔다."
             }
-        ]
+        ],
+        "atts": []
     },
     "33": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "꿈속의 검은 고양이와 아논이 읽어준 이야기를 겹쳐서 생각하자, 비슷한 점이 떠올랐다."
             }
-        ]
+        ],
+        "atts": []
     },
     "34": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "똑같은 검은 고양이, 똑같은 수수께끼, 똑같은 미궁과 시간, 죽음에 대한 주제……"
             }
-        ]
+        ],
+        "atts": []
     },
     "35": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "소설로 현실을 설명하는 것은 다소 터무니없어 보이지만, 지금은 믿을 만한 답을 찾을 수 없어서, 그녀는 인터넷에 의존할 수밖에 없었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "36": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(정확히 열흘. 이 숫자가 무슨 특별한 의미가 있는 걸까? 방금 비슷한 주제로 만들어진 《여명 10년》이라는 영화도 찾아냈는데, 과연 연관이 있을까……)"
             }
-        ]
+        ],
+        "atts": []
     },
     "37": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(아니…… 이 타이머가 죽음과 연관 되어 있다는 증거는 없어. 단지 내가 불편해질 때 나타나서 그런 연상을 하게 된 것뿐이겠지……)"
             }
-        ]
+        ],
+        "atts": []
     },
     "38": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(에휴, 여기 앉아서 고민해봤자 시간 낭비야. 일단 오늘은 연차를 내자.)"
             }
-        ]
+        ],
+        "atts": []
     },
     "39": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "커튼을 걷으니 아침 햇살이 방 안으로 쏟아졌다. 밤을 샜던 그녀에게는 이런 빛이 다소 불편하게 느껴져 눈을 찡그렸고, 빛에 적응하기까지 시간이 꽤 걸렸다."
             }
-        ]
+        ],
+        "atts": []
     },
     "40": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "창문을 여니 소나기가 내린 후의 신선한 공기가 상쾌하게 느껴졌다."
             }
-        ]
+        ],
+        "atts": []
     },
     "41": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "새들의 지저귐과 차들이 지나가는 소음이 죽어 있던 방에 생기를 불어넣어주었고, 밤새도록 괴로워했던 타키에게 일종의 힐링이 되어주었다. 그녀는 깊이 숨을 들이마시고 내쉬며 잠깐의 평온함을 즐겼다."
             }
-        ]
+        ],
+        "atts": []
     },
     "42": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그때, 밖에서 시끄러운 소리가 들려왔다."
             }
-        ]
+        ],
+        "atts": []
     },
     "43": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아래를 내려다보니 등에 악기를 멘 교복 차림의 고등학생들이 웃고 떠들며 급히 뛰어가고 있었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "44": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "시계는 9시를 가리키고 있었고, 이미 1교시가 시작된 시간이였다."
             }
-        ]
+        ],
+        "atts": []
     },
     "45": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 이 시간대에 밖을 내다본 적이 거의 없었다. 평소에는 일찍 출근하거나 늦잠을 자고 있었기에, 고등학생들이 거의 매일 그녀의 집 아래를 지나간다는 것을 알지도 못했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "46": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(이 근처에 고등학교가 있었구나……)"
             }
-        ]
+        ],
+        "atts": []
     },
     "47": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "소란스러움이 서서히 거리 끝으로 움직이며 사라지자, 타키는 오래전 아논의 집에서 모두가 모였던 때를 떠올렸다."
             }
-        ]
+        ],
+        "atts": []
     },
     "48": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "라이브의 준비는 분주했고, 그녀들은 밤새 의상을 만들느라 지쳤었다. 다음 날 늦잠을 자고 각자의 학교로 허겁지겁 뛰어가던 때가 생각났다."
             }
-        ]
+        ],
+        "atts": []
     },
     "49": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "감상에 빠진 지금, 세상이 변해버린 것 같다는 느낌이 더욱 강렬하게 다가왔다."
             }
-        ]
+        ],
+        "atts": []
     },
     "50": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그녀들은 많은 일을 겪었고, 많은 것이 변했지만, 여전히 변하지 않은 것도 있었다. 그리고 사라져 가는 것도 있었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "51": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "…………？"
             }
-        ]
+        ],
+        "atts": []
     },
     "52": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "뭔가 이상한 느낌이 그녀를 방해했다. 이렇게 평온한 풍경 앞에서도 그녀의 마음은 전혀 진정되지 않았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "53": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그녀는 계속 깊이 숨을 들이쉬며 마음을 진정시키려고 했지만, 불안감의 원천은 심리적인 것보다 생리적인 것이라는 것을 알게 되었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "54": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그녀는 가슴을 누르며, 가슴뼈 아래에서 느껴지는 뚜렷하고 강렬한 떨림을 손끝으로 느꼈다."
             }
-        ]
+        ],
+        "atts": []
     },
     "55": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "식은땀이 얼굴을 타고 흘렀고, 긴장감이 다시 그녀를 감싸기 시작했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "56": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(라이브가 막 끝났을 무렵이라면 모르겠는데, 지금은 왜 이러는거지……)"
             }
-        ]
+        ],
+        "atts": []
     },
     "57": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그녀는 주먹을 꽉 쥐고는 눈을 감아 빠르게 박동하는 심장을 진정시키고자 했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "58": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그러나 진정시키려 할수록 심장은 더욱 빠르게 뛰어댔다."
             }
-        ]
+        ],
+        "atts": []
     },
     "59": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(……아마도 아까전의 라이브를 봐서 그런 걸거야.)"
             }
-        ]
+        ],
+        "atts": []
     },
     "60": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "방금 들었던 그 기묘한 소설의 줄거리를 떠올리며, 타키는 그것으로 이 상황을 납득하고자 했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "61": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": []
     },
     "62": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "——타이머는 아마도 하나뿐만 아닐 것이다. 여러 개가 있을 것이다."
             }
-        ]
+        ],
+        "atts": []
     },
     "63": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이 생각이 갑자기 떠오르며, 타키는 마음속 공포와 불안이 더 깊은 무력감으로 뒤덮였다."
             }
-        ]
+        ],
+        "atts": []
     },
     "64": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "창문에 비친 자신의 모습에는 여전히 카운트다운이 흐르고 있었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "65": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그녀는 혀를 차며, 커튼을 확 당겨 쳤고, 창문은 닫지 않은 채로 방을 떠났다."
             }
-        ]
+        ],
+        "atts": []
     }
 }

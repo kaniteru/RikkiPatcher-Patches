@@ -1,124 +1,137 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 몸을 적셨던 빗방울을 털어냈다. 현관에 서서 깜깜한 집 안을 둘러 보자 드디어 몸의 긴장이 풀림을 느꼈다."
             }
-        ]
+        ],
+        "atts": []
     },
     "1": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "연속으로 이상한 일들이 발생했기에 집으로 돌아오기까지의 시간이 무척 길게 느껴졌고, 지금 이 순간 집 안에 드리운 짙은 어둠이 두려움 보다는 마음에 안정을 가져다주었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "2": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "어두운 복도를 따라 거실로 걸어가면서, 타키는 벽을 손으로 더듬으며 전등 스위치를 찾아 눌렀다."
             }
-        ]
+        ],
+        "atts": []
     },
     "3": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "스위치가 눌리자 따뜻한 누런 불빛이 그녀를 감쌌다."
             }
-        ]
+        ],
+        "atts": []
     },
     "4": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "오랜만에 MyGO!!!!!의 멤버를 모임 이외의 시간에 만나자, 타키의 머리 속은 다시 밴드로 가득 차기 시작했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "5": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "하나 둘 직업이 생기고 일을 시작한 이후, 각자 걸어가는 방향이 다른 새로운 삶을 살게 되었다. 밴드를 계속하고는 있지만 모두가 모이는 빈도는 점점 줄어들게 되었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "6": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "소요는 잦은 출장이, 아논은 스트리밍 활동을, 라나는 학업 문제로, 토모리는 글을 써야 했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "7": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "멤버들이 제각각의 일로 바빠짐에 따라 모두가 모일 수 있는 시간을 정하기가 점점 어려워졌다. 모두 함께가 아니면 연습도 별 의미가 없었다. 이런 이유로 연습을 할 수 있는 기회는 점점 줄어들었고, 라이브에 나가는 빈도도 확연히 줄어들었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "8": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "처음에는 갑작스러운 일 때문에 빠지게 된 멤버들이 미안해했지만, 시간이 지남에 따라 이것조차 모두에게 익숙한 일이 되었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "9": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(어른이 되니까 이런 어쩔 수 없는 일들도 생기는구나.)"
             }
-        ]
+        ],
+        "atts": []
     },
     "10": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(처음부터 밴드를 직업으로 삼을 생각이 없었으니, 이렇게 되는 것도 어떻게 보면 당연 한 거겠지.)"
             }
-        ]
+        ],
+        "atts": []
     },
     "11": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "하지만 긴 시간에 걸쳐 튼튼한 유대의 끈으로 묶인 이 관계들이 몇 번의 작은 휴가나 결석으로 해이해지지는 않는 법."
             }
-        ]
+        ],
+        "atts": []
     },
     "12": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 여전히 밴드에서 그녀의 역할을 성실히 수행하고 있었다: 연습을 독려하고, 작곡과 편곡을 꾸준히 하며, 라이브를 준비하는 일들을."
             }
-        ]
+        ],
+        "atts": []
     },
     "13": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이것은 그녀가 모든 일에 최선을 다 하는 습관때문이기도 하고, MyGO!!!!!가 지난 몇 년 동안 많은 인기를 쌓아왔기 때문이기도 했다.\n"
@@ -127,353 +140,392 @@
                 "html": "style='color:#FfFffF'",
                 "text": "——데뷔하는 것이 아니더라도, 우릴 응원해주는 팬들에게 책임감을 가지고 일정한 활동 빈도를 유지해야 해."
             }
-        ]
+        ],
+        "atts": []
     },
     "14": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "밴드 외에도, 근 몇 년간 타키는 자신의 직업에서 만족감을 찾지 못했다. 직장에서 여러 번 좌절을 겪은 후, 결국 그녀는 음악이라는 취미로 생계를 꾸리게 되었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "15": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "현재 그녀는 한 음악 교육 기관에서 드럼을 가르치고 있었고, 이 일이 무의미하지는 않다고 생각하지만 매우 지루한 일이였다."
             }
-        ]
+        ],
+        "atts": []
     },
     "16": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키의 작곡 능력을 알아본 몇몇 사람들이 그녀를 작곡가로 고용하거나 곡의 저작권을 구매하려 했지만, 그녀는 그 요청들을 모두 단호히 거절했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "17": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그녀는 자신의 곡이 MyGO!!!!!를 제외한 다른 곳에서 공개되는 것을 원하지 않았고, 이는 상상조차 해보지 못한 일이었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "18": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이렇게 긴 세월 동안, 그녀는 음악에 대한 모든 열정을 이제는 다소 조용해진 아마추어 밴드에 바쳤고, 이것이 지금의 그녀를 빚어내어 뿌리내린 습관을 만들었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "19": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "퇴근, 집, 작곡, 출근. 이것은 그녀가 집에 돌아온 후의 일상 패턴——또는 유일한 삶의 낙이다."
             }
-        ]
+        ],
+        "atts": []
     },
     "20": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "때로는 제목도, 가사도 없는 곡들이 많이 쌓이게 되면, 그녀는 기존에 완성된 곡들을 계속해서 다듬으며 멤버들의 연주 습관에 맞게 조율해 간만의 연습 일정이 잡힐 때 멤버들이 더 쉽게 연주할 수 있도록 편곡하였다."
             }
-        ]
+        ],
+        "atts": []
     },
     "21": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "어쨌든 모두의 시간도 소중하니까."
             }
-        ]
+        ],
+        "atts": []
     },
     "22": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(그렇다고 해도, 요즘은 다 같이 모일 수 있는 시간이 정말 드물었지.)"
             }
-        ]
+        ],
+        "atts": []
     },
     "23": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(토모리가 보내준 가사를 바탕으로 세 곡이나 작곡했는데…… 단 한 번도 연습하지 못했어…… 몇 군데는 조정도 필요하고.)"
             }
-        ]
+        ],
+        "atts": []
     },
     "24": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이 생각까지 이르자 타키는 근시일 내에 어떻게 해서든 연습 시간을 마련 해야겠다고 생각했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "25": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "과연… 그 두 매미 껍질이 토모리에게 어떤 아이디어를 줄 수 있을까."
             }
-        ]
+        ],
+        "atts": []
     },
     "26": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "영감이라는게 나한테도 잘 떠오르지 않는건데, 토모리를 돕는 건 더 어렵단 말이지."
             }
-        ]
+        ],
+        "atts": []
     },
     "27": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키의 생각이 그칠때 쯤, 적절한 타이밍에 휴대폰이 진동했다. 메세지가 온 것이였다."
             }
-        ]
+        ],
+        "atts": []
     },
     "28": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "「타키쨩, 집엔 잘 들어갔어? 가는 도중에 갑자기 비가 많이 내리던데, 타키쨩은 비 오기 전에 들어간거지?」"
             }
-        ]
+        ],
+        "atts": []
     },
     "29": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "「타키쨩이 말해줘서 기사님이 나를 집 앞까지 데려다 주셨어, 덕분에 나랑 매미 껍질은 거의 비를 맞지도 않았고. 정말 다행이야.」"
             }
-        ]
+        ],
+        "atts": []
     },
     "30": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "「돌아오는 길에 매미 껍질이 젖으면 어쩌나 걱정했거든. 말릴 때 얇은 매미 날개가 부서질 수도 있고, 가만히 놔두면 껍질이 물에 젖어 부드러워질 수도 있어. 매미가 살아있을 때 가볍게 날개를 흔들어 물방울을 털어내는걸 생각하니, 생명이란 참 신기한 거 같아.」"
             }
-        ]
+        ],
+        "atts": []
     },
     "31": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "「타키쨩도 몸조심해, 비 맞았으면 꼭 샤워하고, 머리를 감고 나서는 물기를 완전히 말려야 해.」"
             }
-        ]
+        ],
+        "atts": []
     },
     "32": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(그래, 내 머리는 수건으로 세게 문질러도 매미 날개처럼 부서지진 않을 테니까.)"
             }
-        ]
+        ],
+        "atts": []
     },
     "33": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "다른 사람의 걱정을 받는 것은 언제나 그녀의 마음을 기쁘게 만든다. 시이나 타키의 뇌는 드물게 농담을 떠올렸다. 물론 그렇게 답장할 리는 없었고, 진솔한 마음을 담아 다음과 같이 메세지를 보냈다."
             }
-        ]
+        ],
+        "atts": []
     },
     "34": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "「응, 폭우가 쏟아지기 전에 집에 도착했어, 지금 샤워하려고.」"
             }
-        ]
+        ],
+        "atts": []
     },
     "35": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "서로에게 답장을 주고 받는 의무는 여기서 완전히 끝났다. 비록 토모리가 보낼 메세지들을 더 받아보고 싶었지만, 몸의 축축함과 토모리의 당부가 그녀를 재촉하고 있었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "36": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 젖은 외투를 벗어 의자에 걸치고, 욕실로 향했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "37": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "피로에 휩싸여 몸을 뒤로 기댄 그녀는 천천히 눈을 감았다. 시야의 어두워짐을 인지한 뇌가 즉시 외부 세계의 속박에서 벗어나 독립적으로 움직이기 시작했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "38": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……………………………"
             }
-        ]
+        ],
+        "atts": []
     },
     "39": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "테이블 위의 디지털 시계가 두 번 째깍거렸다. 방금 전의 쪽잠은 길지 않았지만, 사람을 비몽사몽하게 만드는 상태에서 벗어나게 하기엔 충분했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "40": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 힘겹게 일어났고, 등과 허리에 심한 통증이 몰려옴을 느꼈다. 몸을 감싸던 식은땀이 가시며 흘러드는 찬 공기에 몸이 떨렸다."
             }
-        ]
+        ],
+        "atts": []
     },
     "41": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "나 감기 걸린 건 아니겠지...?"
             }
-        ]
+        ],
+        "atts": []
     },
     "42": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "무심코 손을 올려 이마에 덮어보았지만, 딱히 열감이 느껴지지는 않아 타키는 안심했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "43": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그래도 혹시 몰라, 빨리 샤워하고 옷을 갈아입어야겠어."
             }
-        ]
+        ],
+        "atts": []
     },
     "44": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키가 일어나려 다리를 옮기자, 무언가를 밟은 듯, 차가운 감촉이 느껴졌다."
             }
-        ]
+        ],
+        "atts": []
     },
     "45": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "고개를 숙여보니, 며칠 전 테이블에 놓아두었던 반쯤 마신 캔 맥주가 언제 떨어졌는지 바닥을 굴러 다니고 있었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "46": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "오늘은 정말 운이 지지리도 없는 날이네……"
             }
-        ]
+        ],
+        "atts": []
     },
     "47": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 길게 한숨을 내쉬며 휴지를 몇 장 뽑아 바닥을 적신 맥주를 완전히 빨아들이고, 젖은 외투를 벗어 의자에 걸친 후 욕실로 향했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "48": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "샤워를 마친 후, 타키는 드디어 익숙한 작업실 겸 작은 방의 의자에 앉을 수 있었다. 이사를 한 후, 혼자 살면서도 그녀는 여전히 전에 살던 집과 비슷하게 방을 꾸몄다."
             }
-        ]
+        ],
+        "atts": []
     },
     "49": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "집에 대한 그리움 때문도, 낯선 환경에 대한 두려움 때문도 아니었다. 단지 옛날의 방 구조가 그녀를 일에 몰두시킬 수 있는 최적의 환경을 제공했다는 생각이 들었기 때문이었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "50": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "연습 일정이 잡힌 건 아니었지만 타키는 항상 라이브 준비를 하고 있었고, 밤은 그녀의 집중력이 최고조에 달하는 시간이었다. 그녀는 이 시간을 놓치고 싶지 않아 헤드폰을 끼고 조율기를 만지작거리며 컴퓨터가 부팅되기를 기다렸다——"
             }
-        ]
+        ],
+        "atts": []
     },
     "51": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "컴퓨터가 부팅되는 동안, 그녀는 휴대폰의 화면을 켰다. 휴대폰은 새벽 3시를 가르키는 시간 아래에 읽지 않은 메세지가 하나 있음을 알렸다."
             }
-        ]
+        ],
+        "atts": []
     },
     "52": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "「길거리에서 리키를 마주치기란 정말 드문 일인데…… 시간이 별로 없어서 너무 아쉬웠어! 그렇지 않았으면 리키랑 더 오래 있을 수 있었을 텐데! 다음에 언제 만날 수 있을까? 다음번 연습에는 조금 더 일찍 나와야겠어. \n"
@@ -482,303 +534,384 @@
                 "html": "style='color:#FfFffF'",
                 "text": "(≧ω≦)/」"
             }
-        ]
+        ],
+        "atts": []
     },
     "53": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "「참고로 그 찻집, 신 메뉴가 정말 맛있었어! 다음번 연습 후에 다 같이 그 곳으로 갈 수도 있을까? 정말 기대돼(＞ｙ＜)」"
             }
-        ]
+        ],
+        "atts": []
     },
     "54": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "「PS: 중간에 갑자기 비가 많이 내리더라, 리키도 비에 맞았을지 모르겠네——너도 맞았어야 해! 나 혼자만 빗물에 쫄딱 젖은거라면 너무 불쌍하잖아! 방송시간에 거의 늦을뻔 뻔했다구!」"
             }
-        ]
+        ],
+        "atts": []
     },
     "55": {
         "speaker": "치하야 아논",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "「PS의 PS: 뜨거운 물로 씻어야 해, 혼자 산다고 너무 막 지내지 말고.」"
             }
-        ]
+        ],
+        "atts": []
     },
     "56": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이 녀석... 쓸데없는 말이 너무 많잖아."
             }
-        ]
+        ],
+        "atts": []
     },
     "57": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "하아? 무슨 셀카까지——누가 네 목욕 후 사진을 보고 싶어했냐고!"
             }
-        ]
+        ],
+        "atts": []
     },
     "58": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 그녀를 마주칠 때 마다 항상 무언가 일이 생긴다는 걸 알고 있었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "59": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그리 불평하면서도, 타키는 화면에 가득 들어찬 글을 잠시 들여다보다가, 진지한 팬더 이모티콘과 함께 '다음 번 연습에는 늦지 마라'라고 답장을 보냈다."
             }
-        ]
+        ],
+        "atts": []
     },
     "60": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(놀리고 싶긴 하지만, 라이브 방송에서 화장이 빗물에 흐트러진 모습을 잘 봤다는 걸 말하지는 말자.)"
             }
-        ]
+        ],
+        "atts": []
     },
     "61": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "토모리의 마지막 답신이였다."
             }
-        ]
+        ],
+        "atts": []
     },
     "62": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "「맞다, 오늘 택시비는 타키쨩이 대신 지불해줬지. 얼마가 나왔는지는 잘 모르겠어... 정말 고마워, 다음 번 연습 때 감사의 선물을 준비해갈게.」"
             }
-        ]
+        ],
+        "atts": []
     },
     "63": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "다음 번 연습이라..."
             }
-        ]
+        ],
+        "atts": []
     },
     "64": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(……답장은 내일 보내야겠다, 토모리의 휴식 시간을 방해하고 싶지 않아.)"
             }
-        ]
+        ],
+        "atts": []
     },
     "65": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "「집에는 잘 도착했어? 밤에 데려다주지 못해서 정말 미안해... 이런 폭우는 우산으로도 충분히 막을 수 없었을거야. 집에 도착하면 잘 씻고 머리도 완전히 말려야 해.」"
             }
-        ]
+        ],
+        "atts": []
     },
     "66": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "「그리고 따뜻한 음료를 마셔, 생강차나 코코아가 좋을 거야. 감기 걸리지 마. 우산은 급하게 돌려줄 필요 없으니 다음 번 만날 때 가져와주면 돼.」"
             }
-        ]
+        ],
+        "atts": []
     },
     "67": {
         "speaker": "나가사키 소요",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "「그리고, 커피를 '따뜻한 음료'로 대체하면 안 돼.」"
             }
-        ]
+        ],
+        "atts": []
     },
     "68": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "메세지로는 쉽게 말할 수 있지."
             }
-        ]
+        ],
+        "atts": []
     },
     "69": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "진솔한 작곡가인 타키는 책상 위에 놓아져 반쯤 남아 차갑게 식은 커피가 담긴 컵의 손잡이를 조용히 잡았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "70": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이제야 뒤늦게 느껴지는 추위가 등골을 타고 흘러들어 타키는 몸의 털이 곤두서는 것을 느꼈다. 검거된 범죄자는 더 대담한 생각을 떠올렸다: 지금 바로는 답장하지 말까? 이 시간에 답장을 보내면 모든 것이 들통날 것이다."
             }
-        ]
+        ],
+        "atts": []
     },
     "71": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "휴."
             }
-        ]
+        ],
+        "atts": []
     },
     "72": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "「알았어, 너도.」"
             }
-        ]
+        ],
+        "atts": []
     },
     "73": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "폭풍우? 사후 처리? 내일 얘기하자. 신속한 응답은 일생에서 제일 중요한 일이였다."
             }
-        ]
+        ],
+        "atts": []
     },
     "74": {
         "speaker": "카나메 라나",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "「1」"
             }
-        ]
+        ],
+        "atts": []
     },
     "75": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이 녀석… 분명 집에 일찍 도착했을텐데, 좀 더 빠르게 말해줄 순 없나?"
             }
-        ]
+        ],
+        "atts": []
     },
     "76": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그래도 뭐, 이 정도면 많이 발전한 셈이지."
             }
-        ]
+        ],
+        "atts": []
     },
     "77": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "짧은 고민 끝에, 타키는 'OK'라는 문구가 적힌 팬더 이모티콘을 답장으로 보냈다."
             }
-        ]
+        ],
+        "atts": []
     },
     "78": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(길고양이는 항상 휴대폰을 무음으로 두니까 답장을 보냈다고 휴대폰이 울려 잠에서 깰 일은 없을 거야.)"
             }
-        ]
+        ],
+        "atts": []
     },
     "79": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "다른 사람들의 메세지는 타키에게 힘을 주었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "80": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "오디오 파일을 열고 익숙한 멜로디를 듣고 있자니 그녀의 정신과 집중력이 음표 하나하나에 스며들어 악보의 가로줄 사이를 가로지르기 시작했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "81": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(오늘 밤엔 꼭——)"
             }
-        ]
+        ],
+        "atts": []
     },
     "82": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키가 다시 헤드폰을 벗었을 때——그녀는 다시 한 번 커튼에 내비치는 익숙한 아침 햇살을 볼 수 있었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "83": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그녀는 새들의 산뜻한 지저귐과 함께——"
             }
-        ]
+        ],
+        "atts": []
     },
     "84": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "허리서 들려오는 척추의 울부짖음을 들었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "85": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "제 1장, 끝."
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "alpha": 0,
+                    "fontSize": 30,
+                    "height": 34,
+                    "shadowEnabled": false,
+                    "strokeColor": "#d57fdf",
+                    "width": 413,
+                    "x": 1284,
+                    "y": 1102
+                },
+                {
+                    "alpha": {},
+                    "fontSize": {},
+                    "height": {},
+                    "shadowEnabled": {},
+                    "strokeColor": {},
+                    "width": {},
+                    "x": {},
+                    "y": {}
+                }
+            ],
+            "nameBox": [
+                {
+                    "height": 156,
+                    "x": -240,
+                    "y": 586
+                },
+                {
+                    "height": {},
+                    "x": {},
+                    "y": {}
+                }
+            ],
+            "skipBox": [
+                {
+                    "alpha": 0,
+                    "x": 1546,
+                    "y": 1074
+                },
+                {
+                    "alpha": {},
+                    "x": {},
+                    "y": {}
+                }
+            ]
+        }
     }
 }

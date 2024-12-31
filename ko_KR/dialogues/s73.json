@@ -1,781 +1,867 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "연차를 내자 갑작스럽게 생긴 시간적 여유에 타키는 한동안 어찌할 바를 몰랐다."
             }
-        ]
+        ],
+        "atts": []
     },
     "1": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그녀는 자기 자신을 생각에 잠길 틈을 주지 않기로 했다. 식탁 위에 버려져 찌그러진 맥주캔을 치우는 것부터 시작해, 대청소를 시작하였다."
             }
-        ]
+        ],
+        "atts": []
     },
     "2": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그러나 너무 간만의 청소였는지, 금방 끝날 것 같았던 대청소는 오후가 되어서야 끝이 보였다."
             }
-        ]
+        ],
+        "atts": []
     },
     "3": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "내일 쓰레기 봉투만 내다 버리면 되겠네……"
             }
-        ]
+        ],
+        "atts": []
     },
     "4": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "긴장이 풀리는 순간, 탈진감이 뇌와 사지로 급속도로 몰려와 타키의 시야가 빙빙 돌기 시작했고, 근처에 있던 의자의 등받이를 붙잡아 간신히 넘어지지 않을 수 있었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "5": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "——？！"
             }
-        ]
+        ],
+        "atts": []
     },
     "6": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "잠깐 잊고 있던 불안감이 다시 마음속으로 밀려 들어오자, 그녀는 지금 이 상황을 머리 위에 떠다니는 초자연적 현상과 연결 지었다. 하지만……"
             }
-        ]
+        ],
+        "atts": []
     },
     "7": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "카운트다운 같은 말도 안돼는 초자연적 현상보다는, 이러한 몸 상태에 반드시 어떠한 생리학적 이유가 있을 것이라는 결론을 내렸다……"
             }
-        ]
+        ],
+        "atts": []
     },
     "8": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아……"
             }
-        ]
+        ],
+        "atts": []
     },
     "9": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(그러고 보니, 하루종일 거의 먹은게 없었지……)"
             }
-        ]
+        ],
+        "atts": []
     },
     "10": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(뭐야, 그냥 저혈당이었잖아……)"
             }
-        ]
+        ],
+        "atts": []
     },
     "11": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그래, 사람은 먹지 않으면 죽어. 정말 간단한 세상의 이치이다."
             }
-        ]
+        ],
+        "atts": []
     },
     "12": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "방금 전까지 타키는 그 비현실적이며 희미한 초자연적 현상에 휘둘려 눈앞의 더 현실적이고 절박한 위협을 완전히 무시하고 있었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "13": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그 이상한 숫자들보다도, 지금 당장 겪고 있는 생명의 흐름이 훨씬 더 현실적으로 다가왔다."
             }
-        ]
+        ],
+        "atts": []
     },
     "14": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(빨리 뭐라도 먹어야겠어……)"
             }
-        ]
+        ],
+        "atts": []
     },
     "15": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "어지럼증이 잠깐 그치자, 타키는 벽을 짚으며 냉장고 앞으로 가 먹을 것을 찾아보았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "16": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "냉장고 안은 방금 청소가 끝난 그녀의 집처럼 거의 깨끗하게 비어있었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "17": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "맥주 몇 캔, 반절 남은 토마토 통조림, 얼음, 그리고……"
             }
-        ]
+        ],
+        "atts": []
     },
     "18": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "——어묵 된장 볶음밥 도시락."
             }
-        ]
+        ],
+        "atts": []
     },
     "19": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "어…… 이거."
             }
-        ]
+        ],
+        "atts": []
     },
     "20": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(어쩔 수 없지, 지금은 맛을 따질 때가 아니야.)"
             }
-        ]
+        ],
+        "atts": []
     },
     "21": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "맥주 몇 캔, 반절 남은 토마토 통조림, 얼음. 그리고 언제 샀는지 기억도 나지 않는 편의점 도시락."
             }
-        ]
+        ],
+        "atts": []
     },
     "22": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "제조일자는…… 음, 포장상태도 괜찮고, 맛도 변하지 않은 거 같고. 곰팡이가 피지도 않았네. 좋아, 먹을 수 있겠어."
             }
-        ]
+        ],
+        "atts": []
     },
     "23": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 도시락을 전자레인지에 넣어 데우기 시작했다. 극도의 허기진 상태에서의 그녀 또한 식욕을 참기는 힘들었기에, 조리가 완료됐다는 알림음이 울리자 마자 전자레인지의 문을 열어 뜨끈한 도시락을 꺼냈다."
             }
-        ]
+        ],
+        "atts": []
     },
     "24": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그녀는 막 청소를 끝내서 깨끗해진 식탁 앞에 앉았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "25": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "젓가락을 든 오른손이 당 부족으로 끊임없이 떨렸고, 첫 끼니로 오래간만에 짭짤한 음식을 접하게 되었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "26": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "…………"
             }
-        ]
+        ],
+        "atts": []
     },
     "27": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "………………"
             }
-        ]
+        ],
+        "atts": []
     },
     "28": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "탄수화물과 소금이 가져다 준 안정감 덕분인지, 타키는 예상했던 것만큼 급하게 먹지 않을 수 않았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "29": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "대신, 그녀는 천천히 씹고 삼키며 평소에는 떠올리지 않는 재료들 간의 미묘한 식감과 맛의 차이를 음미했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "30": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "음식의 영양분이 몸의 부족했던 부분을 서서히 채워주는 듯했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "31": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "이렇게 제대로 된 한끼를 먹어본 게 얼마만인지."
             }
-        ]
+        ],
+        "atts": []
     },
     "32": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키가 요리를 하지 못하는 것은 아니지만, 혼자 있을 때는 그닥 식사하는데에 시간을 쓰고 싶어 하지 않았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "33": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "나이가 들면서 가끔 이런 생각이 들기도 했다: 영양 젤리, 단백질 바, 비타민 보충제가 하루동안 필요한 영양을 만들어 준다면, 왜 사람들은 요리를 하며 시간을 오래 잡아먹는 식사라는 행위를 하는 걸까?"
             }
-        ]
+        ],
+        "atts": []
     },
     "34": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "물론, 이것은 가끔씩 떠오르는 생각일 뿐, 타키는 비정한 금욕주의자가 아니였다."
             }
-        ]
+        ],
+        "atts": []
     },
     "35": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그녀또한 좋아하는 음식이 있었고, 요리 솜씨도 나쁘지 않았으며, MyGO!!!!! 멤버들과 회식을 하는 날에는 바베큐든 샤부샤부든 요리를 담당하기도 했었다……"
             }
-        ]
+        ],
+        "atts": []
     },
     "36": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그때 먹었던 음식들은 정말 맛있었지."
             }
-        ]
+        ],
+        "atts": []
     },
     "37": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "아논과 치열한 경쟁을 하며 허겁지겁 먹었던 고기도 맛있었고, 토모리가 자신에게 먹여주는 음식도 맛있었고, 라나가 편식하며 자신에게 처리해달라고 주는 것도, 심지어 소요가 신중하게 고른 채소들도……"
             }
-        ]
+        ],
+        "atts": []
     },
     "38": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……맛있었지."
             }
-        ]
+        ],
+        "atts": []
     },
     "39": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "식사를 끝 마치고 나니 마음이 한결 차분해졌고, 보충된 에너지가 그녀의 동력이 되어 몇 가지 잡일을 수월하게 처리할 수 있었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "40": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "마지막으로 열두 시가 되기 전에 잠자리에 든 게 언제였는지, 타키는 기억하지 못했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "41": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "하지만 올해 처음있는 일이라는 것만은 알고 있었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "42": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "샤워를 할 때 일부러 거울을 쳐다 보지 않았고, 욕실 유리에 비친 자신의 모습이 눈에 들어왔지만 신경 쓰지 않았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "43": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "어젯밤 과도한 수면이 오히려 피곤함과 정신적인 쇠약을 가져온 원인이였을거다. 잘 먹고 잘 자면 괜찮아 질 것이다."
             }
-        ]
+        ],
+        "atts": []
     },
     "44": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그렇게 생각하며 침대에 눞는 그녀의 눈은 피곤해 보였고, 눈꺼풀을 감을 때마다 건조한 통증이 느껴졌다. 한 번 눈을 감으니 다시는 뜨고 싶지 않아졌다."
             }
-        ]
+        ],
+        "atts": []
     },
     "45": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "남은 일은 내일 생각하자..."
             }
-        ]
+        ],
+        "atts": []
     },
     "46": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "............"
             }
-        ]
+        ],
+        "atts": []
     },
     "47": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "........."
             }
-        ]
+        ],
+        "atts": []
     },
     "48": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": []
     },
     "49": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "?!"
             }
-        ]
+        ],
+        "atts": []
     },
     "50": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그녀는 갑자기 일어났다."
             }
-        ]
+        ],
+        "atts": []
     },
     "51": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "잠이 오질 않았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "52": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 도저히 잠들 수 없다는 것을 깨달았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "53": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "눈꺼풀이 무거워져 계속 내려올 정도로 피곤했지만, 잠들기 어려웠다."
             }
-        ]
+        ],
+        "atts": []
     },
     "54": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "대체 무슨 일이지? 더 이상 쓸데없는 생각이 드는 것도 아닌데."
             }
-        ]
+        ],
+        "atts": []
     },
     "55": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "더웠다. 이 방이 원래 이렇게 뜨거웠나?"
             }
-        ]
+        ],
+        "atts": []
     },
     "56": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "뭐지? 뭔가 이상해..."
             }
-        ]
+        ],
+        "atts": []
     },
     "57": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "저 멀리 감춰두었던 불안과 이상한 감촉이 다시 심장을 조여왔고, 그녀는 본능적으로 가슴 앞의 옷자락을 움켜쥐고는 숨을 거칠게 내쉬었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "58": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "——바로 그 때, 가슴 아래에서 쿵쿵 울리는 심장박동을 느낄 수 있었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "59": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "심장이... 원래 이렇게 빨리 뛰었던가?"
             }
-        ]
+        ],
+        "atts": []
     },
     "60": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "공포심이 그녀를 이불속에서 뛰쳐나오게 했고, 모니터가 올려진 책상의 앞을 향해 뛰어가다 발목을 삐끗할 뻔했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "61": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그녀는 책상 위에 거의 몸을 던지듯 엎드렸고, 그녀의 몸에 부딪힌 펜꽂이에서 펜들이 쏟아져 내렸다. 제대로 뚜껑이 닫히지 않은 두 개의 펜은 책상 아래로 떨어졌고, 그녀의 발등에 검은색과 빨간색 두 색낄의 잉크 자국을 남겼다."
             }
-        ]
+        ],
+        "atts": []
     },
     "62": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "하지만 그녀는 그런 것 따위 전혀 신경쓰이지 않는다는 듯, 서랍을 열어 작은 물건들 사이를 뒤적이다 잡동사니 밑에서 운동용 스마트워치를 찾아냈다."
             }
-        ]
+        ],
+        "atts": []
     },
     "63": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "급히 손목에 워치를 둘러 착용했지만 화면이 켜지지 않았다. 워치 옆의 버튼을 두 번 눌러보았지만 여전히 반응이 없었고, 워치가 오랫동안 사용되지 않아 방전됐다는 걸 깨달았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "64": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "쯧."
             }
-        ]
+        ],
+        "atts": []
     },
     "65": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 지친 몸으로 침대에 앉아 스마트워치를 충전기에 연결했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "66": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "스마트워치를 찬 채로 그녀는 옆에 깜빡이는 빨간 불빛을 보며 이것이 자신의 생일 때 받은 선물 중 하나였다는 걸 떠올렸다. 하지만 누군가가 워치의 수면 정보를 통해 그녀의 생활 패턴을 볼 수 있다는 걸 알게 된 후로는 사용하지 않았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "67": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "안 보면 되는 거 아닐까? 하지만 타키 자신도 항상 마음이 불편했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "68": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "매일 수면 정보와 건강에 적색 경보가 켜짐을 알려주는 화면은 마치 친절한 의사 같으면서도 악취미를 가진 사신 같았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "69": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "워치가 충전되는 동안, 타키가 숨을 고르며 정신을 가다듬자 갑자기 후회가 밀려오기 시작했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "70": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "혹시..."
             }
-        ]
+        ],
+        "atts": []
     },
     "71": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "삐—"
             }
-        ]
+        ],
+        "atts": []
     },
     "72": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "후회할 겨를도 없이 스마트워치의 화면이 켜졌고, 제조사의 로고가 나타난 후에 현재 시간이 표시됐다 —— 23:58."
             }
-        ]
+        ],
+        "atts": []
     },
     "73": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "벌써 자정이 다 되어 가네."
             }
-        ]
+        ],
+        "atts": []
     },
     "74": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 워치를 조작해 심박수 측정을 시작했다——이런 기계를 사용하지 않더라도, 항상 박자에 민감한 드러머로서 현재 심박수를 충분히 판단할 수 있었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "75": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "하지만 왜 잠들기 전까지는 몰랐을까?"
             }
-        ]
+        ],
+        "atts": []
     },
     "76": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "잠시 후, 예상보다 낮은 숫자가 스마트워치의 작은 화면 속 빨간 하트 옆에 나타났다."
             }
-        ]
+        ],
+        "atts": []
     },
     "77": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "100?"
             }
-        ]
+        ],
+        "atts": []
     },
     "78": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "1분에 100회는 성인기준 정상 범주에서 경계선의 끝이였다."
             }
-        ]
+        ],
+        "atts": []
     },
     "79": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 운동하거나 드럼을 칠 때 이 경계를 쉽게 넘을 수 있었지만, 일상 생활에서의 심박수는 이보다 훨씬 낮았고, 피곤한 상태에서 침대에 누워있을 때는 더욱 그렇지 않았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "80": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "따라서 지금 이 수치는 극도로 위험한 신호는 아니었고, 지금은 단지 수면에 영향을 미칠 뿐이였다. 타키는 안도의 한숨을 내쉬었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "81": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(요 며칠동안 쓸데없이 걱정이 많았던 걸까…)"
             }
-        ]
+        ],
+        "atts": []
     },
     "82": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(일단 잠이나 자자…)"
             }
-        ]
+        ],
+        "atts": []
     },
     "83": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그녀는 불을 끄고 마지막으로 스마트워치의 시간을 확인했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "84": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "숫자가 정확히 23:59에서 0:00으로 바뀌었고, 이미 다음 날이었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "85": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그리고—"
             }
-        ]
+        ],
+        "atts": []
     },
     "86": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "빨간 심장 옆의 숫자도 함께 바뀌었다— "
@@ -796,38 +882,42 @@
                 "html": "style='color:#FfFffF'",
                 "text": "으로."
             }
-        ]
+        ],
+        "atts": []
     },
     "87": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "…………"
             }
-        ]
+        ],
+        "atts": []
     },
     "88": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "………………"
             }
-        ]
+        ],
+        "atts": []
     },
     "89": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 심박수가 최신 정보로 업데이트 되기를 기다렸다. 한참, 또 한참을."
             }
-        ]
+        ],
+        "atts": []
     },
     "90": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "시간은 0:06, 빨간 심장 옆의 숫자는 여전히—"
@@ -840,20 +930,22 @@
                 "html": "style='color:#FfFffF'",
                 "text": "。"
             }
-        ]
+        ],
+        "atts": []
     },
     "91": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "일순간 그녀는 무의적으로 숨을 참았고, 머리가 어지러워짐을 느꼈다."
             }
-        ]
+        ],
+        "atts": []
     },
     "92": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "시간은 0:08, 빨간 심장 옆의 숫자는 여전히—"
@@ -866,47 +958,52 @@
                 "html": "style='color:#FfFffF'",
                 "text": "。"
             }
-        ]
+        ],
+        "atts": []
     },
     "93": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그녀는 방에서 뛰쳐나와 현관 구석탱이에 자리잡고 있던 운동화를 꺼내 신고, 사람이 없는 조용한 거리에서 100미터를 달렸다."
             }
-        ]
+        ],
+        "atts": []
     },
     "94": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "조용하고, 달이 뜨지 않은 밤."
             }
-        ]
+        ],
+        "atts": []
     },
     "95": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "헉, 헉...헉..."
             }
-        ]
+        ],
+        "atts": []
     },
     "96": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그녀는 가로등에 기대어 손목을 바라보았다. 현재 시간은 0:14—"
             }
-        ]
+        ],
+        "atts": []
     },
     "97": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "빨간 심장 옆의 숫자는 여전히—"
@@ -919,6 +1016,7 @@
                 "html": "style='color:#FfFffF'",
                 "text": "."
             }
-        ]
+        ],
+        "atts": []
     }
 }

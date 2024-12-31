@@ -1,457 +1,507 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "滚动的铁皮盒载着主人们跨越钢铁森林，最终抵达了它无法涉足的地方。停车，熄火，骑士栓好铁马入场。"
             }
-        ]
+        ],
+        "atts": []
     },
     "1": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希猛地打开车门，初春的夜风冻得她一激灵。"
             }
-        ]
+        ],
+        "atts": []
     },
     "2": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "明明还可以再开一段，可充当人肉导航的长崎素世始终没有揭秘今晚目的地的意思，司机只好顺着指引在停车场卸任。"
             }
-        ]
+        ],
+        "atts": []
     },
     "3": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "降温之下稍显单薄的外套抵挡不住空旷地界里丝丝缕缕无孔不入的冷气，椎名立希大步逼近后座车门旁，提前替人开好了道。她现在只想赶紧进室内去。"
             }
-        ]
+        ],
+        "atts": []
     },
     "4": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "我们……"
             }
-        ]
+        ],
+        "atts": {}
     },
     "5": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "你换平底鞋干什么？没几步路了吧。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "6": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（就算回程得你自己开，也不用现在就着急穿上吧。反正都快到了。）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "7": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "一两百米也是路，高跟鞋不舒服。"
             }
-        ]
+        ],
+        "atts": []
     },
     "8": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……好了。走吧？"
             }
-        ]
+        ],
+        "atts": []
     },
     "9": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希的本能忠实地发出警报：有蹊跷。"
             }
-        ]
+        ],
+        "atts": []
     },
     "10": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "但今夜她没得到答案的问题太多了，不差这一个。"
             }
-        ]
+        ],
+        "atts": []
     },
     "11": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "前面是吗？还有多远？先去吃饭？"
             }
-        ]
+        ],
+        "atts": {}
     },
     "12": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "嗯。"
             }
-        ]
+        ],
+        "atts": []
     },
     "13": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（“嗯”算什么意思？）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "14": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "小立希明天还上班吗？"
             }
-        ]
+        ],
+        "atts": []
     },
     "15": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "对于一位请假多日、临近“主动”失业的契约社员而言，过于尖刻的问题。"
             }
-        ]
+        ],
+        "atts": []
     },
     "16": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "然而这并非提问者的过失。除了连日赋闲在家的音乐教师本人，谁能知道她的工作安排？早就不是在RiNG打工的时候了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "17": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "兴趣班教师忙得脚不沾地的时间恰是常人悠闲的周末时光，然而椎名立希连今天是周几都记不分明了——要试着编一个有可能戳不穿的谎吗，就为了早点摆脱她的纠缠？"
             }
-        ]
+        ],
+        "atts": []
     },
     "18": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "抱歉，我有点忘了明天的排课了。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "19": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "如果小立希都没印象的话，看来应该没什么紧要的工作呢。太好了，还以为明天周六，小立希会很忙来着。"
             }
-        ]
+        ],
+        "atts": []
     },
     "20": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（……如果她这么以为的话。也行吧。）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "21": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "这样的话，今天晚上就不用太赶了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "22": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（什么叫“不用太赶”？）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "23": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "啊，前面正好是美食街，顺便去吃点东西怎么样？"
             }
-        ]
+        ],
+        "atts": []
     },
     "24": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "怎么样？不怎么样。却也不至于讨厌。"
             }
-        ]
+        ],
+        "atts": []
     },
     "25": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "这家伙的提案都不在立希本日的规划内。但是如果眼前的这条街也属于她们抵达目的地的必经之路的话，她能做的也只有跟上而已。"
             }
-        ]
+        ],
+        "atts": []
     },
     "26": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "年轻的好处就是，即使只走了这两步路，萦绕在外套上的寒意也已经被加速的血液循环驱散。"
             }
-        ]
+        ],
+        "atts": []
     },
     "27": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "不知道此时此刻心跳是否还能加快。立希把手好好地藏在口袋里，对运动手环上的数据并不好奇。"
             }
-        ]
+        ],
+        "atts": []
     },
     "28": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "进入美食街后人气与热度都攀升了起来，灯光明亮，香气扑鼻，立希眯着眼睛眺望远处的标牌，忽然冒出个既不恰当、也不符合她风格的比方。"
             }
-        ]
+        ],
+        "atts": []
     },
     "29": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（就好像从冰狱误闯人间。）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "30": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "小立希从刚刚开始就没说话了。有哪里不舒服吗？"
             }
-        ]
+        ],
+        "atts": []
     },
     "31": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "呃，没有。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "32": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "这里我不大熟，恐怕挑不到好吃的。只能凭运气了。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "33": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "没关系，实在不行，去便利店买点关东煮也可以吧。天气这么冷，只要是热的，大概也难吃不到哪里去。"
             }
-        ]
+        ],
+        "atts": []
     },
     "34": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "啊，说到这个……能稍等一下吗？我去前面便利店买点东西。"
             }
-        ]
+        ],
+        "atts": []
     },
     "35": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "直接跳过挑选步骤了吗？"
             }
-        ]
+        ],
+        "atts": {}
     },
     "36": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "同行人配合地笑了一声，没再说些多余的话回应她。"
             }
-        ]
+        ],
+        "atts": []
     },
     "37": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希把手从口袋里掏出来，对着不超过十分钟就能返程的伙伴挥了挥，示意自己会老实原地待机。"
             }
-        ]
+        ],
+        "atts": []
     },
     "38": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "其实早已经看出来了不是吗？从长崎素世远远就叫她停车开始，从长崎素世换下高跟鞋开始，从长崎素世坚持不懈搭话开始。"
             }
-        ]
+        ],
+        "atts": []
     },
     "39": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "这路一时半会走不到头，只是下车时心急如焚的椎名立希不肯承认。意识到某件事实，不代表她不会与之抗争。"
             }
-        ]
+        ],
+        "atts": []
     },
     "40": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "等待的几分钟里，路灯桩子似的杵在路旁的立希哈出一口气，盯着灯光下悬浮的白雾出神。"
             }
-        ]
+        ],
+        "atts": []
     },
     "41": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "尽管早已戒了，但她忽然想，也许现在抽上一支烟也不坏。人总不能真的幸福到什么也不做，只是立着发呆吧？"
             }
-        ]
+        ],
+        "atts": []
     },
     "42": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "好了……这个给你。"
             }
-        ]
+        ],
+        "atts": []
     },
     "43": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "什么？"
             }
-        ]
+        ],
+        "atts": {}
     },
     "44": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "香烟糖果。"
             }
-        ]
+        ],
+        "atts": []
     },
     "45": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希抽出一支，端详三秒，敲敲糖盒，使这支受选者落了回去。"
             }
-        ]
+        ],
+        "atts": []
     },
     "46": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "谢谢。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "47": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "是我应该谢谢你。"
             }
-        ]
+        ],
+        "atts": []
     },
     "48": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "有什么中意的吗？快去买吧，说不定还要排队。"
             }
-        ]
+        ],
+        "atts": []
     },
     "49": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……"
             }
-        ]
+        ],
+        "atts": []
     },
     "50": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "前面那家，鲷鱼烧（"
@@ -472,1725 +522,1928 @@
                 "html": "style='color:#FfFffF'",
                 "text": "）怎么样？"
             }
-        ]
+        ],
+        "atts": []
     },
     "51": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "故意的吧你。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "52": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……！"
             }
-        ]
+        ],
+        "atts": []
     },
     "53": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "话虽如此，立希也不是真有什么意见，她从高中开始就不在意名字的玩笑了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "54": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "而热乎乎，甜丝丝，面粉揉成的和果子，给不打算坐下来吃正餐却想填点什么果腹的人最合适。"
             }
-        ]
+        ],
+        "atts": []
     },
     "55": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "非年非节，街上的人不算太挤，即使排队也等不了多久。付钱过后，一时沉默。椎名立希专心致志盯着店主的手艺，假装没发现有人在看她。"
             }
-        ]
+        ],
+        "atts": []
     },
     "56": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "像这样和小立希漫无目的地一起走，好像是头一回呢。读中学的时候也好，上大学的时候也好，哪怕毕业了也一样，一直都是急匆匆地直奔什么事。"
             }
-        ]
+        ],
+        "atts": []
     },
     "57": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "也不能算“漫无目的”吧，只是有人怎么也不肯透露终点在哪里而已。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "58": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "小立希知道我今天为什么约你吗？"
             }
-        ]
+        ],
+        "atts": []
     },
     "59": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": {}
     },
     "60": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "...谈事情吧，大概。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "61": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "店主吆喝一声，立希折身回去接下袋子，内容物还滚烫着，暂且不宜入口。她们只能又开始走。"
             }
-        ]
+        ],
+        "atts": []
     },
     "62": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "谈什么呢？"
             }
-        ]
+        ],
+        "atts": []
     },
     "63": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（鲷鱼烧还不能吃……我怎么知道你要说什么？）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "64": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（乐队排练？素世过两天出差，这事恐怕急不了。工作障碍？我们根本沾不上边。生活烦恼？感觉她宁肯发到锁住的小号上吐槽都不会跟我商量吧。）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "65": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "小立希是看到我的短信，今晚才在这里的，对不对？"
             }
-        ]
+        ],
+        "atts": []
     },
     "66": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "现在还在这也有送Hina回家的缘故，你只能算一半原因。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "67": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "总被提问的考生对于即将降临的考试并非毫无觉察，可惜以单方面提问为主要形式的博弈对被动的一方而言本就不公平。"
             }
-        ]
+        ],
+        "atts": []
     },
     "68": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希不喜欢被人牵着鼻子走，也不需要抽象的答案，她只想知道今晚她们要往哪去。就继续按部就班地走下去怎么样？能讲出如此冰冷的笑话已经是鼓手学习的成果了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "69": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "但很显然，她成熟的速度仍然不能使一步之遥的朋友满意。素世停下脚步，转过来面向她。"
             }
-        ]
+        ],
+        "atts": []
     },
     "70": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": {}
     },
     "71": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "我们，大家，都很关心你，立希。"
             }
-        ]
+        ],
+        "atts": []
     },
     "72": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "路途短暂。小小的美食街已到尽头，她们立在人行天桥前。换上平底鞋的长崎素世抛下这句话，难得堪称轻快地转身，鹿一样上了两个台阶。"
             }
-        ]
+        ],
+        "atts": []
     },
     "73": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希抬头仰望她。有些年岁的街灯不算多亮，但依旧描出素世被风吹散的，不再一丝不苟的轮廓。"
             }
-        ]
+        ],
+        "atts": []
     },
     "74": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "茸茸的鬓发，明快的眼睛，长崎素世是她的认识很多年的同龄的朋友，和迷茫的鼓手一样年轻。"
             }
-        ]
+        ],
+        "atts": []
     },
     "75": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "其实不该仰望的。"
             }
-        ]
+        ],
+        "atts": []
     },
     "76": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "就算是在舞台上坐着的她，也只会微微抬起视线，和偶尔走到自己身边的贝斯手交流眼神。她们是平等的节奏。"
             }
-        ]
+        ],
+        "atts": []
     },
     "77": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "要走上去吗？和她并肩？"
             }
-        ]
+        ],
+        "atts": []
     },
     "78": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": {}
     },
     "79": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "椎名立希拾级而上。"
             }
-        ]
+        ],
+        "atts": []
     },
     "80": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "登高，既是望远，亦遭严寒。"
             }
-        ]
+        ],
+        "atts": []
     },
     "81": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "从天桥向下望的时候，疾驰的钢铁巨兽也成为眼皮底下成串流过的甲壳虫。"
             }
-        ]
+        ],
+        "atts": []
     },
     "82": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "初春的夜晚，匆忙的行人裹紧自己的风衣，想念阳台上未干的厚外套。也许应该认真考虑换一个有烘干功能的洗衣机。"
             }
-        ]
+        ],
+        "atts": []
     },
     "83": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（不，算了吧。用不上了……况且也没那个闲钱。）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "84": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "但其实解决寒冷的最优方案是立刻从这里下去。椎名立希当然知道。"
             }
-        ]
+        ],
+        "atts": []
     },
     "85": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "四面漏风的旅途没有任何防退机制，没有引绳，没有镣铐，所有的只是清晨时分一条毫无成本的短信，这年头邀请自己的朋友连一张邮票的钱也不必花了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "86": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "而她就这么随着温柔到令人不快的话语走到街尾，她跟着盛满担忧的湖蓝色眼睛踏上天桥，她追着自己的心来到这里。"
             }
-        ]
+        ],
+        "atts": []
     },
     "87": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "事到如今，也没法坦白跑上来只是头脑一热了。为了保全自己最后的主体性，椎名立希抱着胳膊半靠住栏杆，并不学着并肩的朋友那样，将上半身的重量悉数交付给老旧的钢铁造物。"
             }
-        ]
+        ],
+        "atts": []
     },
     "88": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "说真的，不冰吗？"
             }
-        ]
+        ],
+        "atts": {}
     },
     "89": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "披着风衣的女人双臂盘成一只舒服的窝，年轻柔软的脸颊大半埋了进去。"
             }
-        ]
+        ],
+        "atts": []
     },
     "90": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "留在夜风里的只有一头不再顺滑的金栗色长发，一对假装聋掉的耳朵，以及一双全心全意数着车流的眼睛。"
             }
-        ]
+        ],
+        "atts": []
     },
     "91": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "完全趴在栏杆上了啊……这时候倒是不嫌脏了。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "92": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "1。"
             }
-        ]
+        ],
+        "atts": []
     },
     "93": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "什么。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "94": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "一辆SUV。"
             }
-        ]
+        ],
+        "atts": []
     },
     "95": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "啊。这个点晚高峰早结束了，车确实不多。况且感觉大家还是比较偏爱袖珍一点的型号，隔壁组的钢琴老师就换了辆小K-Car。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "96": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "可是小立希毕业的时候说想买辆大车来着。"
             }
-        ]
+        ],
+        "atts": []
     },
     "97": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "啊，那是……"
             }
-        ]
+        ],
+        "atts": {}
     },
     "98": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "小车也坐得下五个人的吧。刚刚好。"
             }
-        ]
+        ],
+        "atts": []
     },
     "99": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "很挤啊……再带点东西的话更加完蛋了。乐奈那么宝贝她的吉他。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "100": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "可是明明素世已经有车了，立希的愿望还停留在空头支票。"
             }
-        ]
+        ],
+        "atts": []
     },
     "101": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "那小立希攒得怎么样了？"
             }
-        ]
+        ],
+        "atts": []
     },
     "102": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "你还真是会说话。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "103": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "计划进度还停留在为一台带烘干功能的洗衣机宁肯吹冷风的程度。"
             }
-        ]
+        ],
+        "atts": []
     },
     "104": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "毕竟立希个人的拮据同其努力与否实在没有太高相关性。"
             }
-        ]
+        ],
+        "atts": []
     },
     "105": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "要是她不必由于害怕扰民而负担独居的房租，不为了能留出大段时间作曲而选择在教培机构工作，不因为还有同伴仍在读书而紧攥着乐队相关的支出不放手——"
             }
-        ]
+        ],
+        "atts": []
     },
     "106": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "啊，还在上学的家伙。让人省不下心的家伙。"
             }
-        ]
+        ],
+        "atts": []
     },
     "107": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "你最近有跟乐奈联系没？"
             }
-        ]
+        ],
+        "atts": {}
     },
     "108": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "最近没怎么发消息。上一次说话还是她检举你一连三天都在居酒屋吃饭。"
             }
-        ]
+        ],
+        "atts": []
     },
     "109": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "喂。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "110": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（乐奈能主动告状？八成是你威逼利诱吧。）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "111": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "不过我有点担心，上个月她的小论文就被打回来了，说是字数不够。也不知道现在写没写完。一提到这事小乐奈就不回话了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "112": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "呵呵，不止啊。还有作曲课的结课作业也没通过。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "113": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "欸，作曲课……？真的吗？"
             }
-        ]
+        ],
+        "atts": []
     },
     "114": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "嗯哼。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "115": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "小乐奈不擅长写文章还可以理解……但是这种作业她怎么会搞不定呢？她最近状态不好吗？上次应该去看她的……"
             }
-        ]
+        ],
+        "atts": []
     },
     "116": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "有点过头了。赶快解释吧。"
             }
-        ]
+        ],
+        "atts": []
     },
     "117": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "呃，也不用这么担心，只是作曲课老师对她的要求格外高罢了。这种程度的成果需要灵感，催是催不出来的。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "118": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……况且，我相信她现在应该也已经找到了。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "119": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……唉，本来以为你能搞定的。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "120": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "我再去问问她吧，学分可不是小事。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "121": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "关于学业的话题就到此为止吧。毕竟这位白天里貌似游刃有余的老朋友实际上和椎名立希一样擅长自我批判。这时候就该学习脸皮厚的家伙的招数。"
             }
-        ]
+        ],
+        "atts": []
     },
     "122": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "看来还是我比较，呃，教猫有方。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "123": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "素世重新把脸埋下去。立希确信她听见一句闷闷的笑，看来方法奏效。"
             }
-        ]
+        ],
+        "atts": []
     },
     "124": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "那正好，反正小乐奈是你带来的。劳你多管管吧。"
             }
-        ]
+        ],
+        "atts": []
     },
     "125": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "都几年了，怎么还分这个。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "126": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "要分的哦。"
             }
-        ]
+        ],
+        "atts": []
     },
     "127": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "万分轻柔且生硬的回应，放在别人那里几乎能算决断宣言，好在长崎素世踏上这座桥的第一句话就已经给接下来的所有词汇定了性。"
             }
-        ]
+        ],
+        "atts": []
     },
     "128": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "于是立希也俯下脑袋，放轻声音。"
             }
-        ]
+        ],
+        "atts": []
     },
     "129": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "为什么？"
             }
-        ]
+        ],
+        "atts": {}
     },
     "130": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "因为我想记住。全部都想。"
             }
-        ]
+        ],
+        "atts": []
     },
     "131": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "没头没尾的话。黑色的脑袋停泊在栗色的脑袋边，无所遮拦之处，翘起的乱发受风的怂恿，搔过椎名立希的脸颊。"
             }
-        ]
+        ],
+        "atts": []
     },
     "132": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "长崎素世没有解释的意思，椎名立希了然地直起身。绝对不是因为被头发扫得想打喷嚏。"
             }
-        ]
+        ],
+        "atts": []
     },
     "133": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（今天晚上，到底，是在干什么呢。）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "134": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "小立希还记得，上高中的时候，有一次我替你送小灯回家吗？"
             }
-        ]
+        ],
+        "atts": []
     },
     "135": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "哈？呃……"
             }
-        ]
+        ],
+        "atts": {}
     },
     "136": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "都几岁了，都几年了，立希早就不至于对“护送灯”的资格耿耿于怀了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "137": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "好吧，至少不至于每一次都耿耿于怀。偶尔被别人接手一下也在接受范围内。更何况素世算不得“别人”。"
             }
-        ]
+        ],
+        "atts": []
     },
     "138": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "不记得就说不记得好啦。"
             }
-        ]
+        ],
+        "atts": []
     },
     "139": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "被告人有权保持沉默，以免说的下一句话成为呈堂证供。"
             }
-        ]
+        ],
+        "atts": []
     },
     "140": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "小灯家楼下也有一座这样的桥。"
             }
-        ]
+        ],
+        "atts": []
     },
     "141": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "东京居民区的步行天桥建筑标准都一样吧。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "142": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "素世投桃报李，同样没理她。"
             }
-        ]
+        ],
+        "atts": []
     },
     "143": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "那个时候MyGO刚刚建立——真正的建立。"
             }
-        ]
+        ],
+        "atts": []
     },
     "144": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "我从你手里把小灯抢过来，陪她走到天桥。"
             }
-        ]
+        ],
+        "atts": []
     },
     "145": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（没什么抢不抢的。灯不是任何人的所有物。）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "146": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "但这是排练时刻外，主动从长崎素世嘴里吐出来的MyGO!!!!!"
             }
-        ]
+        ],
+        "atts": []
     },
     "147": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "措辞暂且无关紧要，就当是这家伙又开始调侃椎名立希八年如一日对高松灯的执着好了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "148": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希姑且能忍受些微冷淡的幽默，因为接下来是真正紧要的事情。"
             }
-        ]
+        ],
+        "atts": []
     },
     "149": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "我和小灯聊了几句。"
             }
-        ]
+        ],
+        "atts": []
     },
     "150": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": {}
     },
     "151": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "对当时的我来说，承认MyGO，其实是件挺令人痛苦的事情。"
             }
-        ]
+        ],
+        "atts": []
     },
     "152": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "和大家在一起，就意味着我要面对一些我一直逃避着的东西。"
             }
-        ]
+        ],
+        "atts": []
     },
     "153": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "你在逃避什么——立希很想这么问。"
             }
-        ]
+        ],
+        "atts": []
     },
     "154": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "但她瞥向素世趴下的发顶，这是少有的，看得见她柔软发旋的时刻。不应该打断一个讲故事的人。"
             }
-        ]
+        ],
+        "atts": []
     },
     "155": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "所以我其实很羡慕你。嫉妒过也说不定。"
             }
-        ]
+        ],
+        "atts": []
     },
     "156": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "你在嫉妒什么？立希扭过脸，对上悄悄探过来的目光。她直勾勾盯回去，用视线问问题。"
             }
-        ]
+        ],
+        "atts": []
     },
     "157": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "素世收回眼神，侧开脸。狡猾的狐狸完全明白她是什么意思。"
             }
-        ]
+        ],
+        "atts": []
     },
     "158": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "就像你刚刚那样。"
             }
-        ]
+        ],
+        "atts": []
     },
     "159": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（不愿意讲吗。）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "160": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "那说回灯吧。你们聊了什么？"
             }
-        ]
+        ],
+        "atts": {}
     },
     "161": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "小灯的词，有时候挺让人难以接受的呢。"
             }
-        ]
+        ],
+        "atts": []
     },
     "162": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希像是条件反射地攥紧了拳。但怒气并不如想象那样直窜心头。兴许心跳不再变化也有好处？"
             }
-        ]
+        ],
+        "atts": []
     },
     "163": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "我想了很久，也表达不清楚。当时的小灯听得懂，大概因为她是作者，一切感触都因她而起。"
             }
-        ]
+        ],
+        "atts": []
     },
     "164": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "但我觉得你一样能明白。因为你和我是一样的人，我们站在同一个位置。"
             }
-        ]
+        ],
+        "atts": []
     },
     "165": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "我……"
             }
-        ]
+        ],
+        "atts": {}
     },
     "166": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "“小灯的歌词是她的呐喊。”"
             }
-        ]
+        ],
+        "atts": []
     },
     "167": {
         "speaker": "？？？",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "灯的歌词，就是内心的呐喊呀！"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "alpha": 0.48,
+                    "fontSize": 45
+                },
+                {
+                    "alpha": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "168": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "我想，那其实也是我的呐喊。"
             }
-        ]
+        ],
+        "atts": []
     },
     "169": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "素世……"
             }
-        ]
+        ],
+        "atts": {}
     },
     "170": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "这下你知道那些“为什么”了吧。"
             }
-        ]
+        ],
+        "atts": []
     },
     "171": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "我，我，我。总是在讲我的事情，很自我中心对不对？"
             }
-        ]
+        ],
+        "atts": []
     },
     "172": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "把自己的心剖出来的时候，没有人希望它被摔在地上。"
             }
-        ]
+        ],
+        "atts": []
     },
     "173": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希深吸一口气，冰冷的混合物灌进肺里，暂时压过炙烤着的内里。她奉上双手，祈祷自己还能稳稳地接住它。"
             }
-        ]
+        ],
+        "atts": []
     },
     "174": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "没关系、没关系。你讲吧。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "175": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "没有了哦，只关于我的事情已经结束啦。剩下的是我和小灯共同的秘密哦，没有征得小灯的同意的话，我是不会说出去的。"
             }
-        ]
+        ],
+        "atts": []
     },
     "176": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "要是实在好奇的话，去问小灯吧。"
             }
-        ]
+        ],
+        "atts": []
     },
     "177": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
-        ]
+        ],
+        "atts": {}
     },
     "178": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "问灯……吗……"
             }
-        ]
+        ],
+        "atts": {}
     },
     "179": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "那，起码，给我一个关键词吧？否则我该从何问起啊？"
             }
-        ]
+        ],
+        "atts": {}
     },
     "180": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "关于“遗忘”吧。就像我希望永远记住小乐奈是你和小灯带给MyGO的一样。"
             }
-        ]
+        ],
+        "atts": []
     },
     "181": {
         "speaker": "？？？",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "喵～"
             }
-        ]
+        ],
+        "atts": {}
     },
     "182": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "一只猫。恰到好处的打断，或者说来得不巧。人类把人的语言咽下去，蹙起眉头，脖子拧向说猫语的异类。"
             }
-        ]
+        ],
+        "atts": []
     },
     "183": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "黑夜里，骤然警觉的立希一瞬之间竟没找到这只擅自插嘴的猫。尽管有便利店突袭为前车之鉴，但她还是止不住开始担心。"
             }
-        ]
+        ],
+        "atts": []
     },
     "184": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "趴着的素世会借着地利先一步产生温热的幻觉吗？这样近的距离里，暖而潮的呼吸理论上应当打在狐狸耳尖。"
             }
-        ]
+        ],
+        "atts": []
     },
     "185": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "但栗色的狐狸俨然被谈话抽空了气力的模样，懒洋洋趴在原地。"
             }
-        ]
+        ],
+        "atts": []
     },
     "186": {
         "speaker": "猫",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "咪。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "187": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "这下找到了。紫色的人眼对上紫色的竖瞳，分寸不让。"
             }
-        ]
+        ],
+        "atts": []
     },
     "188": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "素世只在猫发出声音的时候挪了挪脑袋，随后在立希颤抖的瞳孔中继续趴好，把探究的视线投向正对空气怒目而视的人。"
             }
-        ]
+        ],
+        "atts": []
     },
     "189": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "嗯？"
             }
-        ]
+        ],
+        "atts": []
     },
     "190": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希把牙咬得咯咯作响。她这辈子是和表演无缘了，控制面部肌肉甚至不在她由于不甘心而付出努力的范围内，至于过去八年舞台上的一切演出，那全是真情流露。"
             }
-        ]
+        ],
+        "atts": []
     },
     "191": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "藏好表情？在素世眼前？那还不如现在开始双手合十祈祷独属于她的幻觉即刻消失。兴许这阴魂不散的不存在的存在还会宽宏大量地网开一面呢。"
             }
-        ]
+        ],
+        "atts": []
     },
     "192": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "猫摇摇尾巴。"
             }
-        ]
+        ],
+        "atts": []
     },
     "193": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（你、想、干、什、么？）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "194": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "尽管仅仅对着空气反复张嘴也已经远远越过了“正常”的底线，空有口型却无声息的质问，威胁一只不通人语的野兽就像威胁一节空气。"
             }
-        ]
+        ],
+        "atts": []
     },
     "195": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "这是为了维护正常的世界所必须的努力，椎名立希只能对长崎素世的目光中宛如实质的困惑装聋作哑。"
             }
-        ]
+        ],
+        "atts": []
     },
     "196": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "猫举起右爪，不高，将将悬在素世的耳朵上空，粉白的肉垫若隐若现，一柄毛绒的达摩克利斯之剑，只是落下时该死的另有其人。"
             }
-        ]
+        ],
+        "atts": []
     },
     "197": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "多稀奇，这个点还能堵车。"
             }
-        ]
+        ],
+        "atts": []
     },
     "198": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "猫像是吓了一大跳，又像是早有预谋，探出的右爪紧急拢回原地，后腿却猛地发力，一条黑色不甚舒展地从空中划过。"
             }
-        ]
+        ],
+        "atts": []
     },
     "199": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "喂……！"
             }
-        ]
+        ],
+        "atts": {}
     },
     "200": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "“要掉下去了——”立希差点喊出口。天桥加上栏杆，怎么算也有两三层楼高，更何况下面全是车。这家伙怎么搞的，这么笨手笨脚？明明是猫？"
             }
-        ]
+        ],
+        "atts": []
     },
     "201": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "所幸黑色最后还是稳稳越过素世的脑袋，安全降落在了栏杆上。虽说也不知道它究竟有没有死的能力。"
             }
-        ]
+        ],
+        "atts": []
     },
     "202": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "不理会一惊一乍的人类，猫一刻都不停留，四爪各司其职，或者说各行其是。"
             }
-        ]
+        ],
+        "atts": []
     },
     "203": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "起，落，起，落。不像猫儿应有的优雅，反而如同小马驹似的在扶手上蹦起来。"
             }
-        ]
+        ],
+        "atts": []
     },
     "204": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "紫色的眼睛跟紧黑色的爪面，椎名立希不自觉屏住呼吸，心里打起节拍，对另一双黏在自己身上的蓝眼睛恍然不觉。"
             }
-        ]
+        ],
+        "atts": []
     },
     "205": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（……1，4，7。居然有个挺规整的套路。到底在干什么？）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "206": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "跳舞。显而易见，虽然异常笨拙。但对一只猫不应有艺术性或技巧性上的要求。也许它是一位初学者呢？"
             }
-        ]
+        ],
+        "atts": []
     },
     "207": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "3-3-2。"
             }
-        ]
+        ],
+        "atts": []
     },
     "208": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "哈啊？！"
             }
-        ]
+        ],
+        "atts": {}
     },
     "209": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Libertango里全是，流行曲也常见。"
             }
-        ]
+        ],
+        "atts": []
     },
     "210": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "小立希忽然陷到下首歌的灵感里去了吗？"
             }
-        ]
+        ],
+        "atts": []
     },
     "211": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "什么……呃。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "212": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "鞋底的节拍出卖了她。素世从她的节奏里听见另一个世界。立希慌忙收回右腿，并拢站直。"
             }
-        ]
+        ],
+        "atts": []
     },
     "213": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "走吧，这里太冷了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "214": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（糟透了，怎么每次见面都会被这家伙搞得像在发癔症……素世还在呢。幸好她没追究我发什么疯。）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "215": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（不问我在发什么疯吗？一点都不问？）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "216": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "栗色头发的女人头也不回地往前走。立希从来没在一天之内注视过这么多次素世的背影，即使在舞台上，鼓与贝斯也不全是背对的视角。"
             }
-        ]
+        ],
+        "atts": []
     },
     "217": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "投来视线又离开，有时满腹疑问，有时一言不发。素世擅长让话题在一个体面的节点结束，她想要的答案从来不是靠嘴说出来的。"
             }
-        ]
+        ],
+        "atts": []
     },
     "218": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "可是咽下答案的立希被秘密烧得喉穿胃溃，这团火快要自己吐出来了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "219": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "素世，你相信蝉在冬天也一样唱歌吗。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "220": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "女人湖蓝色的眼睛转过来，路灯不算明亮，所以蓝色也暖暖地暗着，像一汪家养的水潭。"
             }
-        ]
+        ],
+        "atts": []
     },
     "221": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希忽然有些后悔脱口而出的童话。素世怎么可能不知道这种常识？"
             }
-        ]
+        ],
+        "atts": []
     },
     "222": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......嗯，相信哦。"
             }
-        ]
+        ],
+        "atts": []
     },
     "223": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "夜色漆黑不能更深，但时间确实愈来愈晚了。周末散步的人们从步行天桥下来，再张开嘴，只剩风，没有话。话已聊干了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "224": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "真的不早了。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "225": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "素世背对着最后一节台阶站定，侧过脸来。这是今晚最明目张胆的一次凝视。谈话意义的检验就在此刻。"
             }
-        ]
+        ],
+        "atts": []
     },
     "226": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（她要是敢说该回家了……）"
             }
-        ]
+        ],
+        "atts": []
     },
     "227": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "这回真的快到了吧，在前面？"
             }
-        ]
+        ],
+        "atts": {}
     },
     "228": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "素世把视线收回去。勉强合格的答案。"
             }
-        ]
+        ],
+        "atts": []
     },
     "229": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "嗯，前面的卡拉OK。没骗你，不算太远吧？"
             }
-        ]
+        ],
+        "atts": []
     },
     "230": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "走得我都快忘了今天为什么来。也不是所有能步行到的地方都能叫“近”吧。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "231": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "况且一开始还以为养生专家会选择先去吃顿正经的晚饭。"
             }
-        ]
+        ],
+        "atts": {}
     },
     "232": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "得去北海道，还要赶飞机，那样来不及。也省得你赶不上电车，是不是？"
             }
-        ]
+        ],
+        "atts": []
     },
     "233": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（素世要赶飞机？怎么不早说？不是过两天才出差北海道吗？难道还有别的行程？怎么这么赶？）"
             }
-        ]
+        ],
+        "atts": {}
     },
     "234": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "疑问重重，但抛出炸弹的人依然自顾自走着，留给椎名立希一个潇洒的背影。"
             }
-        ]
+        ],
+        "atts": []
     },
     "235": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "脑子宕机的人僵在原地，脑子里筛了一箩筐问题，最终还是紧赶两步追上去，挑了个最迫切的问。"
             }
-        ]
+        ],
+        "atts": []
     },
     "236": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "几点的飞机？不然我们还是……"
             }
-        ]
+        ],
+        "atts": {}
     },
     "237": {
         "speaker": "长崎素世",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "下周。"
             }
-        ]
+        ],
+        "atts": []
     },
     "238": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "？"
             }
-        ]
+        ],
+        "atts": {}
     },
     "239": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "又被捉弄了，却实在生不起来气。"
             }
-        ]
+        ],
+        "atts": []
     },
     "240": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希抿着嘴唇，最终还是颇为无语地笑了出来。"
             }
-        ]
+        ],
+        "atts": []
     },
     "241": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "领头羊速度不减，丝毫没有白天温柔的影子，后来者只得小跑起来，跟上平底鞋不那么端庄的步伐。"
             }
-        ]
+        ],
+        "atts": []
     }
 }

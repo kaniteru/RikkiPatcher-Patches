@@ -1,254 +1,282 @@
 {
     "0": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "难得你主动说要带我去什么地方......最后果然还是这里。"
             }
-        ]
+        ],
+        "atts": []
     },
     "1": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（虽说在半路上就发现了.....）"
             }
-        ]
+        ],
+        "atts": []
     },
     "2": {
         "speaker": "要乐奈",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Rikki，很失望吗？"
             }
-        ]
+        ],
+        "atts": []
     },
     "3": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "不……"
             }
-        ]
+        ],
+        "atts": []
     },
     "4": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希不是不知道这个地方对乐奈而言意味着什么。"
             }
-        ]
+        ],
+        "atts": []
     },
     "5": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "猫愿意把珍藏的秘密基地展示给人，倒令她有些欣慰。"
             }
-        ]
+        ],
+        "atts": []
     },
     "6": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "同时也更加担心起来。"
             }
-        ]
+        ],
+        "atts": []
     },
     "7": {
         "speaker": "要乐奈",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "走这边。"
             }
-        ]
+        ],
+        "atts": []
     },
     "8": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "这个方向...等等，你是要进到房子的里面吗？真的没问题吗？都已经被闲置这么多年了...喂？！"
             }
-        ]
+        ],
+        "atts": []
     },
     "9": {
         "speaker": "要乐奈",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Rikki，放心。"
             }
-        ]
+        ],
+        "atts": []
     },
     "10": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "你什么时候让我放心过....."
             }
-        ]
+        ],
+        "atts": []
     },
     "11": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "仍旧牵着立希的手，乐奈轻车熟路地绕过屋前的警告标识与垃圾箱，不顾身后人时不时发出的低呼与磕碰，径直将对方拖到了屋后的一角隐蔽处。"
             }
-        ]
+        ],
+        "atts": []
     },
     "12": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "那里有一道已经染上斑驳的铁门。"
             }
-        ]
+        ],
+        "atts": []
     },
     "13": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "从前为了捕捉野猫来往次数不少，立希也未曾注意过这里还保留着一扇隐蔽的通道。"
             }
-        ]
+        ],
+        "atts": []
     },
     "14": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "乐奈毫无解释的意思，轻快地松开立希的手，弯下腰就沿着灰扑扑的墙壁摸索起来，好一会儿，终于从某处掏出一把钥匙。"
             }
-        ]
+        ],
+        "atts": []
     },
     "15": {
         "speaker": "要乐奈",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "闭店之前，我偷偷留下的，备用的钥匙，奶奶不知道。"
             }
-        ]
+        ],
+        "atts": []
     },
     "16": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希紧紧盯着吉他手手中那枚明显与周围气氛格格不入的崭新锃亮的钥匙。"
             }
-        ]
+        ],
+        "atts": []
     },
     "17": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希有点儿怀疑这个“奶奶不知道”的程度。"
             }
-        ]
+        ],
+        "atts": []
     },
     "18": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "但是她明智地选择了闭嘴。"
             }
-        ]
+        ],
+        "atts": []
     },
     "19": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "随着门轴转动，巨大的 “嘎吱” 声摩擦着立希的耳膜，立希下意识捂住了耳朵。"
             }
-        ]
+        ],
+        "atts": []
     },
     "20": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "她站在神秘黑洞的正前方，仿佛一个误入结界的局外人。"
             }
-        ]
+        ],
+        "atts": []
     },
     "21": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（说真的...如果钥匙确实一直有人来换新的，为什么不给门轴上点油......）"
             }
-        ]
+        ],
+        "atts": []
     },
     "22": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "永远给人以猝不及防的惊喜或惊吓。"
             }
-        ]
+        ],
+        "atts": []
     },
     "23": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "小猫就是这样一种生物。"
             }
-        ]
+        ],
+        "atts": []
     },
     "24": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "要乐奈也是。"
             }
-        ]
+        ],
+        "atts": []
     },
     "25": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "乐奈回头朝立希颔首，先一步朝着黑暗的洞口走进去。"
             }
-        ]
+        ],
+        "atts": []
     },
     "26": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "内心的探知欲终究是打败了成年人的矜持，椎名立希踏进了那扇属于Live House的门。"
             }
-        ]
+        ],
+        "atts": []
     },
     "27": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "踏进了属于要乐奈的十年之前。"
             }
-        ]
+        ],
+        "atts": []
     }
 }

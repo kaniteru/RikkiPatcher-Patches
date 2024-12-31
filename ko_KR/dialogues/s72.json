@@ -1,128 +1,142 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "오늘 햇살은 좋았고, 기온이 겨울의 추위를 벗어난듯 직사광선이 약간 덥게 내리쬐었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "1": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "방 안에는 타카마츠 토모리가 책상 앞에 앉아 있었고, 책상 위 펼쳐진 노트는 글자로 가득 차 있었지만, 대부분은 고쳐진 흔적들이었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "2": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "——탁"
             }
-        ]
+        ],
+        "atts": []
     },
     "3": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "약해진 연필심이 부러지는 소리."
             }
-        ]
+        ],
+        "atts": []
     },
     "4": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그녀는 창가에 놓인 연필꽂이로 손을 가져갔다."
             }
-        ]
+        ],
+        "atts": []
     },
     "5": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "갑자기 창밖에서 날라온 나비 한 마리가 그녀의 손가락 마디 위에 앉았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "6": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……？"
             }
-        ]
+        ],
+        "atts": []
     },
     "7": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "온몸이 검은 무늬로 뒤덮힌 나비는 더듬이를 두 번 떨자, 힘없이 기울어졌다."
             }
-        ]
+        ],
+        "atts": []
     },
     "8": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "토모리는 급히 두 손으로 그것을 받았지만, 나비는 두어 번 날갯짓을 하고는 움직이지 않았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "9": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "………！"
             }
-        ]
+        ],
+        "atts": []
     },
     "10": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "봄이 다가오면서 갑자기 기온이 올라가 이 약한 생명을 죽였을지도 모르지만, 동물의 죽음은 결국 자연의 일부일 뿐이다."
             }
-        ]
+        ],
+        "atts": []
     },
     "11": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "토모리는 창 앞의 식물에서 떨어진 잎사귀로 그것을 조심스럽게 감싸서, 나갈 때 창틀 앞 식물의 흙에 묻어 주기로 했다."
             }
-        ]
+        ],
+        "atts": []
     },
     "12": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그녀는 책상 위에 마른 잎사귀로 감싼 생명을 바라보며, 문득 다른 사람을 떠올렸다."
             }
-        ]
+        ],
+        "atts": []
     },
     "13": {
         "speaker": "타카마츠 토모리",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(타키쨩, 좀 괜찮아졌을려나……)"
             }
-        ]
+        ],
+        "atts": []
     }
 }

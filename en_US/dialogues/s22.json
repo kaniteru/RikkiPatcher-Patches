@@ -1,506 +1,571 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "又迎来新的早晨。"
             }
-        ]
+        ],
+        "atts": []
     },
     "1": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "早上了…"
             }
-        ]
+        ],
+        "atts": []
     },
     "2": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "天气真不错啊……"
             }
-        ]
+        ],
+        "atts": []
     },
     "3": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "唉，总觉得都快对这个场景感到厌烦了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "4": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "昨晚久违地睡了个好觉。"
             }
-        ]
+        ],
+        "atts": []
     },
     "5": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希的精神恢复了不少，清醒的状态也有利于分配自己所剩无几的时间。"
             }
-        ]
+        ],
+        "atts": []
     },
     "6": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "抱着微弱的希望走进浴室，但倒计时仍分毫不差地削减着。"
             }
-        ]
+        ],
+        "atts": []
     },
     "7": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "如果说神不从人愿，那么时间一定是最无情的神。"
             }
-        ]
+        ],
+        "atts": []
     },
     "8": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（算了……本来也不抱着醒来发现这一切都是梦的想法。）"
             }
-        ]
+        ],
+        "atts": []
     },
     "9": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "洗漱完毕，她开始思考接下来的行动。"
             }
-        ]
+        ],
+        "atts": []
     },
     "10": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（曲子……目前还没有头绪，呆家里死磕也不是个办法……）"
             }
-        ]
+        ],
+        "atts": []
     },
     "11": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（昨晚想到几件想做的事……虽然不是什么要紧事，但毕竟……）"
             }
-        ]
+        ],
+        "atts": []
     },
     "12": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希把手按在胸口，将近一秒一次的心跳忠实地遵守着规律。"
             }
-        ]
+        ],
+        "atts": []
     },
     "13": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "心脏已不是自己的所有物，而是与头上的数字同一立场的，另一个倒计时罢了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "14": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（如果按照这个规律下去，心跳少于五十次的时候，给四肢供血都成问题…那样子和死又有什么区别？）"
             }
-        ]
+        ],
+        "atts": []
     },
     "15": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "忽然，手机传来震动。"
             }
-        ]
+        ],
+        "atts": []
     },
     "16": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "！！！"
             }
-        ]
+        ],
+        "atts": []
     },
     "17": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "屏幕上显示着许久未见的来电人——"
             }
-        ]
+        ],
+        "atts": []
     },
     "18": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "椎名真希。"
             }
-        ]
+        ],
+        "atts": {
+            "dialog": [
+                {
+                    "fontSize": 47
+                },
+                {
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "19": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "姐姐？为什么会这个时候……"
             }
-        ]
+        ],
+        "atts": []
     },
     "20": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "在这个过于特殊的时间点接到姐姐的来电，立希心中有种说不出的酸涩。"
             }
-        ]
+        ],
+        "atts": []
     },
     "21": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "担心浴室的回声太过嘈杂，她匆匆跑回卧室。"
             }
-        ]
+        ],
+        "atts": []
     },
     "22": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希深吸好几口气，让自己的声音尽可能听上去平稳，才小心翼翼地接通了电话。"
             }
-        ]
+        ],
+        "atts": []
     },
     "23": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……喂？姐姐？"
             }
-        ]
+        ],
+        "atts": []
     },
     "24": {
         "speaker": "椎名真希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "立希？"
             }
-        ]
+        ],
+        "atts": []
     },
     "25": {
         "speaker": "椎名真希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "声音怎么这么低沉，生病了吗？"
             }
-        ]
+        ],
+        "atts": []
     },
     "26": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "没、没有，有点感冒，已经…没事了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "27": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "姐姐……有什么事吗？"
             }
-        ]
+        ],
+        "atts": []
     },
     "28": {
         "speaker": "椎名真希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "嗯，我回东京了，现在刚出机场。"
             }
-        ]
+        ],
+        "atts": []
     },
     "29": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "现在？？这么突然……"
             }
-        ]
+        ],
+        "atts": []
     },
     "30": {
         "speaker": "椎名真希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "临时工作通知，会在这边待几天，等下跟爸妈也说一声。"
             }
-        ]
+        ],
+        "atts": []
     },
     "31": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "抱歉……我该去接你的。"
             }
-        ]
+        ],
+        "atts": []
     },
     "32": {
         "speaker": "椎名真希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "没什么好道歉的，都说是临时通知了，而且刚下机就得赶过去。"
             }
-        ]
+        ],
+        "atts": []
     },
     "33": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "噢…辛苦了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "34": {
         "speaker": "椎名真希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "说起来，听爸妈说你搬出去了，还适应吗？"
             }
-        ]
+        ],
+        "atts": []
     },
     "35": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "嗯……挺好的。"
             }
-        ]
+        ],
+        "atts": []
     },
     "36": {
         "speaker": "椎名真希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "什么时候有空？我今天的工作很快就会结束，正好看看立希在外面住的地方。"
             }
-        ]
+        ],
+        "atts": []
     },
     "37": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "我…………"
             }
-        ]
+        ],
+        "atts": []
     },
     "38": {
         "speaker": "椎名真希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "怎么了？不方便吗？"
             }
-        ]
+        ],
+        "atts": []
     },
     "39": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "不……没什么，只是……"
             }
-        ]
+        ],
+        "atts": []
     },
     "40": {
         "speaker": "椎名真希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "嗯……"
             }
-        ]
+        ],
+        "atts": []
     },
     "41": {
         "speaker": "椎名真希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "那这样吧，你有空的时候打我电话，时间能合得上就见一面。"
             }
-        ]
+        ],
+        "atts": []
     },
     "42": {
         "speaker": "椎名真希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "合不上也没关系，明年正月我应该会回家过年。"
             }
-        ]
+        ],
+        "atts": []
     },
     "43": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……我知道了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "44": {
         "speaker": "椎名真希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "那就这样，先挂了。"
             }
-        ]
+        ],
+        "atts": []
     },
     "45": {
         "speaker": "椎名真希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "回头见。"
             }
-        ]
+        ],
+        "atts": []
     },
     "46": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "...嗯，再见。"
             }
-        ]
+        ],
+        "atts": []
     },
     "47": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "........."
             }
-        ]
+        ],
+        "atts": []
     },
     "48": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "哈………………"
             }
-        ]
+        ],
+        "atts": []
     },
     "49": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "久违地和姐姐通话，立希紧张得手心都在冒汗。"
             }
-        ]
+        ],
+        "atts": []
     },
     "50": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "不过，先前的迷茫和慌乱像是忽然变成了不真实的过去。"
             }
-        ]
+        ],
+        "atts": []
     },
     "51": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "和现实中存在的，与自己血脉相连的亲人间简短的对话，似乎有着驱散超现实现象的魔力。"
             }
-        ]
+        ],
+        "atts": []
     },
     "52": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "某种模糊的灵感又在脑海中浮现。"
             }
-        ]
+        ],
+        "atts": []
     },
     "53": {
         "speaker": "椎名立希",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "...不行，果然不能就这样放任时间被浪费。"
             }
-        ]
+        ],
+        "atts": []
     },
     "54": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "既然对于现在的她而言，思考要做什么也是一种浪费时间——"
             }
-        ]
+        ],
+        "atts": []
     },
     "55": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "那还不如想到什么就立刻去做。"
             }
-        ]
+        ],
+        "atts": []
     }
 }

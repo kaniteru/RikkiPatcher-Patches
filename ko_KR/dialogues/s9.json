@@ -1,263 +1,292 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "해질녘."
             }
-        ]
+        ],
+        "atts": []
     },
     "1": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "어둠이 지천에 깔리고, 그림자가 서서히 거리 위로 드리워지며 땅 위에 비친 까마귀들의 그림자를 조금씩 삼키어 간다."
             }
-        ]
+        ],
+        "atts": []
     },
     "2": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "평일치고는 조금 이상할 정도로 조용해 마치 낮의 활기가 이미 다 사라진 것 같았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "3": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "거리의 유일한 행인인 타키는 마지막 남은 빛을 등지며 고개를 떨군 채 생각에 잠겨 있었고, 그녀의 발 아래를 따라 그림자가 길게 늘어졌다."
             }
-        ]
+        ],
+        "atts": []
     },
     "4": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "너무 피곤해……"
             }
-        ]
+        ],
+        "atts": []
     },
     "5": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "…드럼 스틱이 장난감도 아니고, 대체 왜 그걸로 장난을 치는 거지!"
             }
-        ]
+        ],
+        "atts": []
     },
     "6": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "요즘 애들은 조금만 뭐라하면 바로 울어버리고, 툭하면 원장한테 일러바치고. 미치겠네, 진짜. 정말 음악을 배우고 싶긴 한 거야?!"
             }
-        ]
+        ],
+        "atts": []
     },
     "7": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "…………"
             }
-        ]
+        ],
+        "atts": []
     },
     "8": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "…쳇, 됐어, 어차피 그냥 재미로 하는 거겠지."
             }
-        ]
+        ],
+        "atts": []
     },
     "9": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(벌써 이 시간이네, 단골 이자카야로 가서 저녁이나 먹자.)"
             }
-        ]
+        ],
+        "atts": []
     },
     "10": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(……응? 불이 꺼져 있네?)"
             }
-        ]
+        ],
+        "atts": []
     },
     "11": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "“가게 주인이 감기에 걸려 며칠간 휴업합니다.”"
             }
-        ]
+        ],
+        "atts": []
     },
     "12": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(주인 아저씨가 감기에 걸리는 걸 본 기억이 없는데, 1년 내내 쉬지도 않고 펄펄하게 일 하던 철인이 휴업까지 할 정도라니… 빨리 나으시면 좋겠네.)"
             }
-        ]
+        ],
+        "atts": []
     },
     "13": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "한참을 돌아 다시 집으로 가는 길에 다다랐을 때는 이미 거리에 어둠이 깔린 때였고, 초봄의 밤 기온에 으슬으슬함을 느낀 타키는 옷깃을 단단히 여몄다."
             }
-        ]
+        ],
+        "atts": []
     },
     "14": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "좁고 어두운 골목을 지날 무렵, 옆에서 바스락거리는 소리가 들려 따라가 보니 털에 윤기를 띄는 검은 고양이가 쓰레기로 이루어진 작은 산 속에 머리를 파묻고는 이리저리 헤집어 산사태를 일으키고 있었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "15": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "마치 마음의 소리가 읽힌 것처럼, 타키의 시선이 고양이의 맨들맨들한 뒤통수에 닿은 순간 고양이가 고개를 돌려 그녀의 눈을 똑바로 응시하였다——"
             }
-        ]
+        ],
+        "atts": []
     },
     "16": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "——날카롭고, 왠지 묘하게 낯익은, 보라색 눈동자였다."
             }
-        ]
+        ],
+        "atts": []
     },
     "17": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "타키는 갑자기 오한이 들었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "18": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "길, 길고양이인가?"
             }
-        ]
+        ],
+        "atts": []
     },
     "19": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "（아니, 털관리도 잘 됐고 목걸이까지 되어 있는걸 보니, 집 고양이인가? 근데 왜……）"
             }
-        ]
+        ],
+        "atts": []
     },
     "20": {
         "speaker": "고양이",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "냥——————!!"
             }
-        ]
+        ],
+        "atts": []
     },
     "21": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "고양이가 몸을 낮게 엎드리며 온몸의 털을 곤두세웠고, 동공은 공포에 질린듯 가늘어졌다. 마치 무서운 걸 마주한 것 처럼."
             }
-        ]
+        ],
+        "atts": []
     },
     "22": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "하아?!"
             }
-        ]
+        ],
+        "atts": []
     },
     "23": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "거의 비명에 가까운 소리에 깜짝 놀란 타키가 바로 뒤를 돌아보았지만, 타키의 뒤엔 아무 것도 없었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "24": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(…갑자기 왜 이래?)"
             }
-        ]
+        ],
+        "atts": []
     },
     "25": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "잠깐 주춤했던 타키가 다시 고개를 돌렸으나, 검은 고양이는 이미 사라지고 엉망진창으로 찢긴 봉투에서 터져나온 쓰레기들만이 덩그러니 남아있었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "26": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(정말 이상하네…… 하루 종일 이상한 일들로만 가득이야…… 너무 피곤해……)"
             }
-        ]
+        ],
+        "atts": []
     },
     "27": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "마음 속의 의심을 삼킨 채, 식은땀이 가라앉으니 퇴근 후의 피곤함이 갑자기 몸을 덮쳐왔다."
             }
-        ]
+        ],
+        "atts": []
     },
     "28": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "오늘은 너무나도 많은 일들이 있었지만, 타키에게는 전부 무의미하게 느껴졌다. 그녀는 지친 다리를 이끌며 집을 향해 걸음을 재촉했다."
             }
-        ]
+        ],
+        "atts": []
     }
 }

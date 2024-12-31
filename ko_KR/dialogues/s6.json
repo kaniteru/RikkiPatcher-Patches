@@ -1,101 +1,112 @@
 {
     "0": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "문을 열자 느껴지는 온도의 차이로 타키의 몸이 잠시 굳었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "1": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "착각일 수도 있고, 아닐 수도 있지만, 그녀는 아까 그 갑작스러운 통증이 다시 느껴지는 것 같았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "2": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "호흡이 점점 가빠지고, 심장은 빠르게 뛰기 시작해 아플 정도였다."
             }
-        ]
+        ],
+        "atts": []
     },
     "3": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(감기에 걸린건가……)"
             }
-        ]
+        ],
+        "atts": []
     },
     "4": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "제대로 서 있기가 힘들어 힘겹게 식탁 앞으로 한 걸음 한 걸음 걸어가며, 두 손으로 의자 등받이를 붙잡았다."
             }
-        ]
+        ],
+        "atts": []
     },
     "5": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "다리에 완전히 힘이 빠진 그녀는 거칠게 숨을 쉬며 무릎을 꿇었다. 전례 없는 위기감이 그녀를 덮쳤고, 이렇게 잠들면 안 된다는 걸 직감적으로 느꼈다."
             }
-        ]
+        ],
+        "atts": []
     },
     "6": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(큰일이네… 휴대폰이…)"
             }
-        ]
+        ],
+        "atts": []
     },
     "7": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "그녀는 힘겹게 휴대폰을 꺼냈으나, 두 손이 멈추지 않고 계속 떨려 화면 잠금을 풀 수 없었다."
             }
-        ]
+        ],
+        "atts": []
     },
     "8": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "결국 힘이 풀린 손아귀에서 휴대폰이 바닥으로 떨어지고, 그녀도 같이 쓰러졌다."
             }
-        ]
+        ],
+        "atts": []
     },
     "9": {
         "speaker": "시이나 타키",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(도대체 왜 이러는거야… 나는 아직……)"
             }
-        ]
+        ],
+        "atts": []
     },
     "10": {
         "speaker": "",
-        "dialogue": [
+        "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "점점 무거워지는 눈꺼풀이 마침내 눈을 완전히 덮었고, 타키의 흐릿한 시야는 완전한 암흑을 향했으며, 의식은 끝없는 어둠 속으로 깊어져만 갔다."
             }
-        ]
+        ],
+        "atts": []
     }
 }
