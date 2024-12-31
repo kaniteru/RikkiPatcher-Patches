@@ -1,26 +1,26 @@
 {
     "0": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "나……"
+                "text": "我……"
             }
         ],
         "atts": []
     },
     "1": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "나 죽은건가?"
+                "text": "我死了吗？"
             }
         ],
         "atts": []
     },
     "2": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -30,11 +30,11 @@
         "atts": []
     },
     "3": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "이건……누구의 숨소리지."
+                "text": "这是……谁的呼吸。"
             }
         ],
         "atts": []
@@ -44,7 +44,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "숨을 들이쉬고, 내쉰다. 다시 한 번 깊이 들이쉬고, 내쉰다."
+                "text": "吸气，吐气。吸气，吐气。"
             }
         ],
         "atts": []
@@ -54,7 +54,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "지금도 모든 것이 여전히 혼란스러웠다. 그러나 이미 어렴풋이 자신의 리듬을 찾기 시작했다."
+                "text": "现如今一切仍然混乱。却已经隐约找得到自己的节奏。"
             }
         ],
         "atts": []
@@ -64,7 +64,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "사방에 출구가 보이지 않아도… 호흡하는 것을 잊지 마라, 그렇지 않으면 어둠 속에서 익사할 것이다."
+                "text": "哪怕四面八方都没有出口……记得坚持呼吸，否则便会在黑暗中溺毙。"
             }
         ],
         "atts": []
@@ -74,7 +74,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "타키!"
+                "text": "小立希！"
             }
         ],
         "atts": {
@@ -91,21 +91,21 @@
         }
     },
     "8": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "......누구야?"
+                "text": "......谁？"
             }
         ],
         "atts": []
     },
     "9": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "……누가…누가 날 부르는 거야?"
+                "text": "……有谁…有人在喊吗？"
             }
         ],
         "atts": []
@@ -115,7 +115,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "타키!"
+                "text": "小立希！"
             }
         ],
         "atts": {
@@ -132,41 +132,41 @@
         }
     },
     "11": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "잘 안 들려……"
+                "text": "我听不清……"
             }
         ],
         "atts": []
     },
     "12": {
-        "speaker": "타카마츠 토모리",
+        "speaker": "高松灯",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "타키!"
+                "text": "小立希！"
             }
         ],
         "atts": []
     },
     "13": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "아……나……"
+                "text": "啊……我……"
             }
         ],
         "atts": []
     },
     "14": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "나 여기……"
+                "text": "我在……"
             }
         ],
         "atts": []
@@ -176,7 +176,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "CG 잠금 해제: 메에카게바시 꽃구경"
+                "text": "解锁CG：面影桥花见"
             }
         ],
         "atts": {
@@ -233,7 +233,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "계속 반듯하게 펴져있던 무릎이 뻣뻣하게 떨렸다."
+                "text": "站立的膝盖僵硬微微发抖。"
             }
         ],
         "atts": []
@@ -243,7 +243,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "자신을 부르던 사람은 지금, 자신의 옆에서 숨을 헐떡이고 있었다. 뛰어온 것일까?"
+                "text": "出声呼唤自己的人就站在身边喘气，她是跑过来的吗？"
             }
         ],
         "atts": []
@@ -253,7 +253,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "눈앞에 하얀 머리칼이 스쳐 지나갔고, 타키의 몸에 단단히 안겼다."
+                "text": "眼前闪过一抹白，被紧紧抱住了。"
             }
         ],
         "atts": []
@@ -263,93 +263,93 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "드물게 서두르는 모습을 보인 라나가 그녀의 가슴에 얼굴을 묻었고, 라나의 열기는 따뜻했지만 가슴이 아플 정도로 단단했다."
+                "text": "难得着急的乐奈埋在胸口，温暖却也硌得胸口发疼。"
             }
         ],
         "atts": []
     },
     "20": {
-        "speaker": "타카마츠 토모리",
+        "speaker": "高松灯",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "타키쨩! 타키쨩! 하, 하아……너…너 괜찮아?"
+                "text": "立希！立希！哈、哈……你…你还好吗？"
             }
         ],
         "atts": []
     },
     "21": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "토모리……"
+                "text": "灯……"
             }
         ],
         "atts": []
     },
     "22": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "라나, 라나 좀 풀어줘, 아파……"
+                "text": "乐、乐奈你松开点，好疼……"
             }
         ],
         "atts": []
     },
     "23": {
-        "speaker": "나가사키 소요",
+        "speaker": "长崎素世",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "후, 대체 무슨 생각을 하고 있었던거야?"
+                "text": "呼、你在发什么呆？"
             }
         ],
         "atts": []
     },
     "24": {
-        "speaker": "치하야 아논",
+        "speaker": "千早爱音",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "리키!! 너 왜 그래?! 우리가 멀리서 봤을 때 너가 강가에 가만히 서 있길래, 우리는 너가…너가……다음부터 그러지 마, 너무 놀라서 내 심장이 멈추는 줄 알았어!"
+                "text": "Rikki！！你怎么了？！我们老远就看到你站在河边一动不动的，还以为你要、你要……讨厌下次别这样了吓得我小心脏都要跳出来了！"
             }
         ],
         "atts": []
     },
     "25": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "나……"
+                "text": "我……"
             }
         ],
         "atts": []
     },
     "26": {
-        "speaker": "야하타 우미리",
+        "speaker": "八幡海铃",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "내가 증명할게."
+                "text": "我作证。"
             }
         ],
         "atts": []
     },
     "27": {
-        "speaker": "야하타 우미리",
+        "speaker": "八幡海铃",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "그리고 저기 저 분도."
+                "text": "还有那边那一位。"
             }
         ],
         "atts": []
     },
     "28": {
-        "speaker": "토가와 사키코",
+        "speaker": "丰川祥子",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -363,7 +363,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "……꿈이었나?"
+                "text": "……是梦吗？"
             }
         ],
         "atts": []
@@ -373,7 +373,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "햇빛이 벚꽃과 함께 내리고, 만나고 싶은 사람들이 모두 곁에 있었다."
+                "text": "阳光随樱花洒落，想见的人都在身边。"
             }
         ],
         "atts": []
@@ -383,27 +383,27 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "타키는 코를 훌쩍이며, 목구멍에 걸린 말이 다시 막혔다."
+                "text": "立希吸了吸鼻子，藏在喉咙的话语再次哽住。"
             }
         ],
         "atts": []
     },
     "32": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "……너희가 여기 왜 있어?"
+                "text": "……你们怎么会在这里？"
             }
         ],
         "atts": []
     },
     "33": {
-        "speaker": "나가사키 소요 & 야하타 우미리",
+        "speaker": "长崎素世&八幡海铃",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "퇴근."
+                "text": "上班。\n"
             },
             {
                 "html": "style='color:#FfFffF'",
@@ -413,21 +413,21 @@
         "atts": []
     },
     "34": {
-        "speaker": "치하야 아논",
+        "speaker": "千早爱音",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "날씨가 이렇게 좋고, 벚꽃 구경할 때라 생각했지, 모두 바쁠 줄 알았는데 나 혼자 왔어. 이렇게 우연히 만날 줄 몰랐어! 미리 약속할 걸 그랬네!"
+                "text": "天气这么好，又差不多是赏樱的时候，还以为大家都没空我就自己来了，没想到这么巧！！早知道就提前约一下了！"
             }
         ],
         "atts": []
     },
     "35": {
-        "speaker": "카나메 라나 & 타카마츠 토모리",
+        "speaker": "要乐奈&高松灯",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "갑자기 타키 집 앞의 벚꽃이 생각나서, 보고 싶어서 왔어."
+                "text": "想来就来了。\n"
             },
             {
                 "html": "style='color:#FfFffF'",
@@ -437,21 +437,21 @@
         "atts": []
     },
     "36": {
-        "speaker": "타카마츠 토모리",
+        "speaker": "高松灯",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "벚꽃……정말 아름다워."
+                "text": "樱花……真美啊。"
             }
         ],
         "atts": []
     },
     "37": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "응……"
+                "text": "嗯……"
             }
         ],
         "atts": []
@@ -461,7 +461,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "타키, 하고 싶은 말 있어?"
+                "text": "立希，你想要说什么？"
             }
         ],
         "atts": []
@@ -471,7 +471,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "많이 하고 싶은 말이 있고, 이루고 싶은 소원이 많고, 가고 싶은 곳이 많다."
+                "text": "很多想说的话，很多想实现的愿望，很多想去往的地方。"
             }
         ],
         "atts": []
@@ -481,7 +481,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "서두르지 마, 천천히 해. 이 길에는 동료와 음악이 있어."
+                "text": "请不要着急，慢慢来。这一路上有伙伴和音乐。"
             }
         ],
         "atts": []
@@ -491,7 +491,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "평생은 아직 길어."
+                "text": "一辈子还很长。"
             }
         ],
         "atts": []
@@ -501,7 +501,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "END"
+                "text": "报幕"
             }
         ],
         "atts": {

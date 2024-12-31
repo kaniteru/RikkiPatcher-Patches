@@ -1,6 +1,6 @@
 {
     "0": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -10,7 +10,7 @@
         "atts": {}
     },
     "1": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -20,7 +20,7 @@
         "atts": {}
     },
     "2": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -30,7 +30,7 @@
         "atts": {}
     },
     "3": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -40,7 +40,7 @@
         "atts": {}
     },
     "4": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -50,7 +50,7 @@
         "atts": {}
     },
     "5": {
-        "speaker": "나가사키 소요",
+        "speaker": "长崎素世",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -60,7 +60,7 @@
         "atts": []
     },
     "6": {
-        "speaker": "나가사키 소요",
+        "speaker": "长崎素世",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -70,7 +70,7 @@
         "atts": []
     },
     "7": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -80,7 +80,7 @@
         "atts": {}
     },
     "8": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -90,7 +90,7 @@
         "atts": {}
     },
     "9": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -100,7 +100,7 @@
         "atts": {}
     },
     "10": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -110,7 +110,7 @@
         "atts": {}
     },
     "11": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -120,27 +120,27 @@
         "atts": {}
     },
     "12": {
-        "speaker": "치하야 아논",
+        "speaker": "千早爱音",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "리키, 너 그거 알아……"
+                "text": "Rikki啊，你知道吗……"
             }
         ],
         "atts": {}
     },
     "13": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "응？"
+                "text": "嗯？"
             }
         ],
         "atts": {}
     },
     "14": {
-        "speaker": "치하야 아논",
+        "speaker": "千早爱音",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -150,127 +150,127 @@
         "atts": {}
     },
     "15": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "그래서?"
+                "text": "所以？"
             }
         ],
         "atts": {}
     },
     "16": {
-        "speaker": "치하야 아논",
+        "speaker": "千早爱音",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "기뻐해야 할지 말아야 할지 모르겠어."
+                "text": "真不知道该高兴还是不高兴。"
             }
         ],
         "atts": {}
     },
     "17": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "맘대로 해, 어차피 돈은 네 주머니로 들어갔잖아… 밴드 발전 기금에 일부는 저축해둬."
+                "text": "随便你，反正钱都进了你的口袋了…记得存一部分到乐队发展基金里去。"
             }
         ],
         "atts": {}
     },
     "18": {
-        "speaker": "치하야 아논",
+        "speaker": "千早爱音",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "그런 건 리키가 굳이 말하지 않아도 돼! 그러고 보니, 그렇다면——"
+                "text": "这种事情不需要Rikki提醒人家啦！话说回来，既然这样——"
             }
         ],
         "atts": {}
     },
     "19": {
-        "speaker": "치하야 아논",
+        "speaker": "千早爱音",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "제발 리키! 한 번 더 해줘——"
+                "text": "求你了Rikki！请再来一次吧——"
             }
         ],
         "atts": {}
     },
     "20": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "뭘?"
+                "text": "来什么？"
             }
         ],
         "atts": {}
     },
     "21": {
-        "speaker": "치하야 아논",
+        "speaker": "千早爱音",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "방송! 한 번 더 합동 방송하자, 제발! 큰 걸 모으고 싶어, 라이브 막 끝난 열기를 타서 모두를 초대하려고……"
+                "text": "直播！再来一次合体直播吧求求你了！人家想攒个大的，趁着Live刚结束的热度邀请大家一起……"
             }
         ],
         "atts": {}
     },
     "22": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "좋아."
+                "text": "好啊。"
             }
         ],
         "atts": {}
     },
     "23": {
-        "speaker": "치하야 아논",
+        "speaker": "千早爱音",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "네가 거절할 줄 알았는데 들어봐——"
+                "text": "人家知道你会说不但是听我解释——"
             }
         ],
         "atts": {}
     },
     "24": {
-        "speaker": "치하야 아논",
+        "speaker": "千早爱音",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "응? 뭐라고 했어?"
+                "text": "欸？你说什么？"
             }
         ],
         "atts": {}
     },
     "25": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "내가 말했잖아, 좋아."
+                "text": "我说，好啊。"
             }
         ],
         "atts": {}
     },
     "26": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "왜 계속 이야기하지 않아? 토모리와 길고양이는 괜찮아, 혹시 아직 소요를 설득하지 못했니?"
+                "text": "怎么不继续讲了？灯和野猫好办，难道你其实还没搞定素世？"
             }
         ],
         "atts": {}
     },
     "27": {
-        "speaker": "치하야 아논",
+        "speaker": "千早爱音",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -280,27 +280,27 @@
         "atts": {}
     },
     "28": {
-        "speaker": "치하야 아논",
+        "speaker": "千早爱音",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "아아아아아 너 후회하지 말아야 해, 지금 당장 그녀의 사무실에 가서 해결할게——"
+                "text": "啊啊啊啊啊你不许反悔啊啊我这就去她的办公室搞定她——"
             }
         ],
         "atts": {}
     },
     "29": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "......역시 그대로네."
+                "text": "......果然还是老样子。"
             }
         ],
         "atts": {}
     },
     "30": {
-        "speaker": "토가와 사키코",
+        "speaker": "丰川祥子",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -310,37 +310,37 @@
         "atts": {}
     },
     "31": {
-        "speaker": "토가와 사키코",
+        "speaker": "丰川祥子",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "......아직 안 끝났어?"
+                "text": "......还没好吗？"
             }
         ],
         "atts": {}
     },
     "32": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "...서두르지 마."
+                "text": "...你别急。"
             }
         ],
         "atts": {}
     },
     "33": {
-        "speaker": "토가와 사키코",
+        "speaker": "丰川祥子",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "서두르는 건 너 같은데, 시이나 타키 씨."
+                "text": "是你看起来比较急，椎名立希小姐。"
             }
         ],
         "atts": {}
     },
     "34": {
-        "speaker": "토가와 사키코",
+        "speaker": "丰川祥子",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -350,47 +350,47 @@
         "atts": {}
     },
     "35": {
-        "speaker": "토가와 사키코",
+        "speaker": "丰川祥子",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "그렇게 긴장해서 넥타이도 못 매겠어?"
+                "text": "至于紧张到不会打领带吗？"
             }
         ],
         "atts": {}
     },
     "36": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "......왜 상까지 주는 거야?"
+                "text": "......为什么这也有奖颁？"
             }
         ],
         "atts": {}
     },
     "37": {
-        "speaker": "토가와 사키코",
+        "speaker": "丰川祥子",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "나도 알고 싶어……"
+                "text": "我也想知道……"
             }
         ],
         "atts": {}
     },
     "38": {
-        "speaker": "무대 뒤 방송",
+        "speaker": "后台广播",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "다음은 제7회 기사 문학상 주제가 《Un saludo a Don Quijote》 두 공동 작가가 무대에 오르겠습니다."
+                "text": "下面有请第七届骑士文学赏主题曲《Un saludo a Don Quijote》两位共同作者上台。"
             }
         ],
         "atts": {}
     },
     "39": {
-        "speaker": "토가와 사키코",
+        "speaker": "丰川祥子",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -400,37 +400,37 @@
         "atts": {}
     },
     "40": {
-        "speaker": "토가와 사키코",
+        "speaker": "丰川祥子",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "여기 와! 머리를 숙여."
+                "text": "过来点！把头埋低。"
             }
         ],
         "atts": {}
     },
     "41": {
-        "speaker": "토가와 사키코",
+        "speaker": "丰川祥子",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "넥타이를 이렇게 매는 거 맞아……"
+                "text": "领带是这样打吗……"
             }
         ],
         "atts": {}
     },
     "42": {
-        "speaker": "나가사키 소요",
+        "speaker": "长崎素世",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "타키, 요즘 부업 생각해본 적 있어?"
+                "text": "小立希最近有考虑挣点外快吗？"
             }
         ],
         "atts": {}
     },
     "43": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -440,27 +440,27 @@
         "atts": {}
     },
     "44": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "당분간은 아니야, 작곡에 전념하려고 해. 게다가 아직 그 정도로 긴박하지도 않고."
+                "text": "暂时不，想专心作曲来着。况且手头也没紧到那个地步。"
             }
         ],
         "atts": {}
     },
     "45": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "왜? 누가 너한테 연락했어?"
+                "text": "怎么？谁找上你了？"
             }
         ],
         "atts": {}
     },
     "46": {
-        "speaker": "나가사키 소요",
+        "speaker": "长崎素世",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -470,57 +470,57 @@
         "atts": {}
     },
     "47": {
-        "speaker": "나가사키 소요",
+        "speaker": "长崎素世",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "엄격한 선생님이 여전히 수요가 많구나."
+                "text": "看来严厉的老师还是挺有市场的嘛。"
             }
         ],
         "atts": {}
     },
     "48": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "……내가 그렇게 엄격하진 않잖아, 아마도."
+                "text": "……我也没有多严格吧，大概。"
             }
         ],
         "atts": {}
     },
     "49": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "어쨌든 모든 사람이 음악으로 먹고 사는 건 아니니까, 그건 잘 알고 있어."
+                "text": "毕竟也不是所有人都靠音乐吃饭，这个我心里清楚。"
             }
         ],
         "atts": {}
     },
     "50": {
-        "speaker": "나가사키 소요",
+        "speaker": "长崎素世",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "그래서? 생각해볼래? 히나가 너 아니면 안 될 것 같아, 급여는 잘 얘기해볼 수 있어."
+                "text": "所以呢？考虑一下吗？小Hina看样子非你不可了，薪资好商量。"
             }
         ],
         "atts": {}
     },
     "51": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "난 남의 것을 탐하는 걸 좋아하지 않아."
+                "text": "我不喜欢占人便宜。"
             }
         ],
         "atts": {}
     },
     "52": {
-        "speaker": "나가사키 소요",
+        "speaker": "长崎素世",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -530,7 +530,7 @@
         "atts": {}
     },
     "53": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -540,27 +540,27 @@
         "atts": {}
     },
     "54": {
-        "speaker": "나가사키 소요",
+        "speaker": "长崎素世",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "타키……"
+                "text": "小立希……"
             }
         ],
         "atts": {}
     },
     "55": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "그래도 고마워, 소요."
+                "text": "不过，还是谢谢你，素世。"
             }
         ],
         "atts": {}
     },
     "56": {
-        "speaker": "나가사키 소요",
+        "speaker": "长崎素世",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -570,21 +570,21 @@
         "atts": {}
     },
     "57": {
-        "speaker": "나가사키 소요",
+        "speaker": "长崎素世",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "아, 작은 히나가 네가 처음에 그녀를 친구로 여기지 않았다는 걸 알면 얼마나 슬퍼할까."
+                "text": "唉，小Hina要是知道你原先没把她当朋友，该有多伤心呀。"
             }
         ],
         "atts": {}
     },
     "58": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "하?!"
+                "text": "哈？！"
             }
         ],
         "atts": {}
@@ -600,7 +600,7 @@
         "atts": {}
     },
     "60": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -610,7 +610,7 @@
         "atts": {}
     },
     "61": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -620,7 +620,7 @@
         "atts": {}
     },
     "62": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -640,7 +640,7 @@
         "atts": {}
     },
     "64": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -670,7 +670,7 @@
         "atts": {}
     },
     "67": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -680,7 +680,7 @@
         "atts": {}
     },
     "68": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -700,7 +700,7 @@
         "atts": {}
     },
     "70": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -710,7 +710,7 @@
         "atts": {}
     },
     "71": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -740,7 +740,7 @@
         "atts": {}
     },
     "74": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -770,7 +770,7 @@
         "atts": {}
     },
     "77": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -800,7 +800,7 @@
         "atts": {}
     },
     "80": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -820,7 +820,7 @@
         "atts": {}
     },
     "82": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -840,11 +840,11 @@
         "atts": {}
     },
     "84": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "“하나미서점”...누구지?"
+                "text": "“花见书屋”……是谁？"
             }
         ],
         "atts": {}
@@ -854,17 +854,17 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "기억에 없는 발신인, 최근에 온라인 쇼핑을 한 적도 없었다."
+                "text": "没印象的寄件人，这段时间也没有网购过什么东西。"
             }
         ],
         "atts": []
     },
     "86": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "（책과 관련이 있다면... 토모리일까?）"
+                "text": "（跟书相关的话……会是灯吗？）"
             }
         ],
         "atts": {}
@@ -874,7 +874,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "그녀는 일반적으로 우체통 옆에서 택배를 급히 뜯는 일이 드물지만, '시험 제작물'이라는 문구가 인쇄된 갈색 종이를 조금 뜯자 그녀의 생각이 맞았다——"
+                "text": "她一般很少在邮箱边就心急地拆开快递，但印有“试印制品”的牛皮纸才撕开一角就印证了她的想法——"
             }
         ],
         "atts": []
@@ -884,7 +884,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "마른 잎과 귀뚜라미의 뒷다리가 표지 가장자리에 걸쳐 있었는데, 바로 그 동화였다."
+                "text": "枯叶和蟋蟀的后腿搭在封皮边缘，是那个童话。"
             }
         ],
         "atts": []
@@ -894,47 +894,47 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "두…두…"
+                "text": "嘟……嘟……"
             }
         ],
         "atts": []
     },
     "90": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "여보세요? 토모리! 여기 하나미서점에서 택배가 왔어……"
+                "text": "喂？灯！我这边收到了一个花见书屋的快递……"
             }
         ],
         "atts": {}
     },
     "91": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "샘플 책자는 일반적으로 저자에게만 가는 거잖아, 왜 나한테도 있는 거지?"
+                "text": "样刊一般是只给作者的吧，为什么我也有一份？"
             }
         ],
         "atts": {}
     },
     "92": {
-        "speaker": "타카마츠 토모리",
+        "speaker": "高松灯",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "타키에게 보여주고 싶은 게 있어서."
+                "text": "因为有想给小立希看的东西。"
             }
         ],
         "atts": {}
     },
     "93": {
-        "speaker": "타카마츠 토모리",
+        "speaker": "高松灯",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "그때 이야기는 아직 완성되지 않았는데, 지금은 타키가 결말을 알고 싶지 않니?"
+                "text": "当时故事还没有完成，现在小立希不想知道结局吗？"
             }
         ],
         "atts": {}
@@ -944,7 +944,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "토모리의 말이 맞다. 그녀는 고개를 옆으로 돌려 전화기를 목에 끼고, 뒷표지에서 마지막 페이지로 돌아가 내용을 대충 훑어봤다: 눈이 지난 세상에서 새싹이 다시 자라고, 매미가 흙 밖의 봄을 보며, 여름에는 새로운 해의 매미가 흙을 뚫고 나와 그리고……"
+                "text": "灯说的没错，她侧着头把手机夹在颈间，从封底翻回最后一页，草草扫了一遍内容：雪过了的世界又发出新芽，蝉见到了土壤外的春天，夏天时新一年的蝉破土而出，然后……"
             }
         ],
         "atts": []
@@ -954,7 +954,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "그리고 모두가 행복하게 살았다는 결말이다. 그녀는 고개를 끄덕이며 토모리가 그 눈을 어떻게 처리했는지 보려고 앞으로 넘겨봤다."
+                "text": "然后所有人幸福快乐地生活在了一起，她点点头，往前翻去看灯最后是怎么处理那场雪的。"
             }
         ],
         "atts": []
@@ -964,17 +964,17 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "“귀뚜라미가 잠결에 매미가 가져온 기념물에 깨어났다.”"
+                "text": "“蟋蟀在睡梦中翻身的时候被蝉带来的纪念物硌醒了。”"
             }
         ],
         "atts": []
     },
     "97": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "뭐야……"
+                "text": "什么嘛……"
             }
         ],
         "atts": {}
@@ -984,27 +984,27 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "동화 속에서도 약간 엉뚱한 이유가 그녀를 무의식적으로 웃게 만들었다."
+                "text": "即使放在在童话里也有些无厘头的理由让她下意识地笑了出来。"
             }
         ],
         "atts": []
     },
     "99": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "난 이 결말이 정말 좋아."
+                "text": "我很喜欢这个结局。"
             }
         ],
         "atts": {}
     },
     "100": {
-        "speaker": "타카마츠 토모리",
+        "speaker": "高松灯",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "결말 외에도, 앞쪽에 타키에게 보여주고 싶은 게 있어?"
+                "text": "除了结局，最前面也有想让小立希看看的东西哦？"
             }
         ],
         "atts": {}
@@ -1014,7 +1014,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "앞쪽? 그녀는 페이지를 빠르게 넘겼다. 처음에는 그녀가 한 번 들었던 이야기였고, 그다음은 챕터 목록, 출판사 정보가 나왔고, 그 다음은……"
+                "text": "最前面？她哗啦啦地往前翻，开头是自己听过一遍的故事，再往前是章节目录，然后是出版社信息，接着……"
             }
         ],
         "atts": []
@@ -1024,7 +1024,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "표지와 속지 사이에, 거의 빈 페이지가 있었다:"
+                "text": "在衬纸与扉页之间，留出了近乎空白的一页："
             }
         ],
         "atts": []
@@ -1034,7 +1034,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "시이나 타키"
+                "text": "致本书的另一位作者：\n"
             },
             {
                 "html": "style='color:#FfFffF'",
@@ -1053,7 +1053,7 @@
         }
     },
     "104": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1063,17 +1063,17 @@
         "atts": {}
     },
     "105": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "고마워, 토모리, 고마워."
+                "text": "谢谢你，灯，谢谢你。"
             }
         ],
         "atts": {}
     },
     "106": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1083,27 +1083,27 @@
         "atts": {}
     },
     "107": {
-        "speaker": "카나메 라나",
+        "speaker": "要乐奈",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "리키。"
+                "text": "Rikki。"
             }
         ],
         "atts": {}
     },
     "108": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "응？"
+                "text": "嗯？"
             }
         ],
         "atts": {}
     },
     "109": {
-        "speaker": "카나메 라나",
+        "speaker": "要乐奈",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1113,7 +1113,7 @@
         "atts": {}
     },
     "110": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1123,7 +1123,7 @@
         "atts": {}
     },
     "111": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1133,7 +1133,7 @@
         "atts": {}
     },
     "112": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1153,7 +1153,7 @@
         "atts": []
     },
     "114": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1163,7 +1163,7 @@
         "atts": {}
     },
     "115": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1173,7 +1173,7 @@
         "atts": {}
     },
     "116": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1183,7 +1183,7 @@
         "atts": {}
     },
     "117": {
-        "speaker": "카나메 라나",
+        "speaker": "要乐奈",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1193,7 +1193,7 @@
         "atts": {}
     },
     "118": {
-        "speaker": "카나메 라나",
+        "speaker": "要乐奈",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1203,7 +1203,7 @@
         "atts": {}
     },
     "119": {
-        "speaker": "카나메 라나",
+        "speaker": "要乐奈",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1213,7 +1213,7 @@
         "atts": {}
     },
     "120": {
-        "speaker": "카나메 라나",
+        "speaker": "要乐奈",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1223,7 +1223,7 @@
         "atts": {}
     },
     "121": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1233,7 +1233,7 @@
         "atts": {}
     },
     "122": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1243,7 +1243,7 @@
         "atts": {}
     },
     "123": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1253,7 +1253,7 @@
         "atts": {}
     },
     "124": {
-        "speaker": "카나메 라나",
+        "speaker": "要乐奈",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1263,7 +1263,7 @@
         "atts": {}
     },
     "125": {
-        "speaker": "카나메 라나",
+        "speaker": "要乐奈",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1273,7 +1273,7 @@
         "atts": {}
     },
     "126": {
-        "speaker": "카나메 라나",
+        "speaker": "要乐奈",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1283,7 +1283,7 @@
         "atts": {}
     },
     "127": {
-        "speaker": "카나메 라나",
+        "speaker": "要乐奈",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1293,7 +1293,7 @@
         "atts": {}
     },
     "128": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1303,7 +1303,7 @@
         "atts": {}
     },
     "129": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1313,7 +1313,7 @@
         "atts": {}
     },
     "130": {
-        "speaker": "카나메 라나",
+        "speaker": "要乐奈",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1323,17 +1323,17 @@
         "atts": {}
     },
     "131": {
-        "speaker": "카나메 라나",
+        "speaker": "要乐奈",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "已经盖过章了，리키。"
+                "text": "已经盖过章了，Rikki。"
             }
         ],
         "atts": {}
     },
     "132": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1343,17 +1343,17 @@
         "atts": {}
     },
     "133": {
-        "speaker": "카나메 라나",
+        "speaker": "要乐奈",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "哼哼……野猫可以看见一切哦，리키。"
+                "text": "哼哼……野猫可以看见一切哦，Rikki。"
             }
         ],
         "atts": {}
     },
     "134": {
-        "speaker": "카나메 라나",
+        "speaker": "要乐奈",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1363,7 +1363,7 @@
         "atts": {}
     },
     "135": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1373,17 +1373,17 @@
         "atts": {}
     },
     "136": {
-        "speaker": "카나메 라나",
+        "speaker": "要乐奈",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "芭菲好，리키才坏。"
+                "text": "芭菲好，Rikki才坏。"
             }
         ],
         "atts": {}
     },
     "137": {
-        "speaker": "카나메 라나",
+        "speaker": "要乐奈",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1393,7 +1393,7 @@
         "atts": {}
     },
     "138": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1403,7 +1403,7 @@
         "atts": {}
     },
     "139": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1413,7 +1413,7 @@
         "atts": {}
     },
     "140": {
-        "speaker": "시이나 마키",
+        "speaker": "椎名真希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1423,61 +1423,61 @@
         "atts": {}
     },
     "141": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "미안 언니, 오래 기다리게 했어."
+                "text": "抱歉姐姐，让你久等了。"
             }
         ],
         "atts": {}
     },
     "142": {
-        "speaker": "시이나 마키",
+        "speaker": "椎名真希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "트렁크에 있는 것만? 모든 짐 다 챙겼어?"
+                "text": "只有后备箱那些？东西都齐了吗？"
             }
         ],
         "atts": {}
     },
     "143": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "공간을 많이 차지하는 장비랑 드럼은 이미 보냈어, 그래서……"
+                "text": "占空间的设备和鼓都已经送过去了，所以……"
             }
         ],
         "atts": {}
     },
     "144": {
-        "speaker": "시이나 마키",
+        "speaker": "椎名真希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "너 이사하는 게 집이야 작업실이야?"
+                "text": "你搬的到底是家还是工作室啊？"
             }
         ],
         "atts": {}
     },
     "145": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "어……"
+                "text": "呃、"
             }
         ],
         "atts": {}
     },
     "146": {
-        "speaker": "시이나 마키",
+        "speaker": "椎名真希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "됐어…… 안전벨트 매."
+                "text": "算了……系好安全带。"
             }
         ],
         "atts": {}
@@ -1487,13 +1487,13 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "차의 엔진이 켜지자, 수상하게 상을 받은 곡이 끝까지 재생되었다."
+                "text": "车载音响随着发动机启动，一支莫名其妙获了奖的曲子正播放到结尾。"
             }
         ],
         "atts": []
     },
     "148": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1503,17 +1503,17 @@
         "atts": {}
     },
     "149": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "언니……"
+                "text": "姐姐……"
             }
         ],
         "atts": {}
     },
     "150": {
-        "speaker": "시이나 마키",
+        "speaker": "椎名真希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1523,21 +1523,21 @@
         "atts": {}
     },
     "151": {
-        "speaker": "시이나 마키",
+        "speaker": "椎名真希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "……무, 무슨 일이야?"
+                "text": "……怎、怎么了？"
             }
         ],
         "atts": {}
     },
     "152": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "아니야, 아무것도."
+                "text": "没什么。"
             }
         ],
         "atts": {}
@@ -1547,17 +1547,17 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "마지막 음이 끝나자, 이어지는 다음 곡은 타키를 몇 날 밤을 괴롭힌 멜로디였다."
+                "text": "最后一个音符收尾，紧随而来的下一首曲子，又是一段困扰过立希数个日夜的旋律。"
             }
         ],
         "atts": []
     },
     "154": {
-        "speaker": "시이나 타키",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "우리 출발하자."
+                "text": "我们出发吧。"
             }
         ],
         "atts": {}
