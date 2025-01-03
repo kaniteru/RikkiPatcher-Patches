@@ -1,0 +1,120 @@
+{
+    "0": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "就在立希思考今日行程安排的时候，桌面忽然发出了沉闷的警告。"
+            }
+        ],
+        "atts": []
+    },
+    "1": {
+        "speaker": "长崎素世",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "「有空的话，晚上见一面吧？下班直接来找我就可以。上次之后大家都很担心你。"
+            },
+            {
+                "html": "style='color:#ff0000'",
+                "text": "过两天我可能得去北海道了。"
+            },
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "」"
+            }
+        ],
+        "atts": []
+    },
+    "2": {
+        "speaker": "长崎素世",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "「不必回信。」"
+            }
+        ],
+        "atts": []
+    },
+    "3": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "这个节点……赴一个约。椎名立希揉揉自己的脸，面颊僵硬，不知是刚睡醒还是什么别的原因。"
+            }
+        ],
+        "atts": []
+    },
+    "4": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "她自认演技相当蹩脚，没本事旁敲侧击确认一个癔症似的危机且不令人生疑。当她是千早爱音长崎素世那种人吗？"
+            }
+        ],
+        "atts": []
+    },
+    "5": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "滚烫的关心和柔软的问询才令椎名立希难以招架，不被戳破的最好手段就是缩在自己的领地里。"
+            }
+        ],
+        "atts": []
+    },
+    "6": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "尽管椎名立希自己也不能百分百保证裹在里面的是什么，答案本人也只有一个猜想。"
+            }
+        ],
+        "atts": []
+    },
+    "7": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（总会知道的，结果到底是什么。几天之后。）"
+            }
+        ],
+        "atts": []
+    },
+    "8": {
+        "speaker": "",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "椎名立希把手机扣回了桌面，扣回她一开始放置的地方。"
+            }
+        ],
+        "atts": []
+    },
+    "9": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "（说是不必回信……但是哪有决定赴约还一声不吭的人。）"
+            }
+        ],
+        "atts": []
+    },
+    "10": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "「知道了。」"
+            }
+        ],
+        "atts": []
+    }
+}

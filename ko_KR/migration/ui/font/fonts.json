@@ -1,0 +1,80 @@
+[
+    {
+        "fonttype": "TTF",
+        "name": "DGY",
+        "path": "asset/font/DGY.TTF",
+        "size": 0
+    },
+    {
+        "fonttype": "TTF",
+        "name": "FZLTTHJW",
+        "path": "asset/font/FZLTTHJW.TTF",
+        "size": 0
+    },
+    {
+        "fonttype": "ttf",
+        "name": "JCYT500W",
+        "path": "asset/font/JCYT500W.ttf",
+        "size": 0
+    },
+    {
+        "fonttype": "ttf",
+        "name": "jiangchengyuanti",
+        "path": "asset/font/jiangchengyuanti.ttf",
+        "size": 0
+    },
+    {
+        "fonttype": "otf",
+        "name": "SourceHanSerifCN-Bold-2",
+        "path": "asset/font/SourceHanSerifCN-Bold-2.otf",
+        "size": 0
+    },
+    {
+        "fonttype": "otf",
+        "name": "SourceHanSerifCN-ExtraLight-3",
+        "path": "asset/font/SourceHanSerifCN-ExtraLight-3.otf",
+        "size": 0
+    },
+    {
+        "fonttype": "otf",
+        "name": "SourceHanSerifCN-Heavy-4",
+        "path": "asset/font/SourceHanSerifCN-Heavy-4.otf",
+        "size": 0
+    },
+    {
+        "fonttype": "otf",
+        "name": "SourceHanSerifCN-Light-5",
+        "path": "asset/font/SourceHanSerifCN-Light-5.otf",
+        "size": 0
+    },
+    {
+        "fonttype": "otf",
+        "name": "SourceHanSerifCN-Medium-6",
+        "path": "asset/font/SourceHanSerifCN-Medium-6.otf",
+        "size": 0
+    },
+    {
+        "fonttype": "otf",
+        "name": "SourceHanSerifCN-Regular-1",
+        "path": "asset/font/SourceHanSerifCN-Regular-1.otf",
+        "size": 0
+    },
+    {
+        "fonttype": "otf",
+        "name": "SourceHanSerifCN-SemiBold-7",
+        "path": "asset/font/SourceHanSerifCN-SemiBold-7.otf",
+        "size": 0
+    },
+    {
+        "fonttype": "ttf",
+        "name": "Source_Han_Sans",
+        "path": "asset/font/Source_Han_Sans.ttf",
+        "size": 0
+    },
+    {
+        "fonttype": "otf",
+        "name": "Source_Han_Serif",
+        "path": "asset/font/Source_Han_Serif.otf",
+        "size": 0
+    }
+]
