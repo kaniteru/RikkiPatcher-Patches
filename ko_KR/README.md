@@ -8,11 +8,20 @@
 > - s3 ~ 18
 > - s22
 > - s62
+> - s64 (needs re-examination)
 > - s72 ~ 74
 > - s94 ~ 95
+
+> -s53, 54 => 50%
 
 ---
 
 # Choices
 > ### Complete
 > - s10 ~ s13
+
+---
+
+# UI-Dialogue
+## Dialogues
+> - ws3 (progress)
