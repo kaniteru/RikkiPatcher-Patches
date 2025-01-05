@@ -4,15 +4,16 @@
 ---
 
 # Dialogues
-> ### Complete
+> ### Finished
 > - s3 ~ 18
 > - s22
+> - s24
 > - s40
 > - s62 ~ 63
 > - s64 (need check)
 > - s65 ~ 66
-> - s72 ~ 76
-> - s84 ~ 85
+> - s72 ~ 79
+> - s81 ~ 85
 > - s89 ~ 91
 > - s94 ~ 95
 > - s97 (need check)
@@ -28,5 +29,5 @@
 ---
 
 # UI-Dialogue
-## Dialogues
-> - ws3 (progress)
+## Dialogues - Finished
+> - ws3 ~ 4
