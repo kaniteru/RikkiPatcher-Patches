@@ -4,7 +4,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "후반부가 뭔가 시원하지 않아."
+                "text": "후반부가 뭔가 시원하지 않은걸."
             }
         ],
         "atts": {}
@@ -14,7 +14,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "화음을 삼도 올려? 더 간단한 리프?"
+                "text": "화음을 3도 더 올릴까? 아니면 간단한 리프로?"
             }
         ],
         "atts": {}
@@ -44,7 +44,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "（상태가 좋을 때는 무의식적으로 너무 오래 일하게 돼.）"
+                "text": "(상태가 좋을 때는 무의식적으로 너무 오래 일하게 돼.)"
             }
         ],
         "atts": {}
@@ -54,7 +54,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "（이게 바로 '나쁜 생활 습관'이라는 건가.）"
+                "text": "(이게 바로 '나쁜 생활 습관'이라는 건가.)"
             }
         ],
         "atts": {}
@@ -64,7 +64,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "아래층에 잠시 산책이나 가야겠다."
+                "text": "내려가서 잠시 산책이나 해야겠다."
             }
         ],
         "atts": {}
@@ -74,7 +74,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "늘 가지고 다니는 AirPods를 챙겨, 타키는 집을 나서며 좋아하는 노래를 골랐다."
+                "text": "늘 가지고 다니는 AirPods를 챙겨, 타키는 집을 나서며 좋아하는 노래를 재생시켰다."
             }
         ],
         "atts": []

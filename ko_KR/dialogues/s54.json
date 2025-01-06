@@ -54,7 +54,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "난 네가 일을 다 끝내고 나서 다른 사람의 스트리밍을 도와줄 줄 알았어."
+                "text": "난 네가 일을 다 끝내고 나서 다른 사람의 스트리밍을 도와준 줄 알았어."
             }
         ],
         "atts": []
@@ -124,7 +124,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "(역시 내가 오버한 건 아니었어……)"
+                "text": "(역시 내가 오버한 게 아니었어……)"
             }
         ],
         "atts": {}
@@ -134,7 +134,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "……단 한 번만 봤어."
+                "text": "……딱 한 번만 봤어."
             }
         ],
         "atts": []
@@ -144,7 +144,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "스트리머는 너희 기타리스트지? 활기찬 소녀였어."
+                "text": "스트리머가 너희 기타리스트지? 활기찬 소녀였어."
             }
         ],
         "atts": []
@@ -164,7 +164,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "(활기차서 조금 시끄럽기도 해.)"
+                "text": "(활기차서 조금 시끄럽기도 하지.)"
             }
         ],
         "atts": {}
@@ -174,7 +174,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "거의 다 끝난거면 마저 해, 난 신경 쓰지 말고."
+                "text": "거의 다 끝나가는 거면 마저 해, 난 신경 쓰지 말고."
             }
         ],
         "atts": []
@@ -214,7 +214,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "어려운 게 있구나?"
+                "text": "어려운 일이 있구나?"
             }
         ],
         "atts": []
@@ -244,7 +244,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "아니, 일에 방해되는 건 아니야."
+                "text": "아니, 일에 방해되지는 않아."
             }
         ],
         "atts": {}
@@ -424,7 +424,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "앞으로의 작업은 내가 완료해야 해."
+                "text": "앞으로의 남은 작업은 내가 완성해야만 해."
             }
         ],
         "atts": {}
@@ -434,7 +434,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "……의미 있는 곡이구나."
+                "text": "……의미 있는 곡을 만들고 있구나."
             }
         ],
         "atts": []
@@ -444,7 +444,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "그래."
+                "text": "그렇지."
             }
         ],
         "atts": {}
@@ -464,7 +464,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "그래서, 내가 뭘 해주면 좋겠니?"
+                "text": "그래서, 내가 뭘 도와줬으면 좋겠니?"
             }
         ],
         "atts": []
@@ -474,7 +474,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "(방금 나를 도울 수 없다고 말했잖아?)"
+                "text": "(방금 날 도와줄 수는 없다고 말했잖아?)"
             }
         ],
         "atts": {}
@@ -504,7 +504,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "(난 더 이상 언니의 빛 아래에서 살아가는 어린애가 아니야.)"
+                "text": "(난 더 이상 언니의 빛 아래에서 살아가는 어린아이가 아니야.)"
             }
         ],
         "atts": {}
@@ -554,7 +554,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "공기가 잠잠해졌고, 타키는 안절부절못했다."
+                "text": "공기가 잠잠해졌고, 타키는 안절부절 못 했다."
             }
         ],
         "atts": []
