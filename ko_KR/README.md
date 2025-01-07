@@ -6,14 +6,20 @@
 # Dialogues -> Progress
 > ### Finished
 > - s3  ~ 18
-> - s22 ~ 24
+> - s22
+> - s24
 > - s37
-> - s40 ~ 46
+> - s40 ~ 48
+> - s50 ~ 51
 > - s53 ~ 55
 > - s60 ( :'c)
 > - s62 ~ 87
 > - s95
 > - s97
+
+> ### Progress
+> - s49
+> - s52
 
 > ### Pass (no data)
 > - s19
