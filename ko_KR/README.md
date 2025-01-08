@@ -5,33 +5,42 @@
 
 # Dialogues -> Progress
 > ### Finished
-> - s3  ~ 18
-> - s22
-> - s24
-> - s37
-> - s40 ~ 48
-> - s50 ~ 51
-> - s53 ~ 55
+> - s1  ~ 18
+> - s21 ~ 22
+> - s24 ~ 30
+> - s37 ~ 57
 > - s60 ( :'c)
-> - s62 ~ 87
-> - s95
+> - s62 ~ 95
 > - s97
 
 > ### Progress
-> - s49
 > - s52
+> - s59
+> - s61
+> - s96
+> - s98
+> - s100 ~ 101
 
-> ### Pass (no data)
-> - s19
-> - s23
-> - s31 ~ 36
+> ### Pass
+> - s19 (no data)
+> - s20 (moved to ui-dialogue)
+> - s23 (no data)
+> - s31 ~ 36 (no data)
+> - s58 (no data)
+> - s99 (no data)
 
 ---
 
-# Choices -> Progress
-> ### Complete
-> - s10 ~ s13
+# Choices -> Complete
 
 ---
 
-# UI-Dialogue -> Finished
+# UI -> Finished
+
+---
+
+# Copy -> Progress
+### Finished
+> - title buttons
+
+### Progress
