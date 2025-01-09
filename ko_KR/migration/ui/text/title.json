@@ -1,0 +1,34 @@
+{
+    "unlocked_select_chapter_msgbox": {
+        "title": {
+            "font": "SourceHanSerifCN-SemiBold-7",
+            "color": "#ffffff",
+            "size": 40,
+            "x": 0,
+            "y": 30,
+            "width": 600,
+            "show": true,
+            "text": "解锁章节选择"
+        },
+        "line_1": {
+            "font": "SourceHanSerifCN-SemiBold-7",
+            "color": "#ffffff",
+            "size": 26,
+            "x": 0,
+            "y": 97,
+            "width": 600,
+            "show": true,
+            "text": "可在「开始游戏」中选择章节与额外章节游玩"
+        },
+        "line_2": {
+            "font": "SourceHanSerifCN-SemiBold-7",
+            "color": "#ffffff",
+            "size": 20,
+            "x": 0,
+            "y": 147,
+            "width": 600,
+            "show": true,
+            "text": "注：直接开始后续章节将无法体现第一章选择造成的影响"
+        }
+    }
+}
