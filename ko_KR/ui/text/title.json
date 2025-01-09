@@ -1,34 +1,34 @@
 {
     "unlocked_select_chapter_msgbox": {
         "title": {
-            "font": "SourceHanSerifCN-SemiBold-7",
+            "font": "KRFont-Bold",
             "color": "#ffffff",
-            "size": 40,
+            "size": 34,
             "x": 0,
-            "y": 30,
+            "y": 24,
             "width": 600,
             "show": true,
-            "text": "解锁章节选择"
+            "text": "장 선택 잠금 해제 됨"
         },
         "line_1": {
-            "font": "SourceHanSerifCN-SemiBold-7",
-            "color": "#ffffff",
-            "size": 26,
-            "x": 0,
-            "y": 97,
-            "width": 600,
-            "show": true,
-            "text": "可在「开始游戏」中选择章节与额外章节游玩"
-        },
-        "line_2": {
-            "font": "SourceHanSerifCN-SemiBold-7",
+            "font": "KRFont-Regular",
             "color": "#ffffff",
             "size": 20,
             "x": 0,
-            "y": 147,
+            "y": 89,
             "width": 600,
             "show": true,
-            "text": "注：直接开始后续章节将无法体现第一章选择造成的影响"
+            "text": "‘게임 시작’에서 특정 챕터와 후일담을 플레이할 수 있습니다."
+        },
+        "line_2": {
+            "font": "KRFont-Regular",
+            "color": "#ffffff",
+            "size": 16,
+            "x": 0,
+            "y": 141,
+            "width": 600,
+            "show": true,
+            "text": "주의: 후속 챕터를 바로 시작하면 첫 번째 챕터의\n선택이 미치는 영향을 반영할 수 없습니다."
         }
     }
 }

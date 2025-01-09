@@ -76,5 +76,23 @@
         "name": "Source_Han_Serif",
         "path": "asset/font/Source_Han_Serif.otf",
         "size": 0
+    },
+    {
+        "fonttype": "ttf",
+        "name": "KRFont-Regular",
+        "path": "asset/font/NotoSerifKR-Regular.ttf",
+        "size": 0
+    },
+    {
+        "fonttype": "ttf",
+        "name": "KRFont-Bold",
+        "path": "asset/font/NotoSerifKR-Bold.ttf",
+        "size": 0
+    },
+    {
+        "fonttype": "ttf",
+        "name": "KRFont-Light",
+        "path": "asset/font/NotoSerifKR-Light.ttf",
+        "size": 0
     }
 ]

@@ -1,6 +1,6 @@
 {
     "fullscreen": {
-        "font": "SourceHanSerifCN-Light-5",
+        "font": "KRFont-Light",
         "color": "#ffffff",
         "size": 20,
         "x": 46,
@@ -10,7 +10,7 @@
         "text": "전체 화면"
     },
     "skip_seen_dialogues": {
-        "font": "SourceHanSerifCN-Light-5",
+        "font": "KRFont-Light",
         "color": "#ffffff",
         "size": 20,
         "x": 186,
@@ -20,7 +20,7 @@
         "text": "이미 본 대화들을 자동으로 스킵"
     },
     "reverse_mouse_wheel": {
-        "font": "SourceHanSerifCN-Light-5",
+        "font": "KRFont-Light",
         "color": "#ffffff",
         "size": 20,
         "x": 470,
@@ -30,7 +30,7 @@
         "text": "마우스 휠 반전"
     },
     "bgm_volume": {
-        "font": "SourceHanSerifCN-Light-5",
+        "font": "KRFont-Light",
         "color": "#ffffff",
         "size": 28,
         "x": -18,
@@ -40,7 +40,7 @@
         "text": "배경음악 볼륨"
     },
     "se_volume": {
-        "font": "SourceHanSerifCN-Light-5",
+        "font": "KRFont-Light",
         "color": "#ffffff",
         "size": 28,
         "x": -18,
@@ -50,7 +50,7 @@
         "text": "환경음향 볼륨"
     },
     "sfx_volume": {
-        "font": "SourceHanSerifCN-Light-5",
+        "font": "KRFont-Light",
         "color": "#ffffff",
         "size": 28,
         "x": -18,
@@ -60,7 +60,7 @@
         "text": "음향 효과 볼륨"
     },
     "voice_volume": {
-        "font": "SourceHanSerifCN-Light-5",
+        "font": "KRFont-Light",
         "color": "#ffffff",
         "size": 28,
         "x": -18,
@@ -70,7 +70,7 @@
         "text": "음성 볼륨"
     },
     "controls": {
-        "font": "SourceHanSerifCN-SemiBold-7",
+        "font": "KRFont-Bold",
         "color": "#ffffff",
         "size": 24,
         "x": -90,
@@ -80,7 +80,7 @@
         "text": "조작 설명"
     },
     "dialogue_ui_opacity": {
-        "font": "SourceHanSerifCN-Light-5",
+        "font": "KRFont-Light",
         "color": "#ffffff",
         "size": 30,
         "x": -6,
@@ -90,7 +90,7 @@
         "text": "대화 상자 투명도"
     },
     "dialogue_ui_opacity_preview": {
-        "font": "JCYT500W",
+        "font": "KRFont-Regular",
         "color": "#ffffff",
         "size": 28,
         "x": 13,
@@ -100,7 +100,7 @@
         "text": "대화 상자 투명도 미리보기 입니다."
     },
     "text_speed": {
-        "font": "SourceHanSerifCN-Light-5",
+        "font": "KRFont-Light",
         "color": "#ffffff",
         "size": 20,
         "x": 3,
@@ -110,7 +110,7 @@
         "text": "텍스트 재생 속도"
     },
     "auto_play_dialogue_speed": {
-        "font": "SourceHanSerifCN-Light-5",
+        "font": "KRFont-Light",
         "color": "#ffffff",
         "size": 20,
         "x": 3,
@@ -120,7 +120,7 @@
         "text": "대화 자동 재생 속도"
     },
     "text_speed_preview": {
-        "font": "JCYT500W",
+        "font": "KRFont-Regular",
         "color": "#ffffff",
         "size": 28,
         "x": 39,
@@ -131,7 +131,7 @@
     },
     "controls_usage": {
         "title": {
-            "font": "SourceHanSerifCN-SemiBold-7",
+            "font": "KRFont-Bold",
             "color": "#ffffff",
             "size": 45,
             "x": 0,
@@ -141,7 +141,7 @@
             "text": "조작 설명"
         },
         "line_1": {
-            "font": "SourceHanSerifCN-SemiBold-7",
+            "font": "KRFont-Bold",
             "color": "#ffffff",
             "size": 25,
             "x": 10,
@@ -151,7 +151,7 @@
             "text": "ESC - 환경 설정,   F5 - 게임 재시작"
         },
         "line_2": {
-            "font": "SourceHanSerifCN-SemiBold-7",
+            "font": "KRFont-Bold",
             "color": "#ffffff",
             "size": 25,
             "x": 10,
@@ -161,7 +161,7 @@
             "text": "Q/O - 게임 저장,   E/P - 게임 로드"
         },
         "line_3": {
-            "font": "SourceHanSerifCN-SemiBold-7",
+            "font": "KRFont-Bold",
             "color": "#ffffff",
             "size": 25,
             "x": 10,
@@ -171,7 +171,7 @@
             "text": "Ctrl/R/U - 대화 스킵,   T/I - 대화 자동재생,   H/C - 타이틀 화면으로 돌아가기"
         },
         "line_4": {
-            "font": "SourceHanSerifCN-SemiBold-7",
+            "font": "KRFont-Bold",
             "color": "#ffffff",
             "size": 25,
             "x": 10,
@@ -181,7 +181,7 @@
             "text": "마우스 왼쪽버튼/마우스 휠↓/Enter/Space - 다음 대화 재생"
         },
         "line_5": {
-            "font": "SourceHanSerifCN-SemiBold-7",
+            "font": "KRFont-Bold",
             "color": "#ffffff",
             "size": 20,
             "x": 10,
@@ -191,7 +191,7 @@
             "text": "마우스 오른쪽버튼/L/X - 대화 상자와 인터페이스 숨기기,   마우스 휠↑/V - 이전 대화 열람"
         },
         "line_6": {
-            "font": "SourceHanSerifCN-SemiBold-7",
+            "font": "KRFont-Bold",
             "color": "#ffffff",
             "size": 25,
             "x": 12,
