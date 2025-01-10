@@ -14,7 +14,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "아, 설마 싸인 받으러 온 거야?"
+                "text": "아, 혹시 싸인 받으러 온 거야?"
             }
         ],
         "atts": []
@@ -44,7 +44,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "그런 것도 있었던 것 같아."
+                "text": "그 것도 있었던 것 같아."
             }
         ],
         "atts": []
@@ -94,7 +94,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "지난번에 릿키, 찾으러 왔었는데. 없었어."
+                "text": "지난번에 릿키, 찾으러 왔었는데, 없었어."
             }
         ],
         "atts": []

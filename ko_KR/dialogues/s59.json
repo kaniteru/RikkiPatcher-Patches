@@ -121,7 +121,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "……안녕하세요?"
+                "text": "……누구세요?"
             }
         ],
         "atts": {}
@@ -361,7 +361,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "……하하."
+                "text": "……하."
             }
         ],
         "atts": {}
