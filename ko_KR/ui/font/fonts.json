@@ -94,5 +94,17 @@
         "name": "KRFont-Light",
         "path": "asset/font/NotoSerifKR-Light.ttf",
         "size": 0
+    },
+    {
+        "fonttype": "ttf",
+        "name": "KRDia-Regular",
+        "path": "asset/font/GowunBatang-Regular.ttf",
+        "size": 0
+    },
+    {
+        "fonttype": "ttf",
+        "name": "KRDia-Light",
+        "path": "asset/font/GowunBatang-Bold.ttf",
+        "size": 0
     }
 ]
