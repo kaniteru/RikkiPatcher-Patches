@@ -4,8 +4,8 @@
 
 ---
 
-## In Progress
-- ko_KR (almost)
+## Finished
+- ko_KR
 
 ## TODO
 - en_US
