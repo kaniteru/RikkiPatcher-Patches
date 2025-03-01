@@ -4,7 +4,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "月亮逐渐从云后探出。"
+                "text": "The moon gradually emerged from behind the clouds."
             }
         ],
         "atts": []
@@ -14,17 +14,17 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "乌黑的云层压近地面，周围泛起一股泥土的腥臭。"
+                "text": "Dark clouds pressed close to the ground, and a stale earthy odor filled the air."
             }
         ],
         "atts": []
     },
     "2": {
-        "speaker": "",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "立希不由得加快了脚步。"
+                "text": "Taki unconsciously quickened her pace."
             }
         ],
         "atts": []
@@ -34,7 +34,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "长长的商业街终于快要走到尽头，可雨还是毫不留情地降了下来。"
+                "text": "The long shopping street was finally nearing its end, but the rain mercilessly started to fall."
             }
         ],
         "atts": []
@@ -44,17 +44,17 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "雨势来得很猛，迅速在地面上泛起涟漪。"
+                "text": "The rain came down suddenly and quickly formed ripples on the ground."
             }
         ],
         "atts": []
     },
     "5": {
-        "speaker": "",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "即便出了商业街，离家仍是有一段距离，要一口气冒雨冲回去也不太现实。"
+                "text": "Even after leaving the shopping street, there was still quite a distance to her home. Sprinting through the rain all the way wasn’t realistic."
             }
         ],
         "atts": []
@@ -64,17 +64,17 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "无奈之下，立希只得赶紧拐进沿边的一家茶餐厅——"
+                "text": "With no other choice, Taki quickly turned into a nearby tea house—"
             }
         ],
         "atts": []
     },
     "7": {
-        "speaker": "椎名立希 & 路人",
+        "speaker": "Taki Shiina & Passerby",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "哎呦——"
+                "text": "Ouch—"
             }
         ],
         "atts": []
@@ -84,37 +84,37 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "立希和餐厅里冲出来的人撞了个满怀，双双跌坐在地。"
+                "text": "Taki bumped head-on into someone rushing out of the restaurant, sending both of them to the ground."
             }
         ],
         "atts": []
     },
     "9": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "啧，那么大个自动门，出门不带眼睛的吗？"
+                "text": "Tsk, why even have such a big automatic door if you don’t use your eyes?"
             }
         ],
         "atts": []
     },
     "10": {
-        "speaker": "路人",
+        "speaker": "Passerby",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "明明是你一股脑往里冲的吧？！啊啊人家宝贵的挺翘的鼻子……疼死了！"
+                "text": "Excuse me! You’re the one who charged in! Ah, my precious, pretty nose... it hurts!"
             }
         ],
         "atts": []
     },
     "11": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "（这烦人的声音……怎么这么耳熟。）"
+                "text": "(This annoying voice... it sounds so familiar.)"
             }
         ],
         "atts": []
@@ -124,7 +124,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "雨声太吵，立希也不敢确定。"
+                "text": "The rain was too noisy for Taki to confirm."
             }
         ],
         "atts": []
@@ -134,7 +134,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "那人一边小声抱怨着，一边蹲起身低头捡拾从挎包内散落的东西。"
+                "text": "The person muttered complaints under her breath while squatting to gather the fallen items from her bag."
             }
         ],
         "atts": []
@@ -144,17 +144,17 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "毕竟自己也有部分责任，立希也扶着腰蹲起身，帮对方一起收拾起掉落的物件。"
+                "text": "Feeling partly responsible, Taki held her aching back, squatted down, and helped her pick up the scattered belongings."
             }
         ],
         "atts": []
     },
     "15": {
-        "speaker": "路人",
+        "speaker": "Passerby",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "钥匙，口红，自拍杆，会员卡……假睫毛也掉了一个——哎呀——！"
+                "text": "Keys, lipstick, selfie stick, membership cards... oh no, a fake eyelash came off too—ouch!"
             }
         ],
         "atts": []
@@ -164,17 +164,17 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "大概是被脸上的墨镜遮盖了光线，对方没注意到身后的立着的广告牌，半蹲着的身体挪动间，屈起的后腰便结结实实撞向了那里，叫不久前才拍着屁股爬起来的人，再一次重重摔倒在地。"
+                "text": "Likely due to the sunglasses blocking her vision, the person didn’t notice the advertisement display behind her. Moving around while semi-crouched, her lower back hit the display hard, sending her tumbling back to the ground again."
             }
         ],
         "atts": []
     },
     "17": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "喂，你没事吧？"
+                "text": "Hey, are you okay?"
             }
         ],
         "atts": []
@@ -184,7 +184,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "立希赶紧踱过去，朝她伸出手。"
+                "text": "Taki quickly walked over and stretched out a hand to her."
             }
         ],
         "atts": []
@@ -194,7 +194,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "她这才第一次正视对方。"
+                "text": "For the first time, she looked at her closely."
             }
         ],
         "atts": []
@@ -204,7 +204,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "然后她发现——"
+                "text": "Then she realized—"
             }
         ],
         "atts": []
@@ -214,27 +214,27 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "——帽檐之下，有一头亮得恼人的粉色长发。"
+                "text": "—under the brim of the hat, there was an annoyingly bright pink head of hair."
             }
         ],
         "atts": []
     },
     "22": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "哈？！"
+                "text": "Huh?!"
             }
         ],
         "atts": []
     },
     "23": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "千早爱音？！？"
+                "text": "Anon Chihaya?!"
             }
         ],
         "atts": []
@@ -244,7 +244,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "手中力道骤然加深，她一把将对方拉起身。"
+                "text": "Firmly grasping her hand, she pulled the person up in one motion."
             }
         ],
         "atts": []
@@ -254,7 +254,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "站起来后更加确信了。"
+                "text": "Standing upright, she became even more convinced."
             }
         ],
         "atts": []
@@ -264,17 +264,17 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "对方盯着忽然出现在面前的，熟悉的臭脸，只剩半边的浓密睫毛在墨镜后迟疑地扇了两下，然后——"
+                "text": "The other person stared at the familiar, scowling face suddenly in front of them. Through her sunglasses, she blinked twice with lashes only half attached. Then—"
             }
         ],
         "atts": []
     },
     "27": {
-        "speaker": "千早爱音",
+        "speaker": "Anon Chihaya",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "————啊啊啊啊啊啊啊啊啊啊！！"
+                "text": "Ahhhhhhhhhhh!!"
             }
         ],
         "atts": []
@@ -284,17 +284,17 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "爱音像只被踩了尾巴的狗，猛地朝后躲。"
+                "text": "Anon recoiled like a dog whose tail had been stepped on."
             }
         ],
         "atts": []
     },
     "29": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "吵死了！喂、小心啊！！"
+                "text": "You’re too loud! Hey, watch out!"
             }
         ],
         "atts": []
@@ -304,47 +304,47 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "立希眼疾手快地托住对方的腰侧，避免第三次跌倒。"
+                "text": "Quickly, Taki steadied her by supporting her waist, helping her avoid a third fall."
             }
         ],
         "atts": []
     },
     "31": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "你好好看清楚我是谁啊。"
+                "text": "Take a good look at who I am."
             }
         ],
         "atts": []
     },
     "32": {
-        "speaker": "千早爱音",
+        "speaker": "Anon Chihaya",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "啊啊啊啊——！！！！！！！"
+                "text": "AHHHHHHHH!!!!!"
             }
         ],
         "atts": []
     },
     "33": {
-        "speaker": "千早爱音",
+        "speaker": "Anon Chihaya",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "是Rikki啊啊啊啊————！！！"
+                "text": "It’s Rikkiiiiiii!!!"
             }
         ],
         "atts": []
     },
     "34": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "好吵！！！！"
+                "text": "So loud!!!"
             }
         ],
         "atts": []
@@ -354,7 +354,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "餐厅屋檐下躲雨的路人纷纷投来困惑的目光。"
+                "text": "Passersby taking shelter from the rain under the tea house’s awning glanced curiously at them."
             }
         ],
         "atts": []
@@ -364,117 +364,117 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "尴尬到手足无措，立希一边小声向周围的人道歉，一边把爱音拽进了店内。"
+                "text": "Thoroughly embarrassed, Taki muttered apologies to the onlookers as she pulled Anon into the tea house."
             }
         ],
         "atts": []
     },
     "37": {
-        "speaker": "千早爱音",
+        "speaker": "Anon Chihaya",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "哎哟哟，Rikki你轻点。"
+                "text": "Ow ow, Rikki, don’t pull so hard."
             }
         ],
         "atts": []
     },
     "38": {
-        "speaker": "千早爱音",
+        "speaker": "Anon Chihaya",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "衣服都被你扯皱了。"
+                "text": "My clothes are all wrinkled now!"
             }
         ],
         "atts": []
     },
     "39": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "都说了小声一点。"
+                "text": "I told you to keep it down."
             }
         ],
         "atts": []
     },
     "40": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "你忽然间干嘛啊！"
+                "text": "What’s with you all of a sudden?"
             }
         ],
         "atts": []
     },
     "41": {
-        "speaker": "千早爱音",
+        "speaker": "Anon Chihaya",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "大晚上在毫无心理准备的前提下忽然撞见Rikki——这恐怖程度简直不亚于都内十大灵异事件…不、在学校以外的地方偶遇班主任都没有这么吓人啊啊啊啊——"
+                "text": "Running into Rikki out of nowhere late at night—it’s as scary as a top 10 Tokyo urban legend... no, bumping into your class teacher outside school is way less terrifying!"
             }
         ],
         "atts": []
     },
     "42": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "想找茬直说。"
+                "text": "If you’re looking for a fight, just say so."
             }
         ],
         "atts": []
     },
     "43": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "哈……所以说你大晚上来这边干嘛？不马上就要到你直——"
+                "text": "Hah... so, what are you doing here so late? Shouldn’t you already be—"
             }
         ],
         "atts": []
     },
     "44": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "呃，挺晚的了。"
+                "text": "Uh, it’s quite late."
             }
         ],
         "atts": []
     },
     "45": {
-        "speaker": "千早爱音",
+        "speaker": "Anon Chihaya",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "这家茶餐厅是最近新开的连锁，以前在伦敦有吃过，就来做个直播探店追忆一下英伦往事啦~~"
+                "text": "This tea house is a new chain store. They used to have one in London, so I came to do a nostalgic livestream and share my British memories~"
             }
         ],
         "atts": []
     },
     "46": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "那不就是在题材上炒冷饭吗。"
+                "text": "Isn’t that just reheating old content?"
             }
         ],
         "atts": []
     },
     "47": {
-        "speaker": "千早爱音",
+        "speaker": "Anon Chihaya",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "是呢……等等！直播！现在几点了Rikki？？我的手机刚刚好像摔关机了——"
+                "text": "Yeah, kind of... Wait! My livestream! What time is it, Rikki?! I think my phone turned off when I dropped it earlier—"
             }
         ],
         "atts": []
@@ -484,17 +484,17 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "立希重新按亮手机屏幕，将屏保上的数字展示在千早爱音的面前。"
+                "text": "Taki turned on her phone screen and showed the time displayed on her lock screen to Anon."
             }
         ],
         "atts": []
     },
     "49": {
-        "speaker": "千早爱音",
+        "speaker": "Anon Chihaya",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "啊————！！！！！"
+                "text": "Ahhhhhh!!!!!!!!!"
             }
         ],
         "atts": []
@@ -504,27 +504,27 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "立希下意识捂住了自己的耳朵。"
+                "text": "Instinctively, Taki covered her ears."
             }
         ],
         "atts": []
     },
     "51": {
-        "speaker": "千早爱音",
+        "speaker": "Anon Chihaya",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "没时间了Rikki！！下次再聊吧！"
+                "text": "No time, Rikki!! Let’s chat next time!"
             }
         ],
         "atts": []
     },
     "52": {
-        "speaker": "千早爱音",
+        "speaker": "Anon Chihaya",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "现在一路不停地跑回去的话——好，应该还有——"
+                "text": "If I run nonstop now— Okay, I can still make—"
             }
         ],
         "atts": []
@@ -534,17 +534,17 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "根本不待立希再多说什么，像风一样出现的粉毛，也像风一样消失在雨后的街道里，带走了刚才所有的吵闹与喧嚣，只于晚风中留下已经飘远的寥寥数语。"
+                "text": "Without waiting for Taki to respond, the pink-haired whirlwind disappeared down the rainy street as quickly as she had arrived, taking with her all the earlier noise and commotion. Her fading words floated away on the evening breeze."
             }
         ],
         "atts": []
     },
     "54": {
-        "speaker": "千早爱音",
+        "speaker": "Anon Chihaya",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "下次练习的时候见了——Rikki————"
+                "text": "See you at our next practice, Rikki—!"
             }
         ],
         "atts": []
@@ -554,17 +554,17 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "立希转过身，顺着爱音消失的方向站定，凝视着重新恢复成一团模糊色彩的夜景。"
+                "text": "Taki turned towards where Anon had disappeared and stood still, gazing at the now blurry and scattered colors of the night scene."
             }
         ],
         "atts": []
     },
     "56": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "（下次……又是什么时候呢）"
+                "text": "(Next time... when will that even be?)"
             }
         ],
         "atts": []
@@ -574,7 +574,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "雨快停了，立希却感到冷得厉害。"
+                "text": "The rain was starting to let up, but Taki felt colder than ever."
             }
         ],
         "atts": []
@@ -584,7 +584,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "意识游离，立希在纷乱中触摸不到边界，正当她于朦胧中沉沦，熄灭许久的手机屏幕忽然亮起，特殊的闹铃声伴着震动，将主人从昏暗里短暂地唤醒。"
+                "text": "Lost in her wandering thoughts, she couldn’t find clarity in her surroundings. As she drifted into this haze, the long-dormant screen of her phone suddenly lit up, its special alert tone accompanied by vibration, momentarily pulling her out of the fog."
             }
         ],
         "atts": []
@@ -594,17 +594,17 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "立希举起手机，屏幕上弹出的是来自视频网站的通知页面。"
+                "text": "Lifting her phone, Taki saw a notification from a video-streaming platform."
             }
         ],
         "atts": []
     },
     "60": {
-        "speaker": "观看提示",
+        "speaker": "Streaming Reminder",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "「您预约的来自"
+                "text": "\"The live broadcast you reserved from "
             },
             {
                 "html": "style='color:#ff8899'",
@@ -612,7 +612,7 @@
             },
             {
                 "html": "style='color:#FfFffF'",
-                "text": "的直播即将在三十分钟后开始，请提前做好观看准备。」"
+                "text": " will begin in 30 minutes. Please get ready to watch.\""
             }
         ],
         "atts": []
@@ -622,7 +622,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "立希回头望了一眼餐厅。"
+                "text": "Taki turned to look back at the tea house."
             }
         ],
         "atts": []
@@ -632,7 +632,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "先前还人满为患的餐厅，已留有些空荡的座位。"
+                "text": "What had just been a bustling tea house now had a few vacant seats."
             }
         ],
         "atts": []
@@ -642,17 +642,17 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "人们逐渐离开临时的庇护所，回家了。"
+                "text": "People were gradually leaving the temporary shelter to head home."
             }
         ],
         "atts": []
     },
     "64": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "回家吧。"
+                "text": "Time to go home."
             }
         ],
         "atts": []

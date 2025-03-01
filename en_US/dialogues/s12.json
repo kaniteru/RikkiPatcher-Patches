@@ -4,7 +4,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "天色渐暗，街景依旧寂寥，空气中弥漫着冰冷的湿气，加上今天的种种不顺，都让人渴望赶紧回到自己的栖身之所。"
+                "text": "The sky was darkening, the streets still desolate. The cold, damp air, combined with the events of the day, made one long to return to their safe haven."
             }
         ],
         "atts": []
@@ -14,7 +14,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "而对于立希而言，这样的场所便是她那窗帘紧闭的昏暗房间里由桌椅以及一块液晶屏组成的方寸之地。"
+                "text": "For Taki, that safe haven was her dimly lit room with tightly drawn curtains, furnished with a desk, a chair, and a small LCD screen."
             }
         ],
         "atts": []
@@ -24,7 +24,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "便利店坐落在一条贯通东西的笔直道路上。无论向东还是往西，都能抵达立希所租住的房子。不过两条路的路程、景致与周边的设施都相差很多。"
+                "text": "The convenience store was located on a straight road running eastward and westward. Both directions led to Taki's rented home, but the scenery, distance, and surrounding facilities varied greatly between the two routes."
             }
         ],
         "atts": []
@@ -34,15 +34,15 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "向东的话，途径的是一条喧闹的"
+                "text": "Heading east, the path went through a bustling "
             },
             {
                 "html": "style='color:#f50c59'",
-                "text": "居民商业街"
+                "text": "residential shopping street"
             },
             {
                 "html": "style='color:#FfFffF'",
-                "text": "，因为地形的原因，路程要比往西稍长一些。"
+                "text": ", where the terrain made the journey slightly longer than the western route."
             }
         ],
         "atts": []
@@ -52,7 +52,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "街道内商铺很多，但自从搬到新家后，立希就忙得没有闲心逛街。每次只是在晚归的时候出于安全考虑匆匆穿过，所以也不太清楚具体都有些什么店铺。"
+                "text": "The street had many shops, but since moving to her new home, Taki had been too busy to enjoy any leisurely strolls. Each time she passed was only in haste after work, prioritizing safety, so she wasn't familiar with most of the stores there."
             }
         ],
         "atts": []
@@ -62,25 +62,25 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "向西的话，路程相对较短，但需途径一片工地和一座快要荒废的"
+                "text": "Heading west, the journey was shorter, but it involved passing by a construction site and an almost-abandoned "
             },
             {
                 "html": "style='color:#3aeb7a'",
-                "text": "小公园"
+                "text": "small park"
             },
             {
                 "html": "style='color:#FfFffF'",
-                "text": "，一到晚上便人迹罕至，对于独自走夜路的人来说并不是什么好选择。"
+                "text": ", which became eerily deserted at night. It wasn’t a good option for someone walking alone at night."
             }
         ],
         "atts": []
     },
     "6": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "（平时的话都会走人多的商业街，但今天已经很累了……要走哪边呢？）"
+                "text": "(Normally, I’d take the shopping street with lots of people, but I’m exhausted today… Which path should I take?)"
             }
         ],
         "atts": []
@@ -90,27 +90,27 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "脑海中仿佛还回荡着那只诡异黑猫的叫声，立希内心的忧惧逐渐加深。"
+                "text": "The strange cry of that eerie black cat echoed in her mind, and Taki felt her uneasiness deepening."
             }
         ],
         "atts": []
     },
     "8": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "（还是走商业街吧，远点就远点，至少安全……）"
+                "text": "(I’ll take the shopping street. It’s farther, but at least it’s safer…)"
             }
         ],
         "atts": []
     },
     "9": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "（实在累得很，走一次近路吧，快些冲过去就什么事情也没有……）"
+                "text": "(No… I’m so tired today. Let’s take the shorter route just this once. I’ll rush through it, and nothing will happen…)"
             }
         ],
         "atts": []

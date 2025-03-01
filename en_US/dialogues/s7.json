@@ -4,7 +4,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "像是一个长达一生的、漫长的梦。"
+                "text": "It felt like a long, lifelong dream."
             }
         ],
         "atts": []
@@ -14,7 +14,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "自己的人生被以一种超脱于客观视角之外的视角，从熟知的过去，到还未知的未来，循环往复地流动。"
+                "text": "Her life flowed in an endless cycle, from the familiar past to the unknown future, from a perspective beyond objectivity."
             }
         ],
         "atts": []
@@ -24,23 +24,23 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "但立希记不住其中的任何事情，所有事情都很熟悉，却又极其陌生。"
+                "text": "But Taki couldn't remember any of it. Everything felt familiar, yet extremely foreign."
             }
         ],
         "atts": []
     },
     "3": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "唔……嗯……"
+                "text": "Hmm, hmm…"
             }
         ],
         "atts": []
     },
     "4": {
-        "speaker": "？？？",
+        "speaker": "???",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -54,7 +54,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "浑身充斥着儿时高烧般的疼痛，记忆的激流在眼前涌过，汇入一片无水的死海。"
+                "text": "Her entire body was filled with a pain similar to the fever she had as a child. Torrents of memories surged before her eyes, pouring into a lifeless sea."
             }
         ],
         "atts": []
@@ -64,7 +64,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "远处的地平线上，一艘轮船吐着飘渺的烟。"
+                "text": "On the distant horizon, a ship exhaled a thin plume of smoke."
             }
         ],
         "atts": []
@@ -74,17 +74,17 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "而她在风浪里独自漂泊。"
+                "text": "And she drifted alone in the waves."
             }
         ],
         "atts": []
     },
     "8": {
-        "speaker": "？？？",
+        "speaker": "???",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "……时间…………"
+                "text": "…Time………"
             }
         ],
         "atts": []
@@ -94,7 +94,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "漂啊漂，像是一点点在向地平线靠近。忽然有什么东西在眼角闪过——"
+                "text": "Drifting and drifting, it seemed like she was inching closer to the horizon. Suddenly, something flickered at the corner of her eye—"
             }
         ],
         "atts": []
@@ -104,7 +104,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "是小时候曾想抓住的某个转瞬即逝的场景。"
+                "text": "It was a fleeting scene she had tried to grasp in her childhood."
             }
         ],
         "atts": []
@@ -114,17 +114,17 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "她急忙回过头，但它已经消失了。取而代之的，是一只黑色的猫。"
+                "text": "She quickly turned her head, but it was already gone. In its place was a black cat."
             }
         ],
         "atts": []
     },
     "12": {
-        "speaker": "？？？",
+        "speaker": "???",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "……时间…………"
+                "text": "…Time………"
             }
         ],
         "atts": []
@@ -134,7 +134,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "它的嘴唇在动，却听不见声音。"
+                "text": "Its lips were moving, but she couldn’t hear a sound."
             }
         ],
         "atts": []
@@ -144,17 +144,17 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "立希终于知道它在说什么了。"
+                "text": "Taki finally understood what it was saying."
             }
         ],
         "atts": []
     },
     "15": {
-        "speaker": "？？？",
+        "speaker": "???",
         "spans": [
             {
                 "html": "style='color:#ff0000'",
-                "text": "——时间，已经不多了。"
+                "text": "—Time is running out."
             }
         ],
         "atts": []
@@ -164,7 +164,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "疼痛已然消失，而它正在逝去。"
+                "text": "The pain had disappeared, but it, too, was fading away."
             }
         ],
         "atts": []

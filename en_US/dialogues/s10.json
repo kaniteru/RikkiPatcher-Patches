@@ -4,47 +4,47 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "立希走到坡道尽头的中央，这里坐落着一家她常常光顾的便利店。泛蓝的霓虹灯招牌散发出如家般熟悉的光亮，在昏暗无人的暮色下显得尤为亲切。"
+                "text": "Taki walked to the center of the slope's end, where a convenience store she often visited was located. The bluish neon sign emitted a warm, familiar glow, making it feel especially welcoming in the dim, deserted twilight."
             }
         ],
         "atts": []
     },
     "1": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "(说起来，之前买的啤酒早就喝完了，营养果冻也快没了，要不要趁现在去补充下库存呢？)"
+                "text": "(Now that I think about it, the beer I bought earlier is already gone, and I’m running out of those nutritional jelly packs too. Should I restock while I’m here?)"
             }
         ],
         "atts": []
     },
     "2": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "（诸事不顺，买点酒回去解解乏吧。）"
+                "text": "(Nothing’s going right anyway, might as well grab some booze to relax.)"
             }
         ],
         "atts": []
     },
     "3": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "（还是算了……今天实在不是购物的心情。）"
+                "text": "(Actually, forget it… I’m really not in the mood for shopping today.)"
             }
         ],
         "atts": []
     },
     "4": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "（下次再来吧。）"
+                "text": "(I’ll come back another time.)"
             }
         ],
         "atts": []
