@@ -5,8 +5,11 @@
 
 ---
 
-## Finished
+## Working
+- en_US
+
+## Finish
 - ko_KR
 
-## TODO
-- en_US
+## Todo
+- ja_JP
