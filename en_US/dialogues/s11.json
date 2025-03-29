@@ -1,6 +1,6 @@
 {
     "0": {
-        "speaker": "Store Clerk",
+        "speaker": "店员",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -10,81 +10,81 @@
         "atts": []
     },
     "1": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Huh? Isn’t today a weekday? Why are you on duty?"
+                "text": "Huh? Isn't it a weekday today? Why are you on duty?"
             }
         ],
         "atts": []
     },
     "2": {
-        "speaker": "Store Clerk",
+        "speaker": "店员",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "The senior got sick and took the day off, so I had to step in."
+                "text": "My senior is sick and took a day off today, so I had to fill in."
             }
         ],
         "atts": []
     },
     "3": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "I see. That’s been happening a lot recently... Is it serious?"
+                "text": "I see, there's a lot of that going around lately... Is it serious?"
             }
         ],
         "atts": []
     },
     "4": {
-        "speaker": "Store Clerk",
+        "speaker": "店员",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "From her voice, she sounds fine. It’s flu season, you know. A lot of people are catching it. You should take care too, Miss Shiina."
+                "text": "Her voice sounded pretty energetic, so she should be okay. It's flu season, so a lot of people are getting it. Miss Shiina, please be careful too."
             }
         ],
         "atts": []
     },
     "5": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Mm, thank you. Can I have a basket?"
+                "text": "Yeah, thanks. Give me a basket, please."
             }
         ],
         "atts": []
     },
     "6": {
-        "speaker": "Store Clerk",
+        "speaker": "店员",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Hoho~ Stocking up again today? Alright, ten cans of Asahi Dry plus three sets of nutrition jelly packs!"
+                "text": "Ho ho~ Another shopping day? Okay, ten cans of dry Asahi and three packs of nutritional jelly!"
             }
         ],
         "atts": []
     },
     "7": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Who would buy that much at once."
+                "text": "I wouldn't buy that much at once."
             }
         ],
         "atts": []
     },
     "8": {
-        "speaker": "Store Clerk",
+        "speaker": "店员",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Just kidding. Take your time shopping~"
+                "text": "Just kidding, take your time~"
             }
         ],
         "atts": []
@@ -94,123 +94,123 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "She leaned her elbows on the counter and started watching the TV hanging above."
+                "text": "She said, propping her elbows on the checkout counter and watching the hanging TV above."
             }
         ],
         "atts": []
     },
     "10": {
-        "speaker": "TV",
+        "speaker": "电视机",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "“...Recently, there was a violent incident in the XX district, leaving the victim with minor injuries. The police have increased patrols, and residents are urged to exercise caution when traveling at night...”"
+                "text": "\"...Recently, a violent incident occurred in the XX district, resulting in minor injuries to the victim. The police have increased patrols, and residents are advised to be cautious when traveling at night...\""
             }
         ],
         "atts": []
     },
     "11": {
-        "speaker": "Store Clerk",
+        "speaker": "店员",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Wow, things have been rough lately. Wait, isn’t that street near here..."
+                "text": "Wow, things have been really uneasy lately. Speaking of which, isn't that street near here...?"
             }
         ],
         "atts": []
     },
     "12": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Just these, please ring me up."
+                "text": "That's all, please check me out."
             }
         ],
         "atts": []
     },
     "13": {
-        "speaker": "Store Clerk",
+        "speaker": "店员",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Got it. Huh? You’re not getting candy cigarettes today? That’s unusual."
+                "text": "Alright. Oh? You're not getting any cigarette candies today? That's rare."
             }
         ],
         "atts": []
     },
     "14": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Feels like I’ve been eating too much lately. I need to cut back."
+                "text": "I feel like I've been eating a bit too much lately, so I need to restrain myself."
             }
         ],
         "atts": []
     },
     "15": {
-        "speaker": "Store Clerk",
+        "speaker": "店员",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "You talk like they’re really addictive or something."
+                "text": "You say that as if you're really addicted."
             }
         ],
         "atts": []
     },
     "16": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Some people can get addicted to sugar, just like some cats get addicted to matcha."
+                "text": "Some people can be addicted to sugar, just like some cats are addicted to matcha."
             }
         ],
         "atts": []
     },
     "17": {
-        "speaker": "Store Clerk",
+        "speaker": "店员",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Pfft, what kind of comparison is that? Besides, cats can’t even eat matcha!"
+                "text": "Pfft, what a weird analogy. By the way, cats can't eat matcha!"
             }
         ],
         "atts": []
     },
     "18": {
-        "speaker": "Store Clerk",
+        "speaker": "店员",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "And honestly, shouldn’t alcohol be what you cut back on instead of candy cigarettes?"
+                "text": "And isn't alcohol more deserving of restraint than cigarette candies?"
             }
         ],
         "atts": []
     },
     "19": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Alcohol doesn’t wake me up; it dampens my focus. I never drink when I have work."
+                "text": "Alcohol doesn't perk you up, and it affects your focus. I don't drink when I have to work."
             }
         ],
         "atts": []
     },
     "20": {
-        "speaker": "Store Clerk",
+        "speaker": "店员",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Wow, the mythical disciplined maniac appears!! Still, Miss Shiina, you’re quite... in other aspects..."
+                "text": "Wow, a wild self-disciplined person has appeared!! Hmm, but Miss Shiina is actually kind of..."
             }
         ],
         "atts": []
     },
     "21": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -220,47 +220,47 @@
         "atts": []
     },
     "22": {
-        "speaker": "Store Clerk",
+        "speaker": "店员",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Well, your dark circles are so obvious. It’s like you haven’t been sleeping and spend all night up, right?"
+                "text": "Why are your dark circles so heavy? It looks like you don't get enough sleep and always stay up late."
             }
         ],
         "atts": []
     },
     "23": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Eh?! Are they that noticeable?"
+                "text": "Oh, is it that obvious?"
             }
         ],
         "atts": []
     },
     "24": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "(I thought my concealer was doing its job.)"
+                "text": "(I put on concealer every day though)"
             }
         ],
         "atts": []
     },
     "25": {
-        "speaker": "Store Clerk",
+        "speaker": "店员",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "They couldn’t be more obvious! Alright, let’s not waste your time. Hurry up and get home to rest!"
+                "text": "It's as obvious as it can be! Okay, I won't take up any more of your time, hurry up and buy your stuff and go home to get some rest!"
             }
         ],
         "atts": []
     },
     "26": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -270,117 +270,117 @@
         "atts": []
     },
     "27": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "...Actually, I’ll take one more pack of candy cigarettes."
+                "text": "...I'll take one more pack of cigarette candies."
             }
         ],
         "atts": []
     },
     "28": {
-        "speaker": "Store Clerk",
+        "speaker": "店员",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Got it~ But honestly, I’ve always wondered why you’re so into candy cigarettes, Miss Shiina."
+                "text": "Okay~ But speaking of which, I've always wanted to know why Miss Shiina is so obsessed with cigarette candies."
             }
         ],
         "atts": []
     },
     "29": {
-        "speaker": "Store Clerk",
+        "speaker": "店员",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "I’ve tried them before, and they just taste like artificial flavors and sugar. Not that good."
+                "text": "I tried one once, and it was full of artificial flavoring and white sugar, not tasty at all."
             }
         ],
         "atts": []
     },
     "30": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Yeah, the taste isn’t great... but the look and feel resemble... those things..."
+                "text": "The taste is really bad... but after all, the shape and feeling are very similar... so..."
             }
         ],
         "atts": []
     },
     "31": {
-        "speaker": "Store Clerk",
+        "speaker": "店员",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "If that’s the case, why not try the real thing?"
+                "text": "If you really need it, why don't you just try smoking for real?"
             }
         ],
         "atts": []
     },
     "32": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Er… I actually did in university but eventually quit."
+                "text": "Uh... I actually smoked in college, but I quit later."
             }
         ],
         "atts": []
     },
     "33": {
-        "speaker": "Yoruna Yae",
+        "speaker": "要乐奈",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Rikki, you smell gross."
+                "text": "Rikki, that stinks."
             }
         ],
         "atts": []
     },
     "34": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Urgh!"
+                "text": "Ugh!"
             }
         ],
         "atts": []
     },
     "35": {
-        "speaker": "Chihaya Aine",
+        "speaker": "千早爱音",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Rikki, you were out sneaking smokes again? So bad!"
+                "text": "Rikki, were you secretly smoking again? You delin~quent~"
             }
         ],
         "atts": []
     },
     "36": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "What?"
+                "text": "Huh?"
             }
         ],
         "atts": []
     },
     "37": {
-        "speaker": "Nagasaki Sumiyo",
+        "speaker": "长崎素世",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Hehe, then as we agreed earlier, Akari, don’t go home with Taki today."
+                "text": "Hehe, then as we agreed before, Tomori, you're not going home with little Rikki today."
             }
         ],
         "atts": []
     },
     "38": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -390,37 +390,37 @@
         "atts": []
     },
     "39": {
-        "speaker": "Takamatsu Akari",
+        "speaker": "高松灯",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "...Sorry, I just want Taki to stay healthy..."
+                "text": "...Um... sorry, I still want little Rikki to be healthy after all..."
             }
         ],
         "atts": []
     },
     "40": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Ugh... Akari, sorry..."
+                "text": "Waa... Tomori, I'm sorry..."
             }
         ],
         "atts": []
     },
     "41": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Alright, alright… I’ll quit."
+                "text": "Yeah, qu, quit it."
             }
         ],
         "atts": []
     },
     "42": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -430,71 +430,71 @@
         "atts": []
     },
     "43": {
-        "speaker": "Store Clerk",
+        "speaker": "店员",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Quitting would be great! You should cherish people who force you to quit smoking."
+                "text": "It's a good thing if you can quit, but cherish the people who force you to quit smoking."
             }
         ],
         "atts": []
     },
     "44": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "...Mm."
+                "text": "...Yeah."
             }
         ],
         "atts": []
     },
     "45": {
-        "speaker": "Store Clerk",
+        "speaker": "店员",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Here’s your change. Thank you for your patronage~"
+                "text": "Okay, here's your change, thank you for your patronage~"
             }
         ],
         "atts": []
     },
     "46": {
-        "speaker": "Store Clerk",
+        "speaker": "店员",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Oh, this is free for regulars. Don’t eat nutrition jelly all day—you’ll break down!"
+                "text": "Oh, and this is free, a perk for our regular customers. Don't just eat nutritional jelly every day, your body will break down!"
             }
         ],
         "atts": []
     },
     "47": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "...An oden and miso fried rice bento? What kind of welfare deal is this—just clearing out unsellable stuff!"
+                "text": "............ Oden miso fried rice bento, what kind of perk is this? You're just trying to get rid of stuff that's too weird and doesn't sell, aren't you!"
             }
         ],
         "atts": []
     },
     "48": {
-        "speaker": "Store Clerk",
+        "speaker": "店员",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Oh, but it’s tasty! It’s the last one, and it’ll be gone forever. It’s fate you came today—take it, take it~"
+                "text": "Oh no, this is delicious. This is the last one, and it'll be discontinued from now on! It's fate that you came today, take it, take it~"
             }
         ],
         "atts": []
     },
     "49": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Fine, fine... Thanks a lot."
+                "text": "...Okay, okay, thanks anyway."
             }
         ],
         "atts": []
@@ -504,7 +504,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "The automatic door opened in front of her. The cold night wind blew in, and the sharp drop in temperature made Taki shiver as if receiving an electric shock."
+                "text": "The automatic door opened in front of her, and the cold night wind poured into the store, causing Taki to tremble violently as if electrocuted by the strong temperature difference."
             }
         ],
         "atts": []
@@ -514,7 +514,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "For some reason, she felt an ominous cold rise from her feet. She glanced at the clerk through the corner of her eye, but they seemed unaware of her unease."
+                "text": "For some reason, she felt an ominous chill rising from the soles of her feet. She glanced at the clerk out of the corner of her eye, but the other person didn't seem to notice her abnormality."
             }
         ],
         "atts": []
@@ -524,7 +524,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Taki quickly left."
+                "text": "Taki quickly went out."
             }
         ],
         "atts": []

@@ -4,47 +4,47 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Taki walked to the center of the slope's end, where a convenience store she often visited was located. The bluish neon sign emitted a warm, familiar glow, making it feel especially welcoming in the dim, deserted twilight."
+                "text": "Taki walked to the center of the slope's end, where a convenience store she often frequented was located. The bluish neon sign emitted a familiar, home-like glow, which seemed particularly welcoming in the dim, deserted twilight."
             }
         ],
         "atts": []
     },
     "1": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "(Now that I think about it, the beer I bought earlier is already gone, and I’m running out of those nutritional jelly packs too. Should I restock while I’m here?)"
+                "text": "(Speaking of which, the beer I bought before is long gone, and I'm almost out of nutritional jelly, should I take this opportunity to replenish my stock?)"
             }
         ],
         "atts": []
     },
     "2": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "(Nothing’s going right anyway, might as well grab some booze to relax.)"
+                "text": "(Things haven't been going well, I should buy some alcohol to relieve the fatigue.)"
             }
         ],
         "atts": []
     },
     "3": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "(Actually, forget it… I’m really not in the mood for shopping today.)"
+                "text": "(No, never mind... I'm really not in the mood for shopping today.)"
             }
         ],
         "atts": []
     },
     "4": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "(I’ll come back another time.)"
+                "text": "(I'll come again next time.)"
             }
         ],
         "atts": []

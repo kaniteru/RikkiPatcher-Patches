@@ -4,7 +4,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "It felt like a long, lifelong dream."
+                "text": "It was like a lifelong, long dream."
             }
         ],
         "atts": []
@@ -14,7 +14,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Her life flowed in an endless cycle, from the familiar past to the unknown future, from a perspective beyond objectivity."
+                "text": "Her own life was flowing in a loop from a perspective beyond the objective viewpoint, from the familiar past to the unknown future."
             }
         ],
         "atts": []
@@ -24,23 +24,23 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "But Taki couldn't remember any of it. Everything felt familiar, yet extremely foreign."
+                "text": "But Taki couldn't remember any of it. Everything was familiar, yet extremely strange."
             }
         ],
         "atts": []
     },
     "3": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Hmm, hmm…"
+                "text": "Ugh… um…"
             }
         ],
         "atts": []
     },
     "4": {
-        "speaker": "???",
+        "speaker": "？？？",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -54,7 +54,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Her entire body was filled with a pain similar to the fever she had as a child. Torrents of memories surged before her eyes, pouring into a lifeless sea."
+                "text": "Her whole body was filled with the pain of a childhood fever. The torrent of memories surged before her eyes, flowing into a waterless Dead Sea."
             }
         ],
         "atts": []
@@ -64,7 +64,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "On the distant horizon, a ship exhaled a thin plume of smoke."
+                "text": "On the distant horizon, a ship was spewing out wisps of smoke."
             }
         ],
         "atts": []
@@ -74,17 +74,17 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "And she drifted alone in the waves."
+                "text": "And she was drifting alone in the waves."
             }
         ],
         "atts": []
     },
     "8": {
-        "speaker": "???",
+        "speaker": "？？？",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "…Time………"
+                "text": "...Time..."
             }
         ],
         "atts": []
@@ -94,7 +94,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Drifting and drifting, it seemed like she was inching closer to the horizon. Suddenly, something flickered at the corner of her eye—"
+                "text": "Drifting and drifting, as if slowly approaching the horizon. Suddenly something flashed in the corner of her eye—"
             }
         ],
         "atts": []
@@ -104,7 +104,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "It was a fleeting scene she had tried to grasp in her childhood."
+                "text": "It was a fleeting scene that she had once tried to grasp as a child."
             }
         ],
         "atts": []
@@ -114,17 +114,17 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "She quickly turned her head, but it was already gone. In its place was a black cat."
+                "text": "She hurriedly turned her head, but it had already disappeared. In its place was a black cat."
             }
         ],
         "atts": []
     },
     "12": {
-        "speaker": "???",
+        "speaker": "？？？",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "…Time………"
+                "text": "...Time..."
             }
         ],
         "atts": []
@@ -134,7 +134,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Its lips were moving, but she couldn’t hear a sound."
+                "text": "Its lips were moving, but no sound could be heard."
             }
         ],
         "atts": []
@@ -144,13 +144,13 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Taki finally understood what it was saying."
+                "text": "Taki finally knew what it was saying."
             }
         ],
         "atts": []
     },
     "15": {
-        "speaker": "???",
+        "speaker": "？？？",
         "spans": [
             {
                 "html": "style='color:#ff0000'",
@@ -164,7 +164,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "The pain had disappeared, but it, too, was fading away."
+                "text": "The pain had already disappeared, and it was fading away."
             }
         ],
         "atts": []

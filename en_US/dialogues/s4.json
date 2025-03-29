@@ -1,96 +1,96 @@
 {
     "0": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "No, it’s still not right. It’s still weird..."
+                "text": "No, it's still not right, it's still weird..."
             }
         ],
         "atts": []
     },
     "1": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Anon, you messed up the riff in the interlude!"
+                "text": "Anon, you played the riff in the interlude wrong!"
             }
         ],
         "atts": []
     },
     "2": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "And Soyo, you dragged the intro and rushed the outro. You didn’t even get familiar with the sheet music. I sent it to you in advance, didn’t I?"
+                "text": "And Soyo, you're dragging in the intro and rushing in the outro. You clearly haven't familiarized yourself with the score. Didn't I send it to you in advance?"
             }
         ],
         "atts": []
     },
     "3": {
-        "speaker": "Anon Chihaya",
+        "speaker": "千早爱音",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "I looked at it... but..."
+                "text": "I did look at it... but..."
             }
         ],
         "atts": []
     },
     "4": {
-        "speaker": "Soyo Nagasaki",
+        "speaker": "长崎素世",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Two days in advance, sent during weekdays, and practice on the weekend. That’s not exactly a lot of time."
+                "text": "Sending the score two days in advance on a weekday and practicing on the weekend, the time isn't very sufficient."
             }
         ],
         "atts": []
     },
     "5": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "I’ve already adjusted the difficulty. It should be pretty easy to pick up."
+                "text": "I've adjusted the performance difficulty. It should be quite simple and easy to pick up now."
             }
         ],
         "atts": []
     },
     "6": {
-        "speaker": "Anon Chihaya",
+        "speaker": "千早爱音",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Um... Taki, you didn’t need to adjust it so many times. You could’ve sent it to us earlier once it was done..."
+                "text": "Um... Rikki, actually, you don't have to adjust it so many times. You can send it to us to look at after you're done..."
             }
         ],
         "atts": []
     },
     "7": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "What’s the point of sending out a half-finished version? The version I gave you is the easiest one to practice with."
+                "text": "There's no point in sending out that kind of half-finished product, right? The version I'm giving you now is the easiest to pick up."
             }
         ],
         "atts": []
     },
     "8": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "If you don’t even have time to practice this properly, what’s the use of sending it earlier?"
+                "text": "If you don't even have time to practice this properly, what's the point of sending it out in advance?"
             }
         ],
         "atts": []
     },
     "9": {
-        "speaker": "Soyo Nagasaki",
+        "speaker": "长崎素世",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -100,17 +100,17 @@
         "atts": []
     },
     "10": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "What? If you have something to say, just say it."
+                "text": "What? If you have any opinions, just say them."
             }
         ],
         "atts": []
     },
     "11": {
-        "speaker": "Tomori Takamatsu",
+        "speaker": "高松灯",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -120,131 +120,131 @@
         "atts": []
     },
     "12": {
-        "speaker": "Anon Chihaya",
+        "speaker": "千早爱音",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Ahahaha!! Of course, there’s no issue, right, Soyorin? This is the first time we’re practicing the new song anyway. There’ll be plenty of chances later..."
+                "text": "Ahahaha!! Of course, I don't have any opinions, right Soyorin? Anyway, this is just the first rehearsal for the new song, so there will be plenty of opportunities later..."
             }
         ],
         "atts": []
     },
     "13": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Later? When exactly is 'later'?"
+                "text": "Later? Then when do you say that later will be?"
             }
         ],
         "atts": []
     },
     "14": {
-        "speaker": "Anon Chihaya",
+        "speaker": "千早爱音",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Uh... Time is like a sponge. If you squeeze it, you’ll find some... I-I’m free next week! What about you, Tomorin?"
+                "text": "Uh... time is like a sponge, you can always squeeze some out... I, I'm free next week! What about Tomorin?"
             }
         ],
         "atts": []
     },
     "15": {
-        "speaker": "Tomori Takamatsu",
+        "speaker": "高松灯",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "I... have a few offline book clubs to attend next week. Sorry... Anon, and Taki."
+                "text": "I... I need to attend a few offline book clubs next week, sorry... Anon, and Taki."
             }
         ],
         "atts": []
     },
     "16": {
-        "speaker": "Anon Chihaya",
+        "speaker": "千早爱音",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "It’s fine, really! Everyone has their own stuff to do... So, what about the week after next?"
+                "text": "It's okay, it's okay! Everyone has their own things to do... Then, what about the week after next?"
             }
         ],
         "atts": []
     },
     "17": {
-        "speaker": "Soyo Nagasaki",
+        "speaker": "长崎素世",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Sorry, I’ll be on a business trip to Hokkaido for those two weeks."
+                "text": "Sorry, I'll be on a business trip in Hokkaido for those two weeks."
             }
         ],
         "atts": []
     },
     "18": {
-        "speaker": "Anon Chihaya",
+        "speaker": "千早爱音",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Perfectly fine, perfectly fine. How about the week after that? Let me check the calendar. Oh, it’s a holiday. That works perfectly..."
+                "text": "That's normal, that's normal, then the week after that should be fine! Let me check the calendar. Oh, it's a holiday, isn't that perfect..."
             }
         ],
         "atts": []
     },
     "19": {
-        "speaker": "Anon Chihaya",
+        "speaker": "千早爱音",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Oh no! I forgot that was the day of the 24-hour live-stream challenge set by our sponsor... Haha."
+                "text": "Oops! I forgot that the client scheduled a 24-hour live stream challenge for me that day... haha."
             }
         ],
         "atts": []
     },
     "20": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "..."
+                "text": "……"
             }
         ],
         "atts": []
     },
     "21": {
-        "speaker": "Soyo Nagasaki",
+        "speaker": "长崎素世",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Since we can’t align our schedules, and there’s no upcoming live planned, why don’t we just practice individually in our own time?"
+                "text": "Since we can't match our schedules, and there aren't any live performances planned recently, everyone should just find time to practice on their own, right?"
             }
         ],
         "atts": []
     },
     "22": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "If we can’t even rehearse properly, how can we plan a live? How can we perform with our current level? What will we even show our fans?"
+                "text": "What's the point of planning a live if we can't even rehearse properly? How can we go on stage with this level of skill? What will the fans think?"
             }
         ],
         "atts": []
     },
     "23": {
-        "speaker": "Anon Chihaya",
+        "speaker": "千早爱音",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Maybe if we set a live date first, it’ll give us something to work toward..."
+                "text": "Maybe if we set the time for the live performance first, everyone will have a goal to practice towards..."
             }
         ],
         "atts": []
     },
     "24": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Then tell me, when would you set the live date?"
+                "text": "Then when do you say we can schedule the live performance?"
             }
         ],
         "atts": []
@@ -264,7 +264,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "This was something nobody could give a definite answer to."
+                "text": "This was something no one could say for sure."
             }
         ],
         "atts": []
@@ -274,17 +274,17 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Nobody wanted to be the one to set a date and then go back on their promise, so nobody suggested anything."
+                "text": "No one wanted to be the one to make a promise and then break it, so no one made a suggestion."
             }
         ],
         "atts": []
     },
     "28": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "If you don’t know, then start practicing properly from now—"
+                "text": "If you don't know, then practice hard from now on—"
             }
         ],
         "atts": []
@@ -294,7 +294,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Suddenly, a wave of dizziness rushed to Taki’s head, stopping her sharp words mid-sentence."
+                "text": "Suddenly, a dizzy spell rushed to her head, stopping Taki's harsh words."
             }
         ],
         "atts": []
@@ -304,37 +304,37 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Accompanying it was a quickening heartbeat and uncontrollable muscle twitches."
+                "text": "Accompanying it was an accelerated heartbeat and uncontrollable muscle spasms."
             }
         ],
         "atts": []
     },
     "31": {
-        "speaker": "Tomori Takamatsu",
+        "speaker": "高松灯",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Taki... are you okay?"
+                "text": "Taki... what's wrong?"
             }
         ],
         "atts": []
     },
     "32": {
-        "speaker": "Anon Chihaya",
+        "speaker": "千早爱音",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Rikki, you look pale... I’ll practice properly, don’t be mad..."
+                "text": "Rikki, you look terrible... I'll practice properly, so don't be angry..."
             }
         ],
         "atts": []
     },
     "33": {
-        "speaker": "Soyo Nagasaki",
+        "speaker": "长崎素世",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "You didn’t stay up all night again, did you?"
+                "text": "You haven't been staying up all night again, have you?"
             }
         ],
         "atts": []
@@ -344,37 +344,37 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Realizing she was losing her composure, Taki quickly corrected herself."
+                "text": "Realizing that she had lost her composure, Taki quickly regained her senses."
             }
         ],
         "atts": []
     },
     "35": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Ah... Yeah, sorry. I spaced out for a moment. It’s nothing."
+                "text": "Ah... um, sorry, I spaced out for a moment, it's nothing."
             }
         ],
         "atts": []
     },
     "36": {
-        "speaker": "Soyo Nagasaki",
+        "speaker": "长崎素世",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Why don’t we call it a day? Raana disappeared at some point, and without that part, it feels off."
+                "text": "Why don't we call it a day today? Raana seems to have wandered off at some point, and it feels a bit off to be missing a part."
             }
         ],
         "atts": []
     },
     "37": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Huh? Who said you could just decide—"
+                "text": "Huh? Who allowed you to unilaterally—"
             }
         ],
         "atts": []
@@ -384,7 +384,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "A sharp pain in her chest cut off Taki’s protest."
+                "text": "—Another stabbing pain in her heart forcibly interrupted Taki's protest."
             }
         ],
         "atts": []
@@ -394,17 +394,17 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Taki noticed Soyo’s concerned but annoyed look. It stirred up a strong sense of humiliation within her."
+                "text": "Taki noticed that Soyo looked at her with concern tinged with anger, and this attitude made Taki feel even more humiliated."
             }
         ],
         "atts": []
     },
     "40": {
-        "speaker": "Soyo Nagasaki",
+        "speaker": "长崎素世",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "It’s great if we can coordinate our schedules, but if not, we can take it slow. After all..."
+                "text": "It's best if everyone's schedules can align, but if they can't, we can take our time, after all..."
             }
         ],
         "atts": []
@@ -414,7 +414,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "—After all, we’re just an amateur band."
+                "text": "—After all, we're just an amateur band."
             }
         ],
         "atts": []
@@ -424,53 +424,53 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Although she didn’t say it out loud, Taki felt like she understood the implication."
+                "text": "Although she didn't say it, Taki felt that she understood what she meant."
             }
         ],
         "atts": []
     },
     "43": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "And then we’ll just keep dragging things for months after the last rehearsal? By that logic, we could practice once a year and perform once every two years. After all, it’s not like we have any clear goals."
+                "text": "And then the last rehearsal was dragged on for several months? At this rate, wouldn't it be okay to practice once a year and perform live once every two years? Anyway, there's no clear goal at all."
             }
         ],
         "atts": []
     },
     "44": {
-        "speaker": "Soyo Nagasaki",
+        "speaker": "长崎素世",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "I don’t want to argue with you."
+                "text": "I don't want to argue with you."
             }
         ],
         "atts": []
     },
     "45": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Who wants to argue? I’m just—"
+                "text": "Who wants to argue? I just—"
             }
         ],
         "atts": []
     },
     "46": {
-        "speaker": "Soyo Nagasaki",
+        "speaker": "长崎素世",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "There’s more than one way to keep the band going, and it doesn’t have to come at the cost of you being like this."
+                "text": "Maintaining the band doesn't have to come at the cost of your well-being, right?"
             }
         ],
         "atts": []
     },
     "47": {
-        "speaker": "Tomori Takamatsu",
+        "speaker": "高松灯",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -480,47 +480,47 @@
         "atts": []
     },
     "48": {
-        "speaker": "Tomori Takamatsu",
+        "speaker": "高松灯",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Taki, I don’t want to maintain MyGO by sacrificing you either."
+                "text": "Taki, I don't want to maintain MyGO's activities by sacrificing you either."
             }
         ],
         "atts": []
     },
     "49": {
-        "speaker": "Tomori Takamatsu",
+        "speaker": "高松灯",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Rehearsals and gigs are great."
+                "text": "It's good to have rehearsals and live performances, of course."
             }
         ],
         "atts": []
     },
     "50": {
-        "speaker": "Tomori Takamatsu",
+        "speaker": "高松灯",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "But if we can’t align our schedules for now, holding it in our hearts won’t affect our bond."
+                "text": "But if our schedules can't align for the time being, temporarily keeping it in our hearts won't affect the bond between us."
             }
         ],
         "atts": []
     },
     "51": {
-        "speaker": "Tomori Takamatsu",
+        "speaker": "高松灯",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "After all... we’ve come so far together over the years."
+                "text": "After all... after all, we've been through so many years together."
             }
         ],
         "atts": []
     },
     "52": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -530,7 +530,7 @@
         "atts": []
     },
     "53": {
-        "speaker": "Tomori Takamatsu",
+        "speaker": "高松灯",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -540,57 +540,57 @@
         "atts": []
     },
     "54": {
-        "speaker": "Anon Chihaya",
+        "speaker": "千早爱音",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Right, right! Just getting together with everyone is so much fun already!"
+                "text": "Ye-yeah, that's right! Just being able to get together with everyone once in a while is already so much fun!"
             }
         ],
         "atts": []
     },
     "55": {
-        "speaker": "Anon Chihaya",
+        "speaker": "千早爱音",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Oh, speaking of which, there’s a new sukiyaki place nearby. Want to try it out later?"
+                "text": "Ahhh, speaking of which, a new sukiyaki restaurant opened nearby, does everyone want to go with me to try it out later~~"
             }
         ],
         "atts": []
     },
     "56": {
-        "speaker": "Soyo Nagasaki",
+        "speaker": "长崎素世",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "I have dinner plans tonight, so I’ll pass."
+                "text": "I have a dinner party tonight, so I'll have to pass."
             }
         ],
         "atts": []
     },
     "57": {
-        "speaker": "Tomori Takamatsu",
+        "speaker": "高松灯",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "My parents are coming over tonight..."
+                "text": "My parents are coming to my place tonight..."
             }
         ],
         "atts": []
     },
     "58": {
-        "speaker": "Anon Chihaya",
+        "speaker": "千早爱音",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "That’s fine, that’s fine. Let’s go next time when Raana is feeling more up to it!"
+                "text": "It's okay, it's okay, then Ri... uh, let's wait until Raana is feeling better and then everyone can go together next time!"
             }
         ],
         "atts": []
     },
     "59": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",

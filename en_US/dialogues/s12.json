@@ -4,7 +4,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "The sky was darkening, the streets still desolate. The cold, damp air, combined with the events of the day, made one long to return to their safe haven."
+                "text": "The sky gradually darkened, the street scene remained desolate, and the air was filled with a cold, damp mist. Coupled with all the day's misfortunes, it made one yearn to quickly return to their own abode."
             }
         ],
         "atts": []
@@ -14,7 +14,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "For Taki, that safe haven was her dimly lit room with tightly drawn curtains, furnished with a desk, a chair, and a small LCD screen."
+                "text": "And for Taki Shiina, that place was the small space consisting of a desk, chair, and LCD screen in her dimly lit room with the curtains tightly closed."
             }
         ],
         "atts": []
@@ -24,7 +24,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "The convenience store was located on a straight road running eastward and westward. Both directions led to Taki's rented home, but the scenery, distance, and surrounding facilities varied greatly between the two routes."
+                "text": "The convenience store was located on a straight road running east-west. Whether going east or west, one could reach the house Taki rented. However, the distance, scenery, and surrounding facilities of the two roads differed greatly."
             }
         ],
         "atts": []
@@ -34,7 +34,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Heading east, the path went through a bustling "
+                "text": "To the east, the route passes through a bustling"
             },
             {
                 "html": "style='color:#f50c59'",
@@ -42,7 +42,7 @@
             },
             {
                 "html": "style='color:#FfFffF'",
-                "text": ", where the terrain made the journey slightly longer than the western route."
+                "text": ", and because of the terrain, the journey is slightly longer than going west."
             }
         ],
         "atts": []
@@ -52,7 +52,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "The street had many shops, but since moving to her new home, Taki had been too busy to enjoy any leisurely strolls. Each time she passed was only in haste after work, prioritizing safety, so she wasn't familiar with most of the stores there."
+                "text": "There are many shops in the street, but since moving to the new house, Taki has been too busy to go shopping. Each time, she just hurries through for safety reasons when returning late at night, so she doesn't really know what specific shops there are."
             }
         ],
         "atts": []
@@ -62,7 +62,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Heading west, the journey was shorter, but it involved passing by a construction site and an almost-abandoned "
+                "text": "To the west, the journey is relatively short, but it requires passing through a construction site and a nearly abandoned"
             },
             {
                 "html": "style='color:#3aeb7a'",
@@ -70,17 +70,17 @@
             },
             {
                 "html": "style='color:#FfFffF'",
-                "text": ", which became eerily deserted at night. It wasn’t a good option for someone walking alone at night."
+                "text": ", which becomes deserted at night, not a good choice for someone walking alone at night."
             }
         ],
         "atts": []
     },
     "6": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "(Normally, I’d take the shopping street with lots of people, but I’m exhausted today… Which path should I take?)"
+                "text": "(Normally, I would take the crowded shopping street, but I'm so tired today... which way should I go?)"
             }
         ],
         "atts": []
@@ -90,27 +90,27 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "The strange cry of that eerie black cat echoed in her mind, and Taki felt her uneasiness deepening."
+                "text": "The sound of that strange black cat seemed to echo in her mind, and Taki's inner fears gradually deepened."
             }
         ],
         "atts": []
     },
     "8": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "(I’ll take the shopping street. It’s farther, but at least it’s safer…)"
+                "text": "(I'll take the shopping street, even if it's farther, at least it's safe...)"
             }
         ],
         "atts": []
     },
     "9": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "(No… I’m so tired today. Let’s take the shorter route just this once. I’ll rush through it, and nothing will happen…)"
+                "text": "(I'm really tired, I'll take a shortcut this once. If I rush through, nothing will happen...)"
             }
         ],
         "atts": []

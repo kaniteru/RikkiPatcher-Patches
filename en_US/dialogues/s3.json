@@ -1,6 +1,6 @@
 {
     "0": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -14,7 +14,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "As the last note fell, the drums were the first to break out of the ensemble. The other instruments gradually stopped as well."
+                "text": "With the landing of the last note, the drums were the first to withdraw from the ensemble. The other instruments also stopped sporadically."
             }
         ],
         "atts": []
@@ -24,93 +24,93 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Taki put down the drumsticks and let out a long sigh."
+                "text": "Taki put down her drumsticks and sighed deeply."
             }
         ],
         "atts": []
     },
     "3": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "(No matter how we try, it still sounds weird. The sheet music... I’ve already adjusted it. Why is it still...?)"
+                "text": "(No matter how we play together, it's still strange. The score... has already been adjusted, so why is it still like this...)"
             }
         ],
         "atts": []
     },
     "4": {
-        "speaker": "Anon Chihaya",
+        "speaker": "千早爱音",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "...Ugh, my hands are so sore."
+                "text": "...Whoa, my hands are so sore."
             }
         ],
         "atts": []
     },
     "5": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "How are your hands sore already? We’ve barely practiced!"
+                "text": "You're already saying your hands are sore after practicing for this little time?"
             }
         ],
         "atts": []
     },
     "6": {
-        "speaker": "Anon Chihaya",
+        "speaker": "千早爱音",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "This time, the guitar part feels really intense... You think so too, don’t you, Raana?"
+                "text": "I feel like the guitar parts are really intense this time... Raana feels that way too, right?"
             }
         ],
         "atts": []
     },
     "7": {
-        "speaker": "Anon Chihaya",
+        "speaker": "千早爱音",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Ah! Raana fell asleep standing up!"
+                "text": "Ah! Raana's standing up and sleeping!"
             }
         ],
         "atts": []
     },
     "8": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Huh? What’s going on? We’ve only been practicing for less than an hour!"
+                "text": "Huh? What's going on? We've only been practicing for less than an hour, right?"
             }
         ],
         "atts": []
     },
     "9": {
-        "speaker": "Tomori Takamatsu",
+        "speaker": "高松灯",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "...Maybe it’s because Raana has been busy with her thesis the past few days."
+                "text": "...Maybe it's because Raana has been busy with her thesis these past few days."
             }
         ],
         "atts": []
     },
     "10": {
-        "speaker": "Tomori Takamatsu",
+        "speaker": "高松灯",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Last night, she even asked me to help her proofread and edit it..."
+                "text": "Last night, she even asked me to help her proofread and revise it..."
             }
         ],
         "atts": []
     },
     "11": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -120,61 +120,81 @@
         "atts": []
     },
     "12": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Sorry, it’s my fault for suddenly pulling everyone into practice."
+                "text": "Sorry, it was my sudden decision to have everyone come and practice."
             }
         ],
         "atts": []
     },
     "13": {
-        "speaker": "Tomori Takamatsu",
+        "speaker": "高松灯",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Not at all... It’s been a while since we’ve all gathered together. We should be thanking you, Taki, for organizing it."
+                "text": "No, it's not a problem... It's been a long time since everyone has been together, so we should thank Taki for organizing it."
             }
         ],
         "atts": []
     },
     "14": {
-        "speaker": "Soyo Nagasaki",
+        "speaker": "长崎素世",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "So, what should we do? Take a break?"
+                "text": "So what should we do? Should we take a break?"
             }
         ],
         "atts": []
     },
     "15": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "No, if Raana wants to sleep, let her rest for a bit. We’ll keep practicing."
+                "text": "No, if Wildcat wants to sleep, let her sleep for a while. We'll continue."
             }
         ],
         "atts": []
     },
     "16": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Anon, can you handle the main melody for the lead part?"
+                "text": "Anon, can you take over the main melody part?"
             }
         ],
         "atts": []
     },
     "17": {
-        "speaker": "Anon Chihaya",
+        "speaker": "千早爱音",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Eh...Sorry, Taki, when you sent me the sheet music a few days ago, I happened to be out at an event... so..."
+                "text": "Eh... sorry Rikki, when you sent me the score the other day, I happened to be out attending an event... so..."
+            }
+        ],
+        "atts": []
+    },
+    "18": {
+        "speaker": "千早爱音",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "Ah, but of course, I made sure to look at my own part properly!!"
+            }
+        ],
+        "atts": []
+    },
+    "19": {
+        "speaker": "椎名立希",
+        "spans": [
+            {
+                "html": "style='color:#FfFffF'",
+                "text": "Tch. Okay, then, let's play through it one more time."
             }
         ],
         "atts": []

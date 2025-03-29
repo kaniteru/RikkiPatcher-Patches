@@ -4,7 +4,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "The moon gradually emerged from behind the clouds."
+                "text": "The moon gradually peeked out from behind the clouds."
             }
         ],
         "atts": []
@@ -14,17 +14,17 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Dark clouds pressed close to the ground, and a stale earthy odor filled the air."
+                "text": "Dark clouds pressed close to the ground, and a muddy, fishy smell rose around."
             }
         ],
         "atts": []
     },
     "2": {
-        "speaker": "Taki Shiina",
+        "speaker": "",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Taki unconsciously quickened her pace."
+                "text": "Taki couldn't help but quicken her pace."
             }
         ],
         "atts": []
@@ -34,7 +34,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "The long shopping street was finally nearing its end, but the rain mercilessly started to fall."
+                "text": "The long shopping street was finally nearing its end, but the rain started falling mercilessly."
             }
         ],
         "atts": []
@@ -44,17 +44,17 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "The rain came down suddenly and quickly formed ripples on the ground."
+                "text": "The rain came down hard, quickly rippling the ground."
             }
         ],
         "atts": []
     },
     "5": {
-        "speaker": "Taki Shiina",
+        "speaker": "",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Even after leaving the shopping street, there was still quite a distance to her home. Sprinting through the rain all the way wasn’t realistic."
+                "text": "Even after leaving the shopping street, there was still some distance to home, and it wasn't realistic to dash all the way back in one go."
             }
         ],
         "atts": []
@@ -64,17 +64,17 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "With no other choice, Taki quickly turned into a nearby tea house—"
+                "text": "Reluctantly, Taki had no choice but to quickly turn into a tea restaurant along the side—"
             }
         ],
         "atts": []
     },
     "7": {
-        "speaker": "Taki Shiina & Passerby",
+        "speaker": "椎名立希 & 路人",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Ouch—"
+                "text": "Ouch——"
             }
         ],
         "atts": []
@@ -84,37 +84,37 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Taki bumped head-on into someone rushing out of the restaurant, sending both of them to the ground."
+                "text": "Taki collided head-on with someone rushing out of the restaurant, and they both fell to the ground."
             }
         ],
         "atts": []
     },
     "9": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Tsk, why even have such a big automatic door if you don’t use your eyes?"
+                "text": "Tsk, such a big automatic door, don't you have eyes when you go out?"
             }
         ],
         "atts": []
     },
     "10": {
-        "speaker": "Passerby",
+        "speaker": "路人",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Excuse me! You’re the one who charged in! Ah, my precious, pretty nose... it hurts!"
+                "text": "Weren't you the one who rushed in headfirst?! Ah, my precious, perky nose... it hurts so much!"
             }
         ],
         "atts": []
     },
     "11": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "(This annoying voice... it sounds so familiar.)"
+                "text": "(This annoying voice... why is it so familiar?)"
             }
         ],
         "atts": []
@@ -124,7 +124,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "The rain was too noisy for Taki to confirm."
+                "text": "The rain was too loud, and Taki wasn't sure."
             }
         ],
         "atts": []
@@ -134,7 +134,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "The person muttered complaints under her breath while squatting to gather the fallen items from her bag."
+                "text": "The person muttered to herself as she squatted down to pick up the things that had scattered from her shoulder bag."
             }
         ],
         "atts": []
@@ -144,17 +144,17 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Feeling partly responsible, Taki held her aching back, squatted down, and helped her pick up the scattered belongings."
+                "text": "Since she was partly responsible, Taki also squatted down, supporting her back, and helped the other person pick up the fallen items."
             }
         ],
         "atts": []
     },
     "15": {
-        "speaker": "Passerby",
+        "speaker": "路人",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Keys, lipstick, selfie stick, membership cards... oh no, a fake eyelash came off too—ouch!"
+                "text": "Keys, lipstick, selfie stick, membership card... a fake eyelash also fell off—oh no—!"
             }
         ],
         "atts": []
@@ -164,13 +164,13 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Likely due to the sunglasses blocking her vision, the person didn’t notice the advertisement display behind her. Moving around while semi-crouched, her lower back hit the display hard, sending her tumbling back to the ground again."
+                "text": "Perhaps because the sunglasses on her face blocked the light, the other person didn't notice the standing advertisement board behind her. As she moved in a half-squatting position, her bent lower back slammed firmly into it, causing the person who had just patted her butt and gotten up to fall heavily to the ground once again."
             }
         ],
         "atts": []
     },
     "17": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -184,7 +184,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Taki quickly walked over and stretched out a hand to her."
+                "text": "Taki quickly walked over and held out her hand to her."
             }
         ],
         "atts": []
@@ -194,7 +194,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "For the first time, she looked at her closely."
+                "text": "Only then did she look at the other person for the first time."
             }
         ],
         "atts": []
@@ -204,7 +204,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Then she realized—"
+                "text": "And then she noticed—"
             }
         ],
         "atts": []
@@ -214,13 +214,13 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "—under the brim of the hat, there was an annoyingly bright pink head of hair."
+                "text": "—Under the brim of the hat, there was a shockingly bright pink hair."
             }
         ],
         "atts": []
     },
     "22": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -230,11 +230,11 @@
         "atts": []
     },
     "23": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Anon Chihaya?!"
+                "text": "Anon Chihaya?!?!"
             }
         ],
         "atts": []
@@ -244,7 +244,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Firmly grasping her hand, she pulled the person up in one motion."
+                "text": "The strength in her hand suddenly increased, and she pulled the other person up."
             }
         ],
         "atts": []
@@ -254,7 +254,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Standing upright, she became even more convinced."
+                "text": "Standing up only made her more certain."
             }
         ],
         "atts": []
@@ -264,17 +264,17 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "The other person stared at the familiar, scowling face suddenly in front of them. Through her sunglasses, she blinked twice with lashes only half attached. Then—"
+                "text": "The other person stared at the familiar scowling face that suddenly appeared in front of her, the half-remaining thick eyelash fluttering hesitantly behind the sunglasses, and then—"
             }
         ],
         "atts": []
     },
     "27": {
-        "speaker": "Anon Chihaya",
+        "speaker": "千早爱音",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Ahhhhhhhhhhh!!"
+                "text": "—Aaaaaaaahhhhhh!!"
             }
         ],
         "atts": []
@@ -284,17 +284,17 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Anon recoiled like a dog whose tail had been stepped on."
+                "text": "Anon shied away like a dog whose tail had been stepped on."
             }
         ],
         "atts": []
     },
     "29": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "You’re too loud! Hey, watch out!"
+                "text": "So noisy! Hey, watch out!!"
             }
         ],
         "atts": []
@@ -304,13 +304,13 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Quickly, Taki steadied her by supporting her waist, helping her avoid a third fall."
+                "text": "Taki quickly supported the other person's side to prevent her from falling a third time."
             }
         ],
         "atts": []
     },
     "31": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -320,31 +320,31 @@
         "atts": []
     },
     "32": {
-        "speaker": "Anon Chihaya",
+        "speaker": "千早爱音",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "AHHHHHHHH!!!!!"
+                "text": "Aaaaaaaahhhhhh—!!!!!!!!!"
             }
         ],
         "atts": []
     },
     "33": {
-        "speaker": "Anon Chihaya",
+        "speaker": "千早爱音",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "It’s Rikkiiiiiii!!!"
+                "text": "It's Rikki aaaaaaaahhhhhh!!!!"
             }
         ],
         "atts": []
     },
     "34": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "So loud!!!"
+                "text": "So noisy!!!!"
             }
         ],
         "atts": []
@@ -354,7 +354,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Passersby taking shelter from the rain under the tea house’s awning glanced curiously at them."
+                "text": "The passersby sheltering from the rain under the restaurant's eaves cast puzzled glances."
             }
         ],
         "atts": []
@@ -364,117 +364,117 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Thoroughly embarrassed, Taki muttered apologies to the onlookers as she pulled Anon into the tea house."
+                "text": "Embarrassed and at a loss for what to do, Taki apologized to the people around her in a small voice while pulling Anon into the store."
             }
         ],
         "atts": []
     },
     "37": {
-        "speaker": "Anon Chihaya",
+        "speaker": "千早爱音",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Ow ow, Rikki, don’t pull so hard."
+                "text": "Ouch, Rikki, take it easy."
             }
         ],
         "atts": []
     },
     "38": {
-        "speaker": "Anon Chihaya",
+        "speaker": "千早爱音",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "My clothes are all wrinkled now!"
+                "text": "You're wrinkling my clothes."
             }
         ],
         "atts": []
     },
     "39": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "I told you to keep it down."
+                "text": "I told you to be quiet."
             }
         ],
         "atts": []
     },
     "40": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "What’s with you all of a sudden?"
+                "text": "What's with you all of a sudden!"
             }
         ],
         "atts": []
     },
     "41": {
-        "speaker": "Anon Chihaya",
+        "speaker": "千早爱音",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Running into Rikki out of nowhere late at night—it’s as scary as a top 10 Tokyo urban legend... no, bumping into your class teacher outside school is way less terrifying!"
+                "text": "Suddenly running into Rikki late at night without any psychological preparation—the horror of this is no less than one of the top ten urban legends... No, running into your homeroom teacher outside of school isn't this scary aaaaaaaahhhhhh——"
             }
         ],
         "atts": []
     },
     "42": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "If you’re looking for a fight, just say so."
+                "text": "Looking for a fight, just say so."
             }
         ],
         "atts": []
     },
     "43": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Hah... so, what are you doing here so late? Shouldn’t you already be—"
+                "text": "Huh... So, what are you doing here so late at night? Aren't you about to get to your li—"
             }
         ],
         "atts": []
     },
     "44": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Uh, it’s quite late."
+                "text": "Uh, it's pretty late."
             }
         ],
         "atts": []
     },
     "45": {
-        "speaker": "Anon Chihaya",
+        "speaker": "千早爱音",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "This tea house is a new chain store. They used to have one in London, so I came to do a nostalgic livestream and share my British memories~"
+                "text": "This tea restaurant is a newly opened chain. I've had it in London before, so I came to do a live stream to explore the store and reminisce about my time in England~~"
             }
         ],
         "atts": []
     },
     "46": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Isn’t that just reheating old content?"
+                "text": "Isn't that just rehashing old material?"
             }
         ],
         "atts": []
     },
     "47": {
-        "speaker": "Anon Chihaya",
+        "speaker": "千早爱音",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Yeah, kind of... Wait! My livestream! What time is it, Rikki?! I think my phone turned off when I dropped it earlier—"
+                "text": "Yeah... Wait! Live stream! What time is it, Rikki?? My phone seems to have turned off when I dropped it—"
             }
         ],
         "atts": []
@@ -484,17 +484,17 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Taki turned on her phone screen and showed the time displayed on her lock screen to Anon."
+                "text": "Taki relit the phone screen and showed the numbers on the lock screen to Anon Chihaya."
             }
         ],
         "atts": []
     },
     "49": {
-        "speaker": "Anon Chihaya",
+        "speaker": "千早爱音",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Ahhhhhh!!!!!!!!!"
+                "text": "Aaaaaaaahhhhhh!!"
             }
         ],
         "atts": []
@@ -504,27 +504,27 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Instinctively, Taki covered her ears."
+                "text": "Taki subconsciously covered her ears."
             }
         ],
         "atts": []
     },
     "51": {
-        "speaker": "Anon Chihaya",
+        "speaker": "千早爱音",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "No time, Rikki!! Let’s chat next time!"
+                "text": "No time, Rikki!! Let's talk next time!"
             }
         ],
         "atts": []
     },
     "52": {
-        "speaker": "Anon Chihaya",
+        "speaker": "千早爱音",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "If I run nonstop now— Okay, I can still make—"
+                "text": "If I run back non-stop now—okay, there should still be—"
             }
         ],
         "atts": []
@@ -534,17 +534,17 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Without waiting for Taki to respond, the pink-haired whirlwind disappeared down the rainy street as quickly as she had arrived, taking with her all the earlier noise and commotion. Her fading words floated away on the evening breeze."
+                "text": "Without waiting for Taki to say anything more, the pink hair that appeared like the wind also disappeared into the rain-soaked streets like the wind, taking away all the noise and bustle, leaving only a few words that had already drifted away in the evening breeze."
             }
         ],
         "atts": []
     },
     "54": {
-        "speaker": "Anon Chihaya",
+        "speaker": "千早爱音",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "See you at our next practice, Rikki—!"
+                "text": "See you at the next practice—Rikki—"
             }
         ],
         "atts": []
@@ -554,17 +554,17 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Taki turned towards where Anon had disappeared and stood still, gazing at the now blurry and scattered colors of the night scene."
+                "text": "Taki turned around and stood in the direction Anon disappeared, staring at the night scene that had returned to a blur of colors."
             }
         ],
         "atts": []
     },
     "56": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "(Next time... when will that even be?)"
+                "text": "(Next time... when will that be?)"
             }
         ],
         "atts": []
@@ -574,7 +574,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "The rain was starting to let up, but Taki felt colder than ever."
+                "text": "The rain was about to stop, but Taki felt terribly cold."
             }
         ],
         "atts": []
@@ -584,7 +584,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Lost in her wandering thoughts, she couldn’t find clarity in her surroundings. As she drifted into this haze, the long-dormant screen of her phone suddenly lit up, its special alert tone accompanied by vibration, momentarily pulling her out of the fog."
+                "text": "Her consciousness drifted, and Taki couldn't find the boundaries in the chaos. Just as she was sinking into the haze, the phone screen that had been off for a long time suddenly lit up, and a special alarm sound, accompanied by vibration, briefly awakened its owner from the dimness."
             }
         ],
         "atts": []
@@ -594,17 +594,17 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Lifting her phone, Taki saw a notification from a video-streaming platform."
+                "text": "Taki held up her phone, and the notification page from the video website popped up on the screen."
             }
         ],
         "atts": []
     },
     "60": {
-        "speaker": "Streaming Reminder",
+        "speaker": "观看提示",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "\"The live broadcast you reserved from "
+                "text": "\"The live stream you reserved from"
             },
             {
                 "html": "style='color:#ff8899'",
@@ -612,7 +612,7 @@
             },
             {
                 "html": "style='color:#FfFffF'",
-                "text": " will begin in 30 minutes. Please get ready to watch.\""
+                "text": "will start in thirty minutes. Please be prepared to watch in advance.\""
             }
         ],
         "atts": []
@@ -622,7 +622,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Taki turned to look back at the tea house."
+                "text": "Taki glanced back at the restaurant."
             }
         ],
         "atts": []
@@ -632,7 +632,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "What had just been a bustling tea house now had a few vacant seats."
+                "text": "The restaurant, which had been crowded with people earlier, now had some empty seats."
             }
         ],
         "atts": []
@@ -642,17 +642,17 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "People were gradually leaving the temporary shelter to head home."
+                "text": "People were gradually leaving their temporary shelters and going home."
             }
         ],
         "atts": []
     },
     "64": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Time to go home."
+                "text": "Let's go home."
             }
         ],
         "atts": []

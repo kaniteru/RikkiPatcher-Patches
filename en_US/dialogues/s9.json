@@ -4,7 +4,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Dusk."
+                "text": "Twilight."
             }
         ],
         "atts": []
@@ -14,7 +14,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "The evening light faded as shadows slowly crept across the streets, swallowing up the overlapping silhouettes of crows on the ground."
+                "text": "Dusk fell, and shadows slowly crept across the street, gradually engulfing the intertwined shadows of crows on the ground."
             }
         ],
         "atts": []
@@ -24,7 +24,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "For a typical workday, this time of day was unusually quiet, as if the bustle of the day had drained away completely."
+                "text": "For an ordinary workday, this time was unusually quiet, as if the daytime's energy had been completely lost."
             }
         ],
         "atts": []
@@ -34,97 +34,97 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "The only pedestrian on the street walked with their back to the last glimmers of light, head bowed in thought, their shadow stretching long beneath their feet."
+                "text": "The only pedestrian on the street, facing away from the last bit of remaining light, pondered with her head down, her shadow stretched long at her feet."
             }
         ],
         "atts": []
     },
     "4": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "So tired…"
+                "text": "So tired..."
             }
         ],
         "atts": []
     },
     "5": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "…Drumsticks aren’t toys; how could you use them to play around like that!"
+                "text": "...Drumsticks aren't toys to begin with, how can they be used for roughhousing!"
             }
         ],
         "atts": []
     },
     "6": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Kids these days… the moment you get a bit strict with them, they cry hysterically and run to complain. Ugh! Do they even want to learn music seriously or not?!"
+                "text": "Kids these days, they cry so hard if you're just a little strict, and they tell on you at the drop of a hat. Ugh! Do they even want to learn music properly!"
             }
         ],
         "atts": []
     },
     "7": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "…………"
+                "text": "............"
             }
         ],
         "atts": []
     },
     "8": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "…Tch, forget it, they’re probably not serious anyway."
+                "text": "...Tch, whatever, they're probably just messing around anyway."
             }
         ],
         "atts": []
     },
     "9": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "(It’s this late already; might as well head straight to that izakaya I frequent for dinner.)"
+                "text": "(It's already this late, might as well just go to my usual izakaya for dinner.)"
             }
         ],
         "atts": []
     },
     "10": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "(…Huh? The door’s closed?)"
+                "text": "(...Huh? The door's closed?)"
             }
         ],
         "atts": []
     },
     "11": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "“The owner is sick. Closed for a few days.”"
+                "text": "\"Shop owner is sick and will be closed for a few days.\""
             }
         ],
         "atts": []
     },
     "12": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "(The old man who runs the place never even caught colds. The so-called workaholic who never closed… I hope he recovers soon.)"
+                "text": "(The owner never even seemed to catch a cold, that workaholic who claims to be open all year round, is actually... I hope he recovers soon.)"
             }
         ],
         "atts": []
@@ -134,7 +134,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Taking a slightly longer route home, by the time she resumed her walk, the sky had turned almost pitch black. The early spring night’s chill made Taki tighten her collar."
+                "text": "After taking a bit of a detour and getting back on the road home, it was already close to dark, and the early spring night temperature made Taki pull her collar tighter."
             }
         ],
         "atts": []
@@ -144,7 +144,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "As she passed through a dim, narrow alleyway, the soft rustling sounds from the side caught her attention. Following the noise, she spotted a sleek, shiny black cat rummaging diligently through a small pile of garbage cans."
+                "text": "As she passed a dark and narrow alley, she heard rustling sounds from the side. Following the sound, she saw a black cat with bright fur burying its head in a small mountain of garbage cans, diligently searching."
             }
         ],
         "atts": []
@@ -154,7 +154,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Almost as if sensing her presence, the cat turned its head the moment Taki laid her eyes on it, staring directly into her gaze—"
+                "text": "As if sensing her presence, the moment Taki's gaze fell on the black cat, it turned its head and stared straight at her—"
             }
         ],
         "atts": []
@@ -164,7 +164,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "—Those were sharp, strangely familiar, purple eyes."
+                "text": "—Those were a pair of sharp, strangely familiar, purple eyes."
             }
         ],
         "atts": []
@@ -174,37 +174,37 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "A sudden chill crawled down Taki’s spine."
+                "text": "Taki suddenly felt a chill in her heart."
             }
         ],
         "atts": []
     },
     "18": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "A-a stray cat?"
+                "text": "A st、stray cat?"
             }
         ],
         "atts": []
     },
     "19": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "(Wait, its fur is so shiny, and it’s wearing a collar. Could it be someone’s pet? But why is it…)"
+                "text": "(No, its fur is so shiny and it's wearing a collar, is it a house cat? But why is it...)"
             }
         ],
         "atts": []
     },
     "20": {
-        "speaker": "Cat",
+        "speaker": "猫",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Meowwww————!!"
+                "text": "MIAOW——————!!"
             }
         ],
         "atts": []
@@ -214,13 +214,13 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Its body shrank low, fur bristling all over, pupils narrowing in terror as if it had seen something utterly horrifying."
+                "text": "Its body hunched low, all its fur stood on end, and its pupils dilated in terror, as if it had seen something extremely horrifying."
             }
         ],
         "atts": []
     },
     "22": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -234,17 +234,17 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "The cat’s near-scream startled Taki, making her turn quickly in the direction it was looking, but there was nothing there."
+                "text": "The almost scream-like sound startled Taki, and she quickly turned around to look behind her, but it was empty."
             }
         ],
         "atts": []
     },
     "24": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "(…What just happened?)"
+                "text": "(...What suddenly happened?)"
             }
         ],
         "atts": []
@@ -254,17 +254,17 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "When Taki turned back, the black cat had vanished."
+                "text": "Taki turned back, but the black cat was gone."
             }
         ],
         "atts": []
     },
     "26": {
-        "speaker": "Taki Shiina",
+        "speaker": "椎名立希",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "(So strange… everything about today has been strange… I’m so exhausted…)"
+                "text": "(That was so weird... today has been weird all day... so tired...)"
             }
         ],
         "atts": []
@@ -274,7 +274,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "Though puzzled, the cold sweat subsided, and the fatigue from her long day swept over her again."
+                "text": "Despite her doubts, after the cold sweat subsided, the exhaustion after work suddenly swept over her."
             }
         ],
         "atts": []
@@ -284,7 +284,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "So much had happened that day, but to Taki, it all seemed meaningless. She dragged her feet toward home."
+                "text": "Too many things happened today, but Taki felt they were all meaningless. She dragged her feet and continued walking towards home."
             }
         ],
         "atts": []
