@@ -5,7 +5,7 @@
 
 ## Dialogues -> Progress
 > ### Finished
-> > - s1 ~ s14
+> > - s1 ~ s26
 
 ---
 

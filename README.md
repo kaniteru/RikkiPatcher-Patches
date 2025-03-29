@@ -8,7 +8,7 @@
 ## Working
 - en_US
 
-## Finish
+## Finished
 - ko_KR
 
 ## Todo
