@@ -5,12 +5,6 @@
 
 ## Dialogues -> Progress
 > ### Finished
-> > - s1 ~ s26
+> > - s1 ~ s50
 
----
-
-## Choices -> Progress
-> ### Finished
-> > - s10 ~ s13
-> > - s19
 ---
