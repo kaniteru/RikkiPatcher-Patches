@@ -4,7 +4,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "姐姐要走了吗？"
+                "text": "Is my sister leaving?"
             }
         ],
         "atts": {}
@@ -14,7 +14,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "嗯。"
+                "text": "Yes."
             }
         ],
         "atts": []
@@ -24,7 +24,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "安心工作，多保重。"
+                "text": "Work hard and take care of yourself."
             }
         ],
         "atts": []
@@ -34,7 +34,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "我知道了。"
+                "text": "I know."
             }
         ],
         "atts": {}
@@ -44,7 +44,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "久别之后是最后一次见面，而相聚的时光却这样短暂，立希的心揪作一团。心脏还是不紧不慢地跳动着，唯有胸口的憋闷传达着情绪。"
+                "text": "After a long separation, this is the last meeting, and the time spent together is so short, Taki's heart clenched into a ball. Her heart was still beating slowly, and only the stuffiness in her chest conveyed her emotions."
             }
         ],
         "atts": []
@@ -54,7 +54,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "面对这个她用了生命的大半时间来追逐的女性，或许她永远算不上成熟。"
+                "text": "Faced with this woman she had spent most of her life chasing, perhaps she would never be considered mature."
             }
         ],
         "atts": []
@@ -64,7 +64,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "礼物记得要拆。"
+                "text": "Remember to open the gift."
             }
         ],
         "atts": []
@@ -74,7 +74,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "再见，立希。"
+                "text": "Goodbye, Taki."
             }
         ],
         "atts": []
@@ -84,7 +84,7 @@
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
-                "text": "……再见。"
+                "text": "...Goodbye."
             }
         ],
         "atts": {}
