@@ -3,8 +3,22 @@
 
 ---
 
-## Dialogues -> Progress
-> ### Finished
-> > - s1 ~ s75
+### NOTE
+#### The translation is complete, but needs to be reviewed.
+
 
 ---
+
+## Dialogues -> Complete
+
+---
+
+## Choices -> Complete
+
+---
+
+## UI -> Complete
+
+---
+
+## Copy -> Progress
