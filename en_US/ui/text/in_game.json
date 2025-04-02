@@ -1,12 +1,12 @@
 {
-    "previous_dialogue": "历史回忆",
-    "hide_interface": "关闭对话框",
-    "auto_play_dialogue": "自动播放",
-    "auto_skip_dialogue": "快进",
-    "save_game_progress": "存档",
-    "load_game_progress": "读档",
-    "settings": "设定",
-    "return_to_title": "返回标题界面",
-    "enter_save_file_name": "请输入存档名称...",
-    "enter_save_file_name2": "请输入存档名称..."
+    "previous_dialogue": "Dialogue History",
+    "hide_interface": "Hide Interface",
+    "auto_play_dialogue": "Auto Play",
+    "auto_skip_dialogue": "Fast Forward",
+    "save_game_progress": "Save Game",
+    "load_game_progress": "Load Game",
+    "settings": "Settings",
+    "return_to_title": "Return to Title Screen",
+    "enter_save_file_name": "Enter save file name...",
+    "enter_save_file_name2": "Enter save file name..."
 }

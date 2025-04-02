@@ -7,7 +7,7 @@
         "y": -58,
         "width": 72,
         "show": true,
-        "text": "全屏"
+        "text": "Fullscreen"
     },
     "skip_seen_dialogues": {
         "font": "SourceHanSerifCN-Light-5",
@@ -17,7 +17,7 @@
         "y": -58,
         "width": 210,
         "show": true,
-        "text": "仅快进已读内容"
+        "text": "Skip Seen Dialogues Only"
     },
     "reverse_mouse_wheel": {
         "font": "SourceHanSerifCN-Light-5",
@@ -27,7 +27,7 @@
         "y": -58,
         "width": 204,
         "show": true,
-        "text": "鼠标滚轮推进"
+        "text": "Reverse Mouse Wheel"
     },
     "bgm_volume": {
         "font": "SourceHanSerifCN-Light-5",
@@ -37,7 +37,7 @@
         "y": 4,
         "width": 211,
         "show": true,
-        "text": "背景音乐音量"
+        "text": "BGM Volume"
     },
     "se_volume": {
         "font": "SourceHanSerifCN-Light-5",
@@ -47,7 +47,7 @@
         "y": 84,
         "width": 211,
         "show": true,
-        "text": "环境音效音量"
+        "text": "SFX Volume"
     },
     "sfx_volume": {
         "font": "SourceHanSerifCN-Light-5",
@@ -57,7 +57,7 @@
         "y": 165,
         "width": 211,
         "show": true,
-        "text": "音效音量"
+        "text": "Sound Effect Volume"
     },
     "voice_volume": {
         "font": "SourceHanSerifCN-Light-5",
@@ -67,7 +67,7 @@
         "y": 244,
         "width": 211,
         "show": true,
-        "text": "语音音量"
+        "text": "Voice Volume"
     },
     "controls": {
         "font": "SourceHanSerifCN-SemiBold-7",
@@ -77,7 +77,7 @@
         "y": 0,
         "width": 140,
         "show": true,
-        "text": "操作说明"
+        "text": "Controls"
     },
     "dialogue_ui_opacity": {
         "font": "SourceHanSerifCN-Light-5",
@@ -87,7 +87,7 @@
         "y": 7,
         "width": 269,
         "show": true,
-        "text": "文本框界面透明度"
+        "text": "Dialogue UI Opacity"
     },
     "dialogue_ui_opacity_preview": {
         "font": "JCYT500W",
@@ -97,7 +97,7 @@
         "y": 94,
         "width": 497,
         "show": true,
-        "text": "这是一句对话台词。"
+        "text": "This is a line of dialogue."
     },
     "text_speed": {
         "font": "SourceHanSerifCN-Light-5",
@@ -107,7 +107,7 @@
         "y": 28,
         "width": 252,
         "show": true,
-        "text": "文本播放速度"
+        "text": "Text Speed"
     },
     "auto_play_dialogue_speed": {
         "font": "SourceHanSerifCN-Light-5",
@@ -117,7 +117,7 @@
         "y": 81,
         "width": 252,
         "show": true,
-        "text": "自动播放速度"
+        "text": "Auto Play Speed"
     },
     "text_speed_preview": {
         "font": "JCYT500W",
@@ -127,7 +127,7 @@
         "y": 200,
         "width": 520,
         "show": true,
-        "text": "这是一段文本播放速度预览效果。"
+        "text": "This is a preview of the text playback speed effect."
     },
     "controls_usage": {
         "title": {
@@ -138,7 +138,7 @@
             "y": 25,
             "width": 1200,
             "show": true,
-            "text": "操作说明"
+            "text": "Controls"
         },
         "line_1": {
             "font": "SourceHanSerifCN-SemiBold-7",
@@ -148,7 +148,7 @@
             "y": 100,
             "width": 1180,
             "show": true,
-            "text": "ESC 系统设置菜单   F5 直接返回主菜单"
+            "text": "ESC - System Menu,  F5 - Restart game"
         },
         "line_2": {
             "font": "SourceHanSerifCN-SemiBold-7",
@@ -158,7 +158,7 @@
             "y": 160,
             "width": 1180,
             "show": true,
-            "text": "Q/O 保存游戏   E/P 读取存档"
+            "text": "Q/O - Save data,  E/P - Load save data"
         },
         "line_3": {
             "font": "SourceHanSerifCN-SemiBold-7",
@@ -168,7 +168,7 @@
             "y": 220,
             "width": 1180,
             "show": true,
-            "text": "Ctrl/R/U 快进   T/I 切换自动播放   H/C 返回标题界面"
+            "text": "Ctrl/R/U - Fast forward,  T/I - Switch auto play,  H/C - Returns to title screen"
         },
         "line_4": {
             "font": "SourceHanSerifCN-SemiBold-7",
@@ -178,7 +178,7 @@
             "y": 280,
             "width": 1180,
             "show": true,
-            "text": "鼠标左键/滚轮↓/Enter/Space 播放下一句"
+            "text": "LMB/Wheel ↓/Enter/Space - Play next line"
         },
         "line_5": {
             "font": "SourceHanSerifCN-SemiBold-7",
@@ -188,7 +188,7 @@
             "y": 340,
             "width": 1180,
             "show": true,
-            "text": "鼠标右键/L/X 隐藏对话或界面   滚轮↑/V 历史对话"
+            "text": "RMB/L/X - Hide interface and dialogue,  Wheel ↑/V - Dialogue history"
         },
         "line_6": {
             "font": "SourceHanSerifCN-SemiBold-7",
@@ -198,7 +198,7 @@
             "y": 400,
             "width": 1180,
             "show": true,
-            "text": "鼠标移动至右下角可呼出功能菜单/单击CG可查看差分"
+            "text": "Move the mouse to the lower right corner to call up the function menu / Click CG to view differences"
         }
     }
 }

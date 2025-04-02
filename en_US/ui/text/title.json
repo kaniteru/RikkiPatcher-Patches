@@ -8,7 +8,7 @@
             "y": 30,
             "width": 600,
             "show": true,
-            "text": "解锁章节选择"
+            "text": "Unlock Chapter Select"
         },
         "line_1": {
             "font": "SourceHanSerifCN-SemiBold-7",
@@ -18,7 +18,7 @@
             "y": 97,
             "width": 600,
             "show": true,
-            "text": "可在「开始游戏」中选择章节与额外章节游玩"
+            "text": "Chapters and extra chapters can be selected and played in 「Start Game」"
         },
         "line_2": {
             "font": "SourceHanSerifCN-SemiBold-7",
@@ -28,7 +28,7 @@
             "y": 147,
             "width": 600,
             "show": true,
-            "text": "注：直接开始后续章节将无法体现第一章选择造成的影响"
+            "text": "Note: Starting subsequent chapters directly will not reflect the effects of choices made in Chapter 1"
         }
     }
 }

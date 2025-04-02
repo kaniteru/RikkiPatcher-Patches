@@ -1,18 +1,18 @@
 {
     "delete_save_file": {
-        "system": "系统提示",
-        "text": "是否删除「档案-[@p0]」？"
+        "system": "System Message",
+        "text": "Delete 「Archive-[@p0]」?"
     },
     "back_to_title_alert": {
-        "system": "系统提示",
-        "text": "是否回到标题界面？"
+        "system": "System Message",
+        "text": "Return to the title screen?"
     },
     "save_file_read_error": {
-        "system": "系统提示",
-        "text": "读取存档发生错误，可能文件已损坏。"
+        "system": "System Message",
+        "text": "Error reading save file. File may be corrupted."
     },
     "save_file_write_error": {
-        "system": "系统提示",
-        "text": "储存失败!"
+        "system": "System Message",
+        "text": "Save failed!"
     }
 }
