@@ -22,3 +22,5 @@
 ---
 
 ## Copy -> Progress
+### Copy - UI -> Complete
+### Copy - BG -> Progress
