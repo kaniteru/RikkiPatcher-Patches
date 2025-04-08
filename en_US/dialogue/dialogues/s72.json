@@ -7,7 +7,18 @@
                 "text": "Today the sun is shining, and the temperature is a welcome change from the winter cold, with the direct sunlight making people feel a little hot."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "1": {
         "speaker": "",
@@ -17,7 +28,18 @@
                 "text": "Inside the room, Tomori Takamatsu sits upright at her desk, a notebook filled with text spread out on the desk, but mostly crossed out."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "2": {
         "speaker": "",
@@ -27,7 +49,18 @@
                 "text": "--Snap"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "3": {
         "speaker": "",
@@ -37,7 +70,18 @@
                 "text": "The fragile pen tip broke."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "4": {
         "speaker": "",
@@ -47,7 +91,18 @@
                 "text": "She reached for the pen holder on the windowsill."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "5": {
         "speaker": "",
@@ -57,17 +112,39 @@
                 "text": "Suddenly, a precarious butterfly landed on her knuckle from outside the window."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "6": {
-        "speaker": "高松灯",
+        "speaker": "Tomori Takamatsu",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "...?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "7": {
         "speaker": "",
@@ -77,7 +154,18 @@
                 "text": "The butterfly with its black pattern twitched its antennae twice, and tilted weakly."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "8": {
         "speaker": "",
@@ -87,17 +175,39 @@
                 "text": "Tomori quickly cupped it in her hands, but it twitched its wings a couple of times and then stopped moving."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "9": {
-        "speaker": "高松灯",
+        "speaker": "Tomori Takamatsu",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": ".........!"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "10": {
         "speaker": "",
@@ -107,7 +217,18 @@
                 "text": "Perhaps the sudden rise in temperature as spring approached killed this fragile life, but the death of an animal is ultimately a part of nature."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "11": {
         "speaker": "",
@@ -117,7 +238,18 @@
                 "text": "Tomori carefully wrapped it in a fallen leaf from the green plants in front of the window, intending to place it on the soil of the green plants in front of the window when she went out."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "12": {
         "speaker": "",
@@ -127,16 +259,38 @@
                 "text": "She stared at the life wrapped in the dead leaves on the table, and for no reason, she thought of another person."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "13": {
-        "speaker": "高松灯",
+        "speaker": "Tomori Takamatsu",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(Taki, are you feeling better...?)"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     }
 }

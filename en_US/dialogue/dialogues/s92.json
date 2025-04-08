@@ -7,7 +7,18 @@
                 "text": "Dim light permeated the floating dust. Taki squinted and looked around the room."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "1": {
         "speaker": "",
@@ -17,47 +28,102 @@
                 "text": "A typical lounge layout, with some performance equipment still retained near the walls, even covered by dust-laden black velvet, the type of instrument can be guessed from the shape."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "2": {
-        "speaker": "要乐奈",
+        "speaker": "Raana Kaname",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "What do you think, Rikki?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "3": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Not bad - I didn't expect it to be so well preserved here."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "4": {
-        "speaker": "要乐奈",
+        "speaker": "Raana Kaname",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Hmph."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "5": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Why do you look so proud? It's not like you're the one cleaning..."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "6": {
         "speaker": "",
@@ -67,7 +133,18 @@
                 "text": "With her eyes more or less adjusted to the brightness in the room, Taki was about to walk to Raana's side when she was momentarily distracted by a slender black figure slipping past."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "7": {
         "speaker": "",
@@ -77,7 +154,18 @@
                 "text": "She leaned back subconsciously, staggering a few steps, and luckily felt something to support her at the critical moment, holding Taki's lower back firmly to avoid an accident."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "8": {
         "speaker": "",
@@ -87,17 +175,39 @@
                 "text": "Unfortunately, the \"structure\" that saved her collapsed with a bang the moment Taki regained her balance, stirring up even finer dust in the dimly lit room."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "9": {
-        "speaker": "要乐奈",
+        "speaker": "Raana Kaname",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "What's wrong, Rikki?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "10": {
         "speaker": "",
@@ -107,7 +217,18 @@
                 "text": "The girl, who is enthusiastic about being a nocturnal creature, merely watched her teammate's reaction and, after witnessing the loud collapse, was finally willing to press the light switch."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "11": {
         "speaker": "",
@@ -117,37 +238,81 @@
                 "text": "Her eyes stung, and Taki looked back blankly."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "12": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(Is it an illusion... was that shadow I saw...?)"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "13": {
-        "speaker": "要乐奈",
+        "speaker": "Raana Kaname",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Rikki? Are you okay?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "14": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "15": {
         "speaker": "",
@@ -157,27 +322,60 @@
                 "text": "Pulling back her worrying thoughts, Taki dusted off her hands."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "16": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "I'm telling you... since the light in the room is fine, why didn't you turn it on in the first place?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "17": {
-        "speaker": "要乐奈",
+        "speaker": "Raana Kaname",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "It's more fun, Rikki, to watch you walk in the dark."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "18": {
         "speaker": "",
@@ -187,7 +385,18 @@
                 "text": "Taki scanned the innocent-looking girl in front of her from top to bottom."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "19": {
         "speaker": "",
@@ -197,27 +406,60 @@
                 "text": "Then she sighed deeply."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "20": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Oh... until I die, will I really have no way to deal with you?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "21": {
-        "speaker": "要乐奈",
+        "speaker": "Raana Kaname",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Rikki, the book fell."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "22": {
         "speaker": "",
@@ -227,7 +469,18 @@
                 "text": "Answering irrelevantly, Raana pointed to the pile of books scattered on the ground behind Taki."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "23": {
         "speaker": "",
@@ -237,7 +490,18 @@
                 "text": "Taki rubbed her temples and turned around helplessly to squat down."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "24": {
         "speaker": "",
@@ -247,37 +511,81 @@
                 "text": "Her few gains over the years were probably finally being able to understand what Raana Kaname was always too lazy to finish saying."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "25": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "If they hadn't fallen, I would have fallen, okay?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "26": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Cough, cough, there's too much dust... what is all this, sheet music, rock anniversary awards, jazz selections, sheet music, sheet music, become a guitar master in a hundred days, sheet music, picture books..."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "27": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Hmm? Picture book?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "28": {
         "speaker": "",
@@ -287,7 +595,18 @@
                 "text": "A thin booklet, incongruously appearing in this pile of paper products full of musical germs."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "29": {
         "speaker": "",
@@ -297,17 +616,39 @@
                 "text": "Taki picked it out separately, shook it, and wiped the cover with the sleeve of her coat."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "30": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Died... A Million Times Cat?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "31": {
         "speaker": "",
@@ -317,7 +658,18 @@
                 "text": "\"The Cat That Lived a Million Times.\""
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "32": {
         "speaker": "",
@@ -327,7 +679,18 @@
                 "text": "A national-level enlightenment work, a plot that almost all children know by heart."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "33": {
         "speaker": "",
@@ -337,17 +700,39 @@
                 "text": "Some fragments inadvertently forgotten in the washing of time suddenly came back, and Taki stared blankly at the title on the cover for a long time, completely unaware of the actions of the person quietly approaching her."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "34": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Ah--"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "35": {
         "speaker": "",
@@ -357,7 +742,18 @@
                 "text": "Accompanied by an unexpected low cry, one side of her knee slammed heavily onto the wooden floor, making a dull \"thud\"."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "36": {
         "speaker": "",
@@ -367,7 +763,18 @@
                 "text": "The girl, who was no longer as thin as she used to be after successfully passing through adolescence, hung her arms firmly around the neck of the office worker whose physical strength was slowly declining for various reasons, and took the opportunity to pile most of her body weight on the other's back."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "37": {
         "speaker": "",
@@ -377,57 +784,123 @@
                 "text": "Her knees hurt like hell, but Taki still subconsciously reached back to protect the person climbing on her, and after confirming that her center of gravity was still stable, she gritted her teeth and shouted the nickname that she hadn't mentioned in many years since graduating from high school."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "38": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Wildcat--!!!"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "39": {
-        "speaker": "要乐奈",
+        "speaker": "Raana Kaname",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "...Rikki's stamina has gotten worse."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "40": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "...Get off my back first."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "41": {
-        "speaker": "要乐奈",
+        "speaker": "Raana Kaname",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Rikki, will you read this to me?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "42": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "How old are you?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "43": {
         "speaker": "",
@@ -437,47 +910,102 @@
                 "text": "A slender, pale finger, reaching over Taki's shoulder, poked straight at the dusty cover of the picture book, bringing Taki's gaze back."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "44": {
-        "speaker": "要乐奈",
+        "speaker": "Raana Kaname",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "The Cat That Lived a Million Times."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "45": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Is this really your picture book?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "46": {
-        "speaker": "要乐奈",
+        "speaker": "Raana Kaname",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Before, before SPACE closed down, Grandma used to read it to me."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "47": {
-        "speaker": "要乐奈",
+        "speaker": "Raana Kaname",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "...So Rikki, will you read this to me?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "48": {
         "speaker": "",
@@ -487,7 +1015,18 @@
                 "text": "Unlike the choice she made in front of the Live House gate, Taki did not answer immediately this time."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "49": {
         "speaker": "",
@@ -497,7 +1036,18 @@
                 "text": "In the brief silence, the drummer could see the dust rising and falling, hear the guitarist's soft breathing, the moist warmth beating on her shoulders and neck, the pain in her knees disappearing in a trance, and the rhythm of her heart was still as stubborn as ever."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "50": {
         "speaker": "",
@@ -507,17 +1057,39 @@
                 "text": "In the not-so-small but sufficiently closed room, Taki let out a sigh that was barely audible."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "51": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Get off my back first."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "52": {
         "speaker": "",
@@ -527,17 +1099,39 @@
                 "text": "The person in a high position twisted, indicating refusal."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "53": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "...Get down, and then find a place with good light."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "54": {
         "speaker": "",
@@ -547,17 +1141,39 @@
                 "text": "Who would have thought that a place with good light was close at hand?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "55": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "This is..."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "56": {
         "speaker": "",
@@ -567,7 +1183,18 @@
                 "text": "--It's Space's lobby."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "57": {
         "speaker": "",
@@ -577,7 +1204,18 @@
                 "text": "A place that Taki had peered at countless times from afar through the floor-to-ceiling windows, mostly obscured by the automatic parking lot sign, and the glass door covered with notices."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "58": {
         "speaker": "",
@@ -587,7 +1225,18 @@
                 "text": "And now she and Raana were standing here, looking out from the inside, watching the parking lot under the setting sun, which looked very different as a result."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "59": {
         "speaker": "",
@@ -597,7 +1246,18 @@
                 "text": "The same golden color, covering the concrete floor of the parking lot, was also scattered under Taki and Raana's feet."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "60": {
         "speaker": "",
@@ -607,27 +1267,60 @@
                 "text": "Spanning a decade of cracks, the sunshine of today falls impartially into the dusty past."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "61": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "So this is what it feels like to look out from the inside."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "62": {
-        "speaker": "要乐奈",
+        "speaker": "Raana Kaname",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Hmph~~~ This way."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "63": {
         "speaker": "",
@@ -637,17 +1330,39 @@
                 "text": "Before Taki could respond, Raana pushed Taki's shoulder and pushed her hard towards the reception desk near the door, turning her around."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "64": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Ah..."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "65": {
         "speaker": "",
@@ -657,7 +1372,18 @@
                 "text": "Taki finally saw the closed door of the Live room, most of which was blocked by the protruding wall of the ticket booth, hidden in the dark corner near the corridor."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "66": {
         "speaker": "",
@@ -667,47 +1393,102 @@
                 "text": "Something suddenly flashed in Taki's mind, and she caught it with her rare sensitivity, and looked back at the person beside her with a slight surprise."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "67": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Did you used to stay here often? At the door of the Live room?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "68": {
-        "speaker": "要乐奈",
+        "speaker": "Raana Kaname",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Grandma, strict."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "69": {
-        "speaker": "要乐奈",
+        "speaker": "Raana Kaname",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Lives aren't every day."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "70": {
-        "speaker": "要乐奈",
+        "speaker": "Raana Kaname",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Waiting here, Grandma would read picture books."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "71": {
         "speaker": "",
@@ -717,7 +1498,18 @@
                 "text": "Taki couldn't help but think of the old manager, who was still hale and hearty and occasionally appeared in other Live Houses, frowning as she watched the performances."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "72": {
         "speaker": "",
@@ -727,7 +1519,18 @@
                 "text": "Even Miss RinRin secretly complained that \"the only person in this world who can frown more than Taki is probably the Owner.\""
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "73": {
         "speaker": "",
@@ -737,7 +1540,18 @@
                 "text": "To be fair, in Taki's few interactions with her, she had rarely seen what could be called a gentle expression. Even in front of Raana, the old woman's sense of authority as a senior member of the band still far outweighed her closeness as an elder."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "74": {
         "speaker": "",
@@ -747,7 +1561,18 @@
                 "text": "Sometimes Taki even suspected whether Raana's emotionless attributes were also due to being raised by such a relative from an early age."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "75": {
         "speaker": "",
@@ -757,7 +1582,18 @@
                 "text": "So much so that even now, when she saw Raana narrating a scene of memories that should have been full of softness and warmth with an expression and tone that seemed slightly bland to others, Taki found it hard to believe that this was something that such a pair of grandparents could do."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "76": {
         "speaker": "",
@@ -767,7 +1603,18 @@
                 "text": "However, compared to what she was currently experiencing, Ms. Tsuzuki reading children's picture books to Raana Kaname instead of introductory books on children's music theory seemed too ordinary."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "77": {
         "speaker": "",
@@ -777,17 +1624,39 @@
                 "text": "Raana pointed to the dusty leather sofa by the window again."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "78": {
-        "speaker": "要乐奈",
+        "speaker": "Raana Kaname",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "We used to be here."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "79": {
         "speaker": "",
@@ -797,7 +1666,18 @@
                 "text": "Taki walked over and tentatively swept the dust off it with her finger."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "80": {
         "speaker": "",
@@ -807,27 +1687,60 @@
                 "text": "Unexpectedly, the guitarist, who was standing on the side, ran out of patience and fell on her, and the drummer, who couldn't stand still, was forced to fall into the soft sofa."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "81": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Hey--!"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "82": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "You're so heavy! Get up! How can I read like this!"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "83": {
         "speaker": "",
@@ -837,27 +1750,60 @@
                 "text": "Taki quickly picked up the cat who was preparing to build a nest on her body and pushed her aside, but the soft sofa sank in the middle, and gravity made the sides of the two people's bodies stick together tightly, making it seem crowded."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "84": {
-        "speaker": "要乐奈",
+        "speaker": "Raana Kaname",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "It's clean enough. Read it quickly."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "85": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "You guys..."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "86": {
         "speaker": "",
@@ -867,27 +1813,60 @@
                 "text": "She's not old enough to tell stories to juniors. After hesitating for a long time, she had to imitate the distant past in her memory - imitating the tone her sister used to read to her when she was a child."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "87": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "\"The Cat That Lived a Million Times.\""
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "88": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "There was a cat that lived a million times."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "89": {
         "speaker": "",
@@ -897,7 +1876,18 @@
                 "text": "It sounded clumsy and stiff to her own ears."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "90": {
         "speaker": "",
@@ -907,47 +1897,102 @@
                 "text": "Taki bit the bullet and continued reading."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "91": {
-        "speaker": "椎名立希&要乐奈",
+        "speaker": "Taki Shiina&Raana Kaname",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "It lived a million times and died a million times."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "92": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "93": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "This is a--"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "94": {
-        "speaker": "要乐奈",
+        "speaker": "Raana Kaname",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "--A beautiful black cat."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "95": {
         "speaker": "",
@@ -957,17 +2002,39 @@
                 "text": "Taki turned the page very loudly, shook it in her hand, and coughed twice, trying to remind the listener next to her who was responsible for reading."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "96": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Have--"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "97": {
         "speaker": "",
@@ -977,137 +2044,291 @@
                 "text": "Unfortunately, this time it was even more excessive. Taki only uttered one syllable, and the head against her shoulder quickly recited the complete sentence."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "98": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "I'm saying, since you already remember it so well, what's the point of us reading it?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "99": {
-        "speaker": "要乐奈",
+        "speaker": "Raana Kaname",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Rikki is reading boringly."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "100": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Please......"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "101": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "How can you read a story like this that you've heard since you were a child and that you're going to get calluses in your ears in an interesting way? Live soundtrack?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "102": {
-        "speaker": "要乐奈",
+        "speaker": "Raana Kaname",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Live soundtrack, interesting."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "103": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Hey!"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "104": {
-        "speaker": "要乐奈",
+        "speaker": "Raana Kaname",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Then Rikki, tell a different one."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "105": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Don't push your luck."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "106": {
-        "speaker": "要乐奈",
+        "speaker": "Raana Kaname",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Rikki, boring woman."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "107": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Huh!?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "108": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Just tell it--don't underestimate me, I also helped when Tomori was writing her new picture book story a few days ago!"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "109": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Just tell it--it's just telling a story!"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "110": {
-        "speaker": "要乐奈",
+        "speaker": "Raana Kaname",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Hmph~~~"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "111": {
         "speaker": "",
@@ -1117,7 +2338,18 @@
                 "text": "It's easy to talk big, but telling a story is actually harder than you think."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "112": {
         "speaker": "",
@@ -1127,7 +2359,18 @@
                 "text": "Taki stared at the page of the picture book, her mind blank for a while, until even the words on the book began to appear blurred, she suddenly remembered the black cat that had been haunting her these days."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "113": {
         "speaker": "",
@@ -1137,7 +2380,18 @@
                 "text": "Gradually, the overlapping words on the page also seemed to turn into black cats overlapping each other, making different poses, constantly wriggling in front of Taki, and it seemed as if there were \"meow meow\" sounds, low, passing into her ears."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "114": {
         "speaker": "",
@@ -1147,7 +2401,18 @@
                 "text": "Taki stared at the moving words, at the moving black cats."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "115": {
         "speaker": "",
@@ -1157,7 +2422,18 @@
                 "text": "The black cats also stared at Taki with their purple pupils."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "116": {
         "speaker": "",
@@ -1167,27 +2443,60 @@
                 "text": "Taki suddenly opened her mouth."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "117": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "--The cat died a million times."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "118": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Each time, she died in a daze, unable to find the meaning of life."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "119": {
         "speaker": "",
@@ -1197,7 +2506,18 @@
                 "text": "It's simply the worst cat in the world."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "120": {
         "speaker": "",
@@ -1207,7 +2527,18 @@
                 "text": "Skipping a lot of the plot, Taki said these two sentences without rhyme or reason."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "121": {
         "speaker": "",
@@ -1217,107 +2548,228 @@
                 "text": "Raana looked up at her in confusion."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "122": {
-        "speaker": "要乐奈",
+        "speaker": "Raana Kaname",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "123": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "One day, the cat saw the Grim Reaper again--it was sure that it was the Grim Reaper, because it had already died a million times."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "124": {
-        "speaker": "要乐奈",
+        "speaker": "Raana Kaname",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "The cat's Grim Reaper... is also a cat?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "125": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Also a cat. It's the Grim Reaper Cat."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "126": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "The Grim Reaper Cat didn't have a scythe, didn't wear a cloak, and except for its shiny fur, it was no different from all the ordinary black cats in the world."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "127": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Of course, it was no different from the black cat that had died a million times."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "128": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "She said to the cat that had died a million times, you will die in ten days."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "129": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "There's nothing big about it, said the cat that had died a million times, I've already died a million times."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "130": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Yes, the Grim Reaper replied, you have already died a million times."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "131": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#ff0000'",
                 "text": "So after this death, you will never live again."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "132": {
         "speaker": "",
@@ -1327,17 +2779,39 @@
                 "text": "Taki felt her arm being suddenly clenched."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "133": {
-        "speaker": "要乐奈",
+        "speaker": "Raana Kaname",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Then what."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "134": {
         "speaker": "",
@@ -1347,107 +2821,228 @@
                 "text": "Taki pulled the corners of her lips up."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "135": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "The cat that had died a million times thought, I'm going to die in ten days."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "136": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "The cat was distressed because it still had many things to do and many goals to achieve--it had not yet found the meaning of life."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "137": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "And now, it's about to die."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "138": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "And die forever."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "139": {
-        "speaker": "要乐奈",
+        "speaker": "Raana Kaname",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Will it die alone?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "140": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "...I don't know either."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "141": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "But it shouldn't want to die alone."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "142": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "So, it chose to stop worrying about itself and instead turn its attention back to the world around it."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "143": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "It decided to leave the nest."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "144": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "145": {
         "speaker": "",
@@ -1457,7 +3052,18 @@
                 "text": "What will happen next?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "146": {
         "speaker": "",
@@ -1467,7 +3073,18 @@
                 "text": "The narrator has no way to prove it for the time being."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "147": {
         "speaker": "",
@@ -1477,7 +3094,18 @@
                 "text": "Taki, who was a little unable to continue, looked at the person next to her in embarrassment, but found that the other person was completely absorbed in the story, clutching her arm tightly and refusing to let go, her eyes shining with an expectation that seemed to pierce her."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "148": {
         "speaker": "",
@@ -1487,57 +3115,123 @@
                 "text": "She suddenly thought of the sequel to this story."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "149": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Later... she met another cat. A small white cat."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "150": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "The white cat lived in the parking lot and had nothing to do every day, just yawning and basking in the sun."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "151": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "The white cat saw the black cat with its whiskers and ears drooping, and gave it half of the parking lot, and they basked in the warm sun together."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "152": {
-        "speaker": "要乐奈",
+        "speaker": "Raana Kaname",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "The sun is warm now too."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "153": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Yes, the sun is warm now too."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "154": {
         "speaker": "",
@@ -1547,7 +3241,18 @@
                 "text": "Taki raised her head and looked out through the glass, at the sky that had completely turned orange-red, the sun was as soft as the yolk of a half-cooked egg, and more westward than when it came."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "155": {
         "speaker": "",
@@ -1557,7 +3262,18 @@
                 "text": "She suddenly understood the cleverness of Raana's chosen location--even at this time, most of the lobby had fallen into dim shadows, and this was still the territory of the setting sun."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "156": {
         "speaker": "",
@@ -1567,307 +3283,648 @@
                 "text": "Raana squeezed even closer to Taki."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "157": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "What is very similar to the black cat that died a million times is that the white cat wandered a million times."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "158": {
-        "speaker": "要乐奈",
+        "speaker": "Raana Kaname",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Why?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "159": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Uh, because the previous house was demolished?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "160": {
-        "speaker": "要乐奈",
+        "speaker": "Raana Kaname",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Now?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "161": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Well... now, the parking lot is the white cat's home."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "162": {
-        "speaker": "要乐奈",
+        "speaker": "Raana Kaname",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "163": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "The black cat also thought it was strange, can the parking lot also be a home?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "164": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "But the white cat said that there are dogs, foxes, and little girls who come here to sing every day."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "165": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Everyone around is doing the same thing every day, isn't this a home?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "166": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "The black cat thought about it, and it seemed that it was the one without a home."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "167": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "The black cat lived in the parking lot."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "168": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "It also wanted to try to make this place a home, and even turn this place into a better home."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "169": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "The black cat was very happy."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "170": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "The black cat thought, maybe home is the meaning of life, maybe--it would be nice to die like this."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "171": {
-        "speaker": "要乐奈",
+        "speaker": "Raana Kaname",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Then what?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "172": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Then..."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "173": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "The Grim Reaper Cat still caught up."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "174": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "The Grim Reaper Cat told the black cat that it was coming to reap its life, and at the same time, the misfortune brought by the Grim Reaper Cat also made the parking lot face demolition."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "175": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "The black cat didn't want everyone to worry about it, so the black cat decided to secretly die after everyone left."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "176": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "The puppy, the little fox, and the little girl gradually started going out early and returning late, and they were all trying to find a new shelter for everyone."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "177": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Only the white cat never left the parking lot."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "178": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "It had wandered for too long, and it had finally found a home and didn't want to wander anymore."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "179": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "So the white cat started to cause trouble, using pranks to scare the workers, and pretending to be injured to gain the sympathy of passers-by."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "180": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "But that was of no avail in the end."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "181": {
-        "speaker": "要乐奈",
+        "speaker": "Raana Kaname",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "182": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Later, people discovered this white cat. It was very smart and clever. The animal protection association planned to help it, and countless people were waiting to adopt it."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "183": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "The black cat said, go, you can have a new home."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "184": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "But the white cat still didn't want to leave."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "185": {
-        "speaker": "要乐奈",
+        "speaker": "Raana Kaname",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Why?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "186": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Why is it?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "187": {
         "speaker": "",
@@ -1877,7 +3934,18 @@
                 "text": "Taki turned her head to meet Raana's eyes."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "188": {
         "speaker": "",
@@ -1887,27 +3955,60 @@
                 "text": "The pupils of different colors are now equally wet."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "189": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Maybe... maybe it's afraid of change."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "190": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "It had wandered for too long, and it wanted a home that would not change."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "191": {
         "speaker": "",
@@ -1917,57 +4018,123 @@
                 "text": "Raana shook her head."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "192": {
-        "speaker": "要乐奈",
+        "speaker": "Raana Kaname",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "It just likes it here..."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "193": {
-        "speaker": "要乐奈",
+        "speaker": "Raana Kaname",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "It's all the black cat's fault."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "194": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": ".........."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "195": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Raana, can't you really write your thesis and composition assignments well?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "196": {
-        "speaker": "要乐奈",
+        "speaker": "Raana Kaname",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "........."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "197": {
         "speaker": "",
@@ -1977,7 +4144,18 @@
                 "text": "The topic changed too deliberately, and even the cat noticed the incongruity."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "198": {
         "speaker": "",
@@ -1987,7 +4165,18 @@
                 "text": "But Raana didn't speak--she answered the question directly with her actions."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "199": {
         "speaker": "",
@@ -1997,7 +4186,18 @@
                 "text": "The person who was still leaning on her just now turned around and got under the reception desk in an instant, stuffing most of her body into the cabinet, rummaging for something."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "200": {
         "speaker": "",
@@ -2007,7 +4207,18 @@
                 "text": "Taki put the picture book on the sofa and got up to watch the lead guitarist of their band with interest."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "201": {
         "speaker": "",
@@ -2017,7 +4228,18 @@
                 "text": "The guy she had been calling Wildcat for several years was crouching like a real cat, rummaging through her secretly hidden treasures."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "202": {
         "speaker": "",
@@ -2027,7 +4249,18 @@
                 "text": "A stack of guitar scores, a large box of picks with the SPACE logo that were similar to those Raana often used, and a green Christmas tree model the length of a forearm--the decorative bells on it had completely faded, and Taki suspected that Raana kept it purely because this thing was the same color as matcha."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "203": {
         "speaker": "",
@@ -2037,7 +4270,18 @@
                 "text": "Then there was a pile of scattered musical instrument accessories, most of which were rusty."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "204": {
         "speaker": "",
@@ -2047,7 +4291,18 @@
                 "text": "But the most valuable things were probably those tickets and posters. Taki saw the signatures of many members of bands who had now become the backbone of the industry. It seemed that they had all held a considerable number of small Lives here."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "205": {
         "speaker": "",
@@ -2057,7 +4312,18 @@
                 "text": "Unfortunately, this seemed to be what the owner cared about the least at the moment. They were stored in a large folder and were \"swished\" out all at once."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "206": {
         "speaker": "",
@@ -2067,7 +4333,18 @@
                 "text": "Taki tapped the table with her knuckles while mentally pricing the \"evil cat's treasures\" for the second time."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "207": {
         "speaker": "",
@@ -2077,7 +4354,18 @@
                 "text": "After a while, Raana finally found what she was looking for. She dragged a sack that was slightly large for her out of the reception area and placed it in a place near the corner of the wall connected to the ticket booth that was still exposed to the sun, and then immediately squatted down to unpack the sack."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "208": {
         "speaker": "",
@@ -2087,37 +4375,81 @@
                 "text": "Taki curiously leaned over."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "209": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Uh... what is all this? Is this cabinet a bottomless pit?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "210": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "What exactly are you looking for? Do you need help--"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "211": {
-        "speaker": "要乐奈",
+        "speaker": "Raana Kaname",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Found it."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "212": {
         "speaker": "",
@@ -2127,27 +4459,60 @@
                 "text": "A not-so-large box was pushed backwards by Raana and floated to Taki's feet, rubbing against the ground."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "213": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Don't throw it around... wait--"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "214": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Isn't this a cajon drum?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "215": {
         "speaker": "",
@@ -2157,7 +4522,18 @@
                 "text": "It was indeed a portable cajon drum, and a brand with a high price tag."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "216": {
         "speaker": "",
@@ -2167,77 +4543,165 @@
                 "text": "Without the mind to refute Raana any further, Taki picked up the pizza box-like box, grabbed a support towel from the pile of \"treasures,\" and focused on cleaning and inspecting this old instrument."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "217": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "The wooden board is not moldy, the drum box is still very strong, the drum strings are also good... even the outer paint layer is so beautiful, only the top and four corners are a little worn--"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "218": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Mmm, mmm, the sound it makes is also very good, you can completely re-serve it by adjusting the pitch."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "219": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "I'm saying, Raana, you still have a lot of good things here."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "220": {
-        "speaker": "要乐奈",
+        "speaker": "Raana Kaname",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "After Grandma decided to close SPACE, there were many musical instruments that were deposited here that no one claimed."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "221": {
-        "speaker": "要乐奈",
+        "speaker": "Raana Kaname",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "For musicians, musical instruments are the most important thing. For musicians with bands, Live is also the most important thing."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "222": {
-        "speaker": "要乐奈",
+        "speaker": "Raana Kaname",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Grandma said that SPACE should be a starting point, not a destination."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "223": {
-        "speaker": "要乐奈",
+        "speaker": "Raana Kaname",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "So I think, the owners of these musical instruments may also be people who once regarded SPACE as their final destination."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "224": {
         "speaker": "",
@@ -2247,7 +4711,18 @@
                 "text": "Taki gradually looked up from the work of adjusting the cajon drum and listened carefully to Raana's words."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "225": {
         "speaker": "",
@@ -2257,7 +4732,18 @@
                 "text": "She didn't catch up with the most prosperous period of SPACE, but everyone who intended to join or form a band should have heard about the legend of this place."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "226": {
         "speaker": "",
@@ -2267,37 +4753,81 @@
                 "text": "But compared to this story, Taki was more familiar with Raana."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "227": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......Raana."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "228": {
-        "speaker": "要乐奈",
+        "speaker": "Raana Kaname",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "229": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "If you could spit out so many words in one breath when writing your thesis, you wouldn't have to worry about the length at all."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "230": {
         "speaker": "",
@@ -2307,7 +4837,18 @@
                 "text": "An abrupt and unromantic interruption."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "231": {
         "speaker": "",
@@ -2317,7 +4858,18 @@
                 "text": "The scene suddenly fell silent."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "232": {
         "speaker": "",
@@ -2327,7 +4879,18 @@
                 "text": "Taki began to worry if she had said something inappropriate."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "233": {
         "speaker": "",
@@ -2337,77 +4900,165 @@
                 "text": "A little later, Raana got up, took two steps, reached out and grabbed Taki's coat."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "234": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Hey, are you angry?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "235": {
-        "speaker": "要乐奈",
+        "speaker": "Raana Kaname",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Let's go."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "236": {
-        "speaker": "要乐奈",
+        "speaker": "Raana Kaname",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Give me the guitar, let's go to the parking lot."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "237": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Huh?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "238": {
-        "speaker": "要乐奈",
+        "speaker": "Raana Kaname",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Parking lot."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "239": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Hey, hey, hey--wait, Raana, don't pull--"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "240": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Raana, we have to go out through the back door, even if we're in a hurry--"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "241": {
         "speaker": "",
@@ -2417,7 +5068,18 @@
                 "text": "There's no use in being anxious."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "242": {
         "speaker": "",
@@ -2427,6 +5089,17 @@
                 "text": "That's what Taki wanted to say."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     }
 }

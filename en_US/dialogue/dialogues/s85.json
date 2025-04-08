@@ -7,27 +7,60 @@
                 "text": "Taki walked woodenly into the entrance hall, only to realize that she had forgotten to lock the door."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "1": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Sigh..."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "2": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Umiri...!"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "3": {
         "speaker": "",
@@ -37,7 +70,18 @@
                 "text": "Umiri reached out and held the door. In the moonlight, her face revealed an unspeakable sadness."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "4": {
         "speaker": "",
@@ -47,77 +91,165 @@
                 "text": "They never actively stepped into each other's territory, but this time, someone broke the rules."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "5": {
-        "speaker": "八幡海铃",
+        "speaker": "Umiri Yahata",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Taki, can we meet again?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "6": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "7": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Of course."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "8": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "It's so late, Umiri should go back and rest early."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "9": {
-        "speaker": "八幡海铃",
+        "speaker": "Umiri Yahata",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Okay."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "10": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Take care, Umiri."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "11": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Goodbye."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "12": {
         "speaker": "",
@@ -127,7 +259,18 @@
                 "text": "Taki closed the door."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "13": {
         "speaker": "",
@@ -137,7 +280,18 @@
                 "text": "She didn't rush to turn on the light, just stood quietly in front of the entrance hall with her back against the cold door panel."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "14": {
         "speaker": "",
@@ -147,7 +301,18 @@
                 "text": "She knew that Umiri was leaning on the other side of the door, her heart was only ten centimeters away from her friend, even closer than on the motorcycle."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "15": {
         "speaker": "",
@@ -157,16 +322,38 @@
                 "text": "But it was far enough to hide the secret that might have already been seen through."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "16": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(...Sorry, Umiri.)"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     }
 }

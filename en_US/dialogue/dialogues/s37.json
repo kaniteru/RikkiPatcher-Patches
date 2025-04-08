@@ -1,6 +1,6 @@
 {
     "0": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -20,7 +20,7 @@
         "atts": {}
     },
     "2": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -50,7 +50,7 @@
         "atts": {}
     },
     "5": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -90,7 +90,7 @@
         "atts": {}
     },
     "9": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -107,7 +107,18 @@
                 "text": "The girl smiled, stopped talking to herself, walked closer to Taki, and handed her a box of matches."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "11": {
         "speaker": "女孩",
@@ -127,10 +138,21 @@
                 "text": "Taki took a match from the matchbox."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "13": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -140,7 +162,7 @@
         "atts": {}
     },
     "14": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -150,7 +172,7 @@
         "atts": {}
     },
     "15": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -180,7 +202,7 @@
         "atts": {}
     },
     "18": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -197,7 +219,18 @@
                 "text": "Taki and the child lit the match together."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "20": {
         "speaker": "",
@@ -207,7 +240,18 @@
                 "text": "The warm yellow flame flickered gently, illuminating their faces."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "21": {
         "speaker": "",
@@ -217,10 +261,21 @@
                 "text": "Taki held her breath and saw the faint flame go out after a few seconds."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "22": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -267,10 +322,21 @@
                 "text": "The child handed the matchbox to Taki, smiled, and ran into the thick fog."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "27": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -287,7 +353,18 @@
                 "text": "Taki spread out her hand, and the small cardboard box lay in her palm."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "29": {
         "speaker": "",
@@ -297,7 +374,18 @@
                 "text": "On the matchbox was printed the logo of a familiar masked metal band."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "30": {
         "speaker": "",
@@ -307,10 +395,21 @@
                 "text": "Ave Mujica"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "31": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -320,7 +419,7 @@
         "atts": {}
     },
     "32": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -330,7 +429,7 @@
         "atts": {}
     },
     "33": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -347,7 +446,18 @@
                 "text": "The rain was neither heavy nor light, just enough to disperse the fog and wet the gray road."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "35": {
         "speaker": "",
@@ -357,7 +467,18 @@
                 "text": "Turning the familiar street corner, Taki looked to the west of the radio tower."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "36": {
         "speaker": "",
@@ -367,10 +488,21 @@
                 "text": "The moon wasn't there. A thin shadow stood under the street lamp."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "37": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -380,7 +512,7 @@
         "atts": {}
     },
     "38": {
-        "speaker": "丰川祥子",
+        "speaker": "Sakiko Togawa",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -390,7 +522,7 @@
         "atts": {}
     },
     "39": {
-        "speaker": "丰川祥子",
+        "speaker": "Sakiko Togawa",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -400,7 +532,7 @@
         "atts": {}
     },
     "40": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -410,7 +542,7 @@
         "atts": {}
     },
     "41": {
-        "speaker": "丰川祥子",
+        "speaker": "Sakiko Togawa",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -427,10 +559,21 @@
                 "text": "Sakiko Togawa's right hand was hidden under her coat, and the white of the bandage could be vaguely seen."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "43": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -440,7 +583,7 @@
         "atts": {}
     },
     "44": {
-        "speaker": "丰川祥子",
+        "speaker": "Sakiko Togawa",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -450,7 +593,7 @@
         "atts": {}
     },
     "45": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -467,10 +610,21 @@
                 "text": "Sakiko Togawa didn't answer, and hid her injured right hand further into her coat."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "47": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -480,7 +634,7 @@
         "atts": {}
     },
     "48": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -490,7 +644,7 @@
         "atts": {}
     },
     "49": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -500,7 +654,7 @@
         "atts": {}
     },
     "50": {
-        "speaker": "丰川祥子",
+        "speaker": "Sakiko Togawa",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -517,7 +671,18 @@
                 "text": "Sakiko frowned tightly, her pale face covered in cold sweat."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "52": {
         "speaker": "",
@@ -527,10 +692,21 @@
                 "text": "Following her gaze, Taki looked at a dark green belt in front of her."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "53": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -540,7 +716,7 @@
         "atts": {}
     },
     "54": {
-        "speaker": "丰川祥子",
+        "speaker": "Sakiko Togawa",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -550,7 +726,7 @@
         "atts": {}
     },
     "55": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -560,7 +736,7 @@
         "atts": {}
     },
     "56": {
-        "speaker": "丰川祥子",
+        "speaker": "Sakiko Togawa",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -570,7 +746,7 @@
         "atts": {}
     },
     "57": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -580,7 +756,7 @@
         "atts": {}
     },
     "58": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -590,7 +766,7 @@
         "atts": {}
     },
     "59": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -600,7 +776,7 @@
         "atts": {}
     },
     "60": {
-        "speaker": "丰川祥子",
+        "speaker": "Sakiko Togawa",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -610,7 +786,7 @@
         "atts": {}
     },
     "61": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -620,7 +796,7 @@
         "atts": {}
     },
     "62": {
-        "speaker": "丰川祥子",
+        "speaker": "Sakiko Togawa",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -637,10 +813,21 @@
                 "text": "Sakiko called Taki's name."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "64": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -657,7 +844,18 @@
                 "text": "…Attack causes minor injuries to victims. The police have increased patrols, and residents in the vicinity are advised to travel cautiously at night…"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "66": {
         "speaker": "",
@@ -667,10 +865,21 @@
                 "text": "…Attack causes minor injuries to victims. The police have increased patrols, and residents in the vicinity are advised to travel cautiously at night…"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "67": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -680,7 +889,7 @@
         "atts": {}
     },
     "68": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -690,7 +899,7 @@
         "atts": {}
     },
     "69": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -700,7 +909,7 @@
         "atts": {}
     },
     "70": {
-        "speaker": "丰川祥子",
+        "speaker": "Sakiko Togawa",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -710,7 +919,7 @@
         "atts": {}
     },
     "71": {
-        "speaker": "丰川祥子",
+        "speaker": "Sakiko Togawa",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -720,7 +929,7 @@
         "atts": {}
     },
     "72": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -730,7 +939,7 @@
         "atts": {}
     },
     "73": {
-        "speaker": "丰川祥子",
+        "speaker": "Sakiko Togawa",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -747,7 +956,18 @@
                 "text": "Sakiko wanted to say something else."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "75": {
         "speaker": "",
@@ -757,10 +977,21 @@
                 "text": "The harsh ringtone of her cell phone interrupted her."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "76": {
-        "speaker": "丰川祥子",
+        "speaker": "Sakiko Togawa",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -770,7 +1001,7 @@
         "atts": {}
     },
     "77": {
-        "speaker": "丰川祥子",
+        "speaker": "Sakiko Togawa",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -780,7 +1011,7 @@
         "atts": {}
     },
     "78": {
-        "speaker": "丰川祥子",
+        "speaker": "Sakiko Togawa",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -790,7 +1021,7 @@
         "atts": {}
     },
     "79": {
-        "speaker": "丰川祥子",
+        "speaker": "Sakiko Togawa",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -800,7 +1031,7 @@
         "atts": {}
     },
     "80": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -810,7 +1041,7 @@
         "atts": {}
     },
     "81": {
-        "speaker": "丰川祥子",
+        "speaker": "Sakiko Togawa",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -820,7 +1051,7 @@
         "atts": {}
     },
     "82": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -830,7 +1061,7 @@
         "atts": {}
     },
     "83": {
-        "speaker": "丰川祥子",
+        "speaker": "Sakiko Togawa",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -847,7 +1078,18 @@
                 "text": "Sakiko frowned and remained silent."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "85": {
         "speaker": "",
@@ -857,10 +1099,21 @@
                 "text": "This expression made Taki feel both unfamiliar and familiar."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "86": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -870,7 +1123,7 @@
         "atts": {}
     },
     "87": {
-        "speaker": "丰川祥子",
+        "speaker": "Sakiko Togawa",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -880,7 +1133,7 @@
         "atts": {}
     },
     "88": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -890,7 +1143,7 @@
         "atts": {}
     },
     "89": {
-        "speaker": "丰川祥子",
+        "speaker": "Sakiko Togawa",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -900,7 +1153,7 @@
         "atts": {}
     },
     "90": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -910,7 +1163,7 @@
         "atts": {}
     },
     "91": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -920,7 +1173,7 @@
         "atts": {}
     },
     "92": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -930,7 +1183,7 @@
         "atts": {}
     },
     "93": {
-        "speaker": "丰川祥子",
+        "speaker": "Sakiko Togawa",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -940,7 +1193,7 @@
         "atts": {}
     },
     "94": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -950,7 +1203,7 @@
         "atts": {}
     },
     "95": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -960,7 +1213,7 @@
         "atts": {}
     },
     "96": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -970,7 +1223,7 @@
         "atts": {}
     },
     "97": {
-        "speaker": "丰川祥子",
+        "speaker": "Sakiko Togawa",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -980,7 +1233,7 @@
         "atts": {}
     },
     "98": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -990,7 +1243,7 @@
         "atts": {}
     },
     "99": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1007,10 +1260,21 @@
                 "text": "Sakiko was stunned for a moment, looking at Taki with confusion."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "101": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1020,7 +1284,7 @@
         "atts": {}
     },
     "102": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1030,7 +1294,7 @@
         "atts": {}
     },
     "103": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1040,7 +1304,7 @@
         "atts": {}
     },
     "104": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",

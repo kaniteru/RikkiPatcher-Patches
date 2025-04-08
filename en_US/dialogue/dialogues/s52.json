@@ -7,7 +7,18 @@
                 "text": "Karaoke is a place for singing."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "1": {
         "speaker": "",
@@ -17,7 +28,18 @@
                 "text": "After all, they are no strangers to dimly lit booths. Whether it's ShidaX or Big Echo, MyGO!!!!! didn't go there less often for team building. Although they usually just exist as atmosphere makers."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "2": {
         "speaker": "",
@@ -27,7 +49,18 @@
                 "text": "First of all, Tomori's singing is essential; secondly, isn't a guitar vocalist who keeps yelling \"I want to fulfill my dream\" noisy enough every time?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "3": {
         "speaker": "",
@@ -37,7 +70,18 @@
                 "text": "However, at this moment, only rhythm and harmony remain. Putting these two elements alone into a space that requires singing is probably not a good idea."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "4": {
         "speaker": "",
@@ -47,7 +91,18 @@
                 "text": "The people sitting on the sofa simultaneously began to think: Are there any cases worth learning from? Simultaneously including singing drummers and bassists, enthusiastic clapping and laughter."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "5": {
         "speaker": "？？？",
@@ -71,17 +126,28 @@
         }
     },
     "6": {
-        "speaker": "椎名立希&长崎素世",
+        "speaker": "Taki Shiina&Soyo Nagasaki",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "7": {
-        "speaker": "椎名立希&长崎素世",
+        "speaker": "Taki Shiina&Soyo Nagasaki",
         "spans": [
             {
                 "html": "style='color:#7777ff'",
@@ -96,7 +162,18 @@
                 "text": "Let me see what there is to drink."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "8": {
         "speaker": "",
@@ -106,7 +183,18 @@
                 "text": "No, that's definitely not transferable experience."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "9": {
         "speaker": "",
@@ -116,7 +204,18 @@
                 "text": "When the guest's song list is empty, the jukebox thoughtfully plays popular songs known to every household, trying to warm up the atmosphere."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "10": {
         "speaker": "",
@@ -126,10 +225,21 @@
                 "text": "Taki grabbed the tablet, almost unconsciously typed a few words, the search page spun around twice, paused slightly, and then continued to patrol fruitlessly for two seconds, before faithfully indicating that it was not included."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "11": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -139,7 +249,7 @@
         "atts": {}
     },
     "12": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -149,17 +259,28 @@
         "atts": {}
     },
     "13": {
-        "speaker": "长崎素世",
+        "speaker": "Soyo Nagasaki",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "What would you like to drink, Taki? We have juice and tea."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "14": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -169,17 +290,28 @@
         "atts": {}
     },
     "15": {
-        "speaker": "长崎素世",
+        "speaker": "Soyo Nagasaki",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "\"It's really late now,\" you know. No alcohol either. Unless it's for work, please drink less, okay, Taki?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "16": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -189,7 +321,7 @@
         "atts": {}
     },
     "17": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -199,27 +331,49 @@
         "atts": {}
     },
     "18": {
-        "speaker": "长崎素世",
+        "speaker": "Soyo Nagasaki",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "19": {
-        "speaker": "长崎素世",
+        "speaker": "Soyo Nagasaki",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Okay, then juice?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "20": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -236,7 +390,18 @@
                 "text": "After some small talk, Taki's actions didn't stop. If she can't request songs directly, she can cast the screen. She has plenty of MyGO!!!!! performance videos."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "22": {
         "speaker": "",
@@ -246,7 +411,18 @@
                 "text": "《Ichishizuku Sky》、《May Star Call》、《Otoichie》、《Latent Statement》、《Bookmark》、《Shadow Color Dance》……"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "23": {
         "speaker": "",
@@ -256,7 +432,18 @@
                 "text": "She piled up all the ones she could remember. Want to get rid of an inappropriate nostalgia? Let another truly hovering, living ghost descend."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "24": {
         "speaker": "",
@@ -266,7 +453,18 @@
                 "text": "Each song was made by her own hands, condensing her sleepless nights, earlier with coffee, later with alcohol."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "25": {
         "speaker": "",
@@ -276,7 +474,18 @@
                 "text": "Conceived with painstaking effort in music production software, lyric books, and recording studios, born on stage with passion, it would not be an exaggeration to say they are the children of them all."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "26": {
         "speaker": "",
@@ -286,7 +495,18 @@
                 "text": "Want to sing? Who among them doesn't remember such songs? And who should open their mouth first?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "27": {
         "speaker": "",
@@ -296,7 +516,18 @@
                 "text": "Sha, sha, sha."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "28": {
         "speaker": "",
@@ -306,10 +537,21 @@
                 "text": "The only accessible instrument in this small space, the bassist who had been running around all day gripped it tightly, her sight was absorbed by the trembling and out-of-focus camera in the screen, leaving only an empty shell sitting in place, her wrist, which had been lacking practice, shook, sha-sha, sha-sha."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "29": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -326,7 +568,18 @@
                 "text": "Luckily, Soyo isn't a stingy friend, there's still a shaker left on the coffee table."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "31": {
         "speaker": "",
@@ -336,10 +589,21 @@
                 "text": "Taki picked it up, almost reflexively spun the hammerhead in her palm, aimed the stick-like handle forward, ready for a non-existent drum at any time. However, the matching microphone seemed to be missing."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "32": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -356,10 +620,21 @@
                 "text": "Da, da, da."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "34": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -376,7 +651,18 @@
                 "text": "One kind of nostalgia temporarily overshadowed another."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "36": {
         "speaker": "",
@@ -386,7 +672,18 @@
                 "text": "Although, in a general sense, what meets the definition of \"nostalgia\" are all things that have disappeared, but the friend sitting next to her still feels guilty for not being able to participate in practice, which is enough to prove that the young singing in the video is still alive."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "37": {
         "speaker": "",
@@ -396,7 +693,18 @@
                 "text": "It's like they're holding a funeral for the living. Although it doesn't feel bad, Taki Shiina thought, this is just another rehearsal, no different from the practice in the recording studio."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "38": {
         "speaker": "",
@@ -406,7 +714,18 @@
                 "text": "After the rehearsal, they will always go on stage, sooner or later."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "39": {
         "speaker": "工作人员",
@@ -426,7 +745,18 @@
                 "text": "The guests who weren't singing all turned their heads. The nervous newcomer put down the things and almost ran out the door."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "41": {
         "speaker": "",
@@ -436,7 +766,18 @@
                 "text": "As another encore ended, Soyo was already engrossed, counting the beats and waiting for the next song. This was her only purpose for coming today, hoping the rhythm could convey her feelings."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "42": {
         "speaker": "",
@@ -446,7 +787,18 @@
                 "text": "The unknown is also a kind of happiness, when the body is pressed on the sofa by gravity, the mind can lightly step on the notes."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "43": {
         "speaker": "",
@@ -456,7 +808,18 @@
                 "text": "Appreciating her past youth, the working adult can't name the next song, and the person who personally imported them should also forget them with her."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "44": {
         "speaker": "",
@@ -466,7 +829,18 @@
                 "text": "She feels that she'd better wait in front of the screen and clench her hands, as nervous as being told what anniversary it is today without any prior notice."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "45": {
         "speaker": "",
@@ -476,7 +850,18 @@
                 "text": "At least tonight, they all need to forget some things, especially Taki Shiina."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "46": {
         "speaker": "",
@@ -486,10 +871,21 @@
                 "text": "But the person who requested the song suddenly had a bad feeling."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "47": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -506,7 +902,18 @@
                 "text": "《Shadow Color Dance》."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "49": {
         "speaker": "",
@@ -516,7 +923,18 @@
                 "text": "Taki wrote it for MyGO!!!!! when she was in her first year of high school. It's lively to the point of being a little chaotic, but it's very suitable for warming up the atmosphere—provided they aren't familiar."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "50": {
         "speaker": "",
@@ -526,17 +944,39 @@
                 "text": "The fully charged microphone is lying on the coffee table, there is no excuse to remain silent. This kind of melody. Do you still remember it?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "51": {
-        "speaker": "长崎素世",
+        "speaker": "Soyo Nagasaki",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Speaking of which, the first time we performed this song, some viewers on SNS wanted us to dance on stage."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "52": {
         "speaker": "",
@@ -546,7 +986,18 @@
                 "text": "The backing vocals were probably turned to the lowest. The singing, lower and harder than the original, stiffly stayed in the cramped space, it's hard to say whether it's Taki's poor skills or her refusal to sing anyone's feelings from this voice."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "53": {
         "speaker": "",
@@ -556,7 +1007,18 @@
                 "text": "But it's too familiar. Calling up the lyrics from this kind of melody is a mechanical task. There's no way there could be a mistake."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "54": {
         "speaker": "",
@@ -566,10 +1028,21 @@
                 "text": "Taki gripped the microphone. If she still had to emphasize her solo karaoke style at this point, it would be a bit too humorous."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "55": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -586,7 +1059,18 @@
                 "text": "In the end, the cold wind didn't spare anyone who was thinly dressed. Youth is not a reason for Taki Shiina to escape punishment. What's more, the cardholder has already overdrafted."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "57": {
         "speaker": "",
@@ -596,7 +1080,18 @@
                 "text": "What impact will the itchy silence in her throat have on her life? Although she'll probably be hoarse tomorrow if she continues to sing like this, it won't be worse than yesterday, the day before yesterday, or today."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "58": {
         "speaker": "",
@@ -606,17 +1101,39 @@
                 "text": "The worst thing should be that there are still people concerned about this body."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "59": {
-        "speaker": "长崎素世",
+        "speaker": "Soyo Nagasaki",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "60": {
         "speaker": "",
@@ -626,7 +1143,18 @@
                 "text": "There are no more songs. There is no chance to recover or divert. The familiar drum beats disappeared, and the soles of her shoes were still tapping the beat softly, as if it were another routine solo session in a performance."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "61": {
         "speaker": "",
@@ -636,7 +1164,18 @@
                 "text": "The jukebox automatically played songs from the copyright library, and the voiceless instruments quietly played together. I wonder why such a wordless dance music would be on the song list of a karaoke bar."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "62": {
         "speaker": "",
@@ -646,7 +1185,18 @@
                 "text": "There shouldn't be anyone sitting here wanting to sing, but unable to."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "63": {
         "speaker": "",
@@ -656,7 +1206,18 @@
                 "text": "The mermaid could exchange her voice for her soul and the freedom to be human, but she paid the ticket price and could only watch a clumsy cat dance. Who has ever heard of that damned Libertango?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "64": {
         "speaker": "",
@@ -666,7 +1227,18 @@
                 "text": "But the soul that has already left its body can't be stuffed back in for a while. If you don't sing, what else can you do?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "65": {
         "speaker": "",
@@ -716,7 +1288,7 @@
         }
     },
     "66": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -726,7 +1298,7 @@
         "atts": {}
     },
     "67": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -736,7 +1308,7 @@
         "atts": {}
     },
     "68": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -793,7 +1365,7 @@
         }
     },
     "70": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -803,7 +1375,7 @@
         "atts": {}
     },
     "71": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -867,7 +1439,18 @@
                 "text": "Taki rubbed her hands, as if there was some sweat, but she obviously didn't play the drums."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "74": {
         "speaker": "",
@@ -877,7 +1460,18 @@
                 "text": "The microphone that has been put down is lying on the sofa. What should I do now? It would be too abrupt to get up and imitate the dance right away."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "75": {
         "speaker": "",
@@ -887,20 +1481,42 @@
                 "text": "The person sitting next to her sighed. Soyo stood up, walked around the coffee table, and picked up Taki's phone."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "76": {
-        "speaker": "长崎素世",
+        "speaker": "Soyo Nagasaki",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Can you rewind the progress bar a bit?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "77": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -917,7 +1533,18 @@
                 "text": "Can't songs be replayed? No one has ever stipulated that. The songs you want to sing, the songs you have to sing, can be sung at any time. The young youth sounded again."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "79": {
         "speaker": "",
@@ -927,20 +1554,42 @@
                 "text": "Soyo walked back to Taki, sat down, and handed her a microphone that Taki Shiina had put down."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "80": {
-        "speaker": "长崎素世",
+        "speaker": "Soyo Nagasaki",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Sing. So what if you go hoarse? What are you afraid of? I don't care about you."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "81": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -957,7 +1606,18 @@
                 "text": "Taki stopped looking at the expression of her always-lying friend."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "83": {
         "speaker": "",
@@ -967,10 +1627,21 @@
                 "text": "Because she knew that she was telling the truth now."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "84": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -993,7 +1664,7 @@
         }
     },
     "85": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1016,7 +1687,7 @@
         }
     },
     "86": {
-        "speaker": "长崎素世",
+        "speaker": "Soyo Nagasaki",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1039,7 +1710,7 @@
         }
     },
     "87": {
-        "speaker": "长崎素世",
+        "speaker": "Soyo Nagasaki",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1062,7 +1733,7 @@
         }
     },
     "88": {
-        "speaker": "椎名立希&长崎素世",
+        "speaker": "Taki Shiina&Soyo Nagasaki",
         "spans": [
             {
                 "html": "style='color:#ffdd88'",
@@ -1077,10 +1748,21 @@
                 "text": "Just dancing and dancing"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "89": {
-        "speaker": "椎名立希&长崎素世",
+        "speaker": "Taki Shiina&Soyo Nagasaki",
         "spans": [
             {
                 "html": "style='color:#7777ff'",
@@ -1095,7 +1777,18 @@
                 "text": "Celebrate today"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "90": {
         "speaker": "",
@@ -1105,10 +1798,21 @@
                 "text": "A gentle voice mixed in. Tonight dissipated."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "91": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1125,7 +1829,18 @@
                 "text": "Although Soyo has never mentioned it. There are many things they haven't mentioned."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "93": {
         "speaker": "",
@@ -1135,17 +1850,39 @@
                 "text": "So MyGO!!!!! still has many, many \"firsts\" to do together."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "94": {
-        "speaker": "长崎素世",
+        "speaker": "Soyo Nagasaki",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Is life paused at the age of 16 when you have to mention what high school you went to even at the age of 23?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "95": {
         "speaker": "",
@@ -1155,7 +1892,18 @@
                 "text": "Turn the backing vocals up to the maximum. The voice of Tomori Takamatsu, the vocalist of the rock band MyGO!!!!!. Immature, androgynous, explosive, and disorganized."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "96": {
         "speaker": "",
@@ -1165,20 +1913,42 @@
                 "text": "Turn up the vocals in the jukebox, and the lonely drum beats on the soles of the shoes and the floor need a wide outlet. Someone wants to start the rhythm, someone wants to play the rhythm."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "97": {
-        "speaker": "长崎素世",
+        "speaker": "Soyo Nagasaki",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Speaking of which, it's quite surprising that Taki could stay obediently until now."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "98": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1195,17 +1965,39 @@
                 "text": "The singing is about to stop. The singing has stopped. The words that have been said will not be replayed on the jukebox."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "100": {
-        "speaker": "长崎素世",
+        "speaker": "Soyo Nagasaki",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "101": {
         "speaker": "",
@@ -1215,7 +2007,18 @@
                 "text": "There is no next song. The jukebox automatically played songs from the copyright library, and the voiceless instruments quietly played together. I wonder why such a wordless dance music would be on the song list of a karaoke bar."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "102": {
         "speaker": "",
@@ -1225,7 +2028,18 @@
                 "text": "There wouldn't be anyone sitting here who couldn't sing."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "103": {
         "speaker": "",
@@ -1235,7 +2049,18 @@
                 "text": "The familiar drum beats disappeared, and the soles of her shoes were still tapping the beat softly, as if it were another routine solo session in a performance."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "104": {
         "speaker": "",
@@ -1245,7 +2070,18 @@
                 "text": "Taki Shiina finally heard clearly this time. Soyo Nagasaki sighed, a long and heavy sigh, heavier than seeing Raana Kaname covered in branches and soil, hanging on a tree and unable to get down."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "105": {
         "speaker": "",
@@ -1255,7 +2091,18 @@
                 "text": "Although Raana Kaname hasn't done that for a long time."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "106": {
         "speaker": "",
@@ -1265,10 +2112,21 @@
                 "text": "So Taki Shiina should also wake up from the drum beats of so many years ago—is that what her sigh means?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "107": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1285,10 +2143,21 @@
                 "text": "But would that Taki Shiina admit defeat? The drummer has been on the wrong path for seven full years, there's no reason to raise her hands and surrender in the end... a few days."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "109": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1298,17 +2167,28 @@
         "atts": {}
     },
     "110": {
-        "speaker": "长崎素世",
+        "speaker": "Soyo Nagasaki",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Is there anything else you want to do, Taki?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "111": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1318,7 +2198,7 @@
         "atts": {}
     },
     "112": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1335,7 +2215,18 @@
                 "text": "The conversation returned to a question-and-answer format. Taki Shiina restarted thinking."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "114": {
         "speaker": "",
@@ -1345,10 +2236,21 @@
                 "text": "A flash of inspiration flashed past, and reason reached out, but still allowed the invisible things to wander away. But reason always has its own reliable conclusions."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "115": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1358,14 +2260,25 @@
         "atts": {}
     },
     "116": {
-        "speaker": "长崎素世",
+        "speaker": "Soyo Nagasaki",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "........."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "117": {
         "speaker": "",
@@ -1375,20 +2288,42 @@
                 "text": "Suddenly, Taki couldn't see the smile on her face that matched her expression."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "118": {
-        "speaker": "长崎素世",
+        "speaker": "Soyo Nagasaki",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "What time is it now?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "119": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1405,7 +2340,18 @@
                 "text": "The phones are neatly stacked on the other end of the coffee table. To reach them, you either have to stand up and walk around a big circle, or awkwardly lie on the table."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "121": {
         "speaker": "",
@@ -1415,17 +2361,39 @@
                 "text": "Taki Shiina didn't want to do either. As for the sports bracelet quietly fastened on her left wrist, Taki Shiina is trying to quit the habit of looking at it."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "122": {
-        "speaker": "长崎素世",
+        "speaker": "Soyo Nagasaki",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "What time is it now?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "123": {
         "speaker": "",
@@ -1435,10 +2403,21 @@
                 "text": "Taki Shiina stood up, walked around the coffee table, and grabbed her phone."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "124": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1455,7 +2434,18 @@
                 "text": "Even as an adult, the captain isn't too tall. Even so, when she stands and casts a shadow, she can still cover the entire bassist, blocking her gaze completely."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "126": {
         "speaker": "",
@@ -1465,7 +2455,18 @@
                 "text": "Soyo looked up, unable to see any flicker in the eyes of the stern person. Completely different from how she looks in front of the spotlights on stage."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "127": {
         "speaker": "",
@@ -1475,20 +2476,42 @@
                 "text": "Taki stood there waiting for her. Soyo grabbed her bag and got up decisively."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "128": {
-        "speaker": "长崎素世",
+        "speaker": "Soyo Nagasaki",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "We can go."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "129": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",

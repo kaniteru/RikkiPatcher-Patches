@@ -7,7 +7,18 @@
                 "text": "Knocking off the raindrops on her body. Standing on the porch, looking at the darkness inside the house, Taki felt a long-lost sense of relaxation."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "1": {
         "speaker": "",
@@ -17,7 +28,18 @@
                 "text": "The series of strange events made the time spent outside seem extremely long, so the thick darkness at home at this moment felt reassuringly heavy."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "2": {
         "speaker": "",
@@ -27,7 +49,18 @@
                 "text": "Walking along the dimly lit corridor into the living room, Taki fumbled for the light switch on the wall."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "3": {
         "speaker": "",
@@ -37,7 +70,18 @@
                 "text": "The viscous warm yellow light immediately enveloped her."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "4": {
         "speaker": "",
@@ -47,7 +91,18 @@
                 "text": "Encountering MyGO!!!!! members during her private time after a long absence dragged Taki's thoughts back to the band."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "5": {
         "speaker": "",
@@ -57,7 +112,18 @@
                 "text": "Since everyone started working, everyone has had new lives. Although they still maintain the habit of rehearsing together, the frequency has gradually decreased recently."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "6": {
         "speaker": "",
@@ -67,7 +133,18 @@
                 "text": "It's either Soyo having to go on a business trip temporarily, or Anon having a new live broadcast event, or Raana having to deal with academic trivialities, and sometimes even Tomori needs to devote herself to writing at home."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "7": {
         "speaker": "",
@@ -77,7 +154,18 @@
                 "text": "It is becoming increasingly difficult to get the members' time together. But if they don't play together, practice is meaningless. This contradiction has led to fewer and fewer opportunities to practice, and the frequency of live performances has also decreased."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "8": {
         "speaker": "",
@@ -87,27 +175,60 @@
                 "text": "At first, each member who had something temporary to do would be full of apologies, but over time, they slowly got used to it."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "9": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(As you grow up, there will be such helplessness, right?)"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "10": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(Since we didn't plan to take the path of a professional band from the beginning, it's inevitable that it will become like this.)"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "11": {
         "speaker": "",
@@ -117,7 +238,18 @@
                 "text": "But a lifelong relationship will not disappear because of a few small leave requests and absences."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "12": {
         "speaker": "",
@@ -127,7 +259,18 @@
                 "text": "Taki still diligently fulfills her responsibilities in the team: urging practice, composing and arranging music, and organizing live performances."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "13": {
         "speaker": "",
@@ -141,7 +284,18 @@
                 "text": "——Even if they don't debut, they should maintain a certain frequency of activities out of responsibility to their fans."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "14": {
         "speaker": "",
@@ -151,7 +305,18 @@
                 "text": "Apart from the band, Taki has also had an unsatisfactory work life over the years. After repeated setbacks in the workplace, she had no choice but to turn to music, her hobby, to make a living."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "15": {
         "speaker": "",
@@ -161,7 +326,18 @@
                 "text": "She currently teaches drums at a music tutoring institution, which is a not entirely meaningless but rather boring job."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "16": {
         "speaker": "",
@@ -171,7 +347,18 @@
                 "text": "Some people have also recognized Taki's composing ability and wanted to hire her as a professional composer or buy the copyright to her songs, but she resolutely refused——"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "17": {
         "speaker": "",
@@ -181,7 +368,18 @@
                 "text": "She was unwilling and had never imagined her songs appearing anywhere other than MyGO!!!!!."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "18": {
         "speaker": "",
@@ -191,7 +389,18 @@
                 "text": "Over the years, she has dedicated all her passion for music to this lukewarm amateur band, which has also spawned a deeply rooted habit."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "19": {
         "speaker": "",
@@ -201,7 +410,18 @@
                 "text": "Get off work, go home, compose, go to work. This has almost become her daily routine after returning home——or rather, her only routine."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "20": {
         "speaker": "",
@@ -211,7 +431,18 @@
                 "text": "Sometimes, when she accumulates too many songs without titles or lyrics, she turns to constantly polishing the arrangement of existing songs, trying to fit the members' playing habits, so that the members can get started more easily during the long-awaited practice."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "21": {
         "speaker": "",
@@ -221,27 +452,60 @@
                 "text": "After all, everyone's time is precious."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "22": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(Even so, the time we can get together recently is really unusually short.)"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "23": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(The lyrics that Tomori sent last time have been made into three versions... and we haven't practiced them even once... There are a few places that still need to be adjusted.)"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "24": {
         "speaker": "",
@@ -251,27 +515,60 @@
                 "text": "With these thoughts in mind, Taki decided to arrange a joint practice no matter what in the near future."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "25": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Speaking of Tomori... I wonder if those two cicada shells can help her come up with something."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "26": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "I can't even grasp inspiration myself, let alone help Tomori find it."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "27": {
         "speaker": "",
@@ -281,57 +578,123 @@
                 "text": "The phone vibrated appropriately, a text message had arrived."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "28": {
-        "speaker": "高松灯",
+        "speaker": "Tomori Takamatsu",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "\"Did Rikki get home safely? The rain seemed to suddenly get heavier halfway, did Rikki get into the house before that?\""
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "29": {
-        "speaker": "高松灯",
+        "speaker": "Tomori Takamatsu",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "\"Thanks to Rikki's instructions, the driver took me all the way to my doorstep before letting me out of the car. Tomori and the cicada shells basically didn't get wet, which is really great.\""
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "30": {
-        "speaker": "高松灯",
+        "speaker": "Tomori Takamatsu",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "\"On the way back, I was still worried about what to do if the cicada shells got wet. Wiping them might break the thin cicada wings, and leaving them alone would soften the cicada shells. Thinking about how they could lightly flap their wings and shake off those water droplets when they were still alive, I can't help but feel that life is amazing.\""
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "31": {
-        "speaker": "高松灯",
+        "speaker": "Tomori Takamatsu",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "\"Rikki must also take good care of yourself. If you get caught in the rain, remember to take a shower and wash your hair, and dry it thoroughly.\""
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "32": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(Okay, after all, even if I rub my head hard with a towel, it won't split into several pieces like cicada wings.)"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "33": {
         "speaker": "",
@@ -341,17 +704,39 @@
                 "text": "Being cared for by others always makes people feel happy, and Taki Shiina's brain also rarely spits out a witty bubble. Of course, it's impossible to reply to Tomori like that, so she honestly typed out the following reply."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "34": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "\"Okay, I got home before the rain got heavy and I'm going to take a shower now.\""
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "35": {
         "speaker": "",
@@ -361,7 +746,18 @@
                 "text": "The obligation to reply to each other's notifications is completely fulfilled here. Although she still wanted to see Tomori's next reply, the feeling of dampness on her body and Tomori's instructions were urging her."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "36": {
         "speaker": "",
@@ -371,7 +767,18 @@
                 "text": "Taki took off her wet coat and hung it on the chair, and walked towards the bathroom."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "37": {
         "speaker": "",
@@ -381,17 +788,39 @@
                 "text": "Leaning back, wrapped in this fatigue, she slowly closed her eyes. Her brain also instantly broke free from the shackles of the external world and moved towards self-serving operation."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "38": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "……………………………"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "39": {
         "speaker": "",
@@ -401,7 +830,18 @@
                 "text": "The electronic clock on the table skipped two hours. The sleep just now was not long, but it was enough to get rid of the intoxicated and weak state."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "40": {
         "speaker": "",
@@ -411,17 +851,39 @@
                 "text": "Taki sat up with difficulty, and her back and lumbar spine immediately protested with soreness. Enduring the uncomfortable chill after the cold sweat all over her body receded, she couldn't help but shiver."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "41": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(Could I have caught a cold...?)"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "42": {
         "speaker": "",
@@ -431,17 +893,39 @@
                 "text": "Subconsciously feeling her forehead, there was nothing unusual, which relieved Taki."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "43": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(Even so, I should quickly take a shower and change my clothes.)"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "44": {
         "speaker": "",
@@ -451,7 +935,18 @@
                 "text": "Taki stood up abruptly, but suddenly felt that she had stepped on something, cold and crisp."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "45": {
         "speaker": "",
@@ -461,17 +956,39 @@
                 "text": "She looked down and saw a can of beer that she had left half-finished on the table two days ago, which had rolled onto the ground at some point."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "46": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(…Today is really bad luck.)"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "47": {
         "speaker": "",
@@ -481,7 +998,18 @@
                 "text": "Sighing deeply, she patiently cleaned it up little by little with a tissue. Taki took off her wet coat and hung it on the chair, and walked towards the bathroom."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "48": {
         "speaker": "",
@@ -491,7 +1019,18 @@
                 "text": "After taking a shower, Taki finally sat down on her familiar work chair. Even though she has now moved out to rent a house alone, she still decorated the bedroom to resemble her home."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "49": {
         "speaker": "",
@@ -501,7 +1040,18 @@
                 "text": "It's not because she's worried about missing home occasionally, nor is it a matter of being afraid of being in an unfamiliar environment. It's because she feels that the former room had the environment that allowed her to devote herself to work wholeheartedly."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "50": {
         "speaker": "",
@@ -511,7 +1061,18 @@
                 "text": "The joint practice is not yet determined, but Taki will always be prepared. The night is the time when she can concentrate the most, and she doesn't want to miss this time, so she puts on her headphones, fiddles with the tuner, and waits for the computer to turn on——"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "51": {
         "speaker": "",
@@ -521,10 +1082,21 @@
                 "text": "While waiting for the startup, she swiped open her phone, and an unread message lay below 3:00."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "52": {
-        "speaker": "千早爱音",
+        "speaker": "Anon Chihaya",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -535,67 +1107,144 @@
                 "text": "(≧ω≦)/\""
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "53": {
-        "speaker": "千早爱音",
+        "speaker": "Anon Chihaya",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "\"By the way, the new product at that tea restaurant is delicious! I wonder if everyone can go there for dinner after the next practice? I'm looking forward to it (＞ｙ＜)\""
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "54": {
-        "speaker": "千早爱音",
+        "speaker": "Anon Chihaya",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "\"PS: It suddenly rained again halfway, I wonder if Rikki got wet——you better get wet! Otherwise, it would be too pitiful if I was the only one who became a drowned rat! I almost didn't make it to the live broadcast!\""
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "55": {
-        "speaker": "千早爱音",
+        "speaker": "Anon Chihaya",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "\"PS of PS: Remember to take a good hot bath, don't be casual just because you live alone.\""
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "56": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "This guy... talks too much nonsense."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "57": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Uh, why is there a selfie——who wants to see your after-bath photo!"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "58": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "I knew nothing good would come of meeting her."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "59": {
         "speaker": "",
@@ -605,17 +1254,39 @@
                 "text": "Complaining is complaining, Taki stared at the screen full of text for a while, and still returned a serious panda emoticon, with the text \"Don't be late for the next practice.\""
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "60": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(Although I really want to laugh at her, I'd better not let her know about the livestream of her with smeared makeup on the way home.)"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "61": {
         "speaker": "",
@@ -625,77 +1296,165 @@
                 "text": "It was Tomori's last reply."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "62": {
-        "speaker": "高松灯",
+        "speaker": "Tomori Takamatsu",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "\"By the way, Taki paid for the taxi fare today, and I don't know how much it cost exactly... Thank you so much today. I'll prepare a return gift for Taki at the next practice.\""
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "63": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Next practice, huh..."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "64": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(...I'll reply to Tomori's message tomorrow. I can't disturb her rest.)"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "65": {
-        "speaker": "长崎素世",
+        "speaker": "Soyo Nagasaki",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "\"Did you get home safely? I'm really sorry that I couldn't send you off tonight... It's raining so hard, just using an umbrella probably isn't enough. Remember to take a good bath when you get home and dry your hair.\""
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "66": {
-        "speaker": "长崎素世",
+        "speaker": "Soyo Nagasaki",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "\"Or drink some hot drinks, ginger tea or cocoa are good. Don't catch a cold. Don't worry about returning the umbrella, just bring it next time we meet.\""
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "67": {
-        "speaker": "长崎素世",
+        "speaker": "Soyo Nagasaki",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "\"By the way, don't use coffee as a hot drink.\""
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "68": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "It's much easier to open up on the phone."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "69": {
         "speaker": "",
@@ -705,7 +1464,18 @@
                 "text": "The diligent composer guiltily supported the half-finished drink on the desktop. It's not only cold, but it's also coffee."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "70": {
         "speaker": "",
@@ -715,27 +1485,60 @@
                 "text": "The excessively thorough understanding, with a hint of belated chill, ran down her spine, and Taki felt all her hairs stand on end. The captured criminal came up with an even bolder idea: should I not reply to her first? Wouldn't replying at this point expose everything?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "71": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Sigh."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "72": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "\"Got it, you too.\""
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "73": {
         "speaker": "",
@@ -745,37 +1548,81 @@
                 "text": "Storm? Post-event settlement? Let's talk about it tomorrow. Timely response is the top priority for a lifetime."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "74": {
-        "speaker": "要乐奈",
+        "speaker": "Raana Kaname",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "\"1\""
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "75": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "This guy... she clearly got home a long time ago, how would it hurt to report her safety accurately?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "76": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Well, it's an improvement."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "77": {
         "speaker": "",
@@ -785,17 +1632,39 @@
                 "text": "After thinking about it, Taki replied with a panda emoticon with the text \"OK\"."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "78": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(The stray cat's phone is always on silent, so it shouldn't disturb her sleep.)"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "79": {
         "speaker": "",
@@ -805,7 +1674,18 @@
                 "text": "The messages from others seemed to give Taki strength."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "80": {
         "speaker": "",
@@ -815,17 +1695,39 @@
                 "text": "Opening the audio file and listening to the familiar melody, her consciousness and attention quickly flowed into one note after another, and began to shuttle back and forth between the horizontal lines of the score."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "81": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(Tonight I must———)"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "82": {
         "speaker": "",
@@ -835,7 +1737,18 @@
                 "text": "When Taki came back to her senses and took off her headphones——she once again saw the morning light that was always diffused on the curtains, which she had long been accustomed to."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "83": {
         "speaker": "",
@@ -845,7 +1758,18 @@
                 "text": "Heard the melodious wind chimes and bird songs and——"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "84": {
         "speaker": "",
@@ -855,7 +1779,18 @@
                 "text": "The inevitable wails of the bones from her waist."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "85": {
         "speaker": "",

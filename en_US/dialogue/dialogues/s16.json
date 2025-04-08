@@ -7,7 +7,18 @@
                 "text": "The commercial district. The sun faded away its last trace of light, but the electrified night did not see animals returning to their nests."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "1": {
         "speaker": "",
@@ -17,17 +28,39 @@
                 "text": "Unfamiliar shops surrounded her, the aroma of hot meals, the dazzling lights... but she was single-mindedly escaping towards her own den. It had everything she needed, like a frightened wolf yearning for its home."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "2": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Damn it... what's with that black cat?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "3": {
         "speaker": "",
@@ -37,7 +70,18 @@
                 "text": "Taki hurriedly took two steps towards the curb. Luckily, it wasn't raining today, otherwise, it would have resulted in a classic drenched-wolf accident."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "4": {
         "speaker": "",
@@ -47,17 +91,39 @@
                 "text": "The absent-minded music teacher slowed her pace, eventually stopping at the curb with a frown. Looking up, the painted lamppost stood right in front of her. Her absentmindedness saved her. Taki Shiina vigorously patted her face."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "5": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "That kind of nonsensical thing can scare you? You're really getting more and more backwards as you live."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "6": {
         "speaker": "",
@@ -67,7 +133,18 @@
                 "text": "It's past six o'clock. The light bulb flickered twice, finally connecting to the electricity she paid taxes for. What exactly is so scary? She is a human citizen of modern society, not a wild animal who has strayed into a steel forest. The world should still be turning in the way she is familiar with."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "7": {
         "speaker": "",
@@ -77,7 +154,18 @@
                 "text": "Taki lowered her head and closed her eyes. Now that her soul had returned, there was no need to keep staring at the LED lights. She should continue walking forward."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "8": {
         "speaker": "",
@@ -87,7 +175,18 @@
                 "text": "Of course, there was another reason: the light bulb was really a bit dazzling."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "9": {
         "speaker": "？？？",
@@ -97,17 +196,39 @@
                 "text": "What are you doing?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "10": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Uh, Soyo..."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "11": {
         "speaker": "",
@@ -117,7 +238,18 @@
                 "text": "A voice that couldn't be more familiar, albeit the business version."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "12": {
         "speaker": "",
@@ -127,7 +259,18 @@
                 "text": "But no amount of familiarity could withstand the test of time. Even someone as unsociable as Taki Shiina was unwilling to call out the wrong name on the street."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "13": {
         "speaker": "？？？",
@@ -137,17 +280,39 @@
                 "text": "Spacing out on the street?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "14": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "...Soyo."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "15": {
         "speaker": "",
@@ -157,7 +322,18 @@
                 "text": "Fortunately, this troublesome woman did not belong to any mysterious \"perceptions\" such as omens or images. High heels, a ladies' shirt, an outrageously expensive coat... this person undoubtedly belonged to the normal world."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "16": {
         "speaker": "",
@@ -167,17 +343,39 @@
                 "text": "Taki suddenly wanted to speak first."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "17": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Not taking the car today?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "18": {
         "speaker": "",
@@ -187,17 +385,39 @@
                 "text": "The woman named Soyo frowned, but eventually followed the question and answered."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "19": {
-        "speaker": "长崎素世",
+        "speaker": "Soyo Nagasaki",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "The car is over there, I just came down to buy something."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "20": {
         "speaker": "",
@@ -207,7 +427,18 @@
                 "text": "Taki nodded. Then she had nothing more to say."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "21": {
         "speaker": "",
@@ -217,7 +448,18 @@
                 "text": "Although it wasn't as if she really couldn't think of a topic, it was just a chance encounter after all. Soyo Nagasaki probably didn't have time to listen to her ramble on about the band."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "22": {
         "speaker": "",
@@ -227,17 +469,39 @@
                 "text": "For some reason, she felt a little cool on her face. The topic had been successfully diverted. She hoped that Soyo Nagasaki would let her go."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "23": {
-        "speaker": "长崎素世",
+        "speaker": "Soyo Nagasaki",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "I thought you would continue to go to the izakaya to eat. Raana said she's seen you there for four days in a row."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "24": {
         "speaker": "",
@@ -247,7 +511,18 @@
                 "text": "Raana, a strange cat... has her perception become so useless?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "25": {
         "speaker": "",
@@ -257,27 +532,60 @@
                 "text": "Taki unconsciously raised her empty hand to touch her face. Cool, but it seemed to be dry again."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "26": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "When did she... how can she answer you so clearly?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "27": {
-        "speaker": "长崎素世",
+        "speaker": "Soyo Nagasaki",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Send a few more messages, piece them together, and it's not difficult to guess what she wants to express. After all, we've known each other for so long, and I know a little bit about Raana's temper. You should contact everyone more often outside of work."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "28": {
         "speaker": "",
@@ -287,7 +595,18 @@
                 "text": "Taki didn't respond. How natural it was to keep in touch with friends... yet she really had no life worth sharing."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "29": {
         "speaker": "",
@@ -297,7 +616,18 @@
                 "text": "Pouring garbage into the group chat day after day like Anon Chihaya was also a talent. Besides, didn't Soyo herself rarely reply to these messages?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "30": {
         "speaker": "",
@@ -307,7 +637,18 @@
                 "text": "The air returned to silence. Taki noticed Soyo's gaze looking at the bag she was carrying. She cooperatively lifted it up, and the convenience store logo turned halfway around with her strength."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "31": {
         "speaker": "",
@@ -317,7 +658,18 @@
                 "text": "Rain."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "32": {
         "speaker": "",
@@ -327,7 +679,18 @@
                 "text": "Taki's perception hadn't failed, it was just that the rain could not blow to where Soyo Nagasaki was walking on the inside of the street."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "33": {
         "speaker": "",
@@ -337,7 +700,18 @@
                 "text": "Someone will always be naturally squeezed to the position under the eaves while walking, even if she herself does not completely agree."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "34": {
         "speaker": "",
@@ -347,7 +721,18 @@
                 "text": "The only good news was that she didn't have to think about topics anymore."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "35": {
         "speaker": "",
@@ -357,7 +742,18 @@
                 "text": "No animal likes its fur to be soaked by the rain, even if it is not wearing its original fur. This is their privilege as humans, at the cost of not being able to smell the dampness in the air."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "36": {
         "speaker": "",
@@ -367,27 +763,60 @@
                 "text": "...Does Soyo still hate the rain?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "37": {
-        "speaker": "长崎素世",
+        "speaker": "Soyo Nagasaki",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "I have an umbrella in my car, let's go over."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "38": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Okay."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "39": {
         "speaker": "",
@@ -397,7 +826,18 @@
                 "text": "The asphalt pavement can hide the traces of boots, but it can't hide those of high heels. It seemed that the owner of the luxury car was also resting with her eyes closed in the back seat today, after all, elegance needs to be nourished—but this acquired elegance is easily soluble in water."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "40": {
         "speaker": "",
@@ -407,27 +847,60 @@
                 "text": "When Taki arrived at the car, the owner was still at least five steps behind her. The professional driver waiting in the driver's seat heard the noise, turned his head, but met a face ashen as death in the shadows. The young man leaned straight back against the backrest."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "41": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(...Is it really that scary?)"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "42": {
-        "speaker": "长崎素世",
+        "speaker": "Soyo Nagasaki",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "The passenger seat, in the glove box!"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "43": {
         "speaker": "",
@@ -437,7 +910,18 @@
                 "text": "In just a moment, the rain became heavier."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "44": {
         "speaker": "",
@@ -447,27 +931,60 @@
                 "text": "When the employer's face appeared in the field of vision, the driver's complexion finally looked a little better. The car door opened in response, Taki leaned in, braving the young employee's still slightly panicked eyes, groping to get into the property of her old friend in the back seat."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "45": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "White, gray, pink, yellow... black."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "46": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "What kind of person has so many umbrellas? Preparing a man-made rainbow?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "47": {
         "speaker": "",
@@ -477,7 +994,18 @@
                 "text": "Almost subconsciously, Taki pulled out the last black umbrella. The joking mood and the necessary thanks urged her to turn her head to look at Soyo, but she ran into a wandering gaze."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "48": {
         "speaker": "",
@@ -487,7 +1015,18 @@
                 "text": "Intuition told her that she shouldn't honestly tell the freshly baked joke at this time."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "49": {
         "speaker": "",
@@ -497,7 +1036,18 @@
                 "text": "This was not difficult to understand, there were things that she and Soyo were both a little ashamed to admit. Although they may not be bad, such as concern, concern, and concern."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "50": {
         "speaker": "",
@@ -507,7 +1057,18 @@
                 "text": "But standing there blankly with her mouth open and not speaking was really too stupid. Taki gripped the umbrella handle, letting it rotate halfway around, and finally clamped it tightly at her waist, like hanging a sword."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "51": {
         "speaker": "",
@@ -517,37 +1078,81 @@
                 "text": "The mood for joking came suddenly, but went slowly. Taki rarely wanted to say something witty in the silent air."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "52": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "The rain is pretty heavy... should I hitch a ride?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "53": {
-        "speaker": "长崎素世",
+        "speaker": "Soyo Nagasaki",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "54": {
-        "speaker": "长崎素世",
+        "speaker": "Soyo Nagasaki",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Sorry, I have a meeting tonight, and I might not have time..."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "55": {
         "speaker": "",
@@ -557,7 +1162,18 @@
                 "text": "The joke failed. Although even in the heavy rain that extinguished the night, Taki actually did not have a strong intention of being driven home."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "56": {
         "speaker": "",
@@ -567,7 +1183,18 @@
                 "text": "There were naturally many solutions: taking a taxi, taking the train, or even walking back in the rain. A rain shower was not a big trouble for a 23-year-old after all."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "57": {
         "speaker": "",
@@ -577,7 +1204,18 @@
                 "text": "But a sincere and embarrassed refusal is always vaguely sad."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "58": {
         "speaker": "",
@@ -587,27 +1225,60 @@
                 "text": "At the low point, the easiest thing to emerge was concern. The plastic bag hanging on her left arm was painfully tight. Taki decided to lighten her load. Someone probably wouldn't be able to eat a filling meal tonight."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "59": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Candy, not cigarettes. Make do if you're hungry."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "60": {
-        "speaker": "长崎素世",
+        "speaker": "Soyo Nagasaki",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "...Thank you."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "61": {
         "speaker": "",
@@ -617,7 +1288,18 @@
                 "text": "The folding umbrella handle supported the smooth surface, and the umbrella surface was opaque. Taki didn't bother to guess its price."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "62": {
         "speaker": "",
@@ -627,16 +1309,38 @@
                 "text": "The car started smoothly, and the person holding the umbrella waved goodbye to the brief meeting. The warmth stolen from the confined space dissipated as soon as it was blown, the wind was cold, the rain was wet, and she was temporarily an unextinguished flame."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "63": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Hurry back."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     }
 }

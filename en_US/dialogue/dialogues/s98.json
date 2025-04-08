@@ -7,7 +7,18 @@
                 "text": "Saying goodbye to Sakiko, she walked back to her residence through the morning sunlight."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "1": {
         "speaker": "",
@@ -17,7 +28,18 @@
                 "text": "The computer screen returned to Taki's unfinished work, the project files and backups all deleted cleanly."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "2": {
         "speaker": "",
@@ -27,10 +49,21 @@
                 "text": "It was as if nothing had happened."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "3": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -40,7 +73,7 @@
         "atts": {}
     },
     "4": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -50,7 +83,7 @@
         "atts": {}
     },
     "5": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -60,7 +93,7 @@
         "atts": {}
     },
     "6": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -77,7 +110,18 @@
                 "text": "The chirping of swallows came from outside the window, and a new day began."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "8": {
         "speaker": "",
@@ -87,10 +131,21 @@
                 "text": "On the carpet, the last remaining shards of glass sparkled. Taki picked them up and placed them in front of the table."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "9": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -100,7 +155,7 @@
         "atts": {}
     },
     "10": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -110,7 +165,7 @@
         "atts": {}
     },
     "11": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -120,7 +175,7 @@
         "atts": {}
     },
     "12": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -130,7 +185,7 @@
         "atts": {}
     },
     "13": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -140,7 +195,7 @@
         "atts": {}
     },
     "14": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -150,7 +205,7 @@
         "atts": {}
     },
     "15": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -167,7 +222,18 @@
                 "text": "——How much longer?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "17": {
         "speaker": "",
@@ -177,7 +243,18 @@
                 "text": "The wall clock, the numbers in the lower right corner of the screen, the angle of the sun tilting away from the horizon."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "18": {
         "speaker": "",
@@ -187,7 +264,18 @@
                 "text": "As long as people want to, life slips away from their eyes in infinite ways and forms."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "19": {
         "speaker": "",
@@ -197,7 +285,18 @@
                 "text": "Taki thought for a while, then pressed her right hand tightly against her chest."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "20": {
         "speaker": "",
@@ -207,10 +306,21 @@
                 "text": "The amplitude of her heartbeat was so weak that it could not be felt."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "21": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -227,10 +337,21 @@
                 "text": "She looked at her reflection in the window."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "23": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -240,7 +361,7 @@
         "atts": {}
     },
     "24": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -250,7 +371,7 @@
         "atts": {}
     },
     "25": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -260,7 +381,7 @@
         "atts": {}
     },
     "26": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -270,7 +391,7 @@
         "atts": {}
     },
     "27": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -280,7 +401,7 @@
         "atts": {}
     },
     "28": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -290,7 +411,7 @@
         "atts": {}
     },
     "29": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -300,7 +421,7 @@
         "atts": {}
     },
     "30": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -317,7 +438,18 @@
                 "text": "Bright imaginations mixed with memories played in the drummer's mind."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "32": {
         "speaker": "",
@@ -327,7 +459,18 @@
                 "text": "Sitting in the dim room, she missed the smell of the stage, the sounds of the stage, the bright light shining in front of her eyes, and the fine dust floating in the air."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "33": {
         "speaker": "",
@@ -337,10 +480,21 @@
                 "text": "——The fingertip movements on the midi keyboard gradually accelerated and gradually slowed down. Finally, they stopped and fell into contemplation."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "34": {
-        "speaker": "丰川祥子",
+        "speaker": "Sakiko Togawa",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -350,7 +504,7 @@
         "atts": {}
     },
     "35": {
-        "speaker": "丰川祥子",
+        "speaker": "Sakiko Togawa",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -360,7 +514,7 @@
         "atts": {}
     },
     "36": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -370,7 +524,7 @@
         "atts": {}
     },
     "37": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -387,7 +541,18 @@
                 "text": "7:00."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "39": {
         "speaker": "",
@@ -397,7 +562,18 @@
                 "text": "Taki turned off the alarm clock and looked at the screen in front of her. \"Unfinished Work\" stopped one step away from completion."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "40": {
         "speaker": "",
@@ -407,7 +583,18 @@
                 "text": "One hour. Music echoed and changed in Taki's mind."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "41": {
         "speaker": "",
@@ -417,10 +604,21 @@
                 "text": "She could write the ending in 20 minutes, arrange the harmony instruments in 25 minutes, and then in 15 minutes..."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "42": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -430,7 +628,7 @@
         "atts": {}
     },
     "43": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -440,7 +638,7 @@
         "atts": {}
     },
     "44": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -450,7 +648,7 @@
         "atts": {}
     },
     "45": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -460,7 +658,7 @@
         "atts": {}
     },
     "46": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -470,7 +668,7 @@
         "atts": {}
     },
     "47": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -487,7 +685,18 @@
                 "text": "Familiar melodies swirled in her mind, and lukewarm rhythms tapped on her still chest."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "49": {
         "speaker": "",
@@ -497,7 +706,18 @@
                 "text": "Taki closed her eyes and listened quietly, until the passage of time changed to counting in syllables."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "50": {
         "speaker": "",
@@ -507,6 +727,17 @@
                 "text": "She got up and walked out of the room."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     }
 }

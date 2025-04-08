@@ -1,6 +1,6 @@
 {
     "0": {
-        "speaker": "高松灯",
+        "speaker": "Tomori Takamatsu",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -26,7 +26,18 @@
                 "text": "Even without hearing clearly, she could understand that Tomori was uttering words of concern, which made what she was about to say even more cruel."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "2": {
         "speaker": "",
@@ -36,7 +47,18 @@
                 "text": "She hadn't dared to look into Tomori's eyes since she pushed open the door. In the view of her lowered head, she could only see two boots moving forward, dragging her to see a patch of green—that was Tomori's skirt."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "3": {
         "speaker": "",
@@ -46,10 +68,21 @@
                 "text": "Until the distance between the two was so close that their toes were almost touching, the question finally became completely clear from the owner of that familiar green skirt."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "4": {
-        "speaker": "高松灯",
+        "speaker": "Tomori Takamatsu",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -73,7 +106,18 @@
                 "text": "Meow~!"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "6": {
         "speaker": "",
@@ -83,27 +127,60 @@
                 "text": "This question ended with a meow. She suddenly raised her head. The cat that had been constantly appearing in her dreams these past few days was now truly appearing on the floor behind Tomori, gently protecting its body with its tail, sitting quietly and elegantly."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "7": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "8": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "(Why doesn't it speak at this time instead?)"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "9": {
         "speaker": "",
@@ -113,7 +190,18 @@
                 "text": "The cat just sat there, shaking its head after the two made eye contact, as if to remind her that she had just made a wrong choice."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "10": {
         "speaker": "",
@@ -123,20 +211,42 @@
                 "text": "Then it stood up, gently nudged open the half-closed bedroom door, and slipped in silently."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "11": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Wait a minute!"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "12": {
-        "speaker": "高松灯",
+        "speaker": "Tomori Takamatsu",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",

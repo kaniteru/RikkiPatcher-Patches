@@ -7,10 +7,21 @@
                 "text": "The unfamiliar dance didn't leave any memories in the drummer's muscles. Taki Shiina's amount of exercise is tentatively not comparable to that of a white-collar worker who has been working at a desk for many years."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "1": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -27,7 +38,18 @@
                 "text": "If she were asked to write a summary of the day of life she just lost, Taki could only give a blank piece of paper."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "3": {
         "speaker": "",
@@ -37,7 +59,18 @@
                 "text": "But perhaps no matter what they did in their ten waking hours, the things Taki could grasp were the same."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "4": {
         "speaker": "",
@@ -47,10 +80,21 @@
                 "text": "The number in the mirror this morning was one cycle less. The person brushing their teeth pulled the corners of their mouth up in the foam. Maybe she's in a good mood today."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "5": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -67,10 +111,21 @@
                 "text": "A few conversations, a few lyrics, this is one of the few things worth remembering in the past ten hours of her waking life."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "7": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -87,7 +142,18 @@
                 "text": "But perhaps no matter what they did in their ten waking hours, the things Taki could grasp were the same."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "9": {
         "speaker": "",
@@ -97,10 +163,21 @@
                 "text": "The number in the mirror this morning was one cycle less. The person brushing their teeth pulled up the corners of their mouth in the foam. It took some effort, and the stiff muscles restricted the upward curve of the corners of her lips. But Taki Shiina would prove to it who was the master of this body."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "10": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -110,7 +187,7 @@
         "atts": {}
     },
     "11": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",

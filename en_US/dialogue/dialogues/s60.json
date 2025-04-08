@@ -7,7 +7,18 @@
                 "text": "Early cherry blossoms on the bridge. The temperature of the south wind. The smell of soil."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "1": {
         "speaker": "",
@@ -17,7 +28,18 @@
                 "text": "These all remind Taki of her very first favorite song..."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "2": {
         "speaker": "",
@@ -27,7 +49,18 @@
                 "text": "In her 14-year-old dream, the starting point of the journey was the gentle beat of the snare drum, and the light rhythm on the cymbal attracted her to constantly look towards the higher and farther clouds."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "3": {
         "speaker": "",
@@ -37,7 +70,18 @@
                 "text": "——\"Fly faster, Taki!\""
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "4": {
         "speaker": "",
@@ -47,10 +91,21 @@
                 "text": "Now the swallows have flown back, and the final stop of the journey is also waving to her."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "5": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -60,7 +115,7 @@
         "atts": {}
     },
     "6": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -70,7 +125,7 @@
         "atts": {}
     },
     "7": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -80,7 +135,7 @@
         "atts": {}
     },
     "8": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -90,7 +145,7 @@
         "atts": {}
     },
     "9": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -100,7 +155,7 @@
         "atts": {}
     },
     "10": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -110,7 +165,7 @@
         "atts": {}
     },
     "11": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -120,7 +175,7 @@
         "atts": {}
     },
     "12": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -130,7 +185,7 @@
         "atts": {}
     },
     "13": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -147,10 +202,21 @@
                 "text": "Her footsteps towards the practice room were more eager than ever."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "15": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -160,7 +226,7 @@
         "atts": {}
     },
     "16": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -170,7 +236,7 @@
         "atts": {}
     },
     "17": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -180,7 +246,7 @@
         "atts": {}
     },
     "18": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -190,7 +256,7 @@
         "atts": {}
     },
     "19": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -200,7 +266,7 @@
         "atts": {}
     },
     "20": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -210,7 +276,7 @@
         "atts": {}
     },
     "21": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -227,10 +293,21 @@
                 "text": "Forcefully strike the drumsticks, the performance will take over the breath, emptying the brain."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "23": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -247,10 +324,21 @@
                 "text": "Time is limited, time is limited."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "25": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -260,7 +348,7 @@
         "atts": {}
     },
     "26": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -270,7 +358,7 @@
         "atts": {}
     },
     "27": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -280,7 +368,7 @@
         "atts": {}
     },
     "28": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -297,7 +385,18 @@
                 "text": "\"I really don't want to cause trouble for others,\" a somewhat absurd thought suddenly flashed through her mind."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "30": {
         "speaker": "",
@@ -307,7 +406,18 @@
                 "text": "After I die, what should I do with my inheritance? Who needs to explain it to everyone?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "31": {
         "speaker": "",
@@ -317,7 +427,18 @@
                 "text": "Mom's health is not good, I'm really sorry to let her know that her daughter has passed away..."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "32": {
         "speaker": "",
@@ -327,7 +448,18 @@
                 "text": "The \"last work\" has been completed, the last song has been completed, but..."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "33": {
         "speaker": "",
@@ -337,10 +469,21 @@
                 "text": "——Taki belatedly realized that there were too many, too many things that she couldn't wait to prepare."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "34": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -407,7 +550,7 @@
         }
     },
     "36": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -417,7 +560,7 @@
         "atts": {}
     },
     "37": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -427,7 +570,7 @@
         "atts": {}
     },
     "38": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -437,17 +580,28 @@
         "atts": {}
     },
     "39": {
-        "speaker": "椎名真希",
+        "speaker": "Maki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Taki!"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "40": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -457,7 +611,7 @@
         "atts": {}
     },
     "41": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -467,17 +621,28 @@
         "atts": {}
     },
     "42": {
-        "speaker": "椎名真希",
+        "speaker": "Maki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "You didn't answer the door for a long time..."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "43": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -487,7 +652,7 @@
         "atts": {}
     },
     "44": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -497,7 +662,7 @@
         "atts": {}
     },
     "45": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -507,17 +672,28 @@
         "atts": {}
     },
     "46": {
-        "speaker": "椎名真希",
+        "speaker": "Maki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Practicing drums? That's good... Am I bothering you?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "47": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -527,7 +703,7 @@
         "atts": {}
     },
     "48": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -537,7 +713,7 @@
         "atts": {}
     },
     "49": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -547,27 +723,49 @@
         "atts": {}
     },
     "50": {
-        "speaker": "椎名真希",
+        "speaker": "Maki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Taki, what's wrong with you? Is there something wrong?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "51": {
-        "speaker": "椎名真希",
+        "speaker": "Maki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "You look terrible, does something hurt...?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "52": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -577,17 +775,28 @@
         "atts": {}
     },
     "53": {
-        "speaker": "椎名真希",
+        "speaker": "Maki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "...But you look like you're about to cry."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "54": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -597,7 +806,7 @@
         "atts": {}
     },
     "55": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -607,7 +816,7 @@
         "atts": {}
     },
     "56": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -617,7 +826,7 @@
         "atts": {}
     },
     "57": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -627,27 +836,49 @@
         "atts": {}
     },
     "58": {
-        "speaker": "椎名真希",
+        "speaker": "Maki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Anything is fine, I've told you so many times not to be so polite..."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "59": {
-        "speaker": "椎名真希",
+        "speaker": "Maki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "I'm your sister, aren't I?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "60": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -664,20 +895,42 @@
                 "text": "Chilled green tea was slowly poured into the cup, Maki silently watching Taki's movements."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "62": {
-        "speaker": "椎名真希",
+        "speaker": "Maki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "If Taki were to choose, it would definitely be green tea."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "63": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -687,17 +940,28 @@
         "atts": {}
     },
     "64": {
-        "speaker": "椎名真希",
+        "speaker": "Maki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Taki, you've liked things that adults like since you were a child, green tea, rock and roll, working... of course, pandas don't count."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "65": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -707,14 +971,25 @@
         "atts": {}
     },
     "66": {
-        "speaker": "椎名真希",
+        "speaker": "Maki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "I want to say..."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "67": {
         "speaker": "",
@@ -724,50 +999,105 @@
                 "text": "Maki was silent for a while, gazing at Taki's face."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "68": {
-        "speaker": "椎名真希",
+        "speaker": "Maki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "It seems like my sister grew up when I, mom, and dad didn't know."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "69": {
-        "speaker": "椎名真希",
+        "speaker": "Maki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "She doesn't like to cry, doesn't like to act spoiled. It seems like she grew up faster than other children since she was little."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "70": {
-        "speaker": "椎名真希",
+        "speaker": "Maki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "...I didn't realize this until now."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "71": {
-        "speaker": "椎名真希",
+        "speaker": "Maki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Taki, am I a bad sister?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "72": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -777,17 +1107,28 @@
         "atts": {}
     },
     "73": {
-        "speaker": "椎名真希",
+        "speaker": "Maki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Can't I?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "74": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -804,7 +1145,18 @@
                 "text": "Sitting on either side of a dining table, Maki's face looks like myself five years from now."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "76": {
         "speaker": "",
@@ -814,20 +1166,42 @@
                 "text": "Grasping the cold cup, memories of the past and thoughts about the future lengthened the time of silence."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "77": {
-        "speaker": "椎名真希",
+        "speaker": "Maki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Taki, I had a dream last night."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "78": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -837,67 +1211,133 @@
         "atts": {}
     },
     "79": {
-        "speaker": "椎名真希",
+        "speaker": "Maki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Why are you so nervous. It's not that kind of bad dream."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "80": {
-        "speaker": "椎名真希",
+        "speaker": "Maki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "I dreamed of when you were little, and I took you to play on the slide in the park outside the wind instrument class."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "81": {
-        "speaker": "椎名真希",
+        "speaker": "Maki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "You laughed very happily, we climbed up and slid down again and again, then climbed up again."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "82": {
-        "speaker": "椎名真希",
+        "speaker": "Maki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "For some reason, the little you behind me turned into an adult while sliding..."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "83": {
-        "speaker": "椎名真希",
+        "speaker": "Maki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Then, I turned my head and you were gone. I couldn't find you anywhere."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "84": {
-        "speaker": "椎名真希",
+        "speaker": "Maki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Sorry... it seems like it's still a bad dream."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "85": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -907,7 +1347,7 @@
         "atts": {}
     },
     "86": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -924,10 +1364,21 @@
                 "text": "Maki shook her head."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "88": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -937,27 +1388,49 @@
         "atts": {}
     },
     "89": {
-        "speaker": "椎名真希",
+        "speaker": "Maki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "But I still decided to come and find Taki."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "90": {
-        "speaker": "椎名真希",
+        "speaker": "Maki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "I'm relieved to see that you're doing well."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "91": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -967,27 +1440,49 @@
         "atts": {}
     },
     "92": {
-        "speaker": "椎名真希",
+        "speaker": "Maki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "You always have a bitter face..."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "93": {
-        "speaker": "椎名真希",
+        "speaker": "Maki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Is the song finished?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "94": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -997,47 +1492,91 @@
         "atts": {}
     },
     "95": {
-        "speaker": "椎名真希",
+        "speaker": "Maki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "That's great. What did I say?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "96": {
-        "speaker": "椎名真希",
+        "speaker": "Maki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "You can definitely do it."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "97": {
-        "speaker": "椎名真希",
+        "speaker": "Maki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Taki, do you want to wait a while? Why don't you contact your friends in the band..."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "98": {
-        "speaker": "椎名真希",
+        "speaker": "Maki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "...Is it really okay for me to be the first one to listen?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "99": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1047,7 +1586,7 @@
         "atts": {}
     },
     "100": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1064,7 +1603,18 @@
                 "text": "Glancing out the window, the white moon was sinking inch by inch. The morning sun is rising."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "102": {
         "speaker": "",
@@ -1074,10 +1624,21 @@
                 "text": "It turns out you don't have to stand in front of a mirror to count down your remaining time."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "103": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1087,7 +1648,7 @@
         "atts": {}
     },
     "104": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1104,7 +1665,18 @@
                 "text": "Music is playing in the earphones."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "106": {
         "speaker": "",
@@ -1114,7 +1686,18 @@
                 "text": "\"Did you say anything?\" Maki asked with her mouth."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "107": {
         "speaker": "",
@@ -1124,10 +1707,21 @@
                 "text": "Taki slowly shook her head."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "108": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1137,7 +1731,7 @@
         "atts": {}
     },
     "109": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1147,7 +1741,7 @@
         "atts": {}
     },
     "110": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1157,7 +1751,7 @@
         "atts": {}
     },
     "111": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1174,10 +1768,21 @@
                 "text": "——."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "113": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1194,10 +1799,21 @@
                 "text": "Taki's voice trembled a little."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "115": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1207,7 +1823,7 @@
         "atts": {}
     },
     "116": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1217,17 +1833,28 @@
         "atts": {}
     },
     "117": {
-        "speaker": "椎名真希",
+        "speaker": "Maki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......Of course."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "118": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1237,17 +1864,28 @@
         "atts": {}
     },
     "119": {
-        "speaker": "椎名真希",
+        "speaker": "Maki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "I like it very much."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "120": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1257,7 +1895,7 @@
         "atts": {}
     },
     "121": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1267,17 +1905,28 @@
         "atts": {}
     },
     "122": {
-        "speaker": "椎名真希",
+        "speaker": "Maki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Yeah?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "123": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1287,7 +1936,7 @@
         "atts": {}
     },
     "124": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1297,7 +1946,7 @@
         "atts": {}
     },
     "125": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1307,7 +1956,7 @@
         "atts": {}
     },
     "126": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1317,17 +1966,28 @@
         "atts": {}
     },
     "127": {
-        "speaker": "椎名真希",
+        "speaker": "Maki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "......"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "128": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1337,17 +1997,28 @@
         "atts": {}
     },
     "129": {
-        "speaker": "椎名真希",
+        "speaker": "Maki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "...Taki can see even with her eyes closed?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "130": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1357,7 +2028,7 @@
         "atts": {}
     },
     "131": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1367,7 +2038,7 @@
         "atts": {}
     },
     "132": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1377,7 +2048,7 @@
         "atts": {}
     },
     "133": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1387,7 +2058,7 @@
         "atts": {}
     },
     "134": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1397,14 +2068,25 @@
         "atts": {}
     },
     "135": {
-        "speaker": "椎名真希",
+        "speaker": "Maki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "...What's wrong, Taki?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "136": {
         "speaker": "",
@@ -1414,10 +2096,21 @@
                 "text": "Please forgive her childish repetition, she has one last question."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "137": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -1434,7 +2127,18 @@
                 "text": "The cherry blossoms on Men'omoto bridge are in bloom, the swallows have flown back to their nests, and the music travels along the clouds all the way to the moon."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "139": {
         "speaker": "",

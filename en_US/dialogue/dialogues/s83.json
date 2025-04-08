@@ -7,7 +7,18 @@
                 "text": "When Taki rushed into the bedroom, the black cat's tail had just disappeared behind the curtain."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "1": {
         "speaker": "",
@@ -17,7 +28,18 @@
                 "text": "The owner of the bedroom, who silently followed in, just stared blankly behind her. The silence made Tomori feel as if she had returned to the few seconds of silence after a live performance, before the audience applauded and cheered."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "2": {
         "speaker": "",
@@ -27,7 +49,18 @@
                 "text": "The enormous sense of confusion was like an airbag that had exploded open, pushing her to get closer to Taki."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "3": {
         "speaker": "",
@@ -37,10 +70,21 @@
                 "text": "—But they were already standing so close that she could only look back in the direction Taki was looking—the swaying of the curtain gradually stopped."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "4": {
-        "speaker": "高松灯",
+        "speaker": "Tomori Takamatsu",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -64,10 +108,21 @@
                 "text": "The black cat had completely disappeared behind the curtain, but the window was tightly closed, which meant it had nowhere to go. Just get closer, lift the curtain, and the black animal would be the best opening line."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "6": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -91,10 +146,21 @@
                 "text": "So Taki Shiina walked over and pulled back the curtain. There was nothing on the windowsill."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "8": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -118,7 +184,18 @@
                 "text": "In the \"worst possible\" scenario list, Taki Shiina had already thought of this result, so she didn't show much surprise."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "10": {
         "speaker": "",
@@ -128,10 +205,21 @@
                 "text": "Although the black cat was not on the windowsill, the countdown was still in the window frame, so she continued."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "11": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -155,10 +243,21 @@
                 "text": "Tomori shook her head, and unease wound up her eyebrows. The familiarity with this unease twisted the spring hard, and her eyebrows locked together."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "13": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -175,7 +274,7 @@
         }
     },
     "14": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -192,7 +291,7 @@
         }
     },
     "15": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -216,10 +315,21 @@
                 "text": "Even the briefest silence seemed long at this moment. The unspoken words could not be clearer - what else can a heart that doesn't beat represent?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "17": {
-        "speaker": "高松灯",
+        "speaker": "Tomori Takamatsu",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -243,7 +353,18 @@
                 "text": "Tomori's voice trembled slightly. She knew that the other person was not one to joke about such serious matters, and the heaviness on her face was not feigned."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "19": {
         "speaker": "",
@@ -253,7 +374,18 @@
                 "text": "But Tomori asked anyway, as if Taki would really affirm that \"she was kidding.\""
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "20": {
         "speaker": "",
@@ -263,7 +395,18 @@
                 "text": "In the face of a sudden disaster, Tomori activated her emergency mode as quickly as possible—trying to grasp at any possibility, no matter how small."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "21": {
         "speaker": "",
@@ -273,7 +416,18 @@
                 "text": "Taki took Tomori's hand and placed it on her chest."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "22": {
         "speaker": "",
@@ -283,7 +437,18 @@
                 "text": "With a heartbeat of nearly once per second, it was impossible for the vocalist not to be able to distinguish this steady and bizarre rhythm."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "23": {
         "speaker": "",
@@ -293,10 +458,21 @@
                 "text": "With a heartbeat that sounded only once every few seconds, it was impossible for the vocalist not to be able to distinguish this steady and bizarre rhythm. It was already a miracle that the person in front of her could still move."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "24": {
-        "speaker": "高松灯",
+        "speaker": "Tomori Takamatsu",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -313,7 +489,7 @@
         }
     },
     "25": {
-        "speaker": "高松灯",
+        "speaker": "Tomori Takamatsu",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -330,7 +506,7 @@
         }
     },
     "26": {
-        "speaker": "高松灯",
+        "speaker": "Tomori Takamatsu",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -347,7 +523,7 @@
         }
     },
     "27": {
-        "speaker": "高松灯",
+        "speaker": "Tomori Takamatsu",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -371,7 +547,18 @@
                 "text": "She kept throwing out questions, her tone becoming more and more rapid, but her head was drooping lower and lower."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "29": {
         "speaker": "",
@@ -381,10 +568,21 @@
                 "text": "It wasn't until the basket, from which almost all the ingredients had been taken, leaving only a large pile of energy jellies, entered her vision that she finally stopped."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "30": {
-        "speaker": "高松灯",
+        "speaker": "Tomori Takamatsu",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -401,7 +599,7 @@
         }
     },
     "31": {
-        "speaker": "高松灯",
+        "speaker": "Tomori Takamatsu",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -418,7 +616,7 @@
         }
     },
     "32": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -442,10 +640,21 @@
                 "text": "Tomori took a step back. The tightly furrowed brows loosened because she had found some kind of answer, smoothing out like the breath that was suspended in Taki Shiina's throat, afraid to exhale."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "34": {
-        "speaker": "高松灯",
+        "speaker": "Tomori Takamatsu",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -462,7 +671,7 @@
         }
     },
     "35": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -486,7 +695,18 @@
                 "text": "I can't say it. Even if I have such a plan, it is only a plan at the moment. The progress of the song is sometimes fast and sometimes slow, and it is difficult to guarantee whether it can be handed in before the deadline."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "37": {
         "speaker": "",
@@ -496,10 +716,21 @@
                 "text": "If only I could master it a little more, if only there was a little more time - although I have lamented this countless times, right now, the song can only be completed if I start working on it, because, because."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "38": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -516,7 +747,7 @@
         }
     },
     "39": {
-        "speaker": "高松灯",
+        "speaker": "Tomori Takamatsu",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -533,7 +764,7 @@
         }
     },
     "40": {
-        "speaker": "高松灯",
+        "speaker": "Tomori Takamatsu",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -550,7 +781,7 @@
         }
     },
     "41": {
-        "speaker": "高松灯",
+        "speaker": "Tomori Takamatsu",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -574,7 +805,18 @@
                 "text": "Organizing words became a laborious task. Taki Shiina now needed to vibrate her vocal cords, open her mouth, and say something to salvage the situation, but she fell at the first step—organizing a thought."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "43": {
         "speaker": "",
@@ -584,7 +826,18 @@
                 "text": "The waves of emotion knocked her to the ground, her lungs began to gasp in rhythm with the tide, and tears began to be produced from the corners of her eyes because of the sourness. She had experienced similar feelings many times because of Tomori's lyrics, and this was the one she hated the most."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "44": {
         "speaker": "",
@@ -594,10 +847,21 @@
                 "text": "Tomori seemed to have exhausted all her strength as well, squatting down and curling up into a small ball, her shoulders twitching slightly. The sound came through the overlapping coat and arms, sounding more muffled than usual."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "45": {
-        "speaker": "高松灯",
+        "speaker": "Tomori Takamatsu",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -614,7 +878,7 @@
         }
     },
     "46": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -638,7 +902,18 @@
                 "text": "She wanted to run away again."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "48": {
         "speaker": "",
@@ -648,7 +923,18 @@
                 "text": "Tomori, squatting on the ground and sobbing, was fragile and vulnerable, but Tomori, who wanted to grab the person next to her, was tenacious and powerful. She had only seen this contradictory combination in Rupert's Tears, and that itself was not something that should exist in nature, so it was normal to feel strange and want to retreat."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "49": {
         "speaker": "",
@@ -658,7 +944,18 @@
                 "text": "Just tell a little lie and push the date of death back a day. Even a domestic dog knows to hide secretly when its life is coming to an end so that people don't find out. As a human with more abundant emotions, there is even less reason to let Tomori watch her leave with her own eyes."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "50": {
         "speaker": "",
@@ -668,10 +965,21 @@
                 "text": "Perhaps she would have already lost consciousness by the time Tomori arrived, and a prepared surprise could effectively dissipate the sorrow of parting. Perhaps there would also be resentment towards the lie, but it wouldn't be able to catch up with her who had already crossed the River Styx."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "51": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -695,7 +1003,18 @@
                 "text": "She ultimately did not say the long-brewing lie. One mistake cannot be made again. The resentment of the lie could not catch up with her at that time, but the words of explanation could not escape the River Styx either, and could not reach Tomori's side."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "53": {
         "speaker": "",
@@ -705,10 +1024,21 @@
                 "text": "Tomori took a deep breath, stood up, and took another step back. The sad tremor in her tone had disappeared, replaced by an action of hugging her arms, as if it were cold all around."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "54": {
-        "speaker": "高松灯",
+        "speaker": "Tomori Takamatsu",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -725,7 +1055,7 @@
         }
     },
     "55": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -749,10 +1079,21 @@
                 "text": "Taki Shiina looked at Tomori Takamatsu, who was slowly walking backwards and finally leaning against the wall, and belatedly realized that this was a common defensive posture in psychology."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "57": {
-        "speaker": "高松灯",
+        "speaker": "Tomori Takamatsu",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -769,7 +1110,7 @@
         }
     },
     "58": {
-        "speaker": "高松灯",
+        "speaker": "Tomori Takamatsu",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -786,7 +1127,7 @@
         }
     },
     "59": {
-        "speaker": "高松灯",
+        "speaker": "Tomori Takamatsu",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -803,7 +1144,7 @@
         }
     },
     "60": {
-        "speaker": "高松灯",
+        "speaker": "Tomori Takamatsu",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -820,7 +1161,7 @@
         }
     },
     "61": {
-        "speaker": "高松灯",
+        "speaker": "Tomori Takamatsu",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -837,7 +1178,7 @@
         }
     },
     "62": {
-        "speaker": "高松灯",
+        "speaker": "Tomori Takamatsu",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -861,7 +1202,18 @@
                 "text": "When Tomori closed the door, a gust of wind was stirred up. When the chill of early spring hit Rikki's face, it brought a sense of dizziness. She closed her eyes and remembered that damage to the cochlear nerve could cause similar balance disorders, but why could she hear everything more clearly than usual now—"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "64": {
         "speaker": "",
@@ -871,7 +1223,18 @@
                 "text": "She heard the rustling sound of fur rubbing against the window frame, the whistling sound of the wind blowing in from the window, the pattering sound of cat claws falling from a high place into a puddle and jumping away in a few steps."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "65": {
         "speaker": "",
@@ -881,7 +1244,18 @@
                 "text": "She heard the plastic sound of the jelly packaging rubbing when the basket was picked up, the soft and slow footsteps of leather boots, and the gentle closing of the door page beside her."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "66": {
         "speaker": "",
@@ -891,7 +1265,18 @@
                 "text": "She heard the dull thud of Tomori's entire body falling on the bed, and the crisp stretching sound before the quilt was lifted up and randomly crumpled into a ball."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "67": {
         "speaker": "",
@@ -901,10 +1286,21 @@
                 "text": "She heard herself sighing deeply."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "68": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",

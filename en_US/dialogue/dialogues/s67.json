@@ -1,6 +1,6 @@
 {
     "0": {
-        "speaker": "丰川祥子",
+        "speaker": "Sakiko Togawa",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -10,7 +10,7 @@
         "atts": {}
     },
     "1": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -20,7 +20,7 @@
         "atts": {}
     },
     "2": {
-        "speaker": "丰川祥子",
+        "speaker": "Sakiko Togawa",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -37,10 +37,21 @@
                 "text": "Sakiko stood in front of the entrance. Taki changed her shoes and bent down to untie her shoelaces."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "4": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -50,7 +61,7 @@
         "atts": {}
     },
     "5": {
-        "speaker": "丰川祥子",
+        "speaker": "Sakiko Togawa",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -60,7 +71,7 @@
         "atts": {}
     },
     "6": {
-        "speaker": "丰川祥子",
+        "speaker": "Sakiko Togawa",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -77,7 +88,18 @@
                 "text": "There was only one pair of slippers that her sister had worn at home."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "8": {
         "speaker": "",
@@ -87,7 +109,18 @@
                 "text": "Taki put them next to Sakiko's feet and let her hold her shoulders to come in."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "9": {
         "speaker": "",
@@ -97,10 +130,21 @@
                 "text": "Sakiko's palms were very hot."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "10": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -110,7 +154,7 @@
         "atts": {}
     },
     "11": {
-        "speaker": "丰川祥子",
+        "speaker": "Sakiko Togawa",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -120,7 +164,7 @@
         "atts": {}
     },
     "12": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -130,7 +174,7 @@
         "atts": {}
     },
     "13": {
-        "speaker": "丰川祥子",
+        "speaker": "Sakiko Togawa",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -147,7 +191,18 @@
                 "text": "Sakiko straightened her back and walked from the entrance to the living room."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "15": {
         "speaker": "",
@@ -157,10 +212,21 @@
                 "text": "...It's just a hand injury. But hearing that she is engaged in a performing profession, it is difficult to say that it is a blessing... Things are unpredictable..."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "16": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -170,7 +236,7 @@
         "atts": {}
     },
     "17": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -180,7 +246,7 @@
         "atts": {}
     },
     "18": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -190,7 +256,7 @@
         "atts": {}
     },
     "19": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -200,7 +266,7 @@
         "atts": {}
     },
     "20": {
-        "speaker": "丰川祥子",
+        "speaker": "Sakiko Togawa",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -210,7 +276,7 @@
         "atts": {}
     },
     "21": {
-        "speaker": "丰川祥子",
+        "speaker": "Sakiko Togawa",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -220,7 +286,7 @@
         "atts": {}
     },
     "22": {
-        "speaker": "丰川祥子",
+        "speaker": "Sakiko Togawa",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -230,7 +296,7 @@
         "atts": {}
     },
     "23": {
-        "speaker": "丰川祥子",
+        "speaker": "Sakiko Togawa",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -240,17 +306,28 @@
         "atts": {}
     },
     "24": {
-        "speaker": "八幡海铃",
+        "speaker": "Umiri Yahata",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Don't look for it, she won't come."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "25": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -260,27 +337,49 @@
         "atts": {}
     },
     "26": {
-        "speaker": "八幡海铃",
+        "speaker": "Umiri Yahata",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "She never participates in after-parties."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "27": {
-        "speaker": "八幡海铃",
+        "speaker": "Umiri Yahata",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "She only comes to pay the bill after finishing other social events."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "28": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -290,17 +389,28 @@
         "atts": {}
     },
     "29": {
-        "speaker": "八幡海铃",
+        "speaker": "Umiri Yahata",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
                 "text": "Oops, did I misunderstand?"
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "30": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -310,7 +420,7 @@
         "atts": {}
     },
     "31": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -320,7 +430,7 @@
         "atts": {}
     },
     "32": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -330,7 +440,7 @@
         "atts": {}
     },
     "33": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -340,7 +450,7 @@
         "atts": {}
     },
     "34": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -357,7 +467,18 @@
                 "text": "Sakiko Togawa's response came from the depths of the room."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "36": {
         "speaker": "",
@@ -367,7 +488,18 @@
                 "text": "Passing the fitting mirror in front of the kitchen, Taki looked at herself in the mirror."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "37": {
         "speaker": "",
@@ -377,6 +509,17 @@
                 "text": "The cold countdown flickered."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     }
 }

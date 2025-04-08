@@ -7,7 +7,18 @@
                 "text": "The rented house retains the traces of the real owner's life, the old sink in the kitchen with indelible water stains, the washing machine in the laundry room lacking a drying function, and a TV in front of the dining table in the living room."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "1": {
         "speaker": "",
@@ -17,7 +28,18 @@
                 "text": "The temporary owner of the house spat out the foam in her mouth, holding the mint flavor, passed the dining table and went straight to the refrigerator."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "2": {
         "speaker": "电视机",
@@ -37,7 +59,18 @@
                 "text": "Taki is busy searching for a dry coat and scarf on the sofa, all thanks to the washing machine whose drying function is on strike. No one is listening to the sweet-toned report."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "4": {
         "speaker": "电视机",
@@ -50,7 +83,7 @@
         "atts": {}
     },
     "5": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -67,7 +100,18 @@
                 "text": "Good news, the coat is on the sofa."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "7": {
         "speaker": "",
@@ -77,7 +121,18 @@
                 "text": "Bad news, the scarf is not there. Could it be in the bedroom? The owner has no memory of it."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "8": {
         "speaker": "",
@@ -87,10 +142,21 @@
                 "text": "Time waits for no one."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "9": {
-        "speaker": "椎名立希",
+        "speaker": "Taki Shiina",
         "spans": [
             {
                 "html": "style='color:#FfFffF'",
@@ -107,7 +173,18 @@
                 "text": "Taki hurriedly scurried towards the inner room. After a dog-like digging search, she finally found the lost item at the bottom of the closet."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "11": {
         "speaker": "",
@@ -117,7 +194,18 @@
                 "text": "A blue-black woolen scarf, adorned with a colorful pack animal, Taki Shiina refuses to admit it's a wolf. It's a warming product, roughly from a Christmas gift from some year, and it finally plays its value at the end of winter."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "12": {
         "speaker": "",
@@ -127,7 +215,18 @@
                 "text": "The owner grabbed its soft body and pulled it out abruptly, while rushing to the entrance hall and winding it around her not-so-warm neck with the momentum of strangling herself."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "13": {
         "speaker": "",
@@ -137,7 +236,18 @@
                 "text": "The door closed with an impolite bang, and the host's sweet voice was still ringing."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "14": {
         "speaker": "",
@@ -147,7 +257,18 @@
                 "text": "The biggest difference between a working adult and a student is that no one will pay for your mistakes. Things that could be understood with a greeting during student days can only be cut from your salary after becoming an employee."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "15": {
         "speaker": "",
@@ -157,7 +278,18 @@
                 "text": "What scarf, what wind, what cooling, go to hell, Taki Shiina doesn't want to receive a rent reminder before being called to heaven by these causes and that weird countdown."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "16": {
         "speaker": "",
@@ -167,7 +299,18 @@
                 "text": "In Tokyo, if you want to support yourself and live decently, all you can squeeze is the young body of a 23-year-old."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "17": {
         "speaker": "",
@@ -177,6 +320,17 @@
                 "text": "The door closed with an impolite bang, and the host's sweet voice also stopped abruptly - she didn't want to pay an extra electricity bill."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     }
 }

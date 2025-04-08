@@ -7,7 +7,18 @@
                 "text": "The gift that was almost forgotten was placed on the bedside table. Taki took out the box from the paper bag. Inside was a pair of monitoring headphones, her usual brand."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     },
     "1": {
         "speaker": "",
@@ -17,6 +28,17 @@
                 "text": "Taki hesitated for a moment, put the headphones back in the box, and carefully put them in the drawer."
             }
         ],
-        "atts": []
+        "atts": {
+            "dialog": [
+                {
+                    "font": "en-dia",
+                    "fontSize": 34
+                },
+                {
+                    "font": {},
+                    "fontSize": {}
+                }
+            ]
+        }
     }
 }
