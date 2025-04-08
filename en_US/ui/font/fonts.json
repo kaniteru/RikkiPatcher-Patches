@@ -76,5 +76,11 @@
         "name": "Source_Han_Serif",
         "path": "asset/font/Source_Han_Serif.otf",
         "size": 0
+    },
+    {
+        "fonttype": "ttf",
+        "name": "en-dia",
+        "path": "asset/font/Namdhinggo-Regular.ttf",
+        "size": 0
     }
 ]
