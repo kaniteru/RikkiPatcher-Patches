@@ -21,6 +21,6 @@
 
 ---
 
-## Copy -> Progress
-### Copy - UI -> Complete
-### Copy - BG -> Progress
+## Copy -> Complete
+> ### Todo
+> - d-day
