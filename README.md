@@ -1,5 +1,5 @@
 # RikkiPatcher - Patches
-Unofficial translation patches for the game《[Shiina Taki's Decameron (鼓手余命十日谭)](https://store.steampowered.com/app/3269960)》<br>
+Unofficial translation patches for the game《[Shiina Taki's Decameron (鼓手余命十日谭)](https://store.steampowered.com/app/3269960)》.
 You can apply them to the game using [Rikki Patcher](https://github.com/kaniteru/RikkiPatcher).
 
 
